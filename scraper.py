@@ -80,7 +80,7 @@ df = pd.DataFrame({
 })
 
 # Save raw data to CSV (no modifications)
-df.to_csv("raw_data.csv", index=False)
+df.to_csv("webscraping_project_real_estate/raw_data.csv", index=False)
 print("Scraping complete. **Raw data** saved to raw_data.csv.")
 
 driver.quit()
