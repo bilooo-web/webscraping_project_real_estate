@@ -1,59 +1,39 @@
-name: Real Estate Data Scraper and Cleaner
+name: Scrape and Clean Real Estate Data
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs at the start of every hour
-  workflow_dispatch:     # Allows manual runs
+    # Runs every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   scrape-and-clean:
     runs-on: ubuntu-latest
     
     steps:
-    # Checkout repository code with proper permissions
-    - name: Checkout code
-      uses: actions/checkout@v3
-      with:
-        persist-credentials: true
-        fetch-depth: 0
-    
-    # Set up Python
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.10'
-    
-    # Install dependencies
-    - name: Install Python packages
+        python-version: '3.x'
+
+    - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install selenium pandas webdriver-manager fake-useragent
+        pip install -r requirements.txt  # if you have one
         
-    # Install Chrome and ChromeDriver properly
-    - name: Install Chrome
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y wget
-        wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-        sudo apt install -y ./google-chrome-stable_current_amd64.deb
-        sudo apt-get install -yqq unzip
-        wget -O /tmp/chromedriver.zip https://chromedriver.storage.googleapis.com/`curl -sS chromedriver.storage.googleapis.com/LATEST_RELEASE`/chromedriver_linux64.zip
-        sudo unzip /tmp/chromedriver.zip chromedriver -d /usr/local/bin/
+    - name: Run scraper.py
+      run: python scraper.py
       
-    # Run both scripts with error handling
-    - name: Run scraping and cleaning
-      run: |
-        # Create directory if it doesn't exist
-        mkdir -p webscraping_project_real_estate
-        # Run scripts with error handling
-        python webscraping_project_real_estate/scraper.py || echo "Scraper failed"
-        python webscraping_project_real_estate/cleaner.py || echo "Cleaner failed"
+    - name: Run cleaner.py
+      run: python cleaner.py
       
-    # Commit and push all changes with better error handling
-    - name: Commit and push updates
+    - name: Commit and push changes
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-        git add webscraping_project_real_estate/raw_data.csv || echo "No raw data to add"
-        git add webscraping_project_real_estate/cleaned_data.csv || echo "No cleaned data to add"
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Automated data update $(date +'%Y-%m-%d %H:%M')" && git push)
+        git add raw_data.csv cleaned_data.csv
+        git diff --quiet && git diff --staged --quiet || git commit -m "Automated update: scrape and clean data"
+        git push
