@@ -5,6 +5,12 @@ import seaborn as sns
 import matplotlib.ticker as ticker
 import streamlit as st
 from datetime import datetime
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier
+from sklearn.metrics import mean_absolute_error, r2_score, accuracy_score, classification_report
+from sklearn.preprocessing import StandardScaler, LabelEncoder
+import joblib
+import time
 
 # Load the cleaned data
 @st.cache_data
@@ -335,5 +341,212 @@ pairplot_fig = sns.pairplot(
 pairplot_fig.fig.suptitle('Pairwise Feature Relationships', y=1.02)
 pairplot_fig.fig.subplots_adjust(hspace=0.3, wspace=0.3)
 
-# Explicitly pass the figure to st.pyplot()
-st.pyplot(pairplot_fig.fig)
+# Render the pairplot
+st.pyplot(pairplot_fig)
+
+
+# 10. Enhanced Machine Learning Price Prediction ----------------------------------------
+st.subheader("🤖 Enhanced Machine Learning Price Prediction")
+
+if len(filtered_df) > 100:  # Increased minimum sample size for better results
+    # Feature engineering and selection
+    ml_features = ['square_footage', 'bedrooms', 'bathrooms']
+    
+    # Add more features if available
+    if 'year_built' in filtered_df.columns:
+        ml_features.append('year_built')
+        # Create age feature
+        filtered_df['property_age'] = datetime.now().year - filtered_df['year_built']
+        ml_features.append('property_age')
+    
+    if 'location' in filtered_df.columns:
+        # Encode location if not too many unique values
+        if len(filtered_df['location'].unique()) <= 20:
+            ml_features.append('location')
+    
+    if 'property_type' in filtered_df.columns:
+        # Encode property type if not too many unique values
+        if len(filtered_df['property_type'].unique()) <= 10:
+            ml_features.append('property_type')
+    
+    # Prepare data
+    ml_df = filtered_df[ml_features + ['price']].dropna()
+    
+    # Encode categorical features
+    categorical_cols = [col for col in ['location', 'property_type'] if col in ml_df.columns]
+    if categorical_cols:
+        ml_df_encoded = pd.get_dummies(ml_df, columns=categorical_cols, drop_first=True)
+    else:
+        ml_df_encoded = ml_df.copy()
+    
+    if len(ml_df_encoded) > 100:
+        # Split data
+        X = ml_df_encoded.drop('price', axis=1)
+        y = ml_df_encoded['price']
+        X_train, X_test, y_train, y_test = train_test_split(
+            X, y, 
+            test_size=0.2, 
+            random_state=42,
+            stratify=ml_df['location'] if 'location' in ml_df.columns else None
+        )
+        
+        # Scale features
+        scaler = StandardScaler()
+        X_train_scaled = scaler.fit_transform(X_train)
+        X_test_scaled = scaler.transform(X_test)
+        
+        # Hyperparameter tuning would be ideal here, but for simplicity we'll use better defaults
+        model = RandomForestRegressor(
+            n_estimators=200,
+            max_depth=10,
+            min_samples_split=5,
+            min_samples_leaf=2,
+            random_state=42,
+            n_jobs=-1
+        )
+        
+        # Add progress bar
+        with st.spinner('Training model...'):
+            model.fit(X_train_scaled, y_train)
+            progress_bar = st.progress(0)
+            for i in range(100):
+                time.sleep(0.01)
+                progress_bar.progress(i + 1)
+        
+        # Evaluate
+        y_pred = model.predict(X_test_scaled)
+        mae = mean_absolute_error(y_test, y_pred)
+        r2 = r2_score(y_test, y_pred)
+        mape = np.mean(np.abs((y_test - y_pred) / y_test)) * 100
+        
+        # Display metrics in columns
+        col1, col2, col3 = st.columns(3)
+        col1.metric("Mean Absolute Error", f"${mae:,.0f}", 
+                   help="Average absolute difference between predicted and actual prices")
+        col2.metric("R² Score", f"{r2:.3f}", 
+                   help="Proportion of variance explained by the model (1 is perfect)")
+        col3.metric("Mean Absolute % Error", f"{mape:.1f}%", 
+                   help="Average percentage difference between predicted and actual prices")
+        
+        # Actual vs Predicted plot
+        st.write("**Actual vs. Predicted Prices**")
+        fig, ax = plt.subplots(figsize=(8, 6))
+        max_price = max(y_test.max(), y_pred.max())
+        sns.scatterplot(x=y_test, y=y_pred, alpha=0.6, ax=ax)
+        ax.plot([0, max_price], [0, max_price], '--r')
+        ax.set_xlabel('Actual Price ($)')
+        ax.set_ylabel('Predicted Price ($)')
+        ax.set_title('Actual vs. Predicted Prices')
+        ax.xaxis.set_major_formatter(ticker.StrMethodFormatter('${x:,.0f}'))
+        ax.yaxis.set_major_formatter(ticker.StrMethodFormatter('${x:,.0f}'))
+        st.pyplot(fig)
+        
+        # Feature importance
+        st.write("**Feature Importance**")
+        importance_df = pd.DataFrame({
+            'Feature': X.columns,
+            'Importance': model.feature_importances_
+        }).sort_values('Importance', ascending=False)
+        
+        fig, ax = plt.subplots(figsize=(10, 6))
+        sns.barplot(data=importance_df, x='Importance', y='Feature', palette='viridis', ax=ax)
+        plt.title('Feature Importance in Price Prediction')
+        st.pyplot(fig)
+        
+        # Residual analysis
+        st.write("**Residual Analysis**")
+        residuals = y_test - y_pred
+        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 6))
+        
+        sns.histplot(residuals, bins=30, kde=True, ax=ax1)
+        ax1.set_title('Distribution of Residuals')
+        ax1.set_xlabel('Prediction Error ($)')
+        ax1.axvline(0, color='r', linestyle='--')
+        
+        sns.scatterplot(x=y_pred, y=residuals, alpha=0.6, ax=ax2)
+        ax2.axhline(0, color='r', linestyle='--')
+        ax2.set_title('Residuals vs. Predicted Values')
+        ax2.set_xlabel('Predicted Price ($)')
+        ax2.set_ylabel('Residual ($)')
+        
+        st.pyplot(fig)
+        
+        # Prediction interface
+        with st.expander("🔮 Make a Custom Prediction", expanded=True):
+            st.write("Enter property details to estimate value:")
+            
+            col1, col2, col3 = st.columns(3)
+            sqft = col1.number_input("Square Footage", min_value=100, max_value=10000, value=1500)
+            beds = col2.number_input("Bedrooms", min_value=1, max_value=10, value=3)
+            baths = col3.number_input("Bathrooms", min_value=1, max_value=10, value=2)
+            
+            input_data = {}
+            input_data['square_footage'] = sqft
+            input_data['bedrooms'] = beds
+            input_data['bathrooms'] = baths
+            
+            if 'year_built' in ml_features:
+                year = st.number_input("Year Built", min_value=1800, max_value=datetime.now().year, 
+                                      value=2000)
+                input_data['year_built'] = year
+                input_data['property_age'] = datetime.now().year - year
+            
+            if 'location' in ml_features:
+                location = st.selectbox("Location", filtered_df['location'].unique())
+                # Create all possible location columns and set to 0
+                for loc in [x for x in ml_df['location'].unique() if x != location]:
+                    input_data[f'location_{loc}'] = 0
+                # Set the selected location to 1
+                input_data[f'location_{location}'] = 1
+            
+            if 'property_type' in ml_features:
+                prop_type = st.selectbox("Property Type", filtered_df['property_type'].unique())
+                # Create all possible property type columns and set to 0
+                for pt in [x for x in ml_df['property_type'].unique() if x != prop_type]:
+                    input_data[f'property_type_{pt}'] = 0
+                # Set the selected property type to 1
+                input_data[f'property_type_{prop_type}'] = 1
+            
+            if st.button("Estimate Price", type="primary"):
+                # Prepare input in correct order
+                input_df = pd.DataFrame([input_data])
+                # Ensure columns match training data (fill missing with 0)
+                for col in X.columns:
+                    if col not in input_df.columns:
+                        input_df[col] = 0
+                input_df = input_df[X.columns]
+                
+                input_scaled = scaler.transform(input_df)
+                prediction = model.predict(input_scaled)[0]
+                
+                # Calculate confidence interval (simplified)
+                std_dev = residuals.std()
+                lower_bound = prediction - 1.96 * std_dev
+                upper_bound = prediction + 1.96 * std_dev
+                
+                st.success(f"Estimated Property Value: ${prediction:,.0f} ")
+                
+                # Show comparable properties
+                st.write("**Similar Properties in Dataset:**")
+                comparable = filtered_df[
+                    (filtered_df['square_footage'].between(sqft*0.9, sqft*1.1)) &
+                    (filtered_df['bedrooms'] == beds) &
+                    (filtered_df['bathrooms'] == baths)
+                ]
+                
+                if 'location' in filtered_df.columns and location:
+                    comparable = comparable[comparable['location'] == location]
+                
+                if not comparable.empty:
+                    st.dataframe(
+                        comparable.nsmallest(5, 'price')[['price', 'square_footage', 'bedrooms', 'bathrooms'] + 
+                        (['location'] if 'location' in comparable.columns else []) + 
+                        (['property_type'] if 'property_type' in comparable.columns else [])]
+                        .style.format({'price': '${:,.0f}', 'square_footage': '{:,.0f}'})
+                    )
+                else:
+                    st.warning("No similar properties found in the dataset")
+    else:
+        st.warning(f"Not enough data for machine learning (need at least 100 valid samples, only {len(ml_df_encoded)} available)")
+else:
+    st.warning("Not enough data for machine learning (need at least 100 samples)")
