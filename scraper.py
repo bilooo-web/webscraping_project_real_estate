@@ -8,6 +8,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 import time
 from fake_useragent import UserAgent
+import os
 
 # Set up Selenium options
 options = Options()
@@ -94,6 +95,7 @@ for offset in range(0, 240, 24):
 df = pd.DataFrame(all_data)
 
 # Save raw data
+os.makedirs("webscraping_project_real_estate", exist_ok=True)
 df.to_csv("webscraping_project_real_estate/raw_data.csv", index=False)
 print(f"Scraping complete. Saved {len(df)} listings to raw_data.csv")
 
