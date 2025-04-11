@@ -24,8 +24,11 @@ jobs:
 
     - name: Install system dependencies
       run: |
-        sudo apt-get update
-        sudo apt-get install -y chromium-browser chromium-chromedriver
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser chromium-chromedriver
+          # Verify installation
+          which chromium-browser
+          which chromedriver
 
     - name: Install Python packages
       run: |

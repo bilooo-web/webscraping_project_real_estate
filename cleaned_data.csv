@@ -1,1668 +1,924 @@
 bedrooms,bathrooms,square_footage,address,price
-3,1.0,731,"11534 S Peoria Street
-Chicago, IL 60643",125000.0
-1,1.0,815,"33 W Ontario Street , 20C
-Chicago, IL 60654",299000.0
-1,1.0,700,"222 N Columbus Drive , 606
-Chicago, IL 60601",259900.0
-3,1.0,1280,"9412 S Millard Avenue
-Evergreen Park, IL 60805",309900.0
-3,2.0,1150,"12727 S Page Street
-Calumet Park, IL 60827",179950.0
-3,2.0,1500,"4706 S Saint Lawrence Avenue 2W
-Chicago, IL 60615",430000.0
-2,2.0,2200,"4431 N Paulina Street 1S
-Chicago, IL 60640",595000.0
-2,2.0,1200,"1939 N Sawyer Avenue G
-Chicago, IL 60647",260000.0
-3,2.0,1800,"1332 W Madison Street 3E
-Chicago, IL 60607",725000.0
-3,2.0,1770,"1943 N BISSELL Street B
-Chicago, IL 60614",775000.0
-4,2.0,3000,"4137 N NARRAGANSETT Avenue 8
-Chicago, IL 60634",519900.0
-2,2.0,1153,"333 W Hubbard Street 3M
-Chicago, IL 60654",520000.0
-1,1.0,750,"6030 N Sheridan Road 1810
-Chicago, IL 60660",183000.0
-3,3.0,2200,"313 S Racine Avenue 4B
-Chicago, IL 60607",999999.0
-3,2.0,1900,"6342 N Sheridan Road 2B
-Chicago, IL 60660",435000.0
-2,1.0,1013,"1819 S Michigan Avenue , 308
-Chicago, IL 60616",319900.0
-5,3.0,2874,"8358 S Sangamon Street
-Chicago, IL 60620",325000.0
-5,2.0,1584,"6725 S Honore Street
-Chicago, IL 60636",249900.0
-4,3.0,1887,"5515 W Henderson Street
-Chicago, IL 60641",475000.0
-1,1.0,790,"1040 W Adams Street , 215
-Chicago, IL 60607",415000.0
-4,2.0,2500,"12820 S Blossom Drive
-Alsip, IL 60803",399974.0
-3,3.0,2347,"448 W Oak Street
-Chicago, IL 60610",995000.0
-3,3.0,2500,"917 W Altgeld Street 3
-Chicago, IL 60614",900000.0
-2,2.0,1200,"1856 W Armitage Avenue 2
-Chicago, IL 60622",479000.0
-5,3.0,3600,"4932 S Martin Luther King Drive
-Chicago, IL 60653",949000.0
-3,2.0,1600,"1430 N Astor Street 11C
-Chicago, IL 60610",599000.0
-3,3.0,2157,"130 N Garland Court 3501
-Chicago, IL 60602",1065000.0
-3,2.0,1500,"4170 W Cornelia Avenue
-Chicago, IL 60641",554999.0
-2,2.0,1361,"240 E Illinois Street 2206
-Chicago, IL 60611",739900.0
-2,2.0,1550,"200 E DELAWARE Place 35F
-Chicago, IL 60611",885000.0
-5,2.0,2907,"10017 S Indiana Avenue
-Chicago, IL 60628",315500.0
-2,2.0,1758,"130 N Garland Court 3803
-Chicago, IL 60602",1050000.0
-2,2.0,1200,"4211 W roscoe Avenue 2W
-Chicago, IL 60641",465000.0
-1,1.0,809,"130 N Garland Court 2608
-Chicago, IL 60602",344900.0
-2,2.0,1800,"2310 W Nelson Street 101
-Chicago, IL 60618",499900.0
-2,2.0,1700,"720 S Dearborn Street 1105
-Chicago, IL 60605",499999.0
-4,2.0,3100,"1478 S PRAIRIE Avenue N
-Chicago, IL 60605",929000.0
-5,4.0,3800,"1716 W Beverly Glen Parkway
-Chicago, IL 60643",615000.0
-2,2.0,1600,"1855 N HALSTED Street 3W
-Chicago, IL 60614",875000.0
-3,2.0,1830,"2136 W Belmont Avenue 2
-Chicago, IL 60618",699900.0
-4,2.0,2452,"5736 N Kerbs Avenue
-Chicago, IL 60646",699000.0
-2,2.0,1400,"1667 N Bissell Street 3
-Chicago, IL 60614",674900.0
-3,2.0,1500,"1310 N Western Avenue 3N
-Chicago, IL 60622",579000.0
-3,2.0,1570,"1717 S Prairie Avenue 2105
-Chicago, IL 60616",575000.0
-3,2.0,1381,"221 E Cullerton Street 417
-Chicago, IL 60616",500000.0
-3,3.0,1866,"3951 N Wayne Avenue 107
-Chicago, IL 60613",1049999.0
-3,4.0,2600,"7337 N Mcvicker Avenue
-Chicago, IL 60646",799000.0
-1,1.0,1171,"165 N Canal Street 1030
-Chicago, IL 60606",325000.0
-4,2.0,1700,"5936 S Keeler Avenue
-Chicago, IL 60629",359999.0
-4,4.0,3585,"9142 S Longwood Drive
-Chicago, IL 60643",690000.0
-1,1.0,700,"5415 N Sheridan Road 5114
-Chicago, IL 60640",179900.0
-5,3.0,4801,"4450 S Prairie Avenue
-Chicago, IL 60653",745777.0
-2,2.0,1075,"2700 N HAMPDEN Court 7D
-Chicago, IL 60614",334900.0
-2,2.0,1500,"3561 W Lyndale Street 2E
-Chicago, IL 60647",425000.0
-3,3.0,2600,"334 N JEFFERSON Street D
-Chicago, IL 60661",925000.0
-3,1.0,1246,"733 E 90th Street
-Chicago, IL 60619",198900.0
-3,2.0,1343,"1008 W Barry Avenue
-Chicago, IL 60657",600000.0
-2,2.0,1000,"2434 W 47th Place
-Chicago, IL 60632",325000.0
-3,2.0,1341,"1935 S Archer Avenue , 515
-Chicago, IL 60616",375000.0
-1,1.0,849,"440 N Wabash Avenue 2008
-Chicago, IL 60611",279000.0
-4,3.0,2058,"6540 W 64th Street
-Chicago, IL 60638",459900.0
-2,2.0,1840,"3837 W 109th Street
-Chicago, IL 60655",373000.0
-3,3.0,2300,"5127 N Monterey Avenue N
-Norridge, IL 60706",429000.0
-3,2.0,1208,"2307 N Avers Avenue 2
-Chicago, IL 60647",550000.0
-3,2.0,1976,"3843 W 81st Place
-Chicago, IL 60652",380000.0
-4,2.0,1000,"8319 S Kenwood Avenue
-Chicago, IL 60619",215000.0
-4,3.0,2128,"7622 S Loomis Boulevard
-Chicago, IL 60620",380000.0
-4,3.0,2800,"4821 W Crystal Street
-Chicago, IL 60651",465000.0
-3,3.0,2060,"367 W Locust Street 407
-Chicago, IL 60610",875000.0
-3,3.0,1609,"1718 N Clybourn Avenue 1
-Chicago, IL 60614",725000.0
-2,1.0,866,"1048 W Foster Avenue C
-Chicago, IL 60640",275000.0
-1,1.0,995,"10 E Ontario Street 3609
-Chicago, IL 60611",295000.0
-2,2.0,980,"1069 W 14th Place 223
-Chicago, IL 60608",350000.0
-2,2.0,1500,"240 E ILLINOIS Street 307
-Chicago, IL 60611",425000.0
-4,3.0,3079,"7315 S California Avenue
-Chicago, IL 60629",364900.0
-3,2.0,1704,"1926 N Lincoln Park West 4B
-Chicago, IL 60614",749000.0
-2,1.0,1250,"1542 W School Street G
-Chicago, IL 60657",589000.0
-2,2.0,1027,"1460 N SANDBURG Terrace 2011A
-Chicago, IL 60610",290000.0
-2,1.0,910,"1618 W Columbia Avenue 1N
-Chicago, IL 60626",219000.0
-3,1.0,1569,"9527 S Damen Avenue
-Chicago, IL 60643",424000.0
-3,1.0,1296,"6308 W Cornelia Avenue
-Chicago, IL 60634",335000.0
-2,1.0,1000,"5853 W Newport Avenue
-Chicago, IL 60634",285500.0
-2,2.0,1573,"900 W Washington Boulevard 402
-Chicago, IL 60607",999999.0
+3,1.0,731,"11534 S Peoria Street Chicago, IL 60643",125000.0
+1,1.0,815,"33 W Ontario Street , 20C Chicago, IL 60654",299000.0
+1,1.0,700,"222 N Columbus Drive , 606 Chicago, IL 60601",259900.0
+3,1.0,1280,"9412 S Millard Avenue Evergreen Park, IL 60805",309900.0
+3,2.0,1150,"12727 S Page Street Calumet Park, IL 60827",179950.0
+3,2.0,1500,"4706 S Saint Lawrence Avenue 2W Chicago, IL 60615",430000.0
+2,2.0,2200,"4431 N Paulina Street 1S Chicago, IL 60640",595000.0
+2,2.0,1200,"1939 N Sawyer Avenue G Chicago, IL 60647",260000.0
+3,2.0,1800,"1332 W Madison Street 3E Chicago, IL 60607",725000.0
+3,2.0,1770,"1943 N BISSELL Street B Chicago, IL 60614",775000.0
+4,2.0,3000,"4137 N NARRAGANSETT Avenue 8 Chicago, IL 60634",519900.0
+2,2.0,1153,"333 W Hubbard Street 3M Chicago, IL 60654",520000.0
+1,1.0,750,"6030 N Sheridan Road 1810 Chicago, IL 60660",183000.0
+3,3.0,2200,"313 S Racine Avenue 4B Chicago, IL 60607",999999.0
+3,2.0,1900,"6342 N Sheridan Road 2B Chicago, IL 60660",435000.0
+2,1.0,1013,"1819 S Michigan Avenue , 308 Chicago, IL 60616",319900.0
+5,3.0,2874,"8358 S Sangamon Street Chicago, IL 60620",325000.0
+5,2.0,1584,"6725 S Honore Street Chicago, IL 60636",249900.0
+4,3.0,1887,"5515 W Henderson Street Chicago, IL 60641",475000.0
+1,1.0,790,"1040 W Adams Street , 215 Chicago, IL 60607",415000.0
+4,2.0,2500,"12820 S Blossom Drive Alsip, IL 60803",399974.0
+3,3.0,2347,"448 W Oak Street Chicago, IL 60610",995000.0
+3,3.0,2500,"917 W Altgeld Street 3 Chicago, IL 60614",900000.0
+2,2.0,1200,"1856 W Armitage Avenue 2 Chicago, IL 60622",479000.0
+3,3.0,3000,"2104 S May Street Chicago, IL 60608",999000.0
+4,2.0,3800,"2300 N Monticello Avenue Chicago, IL 60647",995000.0
+3,3.0,3100,"4728 N Malden Avenue 1S Chicago, IL 60640",799900.0
+3,2.0,1500,"846 W ALDINE Avenue 2 Chicago, IL 60657",724900.0
+4,3.0,2500,"3240 N California Avenue 1N Chicago, IL 60618",625000.0
+2,2.0,1500,"2221 N Lincoln Avenue 1N Chicago, IL 60614",550000.0
+2,2.0,1293,"1530 S State Street 17P Chicago, IL 60605",415000.0
+3,2.0,1669,"3631 S 61st Avenue Cicero, IL 60804",350000.0
+4,2.0,1561,"1801 N 72nd Court Elmwood Park, IL 60707",339000.0
+1,1.0,900,"405 N WABASH Avenue 2314 Chicago, IL 60611",299900.0
+2,2.0,1035,"7424 S Blackstone Avenue Chicago, IL 60619",135000.0
+3,3.0,3225,"2960 N Allen Avenue Chicago, IL 60618",1050000.0
+3,2.0,2712,"2430 W Cortez Street 1 Chicago, IL 60622",749900.0
+2,1.0,1100,"2617 W Leland Avenue 2 Chicago, IL 60625",399900.0
+2,2.0,1400,"130 N Garland Court 2307 Chicago, IL 60602",699000.0
+4,2.0,1332,"4843 W Schubert Avenue Chicago, IL 60639",480000.0
+3,3.0,1422,"1487 N CLYBOURN Avenue B Chicago, IL 60610",767400.0
+3,3.0,2800,"4914 S Washington Park Court Chicago, IL 60615",649900.0
+1,1.0,800,"1632 S INDIANA Avenue 506 Chicago, IL 60616",242000.0
+3,1.0,1302,"3316 S Union Avenue Chicago, IL 60616",398000.0
+1,1.0,950,"825 N Hudson Avenue 1B Chicago, IL 60610",375000.0
+2,2.0,1500,"6033 N Sheridan Road 25K Chicago, IL 60660",299900.0
+3,2.0,1450,"1715 W Leland Avenue 1 Chicago, IL 60640",485000.0
+3,2.0,1700,"1242 W Jackson Boulevard 2W Chicago, IL 60607",775000.0
+5,3.0,3600,"4932 S Martin Luther King Drive Chicago, IL 60653",949000.0
+3,2.0,1600,"1430 N Astor Street 11C Chicago, IL 60610",599000.0
+3,3.0,2157,"130 N Garland Court 3501 Chicago, IL 60602",1065000.0
+3,2.0,1500,"4170 W Cornelia Avenue Chicago, IL 60641",554999.0
+2,2.0,1361,"240 E Illinois Street 2206 Chicago, IL 60611",739900.0
+2,2.0,1550,"200 E DELAWARE Place 35F Chicago, IL 60611",885000.0
+5,2.0,2907,"10017 S Indiana Avenue Chicago, IL 60628",315500.0
+2,2.0,1758,"130 N Garland Court 3803 Chicago, IL 60602",1050000.0
+2,2.0,1200,"4211 W roscoe Avenue 2W Chicago, IL 60641",465000.0
+1,1.0,809,"130 N Garland Court 2608 Chicago, IL 60602",344900.0
+2,2.0,1800,"2310 W Nelson Street 101 Chicago, IL 60618",499900.0
+2,2.0,1700,"720 S Dearborn Street 1105 Chicago, IL 60605",499999.0
+4,2.0,3100,"1478 S PRAIRIE Avenue N Chicago, IL 60605",929000.0
+5,4.0,3800,"1716 W Beverly Glen Parkway Chicago, IL 60643",615000.0
+2,2.0,1600,"1855 N HALSTED Street 3W Chicago, IL 60614",875000.0
+3,2.0,1830,"2136 W Belmont Avenue 2 Chicago, IL 60618",699900.0
+4,2.0,2452,"5736 N Kerbs Avenue Chicago, IL 60646",699000.0
+2,2.0,1400,"1667 N Bissell Street 3 Chicago, IL 60614",674900.0
+3,2.0,1500,"1310 N Western Avenue 3N Chicago, IL 60622",579000.0
+3,2.0,1570,"1717 S Prairie Avenue 2105 Chicago, IL 60616",575000.0
+3,2.0,1381,"221 E Cullerton Street 417 Chicago, IL 60616",500000.0
+2,2.0,1800,"233 E ERIE Street 2500 Chicago, IL 60611",499000.0
+3,2.0,2216,"959 W 37th Street 7 Chicago, IL 60609",499000.0
+2,2.0,1600,"1216 W Augusta Boulevard 2 Chicago, IL 60642",489900.0
+2,2.0,1300,"4507 N Campbell Avenue 3 Chicago, IL 60625",425000.0
+2,2.0,1350,"1444 N Orleans Street 6J Chicago, IL 60610",489000.0
+1,1.0,950,"210 S Desplaines Street 1110 Chicago, IL 60661",349900.0
+2,1.0,935,"3340 N Pioneer Avenue Chicago, IL 60634",314900.0
+3,2.0,1153,"6954 S Prairie Avenue Chicago, IL 60637",269900.0
+2,2.0,850,"1171 E 61st Street 3 Chicago, IL 60637",190000.0
+4,4.0,3285,"8800 S Laflin Street Chicago, IL 60620",380000.0
+1,1.0,900,"1832 N Lincoln Avenue G1 Chicago, IL 60614",330000.0
+4,3.0,2700,"2012 W Erie Street 1W Chicago, IL 60612",875000.0
+2,2.0,1200,"1901 S Calumet Avenue 704 Chicago, IL 60616",415000.0
+3,2.0,1763,"519 E 91st Street Chicago, IL 60619",315000.0
+1,1.0,826,"545 N Dearborn Street 2202 Chicago, IL 60654",310000.0
+2,2.0,1250,"758 N Larrabee Street 620 Chicago, IL 60654",450000.0
+2,2.0,1348,"8 E RANDOLPH Street 1905 Chicago, IL 60601",449000.0
+3,2.0,1900,"2716 N 73rd Avenue Elmwood Park, IL 60707",479900.0
+4,2.0,1650,"10633 S Whipple Street Chicago, IL 60655",469900.0
+3,2.0,2400,"2337 W WASHINGTON Boulevard 1 Chicago, IL 60612",399990.0
+3,2.0,1783,"3951 N Wayne Avenue 205 Chicago, IL 60613",1079999.0
+3,3.0,1866,"3951 N Wayne Avenue 107 Chicago, IL 60613",1049999.0
+3,4.0,2600,"7337 N Mcvicker Avenue Chicago, IL 60646",799000.0
+1,1.0,1171,"165 N Canal Street 1030 Chicago, IL 60606",325000.0
+4,2.0,1700,"5936 S Keeler Avenue Chicago, IL 60629",359999.0
+4,4.0,3585,"9142 S Longwood Drive Chicago, IL 60643",690000.0
+1,1.0,700,"5415 N Sheridan Road 5114 Chicago, IL 60640",179900.0
+5,3.0,4801,"4450 S Prairie Avenue Chicago, IL 60653",745777.0
+2,2.0,1075,"2700 N HAMPDEN Court 7D Chicago, IL 60614",334900.0
+2,2.0,1500,"3561 W Lyndale Street 2E Chicago, IL 60647",425000.0
+3,3.0,2600,"334 N JEFFERSON Street D Chicago, IL 60661",925000.0
+3,1.0,1246,"733 E 90th Street Chicago, IL 60619",198900.0
+3,2.0,1343,"1008 W Barry Avenue Chicago, IL 60657",600000.0
+2,2.0,1000,"2434 W 47th Place Chicago, IL 60632",325000.0
+3,2.0,1341,"1935 S Archer Avenue , 515 Chicago, IL 60616",375000.0
+1,1.0,849,"440 N Wabash Avenue 2008 Chicago, IL 60611",279000.0
+4,3.0,2058,"6540 W 64th Street Chicago, IL 60638",459900.0
+2,2.0,1840,"3837 W 109th Street Chicago, IL 60655",373000.0
+3,3.0,2300,"5127 N Monterey Avenue N Norridge, IL 60706",429000.0
+3,2.0,1208,"2307 N Avers Avenue 2 Chicago, IL 60647",550000.0
+3,2.0,1976,"3843 W 81st Place Chicago, IL 60652",380000.0
+4,2.0,1000,"8319 S Kenwood Avenue Chicago, IL 60619",215000.0
+4,3.0,2128,"7622 S Loomis Boulevard Chicago, IL 60620",380000.0
+4,3.0,2800,"4821 W Crystal Street Chicago, IL 60651",465000.0
+3,3.0,2060,"367 W Locust Street 407 Chicago, IL 60610",875000.0
+3,3.0,1609,"1718 N Clybourn Avenue 1 Chicago, IL 60614",725000.0
+2,1.0,866,"1048 W Foster Avenue C Chicago, IL 60640",275000.0
+1,1.0,995,"10 E Ontario Street 3609 Chicago, IL 60611",295000.0
+2,2.0,980,"1069 W 14th Place 223 Chicago, IL 60608",350000.0
+2,2.0,1500,"240 E ILLINOIS Street 307 Chicago, IL 60611",425000.0
+4,3.0,3079,"7315 S California Avenue Chicago, IL 60629",364900.0
+3,2.0,1704,"1926 N Lincoln Park West 4B Chicago, IL 60614",749000.0
+2,1.0,1250,"1542 W School Street G Chicago, IL 60657",589000.0
+2,2.0,1027,"1460 N SANDBURG Terrace 2011A Chicago, IL 60610",290000.0
+2,1.0,910,"1618 W Columbia Avenue 1N Chicago, IL 60626",219000.0
+3,1.0,1569,"9527 S Damen Avenue Chicago, IL 60643",424000.0
+3,1.0,1296,"6308 W Cornelia Avenue Chicago, IL 60634",335000.0
+2,1.0,1000,"5853 W Newport Avenue Chicago, IL 60634",285500.0
+2,2.0,1573,"900 W Washington Boulevard 402 Chicago, IL 60607",999999.0
 1,1.0,650,"Chicago, IL 60614",292900.0
-2,2.0,1200,"480 N Mcclurg Court 901
-Chicago, IL 60611",399999.0
-2,2.0,1450,"360 E Randolph Street 3902
-Chicago, IL 60601",759000.0
-3,3.0,1850,"632 W BARRY Avenue 1S
-Chicago, IL 60657",700000.0
-3,2.0,2400,"2500 N 74th Avenue 1S
-Elmwood Park, IL 60707",465000.0
-3,1.0,1732,"844 Prospect Street
-Elgin, IL 60644",304999.0
-1,1.0,1100,"331 S Peoria Street 401
-Chicago, IL 60607",350000.0
-2,2.0,1650,"777 N Michigan Avenue 3701
-Chicago, IL 60611",629000.0
-2,2.0,1537,"230 W Division Street 501
-Chicago, IL 60610",599000.0
-1,1.0,706,"195 N HARBOR Drive 207
-Chicago, IL 60601",275000.0
-1,1.0,830,"6301 N Sheridan Road 2U
-Chicago, IL 60660",135000.0
-1,1.0,800,"6301 N Sheridan Road 20D
-Chicago, IL 60660",185000.0
-2,1.0,875,"4518 W Wellington Avenue 4518-2
-Chicago, IL 60641",169000.0
-2,2.0,1070,"3626 N Oriole Avenue
-Chicago, IL 60634",450000.0
-2,2.0,1235,"2 E ERIE Street 2102
-Chicago, IL 60611",535000.0
-3,2.0,1532,"1419 N OAKLEY Boulevard
-Chicago, IL 60622",749000.0
-2,1.0,1100,"707 W JUNIOR Terrace 3S
-Chicago, IL 60613",279900.0
-3,2.0,1600,"4170 N Marine Drive 6L
-Chicago, IL 60613",485900.0
-3,2.0,1163,"14116 S Hoxie Avenue
-Burnham, IL 60633",226999.0
-1,1.0,1148,"1530 S State Street 1127
-Chicago, IL 60605",385000.0
-2,2.0,1323,"1629 S PRAIRIE Avenue 1402
-Chicago, IL 60616",477000.0
-2,2.0,1350,"130 S CANAL Street 517
-Chicago, IL 60606",465000.0
-1,1.0,800,"4920 N Marine Drive 411
-Chicago, IL 60640",155000.0
-2,2.0,1520,"1122 N Dearborn Street 10A
-Chicago, IL 60610",725000.0
-3,1.0,1868,"2031 N 76th Court
-Elmwood Park, IL 60707",464900.0
-2,2.0,950,"3052 W 107th Street
-Chicago, IL 60655",325000.0
-4,3.0,2320,"1310 N Mayfield Avenue
-Chicago, IL 60651",429900.0
-3,2.0,1161,"7840 S Springfield Avenue
-Chicago, IL 60652",230000.0
-4,3.0,3015,"4565 N Potawatomie Avenue
-Chicago, IL 60656",899000.0
-2,2.0,1520,"1122 N Dearborn Street 7A
-Chicago, IL 60610",625000.0
-2,2.0,1300,"635 N Dearborn Street 2604
-Chicago, IL 60654",495000.0
-2,2.0,1200,"9429 S Leavitt Street
-Chicago, IL 60643",350000.0
-2,2.0,1368,"505 N Mcclurg Court 4505
-Chicago, IL 60611",749995.0
-3,3.0,2688,"5443 S Rutherford Avenue
-Chicago, IL 60638",669900.0
-2,2.0,1300,"324 N Jefferson Street 107
-Chicago, IL 60661",479900.0
-2,2.0,1149,"303 W OHIO Street 1906
-Chicago, IL 60654",475000.0
-2,2.0,1550,"130 S CANAL Street 619
-Chicago, IL 60606",440000.0
-3,4.0,2900,"3621 N Richmond Street
-Chicago, IL 60618",999999.0
-2,2.0,1850,"1212 N Lake Shore Drive 12CN
-Chicago, IL 60610",899000.0
-2,2.0,1630,"65 E Monroe Street 4521
-Chicago, IL 60603",769000.0
-4,4.0,2032,"2719 N 74th Court
-Elmwood Park, IL 60707",595000.0
-2,2.0,1395,"474 N Lake Shore Drive 6102
-Chicago, IL 60611",567070.0
-2,2.0,1200,"500 W Superior Street 1202
-Chicago, IL 60654",515000.0
-2,2.0,1735,"7727 W Jerome Street
-Chicago, IL 60631",489000.0
-3,2.0,1201,"8014 W Summerdale Avenue
-Chicago, IL 60656",475000.0
-2,2.0,1226,"1600 S Prairie Avenue 1204
-Chicago, IL 60616",475000.0
-3,1.0,1407,"4036 W Warwick Avenue
-Chicago, IL 60641",475000.0
-3,1.0,1432,"670 W Irving Park Road 6
-Chicago, IL 60613",449000.0
-2,2.0,1200,"2848 N ALBANY Avenue 2S
-Chicago, IL 60618",424900.0
-2,2.0,1250,"1329 W Fillmore Street 3
-Chicago, IL 60607",404000.0
-2,2.0,1300,"125 E 13TH Street 1002
-Chicago, IL 60605",400000.0
-1,1.0,1071,"160 E Illinois Street 1605
-Chicago, IL 60611",399000.0
-1,1.0,1005,"333 W Hubbard Street 608
-Chicago, IL 60654",395000.0
-4,2.0,1984,"2245 N Kilbourn Avenue
-Chicago, IL 60639",382500.0
-1,1.0,826,"420 E Waterside Drive 1302
-Chicago, IL 60601",360000.0
-2,2.0,1200,"1645 W Ogden Avenue 516
-Chicago, IL 60612",359900.0
-3,2.0,1248,"4223 W 82 Street
-Chicago, IL 60652",320000.0
-5,2.0,1621,"9945 S California Avenue
-Chicago, IL 60655",319900.0
-1,1.0,980,"3600 N Lake Shore Drive 2412
-Chicago, IL 60613",304900.0
-1,1.0,937,"770 W Gladys Avenue 204
-Chicago, IL 60661",300000.0
-3,1.0,1500,"5238 S Hamlin Avenue
-Chicago, IL 60632",299950.0
-2,1.0,850,"3550 N LAKE Shore Drive 810
-Chicago, IL 60657",299000.0
-3,3.0,1700,"1700 E 56th Street 801
-Chicago, IL 60637",280000.0
-6,3.0,1760,"8532 S HOUSTON Avenue
-Chicago, IL 60617",275000.0
-2,1.0,701,"1952 W George Street 1
-Chicago, IL 60657",264900.0
-1,1.0,900,"1500 W Monroe Street 117
-Chicago, IL 60607",255000.0
-1,1.0,718,"811 S Lytle Street 205
-Chicago, IL 60607",239000.0
-2,1.0,900,"3950 N Lake Shore Drive 2209
-Chicago, IL 60613",229900.0
-4,1.0,1328,"7815 S Emerald Avenue
-Chicago, IL 60620",205000.0
-3,2.0,2100,"8605 S Dorchester Avenue
-Chicago, IL 60619",204900.0
-3,2.0,1877,"734 E 42nd Street
-Chicago, IL 60653",180000.0
-3,2.0,1329,"9258 S Bishop Street
-Chicago, IL 60620",179900.0
-1,1.0,850,"4624 N Commons Drive 104
-Chicago, IL 60656",169900.0
-2,1.0,1000,"5515 S Hoyne Avenue
-Chicago, IL 60636",169900.0
-2,1.0,500,"11345 S Ada Street
-Chicago, IL 60643",160000.0
-3,1.0,1566,"10304 S Prospect Avenue
-Chicago, IL 60643",150000.0
-2,1.0,1058,"5024 W Van Buren Street D
-Chicago, IL 60644",149900.0
-3,2.0,1248,"8439 S Ada Street
-Chicago, IL 60620",139900.0
-3,1.0,861,"4743 W Fulton Street
-Chicago, IL 60644",135000.0
-3,2.0,2500,"1478 S Prairie Avenue L
-Chicago, IL 60605",849900.0
-2,2.0,1268,"234 W Polk Street 3002
-Chicago, IL 60607",765000.0
-2,2.0,1165,"234 W Polk Street 2412
-Chicago, IL 60607",695000.0
-3,2.0,1650,"645 W Bittersweet Place 1
-Chicago, IL 60613",655000.0
-2,2.0,1111,"234 W Polk Street 2804
-Chicago, IL 60607",650000.0
-2,2.0,1085,"234 W Polk Street 2810
-Chicago, IL 60607",625000.0
-4,3.0,2500,"4530 N MAGNOLIA Avenue 3S
-Chicago, IL 60640",619000.0
-2,2.0,1450,"530 N LAKE SHORE Drive 2408
-Chicago, IL 60611",550000.0
-4,3.0,2750,"4250 N Marine Drive 1622
-Chicago, IL 60613",524999.0
-5,3.0,1400,"5705 S Mayfield Avenue S
-Chicago, IL 60638",475000.0
-2,2.0,1443,"1600 S Prairie Avenue 803
-Chicago, IL 60616",474900.0
-2,2.0,1380,"208 W Washington Street 711
-Chicago, IL 60606",439900.0
-2,2.0,1250,"1400 S Michigan Avenue 1504
-Chicago, IL 60605",430000.0
-2,2.0,1150,"345 W Fullerton Parkway 503
-Chicago, IL 60614",425000.0
-4,3.0,3095,"7747 S Rhodes Avenue
-Chicago, IL 60619",369900.0
-4,3.0,1400,"3229 W 65TH Place
-Chicago, IL 60629",349900.0
-2,1.0,1200,"1316 W Fargo Avenue 308
-Chicago, IL 60626",315000.0
-4,2.0,3741,"8059 S Morgan Street
-Chicago, IL 60620",310000.0
-3,1.0,2150,"5121 S Trumbull Avenue
-Chicago, IL 60632",299900.0
-3,2.0,1200,"7943 S Blackstone Avenue
-Chicago, IL 60619",290000.0
-4,2.0,1200,"9315 S Clyde Avenue
-Chicago, IL 60617",290000.0
-3,1.0,1000,"6328 S Kostner Avenue
-Chicago, IL 60629",285000.0
-1,1.0,914,"600 S Dearborn Street 1603
-Chicago, IL 60605",279000.0
-4,2.0,2021,"11212 S Hermosa Avenue
-Chicago, IL 60643",279000.0
-4,2.0,896,"5203 S Kilpatrick Avenue
-Chicago, IL 60632",270000.0
-3,2.0,1160,"446 E 95th Street
-Chicago, IL 60619",268000.0
-1,1.0,900,"850 N DEWITT Place 11D
-Chicago, IL 60611",220000.0
-3,1.0,1513,"750 W 144th Street
-Riverdale, IL 60827",219000.0
-4,2.0,2108,"7526 S Merrill Avenue
-Chicago, IL 60649",200000.0
-2,1.0,979,"3658 W 79th Place
-Chicago, IL 60652",190000.0
-3,1.0,1200,"2149 E 90th Street
-Chicago, IL 60617",189900.0
-2,1.0,1020,"7600 S Euclid Avenue
-Chicago, IL 60649",189000.0
-2,1.0,1300,"6101 N Sheridan Road 14C
-Chicago, IL 60660",189000.0
-2,2.0,1600,"8135 S Muskegon Avenue
-Chicago, IL 60617",179000.0
-4,1.0,2100,"1622 S Central Park Avenue
-Chicago, IL 60623",129900.0
-2,1.0,974,"722 E 105th Street
-Chicago, IL 60628",120000.0
-4,1.0,1378,"9037 S Ada Street
-Chicago, IL 60620",100000.0
-4,2.0,1800,"6725 S Prairie Avenue
-Chicago, IL 60637",99900.0
-5,2.0,1496,"1221 E 72nd Place
-Chicago, IL 60619",25000.0
-3,3.0,2035,"1242 N Lake Shore Drive 4N
-Chicago, IL 60610",1050000.0
-3,2.0,1820,"1400 W Monroe Street 5E
-Chicago, IL 60607",950000.0
-2,2.0,2000,"990 N Lake Shore Drive 7C
-Chicago, IL 60611",799000.0
-3,2.0,2100,"750 N Noble Street B
-Chicago, IL 60642",700000.0
-2,2.0,1297,"125 S Green Street 603A
-Chicago, IL 60607",640000.0
-5,3.0,2800,"11236 S Lawler Avenue
-Alsip, IL 60803",599000.0
-1,1.0,1244,"340 E Randolph Street 1106
-Chicago, IL 60601",555000.0
-2,2.0,1295,"201 N Westshore Drive 2508
-Chicago, IL 60601",535000.0
-2,2.0,1250,"700 N LARRABEE Street 1308
-Chicago, IL 60654",525000.0
-4,2.0,2860,"8118 W COURTLAND Avenue
-Norridge, IL 60706",509000.0
-4,3.0,2650,"5415 S Oak Park Avenue
-Chicago, IL 60638",459900.0
-2,2.0,1100,"257 East Delaware Place #7C
-Chicago, IL 60611",450000.0
-3,1.0,1000,"6933 W Berwyn Avenue
-Chicago, IL 60656",424999.0
-3,1.0,864,"6949 W Montrose Avenue
-Harwood Heights, IL 60706",360000.0
-2,1.0,905,"2 E Erie Street 2806
-Chicago, IL 60611",349999.0
-2,2.0,1300,"8 W MONROE Street 1704
-Chicago, IL 60603",335000.0
-2,2.0,1250,"222 E Chestnut Street 3D
-Chicago, IL 60610",325000.0
-3,3.0,1800,"7832 S Evans Avenue
-Chicago, IL 60619",320000.0
-2,2.0,1080,"8 W Monroe Street 1007
-Chicago, IL 60603",315000.0
-1,1.0,800,"1212 N LaSalle Drive 802
-Chicago, IL 60610",280000.0
-4,3.0,1789,"7636 S Loomis Boulevard
-Chicago, IL 60620",279900.0
-3,1.0,1400,"7501 S ABERDEEN Avenue
-Chicago, IL 60620",275000.0
-3,2.0,1311,"11549 S Kilbourn Avenue
-Alsip, IL 60803",269873.0
-2,2.0,1800,"5000 S Cornell Avenue 21B
-Chicago, IL 60615",250000.0
-2,1.0,980,"12510 S Edbrooke Avenue
-Chicago, IL 60628",249900.0
-3,2.0,1300,"2323 W Pershing Road 402
-Chicago, IL 60609",249900.0
-1,1.0,550,"1634 N Milwaukee Avenue 3F
-Chicago, IL 60647",249000.0
-5,2.0,2268,"7744 S Laflin Street
-Chicago, IL 60620",249000.0
-2,1.0,980,"6587 N Northwest Highway 1
-Chicago, IL 60631",230000.0
-2,1.0,950,"3115 N Nashville Avenue 2E
-Chicago, IL 60634",224900.0
-3,1.0,1134,"7047 S Winchester Avenue
-Chicago, IL 60636",215000.0
-3,1.0,769,"12216 S Carpenter Street
-Chicago, IL 60643",210000.0
-1,1.0,880,"850 N Dewitt Place 12G
-Chicago, IL 60611",210000.0
-1,1.0,875,"230 E Ontario Street 2201
-Chicago, IL 60611",205000.0
-3,1.0,1088,"4924 S Lorel Avenue
-Chicago, IL 60638",200000.0
-1,1.0,985,"1223 W Lunt Avenue 2A
-Chicago, IL 60626",184000.0
-3,1.0,1240,"9134 S Marquette Avenue
-Chicago, IL 60617",139900.0
-6,2.0,1972,"220 N Lorel Avenue
-Chicago, IL 60644",109000.0
-2,1.0,800,"1756 W 35TH Street 2R
-Chicago, IL 60609",99900.0
-3,1.0,1494,"12013 S Princeton Avenue
-Chicago, IL 60628",89900.0
-3,1.0,945,"13749 S Wabash Avenue
-Riverdale, IL 60827",52500.0
-4,2.0,2403,"5847 S Nagle Avenue
-Chicago, IL 60638",569900.0
-5,3.0,3600,"4930 S Martin Luther King Drive
-Chicago, IL 60653",949000.0
-4,2.0,2500,"1308 W Addison Street 1E
-Chicago, IL 60613",899000.0
-3,2.0,1700,"2414 N Sawyer Avenue 2D
-Chicago, IL 60647",819999.0
-3,2.0,1978,"4343 N Richmond Avenue 3N
-Chicago, IL 60618",799000.0
-2,2.0,1159,"234 W Polk Street 2905
-Chicago, IL 60607",630000.0
-3,4.0,1728,"7411 W Isham Avenue
-Chicago, IL 60631",630000.0
-2,2.0,1430,"990 N Lake Shore Drive 29B
-Chicago, IL 60611",575000.0
-2,2.0,1400,"3010 N SHEFFIELD Avenue 2N
-Chicago, IL 60657",549500.0
-3,3.0,2321,"1512 N Campbell Avenue 1
-Chicago, IL 60622",525000.0
-2,2.0,1350,"2800 N Lake Shore Drive 2417
-Chicago, IL 60657",509000.0
-3,3.0,2600,"5301 N Oriole Avenue
-Chicago, IL 60656",499900.0
-3,2.0,1800,"2020 W Farragut Avenue 2
-Chicago, IL 60625",495000.0
-2,2.0,1225,"510 W Erie Street 1106
-Chicago, IL 60654",479000.0
-2,2.0,1272,"421 W Huron Street 1009
-Chicago, IL 60654",475000.0
-2,2.0,1550,"200 E Delaware Place 13F
-Chicago, IL 60610",450000.0
-2,2.0,1400,"1250 N Dearborn Street 6A
-Chicago, IL 60610",449900.0
-3,3.0,1700,"3627 N Pittsburgh Avenue
-Chicago, IL 60634",429900.0
-3,3.0,2245,"7614 S Chappel Avenue
-Chicago, IL 60649",394999.0
-3,3.0,2552,"5217 S Christiana Avenue
-Chicago, IL 60632",389900.0
-1,1.0,861,"400 N La Salle Street 1004
-Chicago, IL 60654",369000.0
-1,1.0,800,"125 S Green Street 1010A
-Chicago, IL 60607",355000.0
-2,2.0,1450,"5901 N Sheridan Road 16C
-Chicago, IL 60660",345900.0
-2,2.0,1100,"1464 S Michigan Avenue 403
-Chicago, IL 60605",339900.0
-4,2.0,1361,"654 N Drake Avenue
-Chicago, IL 60624",330000.0
-3,2.0,1364,"3341 W 62nd Street
-Chicago, IL 60629",325000.0
-1,1.0,800,"1660 N LaSalle Street 1105
-Chicago, IL 60614",320000.0
-3,1.0,1874,"2906 E 130th Street
-Chicago, IL 60633",300000.0
-2,2.0,1200,"6320 W Higgins Avenue 303
-Chicago, IL 60630",299900.0
-1,1.0,900,"1606 W Winona Street 3
-Chicago, IL 60640",299000.0
-2,2.0,1200,"3900 N LAKE SHORE Drive 6K
-Chicago, IL 60613",273000.0
-3,2.0,1800,"9139 S Colfax Avenue
-Chicago, IL 60617",269900.0
-1,1.0,800,"1935 S Archer Avenue 323
-Chicago, IL 60616",259000.0
-5,2.0,2250,"8756 S Colfax Avenue
-Chicago, IL 60617",250000.0
-5,2.0,1304,"14206 S Edbrooke Avenue
-Riverdale, IL 60827",245000.0
-2,2.0,1200,"6324 S Kimbark Avenue 305
-Chicago, IL 60637",230000.0
-2,2.0,1400,"125 W 103rd Place
-Chicago, IL 60628",219900.0
-2,1.0,896,"1342 56 Court
-Cicero, IL 60804",199000.0
-6,2.0,2022,"8422 S Gilbert Court
-Chicago, IL 60620",179999.0
-3,1.0,1070,"10244 S Crandon Avenue
-Chicago, IL 60617",179900.0
-3,2.0,1200,"7530 S Wabash Avenue
-Chicago, IL 60619",160000.0
-3,1.0,1500,"10037 S Yale Avenue
-Chicago, IL 60628",159900.0
-1,1.0,850,"6301 N SHERIDAN Road 4D
-Chicago, IL 60660",150000.0
-4,2.0,2733,"7658 S Laflin Street
-Chicago, IL 60620",149900.0
-2,1.0,1000,"9253 S Wentworth Avenue
-Chicago, IL 60620",144900.0
-2,2.0,1007,"7101 S Carpenter Street
-Chicago, IL 60621",115000.0
-1,1.0,500,"5424 W Ferdinand Street 104
-Chicago, IL 60644",110000.0
-5,2.0,2000,"8312 S Maryland Avenue
-Chicago, IL 60619",59000.0
-3,2.0,1200,"7528 W Argyle Street
-Harwood Heights, IL 60706",419900.0
-4,3.0,4000,"8110 W Balmoral Avenue
-Chicago, IL 60656",900000.0
-3,2.0,1800,"405 N Wabash Avenue 4510
-Chicago, IL 60611",574999.0
-5,1.0,3196,"41 N Lotus Avenue
-Chicago, IL 60644",449900.0
-3,2.0,2961,"3039 S Kolin Avenue
-Chicago, IL 60623",425000.0
+2,2.0,1200,"480 N Mcclurg Court 901 Chicago, IL 60611",399999.0
+2,2.0,1450,"360 E Randolph Street 3902 Chicago, IL 60601",759000.0
+3,3.0,1850,"632 W BARRY Avenue 1S Chicago, IL 60657",700000.0
+3,2.0,2400,"2500 N 74th Avenue 1S Elmwood Park, IL 60707",465000.0
+3,1.0,1732,"844 Prospect Street Elgin, IL 60644",304999.0
+1,1.0,1100,"331 S Peoria Street 401 Chicago, IL 60607",350000.0
+2,2.0,1650,"777 N Michigan Avenue 3701 Chicago, IL 60611",629000.0
+2,2.0,1537,"230 W Division Street 501 Chicago, IL 60610",599000.0
+1,1.0,706,"195 N HARBOR Drive 207 Chicago, IL 60601",275000.0
+1,1.0,830,"6301 N Sheridan Road 2U Chicago, IL 60660",135000.0
+1,1.0,800,"6301 N Sheridan Road 20D Chicago, IL 60660",185000.0
+2,1.0,875,"4518 W Wellington Avenue 4518-2 Chicago, IL 60641",169000.0
+2,2.0,1070,"3626 N Oriole Avenue Chicago, IL 60634",450000.0
+2,2.0,1235,"2 E ERIE Street 2102 Chicago, IL 60611",535000.0
+3,2.0,1532,"1419 N OAKLEY Boulevard Chicago, IL 60622",749000.0
+2,1.0,1100,"707 W JUNIOR Terrace 3S Chicago, IL 60613",279900.0
+3,2.0,1600,"4170 N Marine Drive 6L Chicago, IL 60613",485900.0
+3,2.0,1163,"14116 S Hoxie Avenue Burnham, IL 60633",226999.0
+1,1.0,1148,"1530 S State Street 1127 Chicago, IL 60605",385000.0
+2,2.0,1323,"1629 S PRAIRIE Avenue 1402 Chicago, IL 60616",477000.0
+2,2.0,1350,"130 S CANAL Street 517 Chicago, IL 60606",465000.0
+1,1.0,800,"4920 N Marine Drive 411 Chicago, IL 60640",155000.0
+2,2.0,1520,"1122 N Dearborn Street 10A Chicago, IL 60610",725000.0
+3,1.0,1868,"2031 N 76th Court Elmwood Park, IL 60707",464900.0
+2,2.0,950,"3052 W 107th Street Chicago, IL 60655",325000.0
+4,3.0,2320,"1310 N Mayfield Avenue Chicago, IL 60651",429900.0
+3,2.0,1161,"7840 S Springfield Avenue Chicago, IL 60652",230000.0
+4,3.0,3015,"4565 N Potawatomie Avenue Chicago, IL 60656",899000.0
+2,2.0,1520,"1122 N Dearborn Street 7A Chicago, IL 60610",625000.0
+2,2.0,1300,"635 N Dearborn Street 2604 Chicago, IL 60654",495000.0
+2,2.0,1200,"9429 S Leavitt Street Chicago, IL 60643",350000.0
+2,2.0,1368,"505 N Mcclurg Court 4505 Chicago, IL 60611",749995.0
+3,3.0,2688,"5443 S Rutherford Avenue Chicago, IL 60638",669900.0
+2,2.0,1300,"324 N Jefferson Street 107 Chicago, IL 60661",479900.0
+2,2.0,1149,"303 W OHIO Street 1906 Chicago, IL 60654",475000.0
+2,2.0,1550,"130 S CANAL Street 619 Chicago, IL 60606",440000.0
+3,2.0,1898,"5114 S Kenwood Avenue PHA Chicago, IL 60615",1100000.0
+3,4.0,2900,"3621 N Richmond Street Chicago, IL 60618",999999.0
+2,2.0,1850,"1212 N Lake Shore Drive 12CN Chicago, IL 60610",899000.0
+2,2.0,1630,"65 E Monroe Street 4521 Chicago, IL 60603",769000.0
+4,4.0,2032,"2719 N 74th Court Elmwood Park, IL 60707",595000.0
+2,2.0,1395,"474 N Lake Shore Drive 6102 Chicago, IL 60611",567070.0
+2,2.0,1200,"500 W Superior Street 1202 Chicago, IL 60654",515000.0
+2,2.0,1735,"7727 W Jerome Street Chicago, IL 60631",489000.0
+3,2.0,1201,"8014 W Summerdale Avenue Chicago, IL 60656",475000.0
+2,2.0,1226,"1600 S Prairie Avenue 1204 Chicago, IL 60616",475000.0
+3,1.0,1407,"4036 W Warwick Avenue Chicago, IL 60641",475000.0
+3,1.0,1432,"670 W Irving Park Road 6 Chicago, IL 60613",449000.0
+2,2.0,1200,"2848 N ALBANY Avenue 2S Chicago, IL 60618",424900.0
+2,2.0,1250,"1329 W Fillmore Street 3 Chicago, IL 60607",404000.0
+2,2.0,1300,"125 E 13TH Street 1002 Chicago, IL 60605",400000.0
+1,1.0,1071,"160 E Illinois Street 1605 Chicago, IL 60611",399000.0
+1,1.0,1005,"333 W Hubbard Street 608 Chicago, IL 60654",395000.0
+4,2.0,1984,"2245 N Kilbourn Avenue Chicago, IL 60639",382500.0
+1,1.0,826,"420 E Waterside Drive 1302 Chicago, IL 60601",360000.0
+2,2.0,1200,"1645 W Ogden Avenue 516 Chicago, IL 60612",359900.0
+3,2.0,1248,"4223 W 82 Street Chicago, IL 60652",320000.0
+5,2.0,1621,"9945 S California Avenue Chicago, IL 60655",319900.0
+1,1.0,980,"3600 N Lake Shore Drive 2412 Chicago, IL 60613",304900.0
+1,1.0,937,"770 W Gladys Avenue 204 Chicago, IL 60661",300000.0
+3,1.0,1500,"5238 S Hamlin Avenue Chicago, IL 60632",299950.0
+2,1.0,850,"3550 N LAKE Shore Drive 810 Chicago, IL 60657",299000.0
+3,3.0,1700,"1700 E 56th Street 801 Chicago, IL 60637",280000.0
+6,3.0,1760,"8532 S HOUSTON Avenue Chicago, IL 60617",275000.0
+2,1.0,701,"1952 W George Street 1 Chicago, IL 60657",264900.0
+1,1.0,900,"1500 W Monroe Street 117 Chicago, IL 60607",255000.0
+1,1.0,718,"811 S Lytle Street 205 Chicago, IL 60607",239000.0
+2,1.0,900,"3950 N Lake Shore Drive 2209 Chicago, IL 60613",229900.0
+4,1.0,1328,"7815 S Emerald Avenue Chicago, IL 60620",205000.0
+3,2.0,2100,"8605 S Dorchester Avenue Chicago, IL 60619",204900.0
+3,2.0,1877,"734 E 42nd Street Chicago, IL 60653",180000.0
+3,2.0,1329,"9258 S Bishop Street Chicago, IL 60620",179900.0
+1,1.0,850,"4624 N Commons Drive 104 Chicago, IL 60656",169900.0
+2,1.0,1000,"5515 S Hoyne Avenue Chicago, IL 60636",169900.0
+2,1.0,500,"11345 S Ada Street Chicago, IL 60643",160000.0
+3,1.0,1566,"10304 S Prospect Avenue Chicago, IL 60643",150000.0
+2,1.0,1058,"5024 W Van Buren Street D Chicago, IL 60644",149900.0
+3,2.0,1248,"8439 S Ada Street Chicago, IL 60620",139900.0
+3,1.0,861,"4743 W Fulton Street Chicago, IL 60644",135000.0
+3,2.0,2500,"1478 S Prairie Avenue L Chicago, IL 60605",849900.0
+2,2.0,1268,"234 W Polk Street 3002 Chicago, IL 60607",765000.0
+2,2.0,1165,"234 W Polk Street 2412 Chicago, IL 60607",695000.0
+3,2.0,1650,"645 W Bittersweet Place 1 Chicago, IL 60613",655000.0
+2,2.0,1111,"234 W Polk Street 2804 Chicago, IL 60607",650000.0
+2,2.0,1085,"234 W Polk Street 2810 Chicago, IL 60607",625000.0
+4,3.0,2500,"4530 N MAGNOLIA Avenue 3S Chicago, IL 60640",619000.0
+2,2.0,1450,"530 N LAKE SHORE Drive 2408 Chicago, IL 60611",550000.0
+4,3.0,2750,"4250 N Marine Drive 1622 Chicago, IL 60613",524999.0
+5,3.0,1400,"5705 S Mayfield Avenue S Chicago, IL 60638",475000.0
+2,2.0,1443,"1600 S Prairie Avenue 803 Chicago, IL 60616",474900.0
+2,2.0,1380,"208 W Washington Street 711 Chicago, IL 60606",439900.0
+2,2.0,1250,"1400 S Michigan Avenue 1504 Chicago, IL 60605",430000.0
+2,2.0,1150,"345 W Fullerton Parkway 503 Chicago, IL 60614",425000.0
+4,3.0,3095,"7747 S Rhodes Avenue Chicago, IL 60619",369900.0
+4,3.0,1400,"3229 W 65TH Place Chicago, IL 60629",349900.0
+2,1.0,1200,"1316 W Fargo Avenue 308 Chicago, IL 60626",315000.0
+4,2.0,3741,"8059 S Morgan Street Chicago, IL 60620",310000.0
+3,1.0,2150,"5121 S Trumbull Avenue Chicago, IL 60632",299900.0
+3,2.0,1200,"7943 S Blackstone Avenue Chicago, IL 60619",290000.0
+4,2.0,1200,"9315 S Clyde Avenue Chicago, IL 60617",290000.0
+3,1.0,1000,"6328 S Kostner Avenue Chicago, IL 60629",285000.0
+1,1.0,914,"600 S Dearborn Street 1603 Chicago, IL 60605",279000.0
+4,2.0,2021,"11212 S Hermosa Avenue Chicago, IL 60643",279000.0
+4,2.0,896,"5203 S Kilpatrick Avenue Chicago, IL 60632",270000.0
+3,2.0,1160,"446 E 95th Street Chicago, IL 60619",268000.0
+1,1.0,900,"850 N DEWITT Place 11D Chicago, IL 60611",220000.0
+3,1.0,1513,"750 W 144th Street Riverdale, IL 60827",219000.0
+4,2.0,2108,"7526 S Merrill Avenue Chicago, IL 60649",200000.0
+2,1.0,979,"3658 W 79th Place Chicago, IL 60652",190000.0
+3,1.0,1200,"2149 E 90th Street Chicago, IL 60617",189900.0
+2,1.0,1020,"7600 S Euclid Avenue Chicago, IL 60649",189000.0
+2,1.0,1300,"6101 N Sheridan Road 14C Chicago, IL 60660",189000.0
+2,2.0,1600,"8135 S Muskegon Avenue Chicago, IL 60617",179000.0
+4,1.0,2100,"1622 S Central Park Avenue Chicago, IL 60623",129900.0
+2,1.0,974,"722 E 105th Street Chicago, IL 60628",120000.0
+4,1.0,1378,"9037 S Ada Street Chicago, IL 60620",100000.0
+4,2.0,1800,"6725 S Prairie Avenue Chicago, IL 60637",99900.0
+5,2.0,1496,"1221 E 72nd Place Chicago, IL 60619",25000.0
+3,3.0,2035,"1242 N Lake Shore Drive 4N Chicago, IL 60610",1050000.0
+3,2.0,1820,"1400 W Monroe Street 5E Chicago, IL 60607",950000.0
+2,2.0,2000,"990 N Lake Shore Drive 7C Chicago, IL 60611",799000.0
+3,2.0,2100,"750 N Noble Street B Chicago, IL 60642",700000.0
+2,2.0,1297,"125 S Green Street 603A Chicago, IL 60607",640000.0
+5,3.0,2800,"11236 S Lawler Avenue Alsip, IL 60803",599000.0
+1,1.0,1244,"340 E Randolph Street 1106 Chicago, IL 60601",555000.0
+2,2.0,1295,"201 N Westshore Drive 2508 Chicago, IL 60601",535000.0
+2,2.0,1250,"700 N LARRABEE Street 1308 Chicago, IL 60654",525000.0
+4,2.0,2860,"8118 W COURTLAND Avenue Norridge, IL 60706",509000.0
+4,3.0,2650,"5415 S Oak Park Avenue Chicago, IL 60638",459900.0
+2,2.0,1100,"257 East Delaware Place #7C Chicago, IL 60611",450000.0
+3,1.0,1000,"6933 W Berwyn Avenue Chicago, IL 60656",424999.0
+3,1.0,864,"6949 W Montrose Avenue Harwood Heights, IL 60706",360000.0
+2,1.0,905,"2 E Erie Street 2806 Chicago, IL 60611",349999.0
+2,2.0,1300,"8 W MONROE Street 1704 Chicago, IL 60603",335000.0
+2,2.0,1250,"222 E Chestnut Street 3D Chicago, IL 60610",325000.0
+3,3.0,1800,"7832 S Evans Avenue Chicago, IL 60619",320000.0
+2,2.0,1080,"8 W Monroe Street 1007 Chicago, IL 60603",315000.0
+1,1.0,800,"1212 N LaSalle Drive 802 Chicago, IL 60610",280000.0
+4,3.0,1789,"7636 S Loomis Boulevard Chicago, IL 60620",279900.0
+3,1.0,1400,"7501 S ABERDEEN Avenue Chicago, IL 60620",275000.0
+3,2.0,1311,"11549 S Kilbourn Avenue Alsip, IL 60803",269873.0
+2,2.0,1800,"5000 S Cornell Avenue 21B Chicago, IL 60615",250000.0
+2,1.0,980,"12510 S Edbrooke Avenue Chicago, IL 60628",249900.0
+3,2.0,1300,"2323 W Pershing Road 402 Chicago, IL 60609",249900.0
+1,1.0,550,"1634 N Milwaukee Avenue 3F Chicago, IL 60647",249000.0
+5,2.0,2268,"7744 S Laflin Street Chicago, IL 60620",249000.0
+2,1.0,980,"6587 N Northwest Highway 1 Chicago, IL 60631",230000.0
+2,1.0,950,"3115 N Nashville Avenue 2E Chicago, IL 60634",224900.0
+3,1.0,1134,"7047 S Winchester Avenue Chicago, IL 60636",215000.0
+3,1.0,769,"12216 S Carpenter Street Chicago, IL 60643",210000.0
+1,1.0,880,"850 N Dewitt Place 12G Chicago, IL 60611",210000.0
+1,1.0,875,"230 E Ontario Street 2201 Chicago, IL 60611",205000.0
+3,1.0,1088,"4924 S Lorel Avenue Chicago, IL 60638",200000.0
+1,1.0,985,"1223 W Lunt Avenue 2A Chicago, IL 60626",184000.0
+3,1.0,1240,"9134 S Marquette Avenue Chicago, IL 60617",139900.0
+6,2.0,1972,"220 N Lorel Avenue Chicago, IL 60644",109000.0
+2,1.0,800,"1756 W 35TH Street 2R Chicago, IL 60609",99900.0
+3,1.0,1494,"12013 S Princeton Avenue Chicago, IL 60628",89900.0
+3,1.0,945,"13749 S Wabash Avenue Riverdale, IL 60827",52500.0
+4,2.0,2403,"5847 S Nagle Avenue Chicago, IL 60638",569900.0
+5,3.0,3600,"4930 S Martin Luther King Drive Chicago, IL 60653",949000.0
+4,2.0,2500,"1308 W Addison Street 1E Chicago, IL 60613",899000.0
+3,2.0,1700,"2414 N Sawyer Avenue 2D Chicago, IL 60647",819999.0
+3,2.0,1978,"4343 N Richmond Avenue 3N Chicago, IL 60618",799000.0
+2,2.0,1159,"234 W Polk Street 2905 Chicago, IL 60607",630000.0
+3,4.0,1728,"7411 W Isham Avenue Chicago, IL 60631",630000.0
+2,2.0,1430,"990 N Lake Shore Drive 29B Chicago, IL 60611",575000.0
+2,2.0,1400,"3010 N SHEFFIELD Avenue 2N Chicago, IL 60657",549500.0
+3,3.0,2321,"1512 N Campbell Avenue 1 Chicago, IL 60622",525000.0
+2,2.0,1350,"2800 N Lake Shore Drive 2417 Chicago, IL 60657",509000.0
+3,3.0,2600,"5301 N Oriole Avenue Chicago, IL 60656",499900.0
+3,2.0,1800,"2020 W Farragut Avenue 2 Chicago, IL 60625",495000.0
+2,2.0,1225,"510 W Erie Street 1106 Chicago, IL 60654",479000.0
+2,2.0,1272,"421 W Huron Street 1009 Chicago, IL 60654",475000.0
+2,2.0,1550,"200 E Delaware Place 13F Chicago, IL 60610",450000.0
+2,2.0,1400,"1250 N Dearborn Street 6A Chicago, IL 60610",449900.0
+3,3.0,1700,"3627 N Pittsburgh Avenue Chicago, IL 60634",429900.0
+3,3.0,2245,"7614 S Chappel Avenue Chicago, IL 60649",394999.0
+3,3.0,2552,"5217 S Christiana Avenue Chicago, IL 60632",389900.0
+1,1.0,861,"400 N La Salle Street 1004 Chicago, IL 60654",369000.0
+1,1.0,800,"125 S Green Street 1010A Chicago, IL 60607",355000.0
+2,2.0,1450,"5901 N Sheridan Road 16C Chicago, IL 60660",345900.0
+2,2.0,1100,"1464 S Michigan Avenue 403 Chicago, IL 60605",339900.0
+4,2.0,1361,"654 N Drake Avenue Chicago, IL 60624",330000.0
+3,2.0,1364,"3341 W 62nd Street Chicago, IL 60629",325000.0
+1,1.0,800,"1660 N LaSalle Street 1105 Chicago, IL 60614",320000.0
+3,1.0,1874,"2906 E 130th Street Chicago, IL 60633",300000.0
+2,2.0,1200,"6320 W Higgins Avenue 303 Chicago, IL 60630",299900.0
+1,1.0,900,"1606 W Winona Street 3 Chicago, IL 60640",299000.0
+2,2.0,1200,"3900 N LAKE SHORE Drive 6K Chicago, IL 60613",273000.0
+3,2.0,1800,"9139 S Colfax Avenue Chicago, IL 60617",269900.0
+1,1.0,800,"1935 S Archer Avenue 323 Chicago, IL 60616",259000.0
+5,2.0,2250,"8756 S Colfax Avenue Chicago, IL 60617",250000.0
+5,2.0,1304,"14206 S Edbrooke Avenue Riverdale, IL 60827",245000.0
+2,2.0,1200,"6324 S Kimbark Avenue 305 Chicago, IL 60637",230000.0
+2,2.0,1400,"125 W 103rd Place Chicago, IL 60628",219900.0
+2,1.0,896,"1342 56 Court Cicero, IL 60804",199000.0
+6,2.0,2022,"8422 S Gilbert Court Chicago, IL 60620",179999.0
+3,1.0,1070,"10244 S Crandon Avenue Chicago, IL 60617",179900.0
+3,2.0,1200,"7530 S Wabash Avenue Chicago, IL 60619",160000.0
+3,1.0,1500,"10037 S Yale Avenue Chicago, IL 60628",159900.0
+1,1.0,850,"6301 N SHERIDAN Road 4D Chicago, IL 60660",150000.0
+4,2.0,2733,"7658 S Laflin Street Chicago, IL 60620",149900.0
+2,1.0,1000,"9253 S Wentworth Avenue Chicago, IL 60620",144900.0
+2,2.0,1007,"7101 S Carpenter Street Chicago, IL 60621",115000.0
+1,1.0,500,"5424 W Ferdinand Street 104 Chicago, IL 60644",110000.0
+5,2.0,2000,"8312 S Maryland Avenue Chicago, IL 60619",59000.0
+3,2.0,1200,"7528 W Argyle Street Harwood Heights, IL 60706",419900.0
+4,3.0,4000,"8110 W Balmoral Avenue Chicago, IL 60656",900000.0
+3,2.0,1800,"405 N Wabash Avenue 4510 Chicago, IL 60611",574999.0
+5,1.0,3196,"41 N Lotus Avenue Chicago, IL 60644",449900.0
+3,2.0,2961,"3039 S Kolin Avenue Chicago, IL 60623",425000.0
 2,1.0,3528,"Chicago, IL 60629",421000.0
-4,2.0,1842,"3725 W 83rd Street
-Chicago, IL 60652",325000.0
-3,2.0,1978,"9132 S Ellis Avenue
-Chicago, IL 60619",279972.0
-3,2.0,1280,"8536 S Paulina Street
-Chicago, IL 60620",279900.0
-4,2.0,1572,"8616 S Paulina Street S
-Chicago, IL 60620",269900.0
-4,3.0,3000,"3311 W Belle Plaine Avenue
-Chicago, IL 60618",899900.0
-3,2.0,2500,"5712 S Dorchester Avenue 3
-Chicago, IL 60637",697000.0
-3,1.0,1480,"6818 W HOBART Avenue
-Chicago, IL 60631",385000.0
-2,2.0,1100,"100 N Hermitage Avenue 409
-Chicago, IL 60612",330000.0
-2,2.0,1168,"10806 S Vernon Avenue
-Chicago, IL 60628",329900.0
-3,2.0,1359,"625 E 101st Street
-Chicago, IL 60628",294000.0
-4,1.0,1656,"11411 S FORRESTVILLE Avenue
-Chicago, IL 60628",279000.0
-3,2.0,1200,"2921 W Washington Boulevard 2
-Chicago, IL 60612",275000.0
-3,2.0,1900,"8200 S Paxton Avenue
-Chicago, IL 60617",269000.0
-2,1.0,1400,"12525 S Central Park Avenue
-Alsip, IL 60803",244900.0
-2,1.0,900,"4020 N ALBANY Avenue 3B
-Chicago, IL 60618",230000.0
-3,2.0,1100,"11328 S Morgan Street
-Chicago, IL 60643",205000.0
-1,1.0,750,"6301 N SHERIDAN Road 9G
-Chicago, IL 60660",149000.0
-2,2.0,895,"14307 S Wallace Avenue
-Riverdale, IL 60827",135000.0
-2,1.0,1423,"9933 S Morgan Street
-Chicago, IL 60643",100000.0
-4,1.0,2500,"10042 S Emerald Avenue
-Chicago, IL 60628",359000.0
-4,3.0,4400,"5034 W Oakdale Avenue
-Chicago, IL 60641",825000.0
-4,3.0,2450,"2604 W Farwell Avenue
-Chicago, IL 60645",779000.0
-3,2.0,1600,"195 N Harbor Drive 802
-Chicago, IL 60601",775000.0
-3,2.0,1600,"1253 W Melrose Street 1E
-Chicago, IL 60657",699900.0
-5,3.0,2232,"4234 N Avers Avenue
-Chicago, IL 60618",650000.0
-3,2.0,1540,"1335 W Walton Street 2
-Chicago, IL 60642",600000.0
-2,2.0,1481,"100 E HURON Street 1803
-Chicago, IL 60611",550000.0
-2,2.0,1182,"420 E Waterside Drive 1103
-Chicago, IL 60601",549000.0
-3,2.0,1500,"4915 N Lincoln Avenue 3
-Chicago, IL 60625",499000.0
-5,3.0,3600,"7311 S Paxton Avenue
-Chicago, IL 60649",449900.0
-4,3.0,1700,"3500 N Nagle Avenue
-Chicago, IL 60634",360160.0
-2,1.0,1050,"5362 N NOTTINGHAM Avenue
-Chicago, IL 60656",339000.0
-1,1.0,870,"226 N Clinton Street 216
-Chicago, IL 60661",320000.0
-1,1.0,900,"401 E Ontario Street 1101
-Chicago, IL 60611",299999.0
-2,2.0,2000,"3976 S Ellis Avenue GS
-Chicago, IL 60653",299900.0
-4,2.0,1459,"3836 N Pioneer Avenue
-Chicago, IL 60634",295000.0
-3,2.0,1500,"6123 S Kimbark Avenue 1N
-Chicago, IL 60637",295000.0
-4,2.0,2700,"2610 E 74th Place
-Chicago, IL 60649",289900.0
-3,2.0,1249,"1317 N HARDING Avenue
-Chicago, IL 60651",280000.0
-1,1.0,936,"221 E Cullerton Street 413
-Chicago, IL 60616",250000.0
-2,1.0,1080,"4430 N Kenneth Avenue 2
-Chicago, IL 60630",249900.0
-1,1.0,571,"565 W Quincy Street 1711
-Chicago, IL 60661",249500.0
-4,2.0,2142,"7959 S Saginaw Avenue
-Chicago, IL 60617",249000.0
-3,1.0,1641,"1221 N Central Avenue
-Chicago, IL 60651",225000.0
-1,1.0,900,"4250 N Marine Drive 1104
-Chicago, IL 60613",205000.0
-2,2.0,1378,"5801 N Sheridan Road 12B
-Chicago, IL 60660",199900.0
-4,2.0,1208,"9601 S Calumet Avenue
-Chicago, IL 60619",169900.0
-2,2.0,1300,"13916 S Dearborn Street
-Riverdale, IL 60827",160000.0
-5,2.0,2852,"1218 N Parkside Avenue
-Chicago, IL 60651",150000.0
-2,1.0,1086,"9953 S Yates Boulevard
-Chicago, IL 60617",149900.0
-1,1.0,950,"6301 N Sheridan Road 24J
-Chicago, IL 60660",148000.0
-1,1.0,700,"3950 N Lake Shore Drive 904
-Chicago, IL 60613",125000.0
-2,1.0,850,"2043 E 72nd Street 1C
-Chicago, IL 60649",72000.0
-3,1.0,1104,"7932 S Kenwood Avenue
-Chicago, IL 60619",70000.0
-4,1.0,1482,"5700 S Lowe Avenue
-Chicago, IL 60621",69900.0
-1,1.0,800,"7337 S South Shore Drive 408
-Chicago, IL 60649",59900.0
-2,1.0,1265,"1719 N MOHAWK Street F
-Chicago, IL 60614",525000.0
-2,2.0,1500,"1643 N Humboldt Boulevard 2
-Chicago, IL 60647",525000.0
-4,3.0,2000,"5444 N Lotus Avenue
-Chicago, IL 60630",525000.0
-1,1.0,661,"211 N Harbor Drive 1607
-Chicago, IL 60601",480000.0
-3,1.0,2200,"4616 N Ashland Avenue C
-Chicago, IL 60640",479000.0
-1,1.0,661,"211 N Harbor Drive 1507
-Chicago, IL 60601",477500.0
-2,2.0,1047,"101 W Superior Street 802
-Chicago, IL 60654",475000.0
-3,2.0,1382,"7802 W Ardmore Avenue
-Chicago, IL 60631",475000.0
-2,2.0,1361,"33 W Ontario Street 36D
-Chicago, IL 60654",460000.0
-3,2.0,1304,"4404 N Redwood Drive
-Norridge, IL 60706",449900.0
-4,2.0,1589,"2922 W Polk Street
-Chicago, IL 60612",429000.0
-2,2.0,1445,"400 E Ohio Street 1204
-Chicago, IL 60611",420000.0
-2,2.0,1268,"1250 S MICHIGAN Avenue 1109
-Chicago, IL 60605",415900.0
-1,1.0,925,"505 N Mcclurg Court 1004
-Chicago, IL 60611",400000.0
-4,3.0,2000,"844 N Laramie Avenue
-Chicago, IL 60651",400000.0
-3,3.0,2653,"3512 W 83rd Street
-Chicago, IL 60652",389900.0
-3,2.0,1326,"2834 W 101st Place
-Evergreen Park, IL 60805",389000.0
-2,2.0,1200,"1000 N Lake Shore Drive 508
-Chicago, IL 60611",359900.0
-1,1.0,1093,"10 E Ontario Street 4005
-Chicago, IL 60611",350000.0
-4,2.0,1800,"1118 E 46th Street 1E
-Chicago, IL 60653",324999.0
+4,2.0,1842,"3725 W 83rd Street Chicago, IL 60652",325000.0
+3,2.0,1978,"9132 S Ellis Avenue Chicago, IL 60619",279972.0
+3,2.0,1280,"8536 S Paulina Street Chicago, IL 60620",279900.0
+4,2.0,1572,"8616 S Paulina Street S Chicago, IL 60620",269900.0
+4,3.0,3000,"3311 W Belle Plaine Avenue Chicago, IL 60618",899900.0
+3,2.0,2500,"5712 S Dorchester Avenue 3 Chicago, IL 60637",697000.0
+3,1.0,1480,"6818 W HOBART Avenue Chicago, IL 60631",385000.0
+2,2.0,1100,"100 N Hermitage Avenue 409 Chicago, IL 60612",330000.0
+2,2.0,1168,"10806 S Vernon Avenue Chicago, IL 60628",329900.0
+3,2.0,1359,"625 E 101st Street Chicago, IL 60628",294000.0
+4,1.0,1656,"11411 S FORRESTVILLE Avenue Chicago, IL 60628",279000.0
+3,2.0,1200,"2921 W Washington Boulevard 2 Chicago, IL 60612",275000.0
+3,2.0,1900,"8200 S Paxton Avenue Chicago, IL 60617",269000.0
+2,1.0,1400,"12525 S Central Park Avenue Alsip, IL 60803",244900.0
+2,1.0,900,"4020 N ALBANY Avenue 3B Chicago, IL 60618",230000.0
+3,2.0,1100,"11328 S Morgan Street Chicago, IL 60643",205000.0
+1,1.0,750,"6301 N SHERIDAN Road 9G Chicago, IL 60660",149000.0
+2,2.0,895,"14307 S Wallace Avenue Riverdale, IL 60827",135000.0
+2,1.0,1423,"9933 S Morgan Street Chicago, IL 60643",100000.0
+4,1.0,2500,"10042 S Emerald Avenue Chicago, IL 60628",359000.0
+4,3.0,4400,"5034 W Oakdale Avenue Chicago, IL 60641",825000.0
+4,3.0,2450,"2604 W Farwell Avenue Chicago, IL 60645",779000.0
+3,2.0,1600,"195 N Harbor Drive 802 Chicago, IL 60601",775000.0
+3,2.0,1600,"1253 W Melrose Street 1E Chicago, IL 60657",699900.0
+5,3.0,2232,"4234 N Avers Avenue Chicago, IL 60618",650000.0
+3,2.0,1540,"1335 W Walton Street 2 Chicago, IL 60642",600000.0
+2,2.0,1481,"100 E HURON Street 1803 Chicago, IL 60611",550000.0
+2,2.0,1182,"420 E Waterside Drive 1103 Chicago, IL 60601",549000.0
+3,2.0,1500,"4915 N Lincoln Avenue 3 Chicago, IL 60625",499000.0
+5,3.0,3600,"7311 S Paxton Avenue Chicago, IL 60649",449900.0
+4,3.0,1700,"3500 N Nagle Avenue Chicago, IL 60634",360160.0
+2,1.0,1050,"5362 N NOTTINGHAM Avenue Chicago, IL 60656",339000.0
+1,1.0,870,"226 N Clinton Street 216 Chicago, IL 60661",320000.0
+1,1.0,900,"401 E Ontario Street 1101 Chicago, IL 60611",299999.0
+2,2.0,2000,"3976 S Ellis Avenue GS Chicago, IL 60653",299900.0
+4,2.0,1459,"3836 N Pioneer Avenue Chicago, IL 60634",295000.0
+3,2.0,1500,"6123 S Kimbark Avenue 1N Chicago, IL 60637",295000.0
+4,2.0,2700,"2610 E 74th Place Chicago, IL 60649",289900.0
+3,2.0,1249,"1317 N HARDING Avenue Chicago, IL 60651",280000.0
+1,1.0,936,"221 E Cullerton Street 413 Chicago, IL 60616",250000.0
+2,1.0,1080,"4430 N Kenneth Avenue 2 Chicago, IL 60630",249900.0
+1,1.0,571,"565 W Quincy Street 1711 Chicago, IL 60661",249500.0
+4,2.0,2142,"7959 S Saginaw Avenue Chicago, IL 60617",249000.0
+3,1.0,1641,"1221 N Central Avenue Chicago, IL 60651",225000.0
+1,1.0,900,"4250 N Marine Drive 1104 Chicago, IL 60613",205000.0
+2,2.0,1378,"5801 N Sheridan Road 12B Chicago, IL 60660",199900.0
+4,2.0,1208,"9601 S Calumet Avenue Chicago, IL 60619",169900.0
+2,2.0,1300,"13916 S Dearborn Street Riverdale, IL 60827",160000.0
+5,2.0,2852,"1218 N Parkside Avenue Chicago, IL 60651",150000.0
+2,1.0,1086,"9953 S Yates Boulevard Chicago, IL 60617",149900.0
+1,1.0,950,"6301 N Sheridan Road 24J Chicago, IL 60660",148000.0
+1,1.0,700,"3950 N Lake Shore Drive 904 Chicago, IL 60613",125000.0
+2,1.0,850,"2043 E 72nd Street 1C Chicago, IL 60649",72000.0
+3,1.0,1104,"7932 S Kenwood Avenue Chicago, IL 60619",70000.0
+4,1.0,1482,"5700 S Lowe Avenue Chicago, IL 60621",69900.0
+1,1.0,800,"7337 S South Shore Drive 408 Chicago, IL 60649",59900.0
+2,2.0,1251,"211 N Harbor Drive 1404 Chicago, IL 60601",1025000.0
+3,2.0,1746,"1201 S Prairie Avenue 2703 Chicago, IL 60605",1020000.0
+2,2.0,1384,"211 N Harbor Drive 906 Chicago, IL 60601",995000.0
+3,2.0,2400,"6 S LAFLIN Street 913 Chicago, IL 60607",970000.0
+2,2.0,1201,"211 N Harbor Drive 1601 Chicago, IL 60601",865000.0
+4,2.0,2400,"3530 N Lake Shore Drive 6A Chicago, IL 60657",785000.0
+3,2.0,1936,"737 W Washington Boulevard 1208 Chicago, IL 60661",765000.0
+3,2.0,1830,"950 N Michigan Avenue 3304 Chicago, IL 60611",725000.0
+3,1.0,2321,"2716 W Sherwin Avenue Chicago, IL 60645",725000.0
+3,3.0,3036,"3458 N Central Avenue Chicago, IL 60634",719000.0
+2,2.0,1449,"711 W GRAND Avenue 402 Chicago, IL 60654",600000.0
+3,3.0,1747,"3407 N OAK PARK Avenue Chicago, IL 60634",550000.0
+2,2.0,1115,"1833 N Hudson Avenue G Chicago, IL 60614",549000.0
+3,2.0,1104,"4821 N Prospect Avenue Norridge, IL 60706",530000.0
+2,1.0,1265,"1719 N MOHAWK Street F Chicago, IL 60614",525000.0
+2,2.0,1500,"1643 N Humboldt Boulevard 2 Chicago, IL 60647",525000.0
+4,3.0,2000,"5444 N Lotus Avenue Chicago, IL 60630",525000.0
+1,1.0,661,"211 N Harbor Drive 1607 Chicago, IL 60601",480000.0
+3,1.0,2200,"4616 N Ashland Avenue C Chicago, IL 60640",479000.0
+1,1.0,661,"211 N Harbor Drive 1507 Chicago, IL 60601",477500.0
+2,2.0,1047,"101 W Superior Street 802 Chicago, IL 60654",475000.0
+3,2.0,1382,"7802 W Ardmore Avenue Chicago, IL 60631",475000.0
+2,2.0,1361,"33 W Ontario Street 36D Chicago, IL 60654",460000.0
+3,2.0,1304,"4404 N Redwood Drive Norridge, IL 60706",449900.0
+4,2.0,1589,"2922 W Polk Street Chicago, IL 60612",429000.0
+2,2.0,1445,"400 E Ohio Street 1204 Chicago, IL 60611",420000.0
+2,2.0,1268,"1250 S MICHIGAN Avenue 1109 Chicago, IL 60605",415900.0
+1,1.0,925,"505 N Mcclurg Court 1004 Chicago, IL 60611",400000.0
+4,3.0,2000,"844 N Laramie Avenue Chicago, IL 60651",400000.0
+3,3.0,2653,"3512 W 83rd Street Chicago, IL 60652",389900.0
+3,2.0,1326,"2834 W 101st Place Evergreen Park, IL 60805",389000.0
+2,2.0,1200,"1000 N Lake Shore Drive 508 Chicago, IL 60611",359900.0
+1,1.0,1093,"10 E Ontario Street 4005 Chicago, IL 60611",350000.0
+4,2.0,1800,"1118 E 46th Street 1E Chicago, IL 60653",324999.0
 3,2.0,1650,"Chicago, IL 60659",320000.0
-2,1.0,1011,"1405 S Central Avenue
-Cicero, IL 60804",299999.0
-3,1.0,1116,"10349 S Troy Street
-Chicago, IL 60655",299000.0
-2,1.0,1100,"5616 W 24th Street
-Cicero, IL 60804",294000.0
-1,1.0,750,"480 N McClurg Court 716
-Chicago, IL 60611",285000.0
-3,2.0,2300,"8004 S Ada Street
-Chicago, IL 60620",285000.0
-1,1.0,860,"130 S CANAL Street 311
-Chicago, IL 60606",275000.0
-4,1.0,1542,"5443 S LONG Avenue
-Chicago, IL 60638",275000.0
-1,1.0,690,"611 S Wells Street 2801
-Chicago, IL 60607",270000.0
-3,3.0,1277,"5734 S Sangamon Street
-Chicago, IL 60621",249000.0
-1,1.0,1000,"5310 N Glenwood Avenue 2
-Chicago, IL 60640",234900.0
-2,1.0,900,"6811 N Lakewood Avenue 3E
-Chicago, IL 60626",225000.0
-1,1.0,690,"100 E Walton Street 28G
-Chicago, IL 60611",205000.0
-2,2.0,1200,"5103 S Ellis Avenue G2
-Chicago, IL 60615",197900.0
-1,1.0,750,"720 W Gordon Terrace 21M
-Chicago, IL 60613",190000.0
-3,1.0,1027,"8635 S Burnham Avenue
-Chicago, IL 60617",190000.0
-1,1.0,825,"5455 N Sheridan Road 3410
-Chicago, IL 60640",185000.0
-3,1.0,1850,"7740 S Paxton Avenue
-Chicago, IL 60649",184999.0
-2,1.0,725,"6320 N Artesian Avenue 204
-Chicago, IL 60659",175000.0
-3,2.0,1372,"7740 S Michigan Avenue
-Chicago, IL 60619",160000.0
-1,1.0,660,"3950 N Lake Shore Drive 2004
-Chicago, IL 60613",159900.0
-2,1.0,900,"4659 S Springfield Avenue 3A
-Chicago, IL 60632",155000.0
-3,3.0,2100,"5000 S East End Avenue 25B
-Chicago, IL 60615",155000.0
-2,1.0,792,"13020 S Baltimore Avenue
-Chicago, IL 60633",149900.0
-3,1.0,948,"8389 S Baltimore Avenue
-Chicago, IL 60617",139000.0
-3,3.0,1184,"7208 S Claremont Avenue
-Chicago, IL 60636",105000.0
-3,2.0,1085,"9049 S Parnell Avenue
-Chicago, IL 60620",85000.0
-1,1.0,735,"6730 S South Shore Drive 302
-Chicago, IL 60649",83000.0
-3,1.0,1450,"5022 S Carpenter Street
-Chicago, IL 60609",59900.0
-3,2.0,1800,"15 S Racine Avenue 5N
-Chicago, IL 60607",1050000.0
-3,2.0,2500,"1944 W Thomas Street 1
-Chicago, IL 60622",900000.0
-3,3.0,2107,"1530 S STATE Street 17B
-Chicago, IL 60605",799000.0
-3,3.0,3000,"4923 N Harding Avenue
-Chicago, IL 60625",799000.0
-3,2.0,3600,"7136 N Washtenaw Avenue
-Chicago, IL 60645",749900.0
-2,2.0,1500,"1300 N Lake Shore Drive 25B
-Chicago, IL 60610",725000.0
-5,3.0,2462,"2325 W Winnemac Avenue
-Chicago, IL 60625",725000.0
-2,2.0,1716,"160 E ILLINOIS Street 1808
-Chicago, IL 60611",699900.0
-3,2.0,1978,"4343 N Richmond Avenue 2S
-Chicago, IL 60618",699000.0
-1,1.0,1324,"401 N Wabash Avenue 78G
-Chicago, IL 60611",690000.0
-5,3.0,2846,"5815 N Merrimac Avenue
-Chicago, IL 60646",684999.0
-2,2.0,1500,"2555 N Southport Avenue 4
-Chicago, IL 60614",635000.0
-4,3.0,2400,"3306 N Kenneth Avenue
-Chicago, IL 60641",609000.0
-3,2.0,1850,"401 E ONTARIO Street 4106
-Chicago, IL 60611",599000.0
-2,2.0,1500,"910 W Roscoe Street 2
-Chicago, IL 60657",525000.0
-3,2.0,1600,"2216 W North Avenue 2
-Chicago, IL 60647",525000.0
-2,2.0,1678,"212 E Cullerton Street PH P11
-Chicago, IL 60616",475000.0
-2,2.0,1201,"2317 W Wolfram Street 211
-Chicago, IL 60618",439900.0
-1,1.0,850,"1849 W Greenleaf Avenue 3S
-Chicago, IL 60626",167000.0
-3,1.0,1048,"4027 W Cullerton Street
-Chicago, IL 60623",107000.0
-3,3.0,3015,"2607 N ASHLAND Avenue 3W
-Chicago, IL 60614",989000.0
-3,3.0,3000,"3430 N Elaine Place CH
-Chicago, IL 60657",899000.0
-2,2.0,1800,"505 N Lake Shore Drive 5306
-Chicago, IL 60611",880000.0
-3,2.0,2500,"1735 N Albany Avenue 1
-Chicago, IL 60647",750000.0
-3,2.0,1950,"1462 W Balmoral Avenue 3
-Chicago, IL 60640",689000.0
-3,2.0,1678,"2238 W Belmont Avenue 4E
-Chicago, IL 60618",625000.0
-2,1.0,1161,"532 W Eugenie Street
-Chicago, IL 60614",600000.0
-2,2.0,1406,"3140 N Sheffield Avenue 614
-Chicago, IL 60657",600000.0
-3,2.0,1300,"6753 N Hermitage Avenue 2
-Chicago, IL 60626",575000.0
-3,2.0,1600,"474 N LAKE SHORE Drive 4808
-Chicago, IL 60611",575000.0
-3,2.0,1590,"474 N Lake Shore Drive 5108
-Chicago, IL 60611",555000.0
-3,2.0,1588,"4732 N ANTHON Avenue
-Chicago, IL 60656",549000.0
-2,2.0,1212,"2251 W Saint Paul Avenue 3G
-Chicago, IL 60647",485000.0
-1,1.0,1150,"110 W SUPERIOR Street 1604
-Chicago, IL 60654",449900.0
-2,2.0,1240,"1515 S Prairie Avenue 1203
-Chicago, IL 60605",425000.0
-4,2.0,1104,"6448 S Artesian Avenue
-Chicago, IL 60629",379000.0
-1,1.0,744,"111 S MORGAN Street 422
-Chicago, IL 60607",360000.0
-1,1.0,790,"123 S GREEN Street 710B
-Chicago, IL 60607",355000.0
-2,1.0,715,"5809 N Rogers Avenue
-Chicago, IL 60646",345000.0
-2,1.0,1200,"600 S Dearborn Street 901
-Chicago, IL 60605",340000.0
-3,2.0,2240,"9048 S LUELLA Avenue
-Chicago, IL 60617",340000.0
-2,2.0,1200,"2636 N FAIRFIELD Avenue G
-Chicago, IL 60647",325000.0
-4,2.0,2000,"7430 S King Drive
-Chicago, IL 60619",303900.0
-1,1.0,880,"200 W Grand Avenue 1202
-Chicago, IL 60654",299995.0
-2,1.0,1000,"3931 W 82nd Street
-Chicago, IL 60652",279900.0
-2,1.0,1100,"1339 N DEARBORN Street 14H
-Chicago, IL 60610",275000.0
-3,1.0,1582,"4938 W Wrightwood Avenue
-Chicago, IL 60639",273000.0
-3,2.0,1500,"1467 W 73rd Street
-Chicago, IL 60636",254900.0
-3,2.0,1700,"3816 S King Drive 2
-Chicago, IL 60653",249900.0
-1,1.0,800,"715 W BARRY Avenue 3A
-Chicago, IL 60657",230000.0
-3,2.0,1690,"10820 S Eggleston Avenue
-Chicago, IL 60628",229900.0
-2,1.0,900,"3115 N Nashville Avenue 2W
-Chicago, IL 60634",225000.0
-2,1.0,1300,"5950 S Artesian Avenue
-Chicago, IL 60629",219900.0
-3,1.0,1159,"5704 S Homan Avenue
-Chicago, IL 60629",200000.0
-2,1.0,1000,"4976 N Milwaukee Avenue 401
-Chicago, IL 60630",199900.0
-1,1.0,500,"3210 S Archer Avenue 306
-Chicago, IL 60608",198000.0
-3,2.0,1648,"7940 S Crandon Avenue
-Chicago, IL 60617",180000.0
-4,2.0,1500,"6614 S Wabash Avenue
-Chicago, IL 60637",179900.0
-1,1.0,800,"6171 N Sheridan Road 2804
-Chicago, IL 60660",169900.0
-1,1.0,800,"6171 N Sheridan Road 1804
-Chicago, IL 60660",164900.0
-5,2.0,1548,"6732 S Peoria Street
-Chicago, IL 60621",150000.0
-5,2.0,2200,"7533 S Eberhart Avenue
-Chicago, IL 60619",139900.0
-2,1.0,950,"8026 S Michigan Avenue 2A
-Chicago, IL 60619",70000.0
-4,4.0,2069,"5005 S Ridgeway Avenue
-Chicago, IL 60632",485000.0
-3,4.0,3500,"3432 S NORMAL Avenue
-Chicago, IL 60616",959500.0
-3,2.0,1800,"2414 N Sawyer Avenue 3B
-Chicago, IL 60647",925000.0
-4,3.0,2750,"4259 N Monticello Avenue
-Chicago, IL 60618",829000.0
-2,2.0,1310,"234 W Polk Street 2901
-Chicago, IL 60607",730000.0
-2,2.0,1219,"234 W Polk Street 3103
-Chicago, IL 60607",655000.0
-3,2.0,2400,"8618 W Wilson Avenue
-Chicago, IL 60656",625000.0
-3,2.0,1507,"1716 N Wells Street 3
-Chicago, IL 60614",599900.0
-2,3.0,2200,"1505 N TALMAN Avenue 1
-Chicago, IL 60622",585000.0
-4,3.0,2075,"3529 S 54th Avenue
-Cicero, IL 60804",489000.0
-2,2.0,1200,"500 W Superior Street 602
-Chicago, IL 60654",454999.0
-2,2.0,1150,"345 W Fullerton Parkway 801
-Chicago, IL 60614",449000.0
-1,1.0,1100,"333 N Canal Street 1702
-Chicago, IL 60606",445000.0
-3,1.0,1350,"3935 N Saint Louis Avenue
-Chicago, IL 60618",429900.0
-2,2.0,1225,"635 N Dearborn Street 1206
-Chicago, IL 60654",425000.0
-2,1.0,1177,"1111 S Wabash Avenue 2007
-Chicago, IL 60605",399000.0
-2,2.0,952,"635 N Dearborn Street 2103
-Chicago, IL 60654",385000.0
-1,1.0,1000,"1000 W Washington Boulevard 232
-Chicago, IL 60607",385000.0
-4,2.0,1450,"1409 E 49th Street
-Chicago, IL 60615",384000.0
-3,1.0,1732,"8800 S Bennett Avenue
-Chicago, IL 60617",340000.0
-2,2.0,1025,"235 W VAN BUREN Street 1702
-Chicago, IL 60607",330000.0
-5,2.0,1530,"7417 S Saint Lawrence Avenue
-Chicago, IL 60619",325000.0
-1,1.0,1093,"10 E ONTARIO Street 4007
-Chicago, IL 60611",290000.0
-4,2.0,1377,"337 W 106th Place
-Chicago, IL 60628",274900.0
-4,2.0,1800,"1717 W 71st Street
-Chicago, IL 60636",260000.0
-2,2.0,1500,"13538 S Burley Avenue
-Chicago, IL 60633",230000.0
-1,1.0,725,"1069 W 14th Place 333
-Chicago, IL 60608",225000.0
-2,2.0,1200,"6617 S Kimbark Avenue 2B
-Chicago, IL 60637",205000.0
-4,2.0,914,"8118 S Spaulding Street
-Chicago, IL 60652",200000.0
-3,2.0,1914,"6606 S Laflin Street
-Chicago, IL 60636",179900.0
-4,2.0,1972,"11947 S Eggleston Avenue
-Chicago, IL 60628",172500.0
-1,1.0,850,"5757 N Sheridan Road 14F
-Chicago, IL 60660",165000.0
-3,1.0,1125,"14526 S Dearborn Street
-Riverdale, IL 60827",154900.0
-1,1.0,750,"6301 N Sheridan Road 16N
-Chicago, IL 60660",124900.0
-3,1.0,1500,"8041 S BURNHAM Avenue
-Chicago, IL 60617",35000.0
-2,2.0,1346,"233 E 13th Street 1902
-Chicago, IL 60605",589900.0
-2,2.0,1169,"4848 N Knight Avenue
-Norridge, IL 60706",449900.0
-1,1.0,1070,"757 N Orleans Street 1408
-Chicago, IL 60654",399000.0
-1,1.0,700,"30 E HURON Street 1308
-Chicago, IL 60611",285000.0
-3,2.0,1185,"10854 S Union Avenue
-Chicago, IL 60628",244000.0
-3,1.0,1000,"5703 S Aberdeen Street
-Chicago, IL 60621",127900.0
-2,2.0,1567,"360 E Randolph Street 905
-Chicago, IL 60601",600000.0
-4,3.0,1497,"4125 W Marquette Road
-Chicago, IL 60629",450000.0
-4,3.0,1310,"3946 N Oketo Avenue
-Chicago, IL 60634",449900.0
-3,2.0,1713,"9426 S Springfield Avenue
-Evergreen Park, IL 60805",374900.0
-1,1.0,966,"1235 S Prairie Avenue 3507
-Chicago, IL 60605",349999.0
-4,2.0,1000,"2119 W 70th Place
-Chicago, IL 60636",315000.0
-2,2.0,1250,"6150 N Kenmore Avenue 15B
-Chicago, IL 60660",309900.0
-4,3.0,1380,"6626 S Seeley Avenue
-Chicago, IL 60636",289900.0
-2,1.0,1200,"2421 S 60th Court
-Cicero, IL 60804",250000.0
-3,2.0,1656,"14411 S Parnell Avenue
-Riverdale, IL 60827",161000.0
-2,1.0,900,"9545 S Kedzie Avenue A1J
-Evergreen Park, IL 60805",135000.0
-2,1.0,966,"5600 W Pershing Road
-Cicero, IL 60804",280500.0
-2,2.0,900,"8942 S Cornell Avenue
-Chicago, IL 60617",269900.0
-3,2.0,2100,"1355 W WASHINGTON Street 4D
-Chicago, IL 60607",750000.0
-3,2.0,2100,"1343 E Marquette Road
-Chicago, IL 60637",750000.0
-2,2.0,1465,"505 N MCCLURG Court 702
-Chicago, IL 60611",650000.0
-2,2.0,1327,"1550 N Lake Shore Drive 2A
-Chicago, IL 60610",599900.0
-3,2.0,1752,"1109 W 16th Street 2
-Chicago, IL 60608",559999.0
-4,3.0,2130,"3515 S Parnell Avenue E
-Chicago, IL 60609",535000.0
-3,2.0,2300,"4918 N Chester Avenue
-Norridge, IL 60706",515000.0
-3,3.0,2320,"2515 W Harrison Street 1
-Chicago, IL 60612",499900.0
-2,2.0,1125,"2040 W Belmont Avenue 306
-Chicago, IL 60618",475000.0
-3,2.0,1800,"6017 N Bernard Street
-Chicago, IL 60659",450000.0
-2,2.0,1300,"405 N WABASH Avenue 4709
-Chicago, IL 60611",449999.0
-2,2.0,1479,"1160 S Michigan Avenue 1005
-Chicago, IL 60605",449000.0
-1,1.0,1200,"4300 N Marine Drive 306
-Chicago, IL 60613",429000.0
-2,2.0,1215,"701 S Wells Street 2102
-Chicago, IL 60607",425000.0
-2,2.0,1129,"4141 N Kedzie Avenue 202
-Chicago, IL 60618",415000.0
-3,2.0,1400,"4400 S Prairie Avenue 2
-Chicago, IL 60653",415000.0
-3,2.0,1200,"3919 N Newland Avenue
-Chicago, IL 60634",389900.0
-4,2.0,1800,"2838 N 75th Avenue
-Elmwood Park, IL 60707",380000.0
-3,1.0,2400,"9701 S Springfield Avenue
-Evergreen Park, IL 60805",379000.0
-2,2.0,1128,"645 N Kingsbury Street 1009
-Chicago, IL 60654",375000.0
-3,1.0,1200,"5833 S Menard Avenue
-Chicago, IL 60638",359873.0
-3,2.0,1140,"2501 S 58th Avenue
-Cicero, IL 60804",359000.0
-1,1.0,900,"2000 N Lincoln Park West Street 803
-Chicago, IL 60614",325000.0
-2,2.0,1131,"1155 W Roosevelt Road 406
-Chicago, IL 60608",324900.0
-3,2.0,2106,"1228 E 87th Place
-Chicago, IL 60619",319900.0
-3,1.0,978,"6127 N Ozark Avenue
-Chicago, IL 60631",315000.0
-2,1.0,1700,"5555 S Everett Avenue C14
-Chicago, IL 60637",309999.0
-2,2.0,1560,"7449 S Bennett Avenue
-Chicago, IL 60649",299900.0
-1,1.0,925,"1151 W 14th Place 314
-Chicago, IL 60608",279800.0
-2,1.0,810,"10945 S Ridgeway Avenue
-Chicago, IL 60655",259900.0
-1,1.0,800,"630 N Franklin Street 417
-Chicago, IL 60654",255000.0
-4,1.0,1100,"6913 S Woodlawn Avenue
-Chicago, IL 60637",235000.0
-1,1.0,683,"440 N Wabash Avenue 2307
-Chicago, IL 60611",230000.0
-1,1.0,880,"655 W Irving Park Road 1817
-Chicago, IL 60613",229900.0
-4,3.0,2300,"11416 S Yale Avenue
-Chicago, IL 60628",225000.0
-1,1.0,915,"4940 S East End Avenue 10C
-Chicago, IL 60615",199000.0
-3,1.0,1327,"11217 S Eggleston Avenue
-Chicago, IL 60628",198000.0
-1,1.0,700,"4960 N Marine Drive 510
-Chicago, IL 60640",160000.0
-3,2.0,1000,"8227 S Wentworth Avenue
-Chicago, IL 60620",144900.0
-4,2.0,1050,"4922 W Ferdinand Street
-Chicago, IL 60644",140000.0
-3,1.0,1150,"12760 S Kenneth Avenue B
-Alsip, IL 60803",139873.0
-3,1.0,731,"13308 S RIVERDALE Avenue
-Chicago, IL 60827",135000.0
-1,1.0,800,"6301 N Sheridan Road 22N
-Chicago, IL 60660",129900.0
-2,2.0,1100,"6730 S South Shore Drive 1504
-Chicago, IL 60649",120000.0
-4,1.0,1128,"9230 S Loomis Street
-Chicago, IL 60620",90000.0
-3,2.0,960,"1145 W 111th Place
-Chicago, IL 60643",29900.0
-3,1.0,1454,"3356 N New England Avenue
-Chicago, IL 60634",449000.0
-3,1.0,956,"4454 S Shields Avenue
-Chicago, IL 60609",194900.0
-3,2.0,1881,"5114 S Kenwood Avenue 3B
-Chicago, IL 60615",900000.0
-3,3.0,2400,"2920 N Ridgeway Avenue
-Chicago, IL 60618",899900.0
-3,3.0,1900,"530 N LAKE SHORE Drive 2604
-Chicago, IL 60611",899000.0
-4,3.0,2000,"2424 N SOUTHPORT Avenue A
-Chicago, IL 60614",839999.0
-3,3.0,3300,"5428 N Mont Clare Avenue
-Chicago, IL 60656",825000.0
-4,3.0,3175,"1140 E 44th Street
-Chicago, IL 60653",795000.0
-2,2.0,1310,"240 E Illinois Street 2705
-Chicago, IL 60611",724900.0
-3,2.0,1600,"2212 W Lawrence Avenue 2E
-Chicago, IL 60625",615000.0
-2,2.0,1200,"401 E Ontario Street 1609
-Chicago, IL 60611",610000.0
-3,1.0,1500,"611 W Barry Avenue 4E
-Chicago, IL 60657",585000.0
-3,2.0,1800,"3755 N WILTON Avenue 1SW
-Chicago, IL 60613",495000.0
-2,2.0,1445,"512 N McClurg Court 610
-Chicago, IL 60611",485000.0
-2,2.0,1042,"5004 N Nagle Avenue
-Chicago, IL 60630",475000.0
-2,2.0,1279,"3213 N Orange Avenue
-Chicago, IL 60634",439900.0
-3,2.0,2400,"5714 N Austin Avenue
-Chicago, IL 60646",420000.0
-2,1.0,1025,"1301 W Madison Street 502
-Chicago, IL 60607",419000.0
-1,1.0,979,"1122 N Dearborn Street 12E
-Chicago, IL 60610",410000.0
-2,1.0,1125,"41 E 8TH Street 4A
-Chicago, IL 60605",395000.0
-1,1.0,1250,"345 N Canal Street 502
-Chicago, IL 60606",379000.0
-3,2.0,2474,"5600 S Karlov Avenue
-Chicago, IL 60629",370000.0
-1,1.0,900,"111 S Morgan Street 801
-Chicago, IL 60607",350000.0
-6,2.0,1380,"3716 W 54th Street
-Chicago, IL 60632",343000.0
-3,1.0,1020,"5916 S Meade Avenue
-Chicago, IL 60638",335000.0
+2,1.0,1011,"1405 S Central Avenue Cicero, IL 60804",299999.0
+3,1.0,1116,"10349 S Troy Street Chicago, IL 60655",299000.0
+2,1.0,1100,"5616 W 24th Street Cicero, IL 60804",294000.0
+1,1.0,750,"480 N McClurg Court 716 Chicago, IL 60611",285000.0
+3,2.0,2300,"8004 S Ada Street Chicago, IL 60620",285000.0
+1,1.0,860,"130 S CANAL Street 311 Chicago, IL 60606",275000.0
+4,1.0,1542,"5443 S LONG Avenue Chicago, IL 60638",275000.0
+1,1.0,690,"611 S Wells Street 2801 Chicago, IL 60607",270000.0
+3,3.0,1277,"5734 S Sangamon Street Chicago, IL 60621",249000.0
+1,1.0,1000,"5310 N Glenwood Avenue 2 Chicago, IL 60640",234900.0
+2,1.0,900,"6811 N Lakewood Avenue 3E Chicago, IL 60626",225000.0
+1,1.0,690,"100 E Walton Street 28G Chicago, IL 60611",205000.0
+2,2.0,1200,"5103 S Ellis Avenue G2 Chicago, IL 60615",197900.0
+1,1.0,750,"720 W Gordon Terrace 21M Chicago, IL 60613",190000.0
+3,1.0,1027,"8635 S Burnham Avenue Chicago, IL 60617",190000.0
+1,1.0,825,"5455 N Sheridan Road 3410 Chicago, IL 60640",185000.0
+3,1.0,1850,"7740 S Paxton Avenue Chicago, IL 60649",184999.0
+2,1.0,725,"6320 N Artesian Avenue 204 Chicago, IL 60659",175000.0
+3,2.0,1372,"7740 S Michigan Avenue Chicago, IL 60619",160000.0
+1,1.0,660,"3950 N Lake Shore Drive 2004 Chicago, IL 60613",159900.0
+2,1.0,900,"4659 S Springfield Avenue 3A Chicago, IL 60632",155000.0
+3,3.0,2100,"5000 S East End Avenue 25B Chicago, IL 60615",155000.0
+2,1.0,792,"13020 S Baltimore Avenue Chicago, IL 60633",149900.0
+3,1.0,948,"8389 S Baltimore Avenue Chicago, IL 60617",139000.0
+3,3.0,1184,"7208 S Claremont Avenue Chicago, IL 60636",105000.0
+3,2.0,1085,"9049 S Parnell Avenue Chicago, IL 60620",85000.0
+1,1.0,735,"6730 S South Shore Drive 302 Chicago, IL 60649",83000.0
+3,1.0,1450,"5022 S Carpenter Street Chicago, IL 60609",59900.0
+3,3.0,3664,"1703 W Wrightwood Avenue Chicago, IL 60614",1100000.0
+3,2.0,1800,"15 S Racine Avenue 5N Chicago, IL 60607",1050000.0
+3,2.0,2500,"1944 W Thomas Street 1 Chicago, IL 60622",900000.0
+3,3.0,2107,"1530 S STATE Street 17B Chicago, IL 60605",799000.0
+3,3.0,3000,"4923 N Harding Avenue Chicago, IL 60625",799000.0
+3,2.0,3600,"7136 N Washtenaw Avenue Chicago, IL 60645",749900.0
+2,2.0,1500,"1300 N Lake Shore Drive 25B Chicago, IL 60610",725000.0
+5,3.0,2462,"2325 W Winnemac Avenue Chicago, IL 60625",725000.0
+2,2.0,1716,"160 E ILLINOIS Street 1808 Chicago, IL 60611",699900.0
+3,2.0,1978,"4343 N Richmond Avenue 2S Chicago, IL 60618",699000.0
+1,1.0,1324,"401 N Wabash Avenue 78G Chicago, IL 60611",690000.0
+5,3.0,2846,"5815 N Merrimac Avenue Chicago, IL 60646",684999.0
+2,2.0,1500,"2555 N Southport Avenue 4 Chicago, IL 60614",635000.0
+4,3.0,2400,"3306 N Kenneth Avenue Chicago, IL 60641",609000.0
+3,2.0,1850,"401 E ONTARIO Street 4106 Chicago, IL 60611",599000.0
+2,2.0,1500,"910 W Roscoe Street 2 Chicago, IL 60657",525000.0
+3,2.0,1600,"2216 W North Avenue 2 Chicago, IL 60647",525000.0
+2,2.0,1678,"212 E Cullerton Street PH P11 Chicago, IL 60616",475000.0
+2,2.0,1201,"2317 W Wolfram Street 211 Chicago, IL 60618",439900.0
+1,1.0,994,"1255 N STATE Parkway 2D Chicago, IL 60610",425000.0
+3,3.0,1500,"4627 W Schubert Avenue Chicago, IL 60639",419900.0
+2,2.0,1195,"3944 N CLAREMONT Avenue 403 Chicago, IL 60618",400000.0
+2,2.0,1300,"260 E Chestnut Street 2604 Chicago, IL 60611",400000.0
+2,2.0,1250,"1307 S Wabash Avenue 402 Chicago, IL 60605",399000.0
+2,2.0,1453,"4250 N Marine Drive 2535 Chicago, IL 60613",395000.0
+1,1.0,783,"659 W RANDOLPH Street 413 Chicago, IL 60661",375000.0
+4,3.0,4232,"1150 N Latrobe Avenue Chicago, IL 60651",375000.0
+2,2.0,1316,"3951 W Ainslie Street 7 Chicago, IL 60625",360000.0
+2,2.0,1200,"4434 N Damen Avenue 1E Chicago, IL 60625",349000.0
+1,1.0,850,"725 N Aberdeen Street 508 Chicago, IL 60642",335000.0
+4,3.0,1680,"6510 S Woodlawn Avenue 1 Chicago, IL 60637",335000.0
+1,1.0,1100,"4616 N Kenmore Avenue 401 Chicago, IL 60640",330000.0
+4,3.0,1628,"1835 N Keeler Avenue Chicago, IL 60639",319000.0
+2,2.0,1500,"6033 N Sheridan Road 32G Chicago, IL 60660",299900.0
+1,1.0,880,"8 E Randolph Street 2703 Chicago, IL 60601",299000.0
+3,2.0,1405,"7637 N Bosworth Avenue 1-N Chicago, IL 60626",299000.0
+1,1.0,750,"1636 N Wells Street 911 Chicago, IL 60614",295000.0
+4,2.0,1800,"6407 S Kostner Avenue Chicago, IL 60629",295000.0
+3,1.0,1300,"3950 N Lake Shore Drive 720D Chicago, IL 60613",285000.0
+2,1.0,1500,"8639.5 W Foster Avenue 1N Chicago, IL 60656",249900.0
+2,1.0,1100,"5349 N Delphia Avenue 150 Chicago, IL 60656",239900.0
+2,1.0,900,"3524 N Lawndale Avenue 1G Chicago, IL 60618",194000.0
+2,1.0,1003,"6805 S Wabash Avenue Chicago, IL 60637",169900.0
+1,1.0,850,"1849 W Greenleaf Avenue 3S Chicago, IL 60626",167000.0
+3,1.0,1048,"4027 W Cullerton Street Chicago, IL 60623",107000.0
+3,2.0,1783,"3951 N Wayne Avenue 305 Chicago, IL 60613",1099999.0
+3,3.0,3015,"2607 N ASHLAND Avenue 3W Chicago, IL 60614",989000.0
+3,3.0,3000,"3430 N Elaine Place CH Chicago, IL 60657",899000.0
+2,2.0,1800,"505 N Lake Shore Drive 5306 Chicago, IL 60611",880000.0
+3,2.0,2500,"1735 N Albany Avenue 1 Chicago, IL 60647",750000.0
+3,2.0,1950,"1462 W Balmoral Avenue 3 Chicago, IL 60640",689000.0
+3,2.0,1678,"2238 W Belmont Avenue 4E Chicago, IL 60618",625000.0
+2,1.0,1161,"532 W Eugenie Street Chicago, IL 60614",600000.0
+2,2.0,1406,"3140 N Sheffield Avenue 614 Chicago, IL 60657",600000.0
+3,2.0,1300,"6753 N Hermitage Avenue 2 Chicago, IL 60626",575000.0
+3,2.0,1600,"474 N LAKE SHORE Drive 4808 Chicago, IL 60611",575000.0
+3,2.0,1590,"474 N Lake Shore Drive 5108 Chicago, IL 60611",555000.0
+3,2.0,1588,"4732 N ANTHON Avenue Chicago, IL 60656",549000.0
+2,2.0,1212,"2251 W Saint Paul Avenue 3G Chicago, IL 60647",485000.0
+1,1.0,1150,"110 W SUPERIOR Street 1604 Chicago, IL 60654",449900.0
+2,2.0,1240,"1515 S Prairie Avenue 1203 Chicago, IL 60605",425000.0
+4,2.0,1104,"6448 S Artesian Avenue Chicago, IL 60629",379000.0
+1,1.0,744,"111 S MORGAN Street 422 Chicago, IL 60607",360000.0
+1,1.0,790,"123 S GREEN Street 710B Chicago, IL 60607",355000.0
+2,1.0,715,"5809 N Rogers Avenue Chicago, IL 60646",345000.0
+2,1.0,1200,"600 S Dearborn Street 901 Chicago, IL 60605",340000.0
+3,2.0,2240,"9048 S LUELLA Avenue Chicago, IL 60617",340000.0
+2,2.0,1200,"2636 N FAIRFIELD Avenue G Chicago, IL 60647",325000.0
+4,2.0,2000,"7430 S King Drive Chicago, IL 60619",303900.0
+1,1.0,880,"200 W Grand Avenue 1202 Chicago, IL 60654",299995.0
+2,1.0,1000,"3931 W 82nd Street Chicago, IL 60652",279900.0
+2,1.0,1100,"1339 N DEARBORN Street 14H Chicago, IL 60610",275000.0
+3,1.0,1582,"4938 W Wrightwood Avenue Chicago, IL 60639",273000.0
+3,2.0,1500,"1467 W 73rd Street Chicago, IL 60636",254900.0
+3,2.0,1700,"3816 S King Drive 2 Chicago, IL 60653",249900.0
+1,1.0,800,"715 W BARRY Avenue 3A Chicago, IL 60657",230000.0
+3,2.0,1690,"10820 S Eggleston Avenue Chicago, IL 60628",229900.0
+2,1.0,900,"3115 N Nashville Avenue 2W Chicago, IL 60634",225000.0
+2,1.0,1300,"5950 S Artesian Avenue Chicago, IL 60629",219900.0
+3,1.0,1159,"5704 S Homan Avenue Chicago, IL 60629",200000.0
+2,1.0,1000,"4976 N Milwaukee Avenue 401 Chicago, IL 60630",199900.0
+1,1.0,500,"3210 S Archer Avenue 306 Chicago, IL 60608",198000.0
+3,2.0,1648,"7940 S Crandon Avenue Chicago, IL 60617",180000.0
+4,2.0,1500,"6614 S Wabash Avenue Chicago, IL 60637",179900.0
+1,1.0,800,"6171 N Sheridan Road 2804 Chicago, IL 60660",169900.0
+1,1.0,800,"6171 N Sheridan Road 1804 Chicago, IL 60660",164900.0
+5,2.0,1548,"6732 S Peoria Street Chicago, IL 60621",150000.0
+5,2.0,2200,"7533 S Eberhart Avenue Chicago, IL 60619",139900.0
+2,1.0,950,"8026 S Michigan Avenue 2A Chicago, IL 60619",70000.0
+4,4.0,2069,"5005 S Ridgeway Avenue Chicago, IL 60632",485000.0
+3,4.0,3500,"3432 S NORMAL Avenue Chicago, IL 60616",959500.0
+3,2.0,1800,"2414 N Sawyer Avenue 3B Chicago, IL 60647",925000.0
+4,3.0,2750,"4259 N Monticello Avenue Chicago, IL 60618",829000.0
+2,2.0,1310,"234 W Polk Street 2901 Chicago, IL 60607",730000.0
+2,2.0,1219,"234 W Polk Street 3103 Chicago, IL 60607",655000.0
+3,2.0,2400,"8618 W Wilson Avenue Chicago, IL 60656",625000.0
+3,2.0,1507,"1716 N Wells Street 3 Chicago, IL 60614",599900.0
+2,3.0,2200,"1505 N TALMAN Avenue 1 Chicago, IL 60622",585000.0
+4,3.0,2075,"3529 S 54th Avenue Cicero, IL 60804",489000.0
+2,2.0,1200,"500 W Superior Street 602 Chicago, IL 60654",454999.0
+2,2.0,1150,"345 W Fullerton Parkway 801 Chicago, IL 60614",449000.0
+1,1.0,1100,"333 N Canal Street 1702 Chicago, IL 60606",445000.0
+3,1.0,1350,"3935 N Saint Louis Avenue Chicago, IL 60618",429900.0
+2,2.0,1225,"635 N Dearborn Street 1206 Chicago, IL 60654",425000.0
+2,1.0,1177,"1111 S Wabash Avenue 2007 Chicago, IL 60605",399000.0
+2,2.0,952,"635 N Dearborn Street 2103 Chicago, IL 60654",385000.0
+1,1.0,1000,"1000 W Washington Boulevard 232 Chicago, IL 60607",385000.0
+4,2.0,1450,"1409 E 49th Street Chicago, IL 60615",384000.0
+3,1.0,1732,"8800 S Bennett Avenue Chicago, IL 60617",340000.0
+2,2.0,1025,"235 W VAN BUREN Street 1702 Chicago, IL 60607",330000.0
+5,2.0,1530,"7417 S Saint Lawrence Avenue Chicago, IL 60619",325000.0
+1,1.0,1093,"10 E ONTARIO Street 4007 Chicago, IL 60611",290000.0
+4,2.0,1377,"337 W 106th Place Chicago, IL 60628",274900.0
+4,2.0,1800,"1717 W 71st Street Chicago, IL 60636",260000.0
+2,2.0,1500,"13538 S Burley Avenue Chicago, IL 60633",230000.0
+1,1.0,725,"1069 W 14th Place 333 Chicago, IL 60608",225000.0
+2,2.0,1200,"6617 S Kimbark Avenue 2B Chicago, IL 60637",205000.0
+4,2.0,914,"8118 S Spaulding Street Chicago, IL 60652",200000.0
+3,2.0,1914,"6606 S Laflin Street Chicago, IL 60636",179900.0
+4,2.0,1972,"11947 S Eggleston Avenue Chicago, IL 60628",172500.0
+1,1.0,850,"5757 N Sheridan Road 14F Chicago, IL 60660",165000.0
+3,1.0,1125,"14526 S Dearborn Street Riverdale, IL 60827",154900.0
+1,1.0,750,"6301 N Sheridan Road 16N Chicago, IL 60660",124900.0
+3,1.0,1500,"8041 S BURNHAM Avenue Chicago, IL 60617",35000.0
+2,2.0,1346,"233 E 13th Street 1902 Chicago, IL 60605",589900.0
+2,2.0,1169,"4848 N Knight Avenue Norridge, IL 60706",449900.0
+1,1.0,1070,"757 N Orleans Street 1408 Chicago, IL 60654",399000.0
+1,1.0,700,"30 E HURON Street 1308 Chicago, IL 60611",285000.0
+3,2.0,1185,"10854 S Union Avenue Chicago, IL 60628",244000.0
+3,1.0,1000,"5703 S Aberdeen Street Chicago, IL 60621",127900.0
+2,2.0,1567,"360 E Randolph Street 905 Chicago, IL 60601",600000.0
+4,3.0,1497,"4125 W Marquette Road Chicago, IL 60629",450000.0
+4,3.0,1310,"3946 N Oketo Avenue Chicago, IL 60634",449900.0
+3,2.0,1713,"9426 S Springfield Avenue Evergreen Park, IL 60805",374900.0
+1,1.0,966,"1235 S Prairie Avenue 3507 Chicago, IL 60605",349999.0
+4,2.0,1000,"2119 W 70th Place Chicago, IL 60636",315000.0
+2,2.0,1250,"6150 N Kenmore Avenue 15B Chicago, IL 60660",309900.0
+4,3.0,1380,"6626 S Seeley Avenue Chicago, IL 60636",289900.0
+2,1.0,1200,"2421 S 60th Court Cicero, IL 60804",250000.0
+3,2.0,1656,"14411 S Parnell Avenue Riverdale, IL 60827",161000.0
+2,1.0,900,"9545 S Kedzie Avenue A1J Evergreen Park, IL 60805",135000.0
+2,1.0,966,"5600 W Pershing Road Cicero, IL 60804",280500.0
+2,2.0,900,"8942 S Cornell Avenue Chicago, IL 60617",269900.0
+3,2.0,2100,"1355 W WASHINGTON Street 4D Chicago, IL 60607",750000.0
+3,2.0,2100,"1343 E Marquette Road Chicago, IL 60637",750000.0
+2,2.0,1465,"505 N MCCLURG Court 702 Chicago, IL 60611",650000.0
+2,2.0,1327,"1550 N Lake Shore Drive 2A Chicago, IL 60610",599900.0
+3,2.0,1752,"1109 W 16th Street 2 Chicago, IL 60608",559999.0
+4,3.0,2130,"3515 S Parnell Avenue E Chicago, IL 60609",535000.0
+3,2.0,2300,"4918 N Chester Avenue Norridge, IL 60706",515000.0
+3,3.0,2320,"2515 W Harrison Street 1 Chicago, IL 60612",499900.0
+2,2.0,1125,"2040 W Belmont Avenue 306 Chicago, IL 60618",475000.0
+3,2.0,1800,"6017 N Bernard Street Chicago, IL 60659",450000.0
+2,2.0,1300,"405 N WABASH Avenue 4709 Chicago, IL 60611",449999.0
+2,2.0,1479,"1160 S Michigan Avenue 1005 Chicago, IL 60605",449000.0
+1,1.0,1200,"4300 N Marine Drive 306 Chicago, IL 60613",429000.0
+2,2.0,1215,"701 S Wells Street 2102 Chicago, IL 60607",425000.0
+2,2.0,1129,"4141 N Kedzie Avenue 202 Chicago, IL 60618",415000.0
+3,2.0,1400,"4400 S Prairie Avenue 2 Chicago, IL 60653",415000.0
+3,2.0,1200,"3919 N Newland Avenue Chicago, IL 60634",389900.0
+4,2.0,1800,"2838 N 75th Avenue Elmwood Park, IL 60707",380000.0
+3,1.0,2400,"9701 S Springfield Avenue Evergreen Park, IL 60805",379000.0
+2,2.0,1128,"645 N Kingsbury Street 1009 Chicago, IL 60654",375000.0
+3,1.0,1200,"5833 S Menard Avenue Chicago, IL 60638",359873.0
+3,2.0,1140,"2501 S 58th Avenue Cicero, IL 60804",359000.0
+1,1.0,900,"2000 N Lincoln Park West Street 803 Chicago, IL 60614",325000.0
+2,2.0,1131,"1155 W Roosevelt Road 406 Chicago, IL 60608",324900.0
+3,2.0,2106,"1228 E 87th Place Chicago, IL 60619",319900.0
+3,1.0,978,"6127 N Ozark Avenue Chicago, IL 60631",315000.0
+2,1.0,1700,"5555 S Everett Avenue C14 Chicago, IL 60637",309999.0
+2,2.0,1560,"7449 S Bennett Avenue Chicago, IL 60649",299900.0
+1,1.0,925,"1151 W 14th Place 314 Chicago, IL 60608",279800.0
+2,1.0,810,"10945 S Ridgeway Avenue Chicago, IL 60655",259900.0
+1,1.0,800,"630 N Franklin Street 417 Chicago, IL 60654",255000.0
+4,1.0,1100,"6913 S Woodlawn Avenue Chicago, IL 60637",235000.0
+1,1.0,683,"440 N Wabash Avenue 2307 Chicago, IL 60611",230000.0
+1,1.0,880,"655 W Irving Park Road 1817 Chicago, IL 60613",229900.0
+4,3.0,2300,"11416 S Yale Avenue Chicago, IL 60628",225000.0
+1,1.0,915,"4940 S East End Avenue 10C Chicago, IL 60615",199000.0
+3,1.0,1327,"11217 S Eggleston Avenue Chicago, IL 60628",198000.0
+1,1.0,700,"4960 N Marine Drive 510 Chicago, IL 60640",160000.0
+3,2.0,1000,"8227 S Wentworth Avenue Chicago, IL 60620",144900.0
+4,2.0,1050,"4922 W Ferdinand Street Chicago, IL 60644",140000.0
+3,1.0,1150,"12760 S Kenneth Avenue B Alsip, IL 60803",139873.0
+3,1.0,731,"13308 S RIVERDALE Avenue Chicago, IL 60827",135000.0
+1,1.0,800,"6301 N Sheridan Road 22N Chicago, IL 60660",129900.0
+2,2.0,1100,"6730 S South Shore Drive 1504 Chicago, IL 60649",120000.0
+4,1.0,1128,"9230 S Loomis Street Chicago, IL 60620",90000.0
+3,2.0,960,"1145 W 111th Place Chicago, IL 60643",29900.0
+3,1.0,1454,"3356 N New England Avenue Chicago, IL 60634",449000.0
+3,1.0,956,"4454 S Shields Avenue Chicago, IL 60609",194900.0
+3,2.0,1881,"5114 S Kenwood Avenue 3B Chicago, IL 60615",900000.0
+3,3.0,2400,"2920 N Ridgeway Avenue Chicago, IL 60618",899900.0
+3,3.0,1900,"530 N LAKE SHORE Drive 2604 Chicago, IL 60611",899000.0
+4,3.0,2000,"2424 N SOUTHPORT Avenue A Chicago, IL 60614",839999.0
+3,3.0,3300,"5428 N Mont Clare Avenue Chicago, IL 60656",825000.0
+4,3.0,3175,"1140 E 44th Street Chicago, IL 60653",795000.0
+2,2.0,1310,"240 E Illinois Street 2705 Chicago, IL 60611",724900.0
+3,2.0,1600,"2212 W Lawrence Avenue 2E Chicago, IL 60625",615000.0
+2,2.0,1200,"401 E Ontario Street 1609 Chicago, IL 60611",610000.0
+3,1.0,1500,"611 W Barry Avenue 4E Chicago, IL 60657",585000.0
+3,2.0,1800,"3755 N WILTON Avenue 1SW Chicago, IL 60613",495000.0
+2,2.0,1445,"512 N McClurg Court 610 Chicago, IL 60611",485000.0
+2,2.0,1042,"5004 N Nagle Avenue Chicago, IL 60630",475000.0
+2,2.0,1279,"3213 N Orange Avenue Chicago, IL 60634",439900.0
+3,2.0,2400,"5714 N Austin Avenue Chicago, IL 60646",420000.0
+2,1.0,1025,"1301 W Madison Street 502 Chicago, IL 60607",419000.0
+1,1.0,979,"1122 N Dearborn Street 12E Chicago, IL 60610",410000.0
+2,1.0,1125,"41 E 8TH Street 4A Chicago, IL 60605",395000.0
+1,1.0,1250,"345 N Canal Street 502 Chicago, IL 60606",379000.0
+3,2.0,2474,"5600 S Karlov Avenue Chicago, IL 60629",370000.0
+1,1.0,900,"111 S Morgan Street 801 Chicago, IL 60607",350000.0
+6,2.0,1380,"3716 W 54th Street Chicago, IL 60632",343000.0
+3,1.0,1020,"5916 S Meade Avenue Chicago, IL 60638",335000.0
 2,1.0,700,"Chicago, IL 60657",315000.0
-2,2.0,1200,"2457 W Harrison Street 4
-Chicago, IL 60612",315000.0
+2,2.0,1200,"2457 W Harrison Street 4 Chicago, IL 60612",315000.0
 4,2.0,1462,"Evergreen Park, IL 60805",299900.0
-1,1.0,1000,"600 S Dearborn Street 1808
-Chicago, IL 60605",299000.0
-3,2.0,1300,"7841 S Seeley Avenue
-Chicago, IL 60620",289900.0
-3,2.0,1250,"8944 S Jeffery Boulevard
-Chicago, IL 60617",279900.0
-3,1.0,1020,"6125 S Nashville Avenue
-Chicago, IL 60638",265000.0
-2,2.0,1065,"801 S Plymouth Court 616
-Chicago, IL 60605",265000.0
-3,2.0,1320,"10519 S Eberhart Avenue
-Chicago, IL 60628",264900.0
-3,2.0,1700,"4316 S Vincennes Avenue 3S
-Chicago, IL 60653",260000.0
-3,2.0,1200,"6230 W 63rd Place
-Chicago, IL 60638",259999.0
-1,1.0,864,"2024 S Wabash Avenue 507
-Chicago, IL 60616",249900.0
-2,2.0,1300,"6171 N Sheridan Road 2511
-Chicago, IL 60660",245000.0
-3,2.0,2080,"8121 S Wentworth Avenue
-Chicago, IL 60620",245000.0
-4,2.0,1400,"1329 E 89th Place
-Chicago, IL 60619",237900.0
-2,1.0,850,"4907 N Avers Avenue 2
-Chicago, IL 60625",230000.0
-2,1.0,1255,"12034 S Kildare Avenue
-Alsip, IL 60803",230000.0
-1,1.0,585,"40 E 9th Street 614
-Chicago, IL 60605",215000.0
-2,1.0,1000,"5349 N Delphia Avenue 149
-Chicago, IL 60656",212000.0
-4,2.0,2000,"4952 S Paulina Street
-Chicago, IL 60609",200000.0
-2,1.0,1000,"5927 W Addison Street 2B
-Chicago, IL 60634",185000.0
-1,1.0,1200,"6301 N Sheridan Road 20K
-Chicago, IL 60660",179900.0
-3,2.0,1200,"2117 E 96th Place
-Chicago, IL 60617",174900.0
-4,1.0,1317,"8216 S Brandon Avenue
-Chicago, IL 60617",80000.0
-5,2.0,1400,"114 W 108th Place
-Chicago, IL 60628",73900.0
-3,2.0,1700,"4250 N Marine Drive N , 2035
-Chicago, IL 60613",469000.0
-2,1.0,1200,"10730 S Albany Avenue
-Chicago, IL 60655",289000.0
-1,1.0,1040,"100 N Hermitage Avenue , 504
-Chicago, IL 60612",277000.0
-4,4.0,4098,"3454 W Potomac Avenue
-Chicago, IL 60651",959000.0
-3,2.0,1629,"5446 S Kimbark Avenue 3
-Chicago, IL 60615",929000.0
-3,2.0,2400,"4508 N Mozart Street
-Chicago, IL 60625",875000.0
-4,2.0,2830,"1912 W Lunt Avenue
-Chicago, IL 60626",825000.0
-2,2.0,1470,"175 E Delaware Place 7204
-Chicago, IL 60611",750000.0
-3,3.0,3036,"3440 N Central Avenue
-Chicago, IL 60634",699000.0
-3,2.0,2200,"884 N Paulina Street 1R
-Chicago, IL 60622",650000.0
-2,2.0,1225,"1040 W Adams Street 510
-Chicago, IL 60607",550000.0
-2,2.0,1263,"909 W Washington Boulevard 712
-Chicago, IL 60607",549900.0
-2,2.0,1200,"401 E Ontario Street 1909
-Chicago, IL 60611",489900.0
-2,1.0,1100,"2149 N Kenmore Avenue 2N
-Chicago, IL 60614",465000.0
-2,2.0,1234,"125 E 13TH Street 1311
-Chicago, IL 60605",465000.0
-2,2.0,1224,"933 W VAN BUREN Street 315
-Chicago, IL 60607",440000.0
-2,2.0,1350,"195 N Harbor Drive 1408
-Chicago, IL 60601",425000.0
-4,2.0,2530,"5025 W Superior Street
-Chicago, IL 60644",424900.0
-3,2.0,2302,"6004 S Mobile Avenue
-Chicago, IL 60638",420000.0
-4,2.0,3100,"8034 S Clyde Avenue
-Chicago, IL 60617",395000.0
-5,3.0,2500,"8732 S Dorchester Avenue
-Chicago, IL 60619",389000.0
-3,2.0,2100,"3910 W 83rd Place
-Chicago, IL 60652",370000.0
-2,2.0,1372,"4635 N Malden Street GS
-Chicago, IL 60640",359900.0
-2,2.0,1100,"2212 W Lawrence Avenue 1E
-Chicago, IL 60625",350000.0
-3,2.0,1344,"10544 S Springfield Avenue
-Chicago, IL 60655",349900.0
-1,1.0,977,"333 W Hubbard Street 513
-Chicago, IL 60654",335000.0
-3,2.0,1498,"7354 S Michigan Avenue
-Chicago, IL 60619",319900.0
-1,1.0,740,"501 N Clinton Street 1301
-Chicago, IL 60654",319000.0
-2,2.0,1250,"5445 N Sheridan Road 3901
-Chicago, IL 60640",315000.0
-3,2.0,1152,"13247 S Commercial Avenue
-Chicago, IL 60633",280000.0
-3,2.0,1800,"11812 S Bishop Street
-Chicago, IL 60643",269900.0
-4,2.0,2000,"6843 S Maplewood Avenue
-Chicago, IL 60629",269900.0
-4,2.0,1381,"3115 S 53rd Court
-Cicero, IL 60804",259000.0
-2,2.0,1040,"8738 S Bennett Avenue
-Chicago, IL 60617",254900.0
-3,2.0,1040,"7709 S Champlain Avenue
-Chicago, IL 60619",249999.0
-2,2.0,1500,"6423 N Damen Avenue 1W
-Chicago, IL 60645",249900.0
-5,2.0,2051,"1329 W 71st Street
-Chicago, IL 60636",235000.0
-6,2.0,1008,"1020 N Avers Avenue
-Chicago, IL 60651",220900.0
-2,2.0,1178,"6833 N Kedzie Avenue 306
-Chicago, IL 60645",178900.0
-3,1.0,1190,"11920 S Parnell Avenue
-Chicago, IL 60628",165000.0
-3,1.0,1440,"7517 S Chappel Avenue
-Chicago, IL 60649",149000.0
-1,1.0,900,"1714 W Touhy Avenue D1N
-Chicago, IL 60626",125000.0
-2,1.0,800,"10600 S Walden Parkway 1E
-Chicago, IL 60643",124900.0
-4,2.0,1160,"10210 S Emerald Avenue
-Chicago, IL 60628",86900.0
-3,2.0,1338,"6927 S Woodlawn Avenue
-Chicago, IL 60637",72000.0
-5,2.0,1400,"10514 S Perry Avenue
-Chicago, IL 60628",68000.0
-4,2.0,1673,"13942 S Chippewa Avenue
-Burnham, IL 60633",64900.0
-4,3.0,2820,"7324 W Lunt Avenue
-Chicago, IL 60631",755000.0
-3,2.0,1650,"1526 N La Salle Drive 3E
-Chicago, IL 60610",675000.0
-2,2.0,1300,"123 S Green Street 1101B
-Chicago, IL 60607",599000.0
-2,2.0,1390,"10 E Ontario Street 4902
-Chicago, IL 60611",525000.0
-4,3.0,2216,"4929 N Hamlin Avenue
-Chicago, IL 60625",450000.0
-2,2.0,1257,"474 N Lake Shore Drive 2508
-Chicago, IL 60611",430000.0
-3,2.0,1500,"1945 W EVERGREEN Avenue GF
-Chicago, IL 60622",425000.0
-4,3.0,2200,"3617 N Nottingham Avenue
-Chicago, IL 60634",409000.0
-3,2.0,1241,"5515 S NORMANDY Avenue
-Chicago, IL 60638",405000.0
-2,2.0,1100,"2256 W ERIE Street 1
-Chicago, IL 60612",385000.0
-2,2.0,1250,"1250 W Van Buren Street 314
-Chicago, IL 60607",375000.0
-4,2.0,1650,"5241 N Mobile Avenue
-Chicago, IL 60630",359900.0
+1,1.0,1000,"600 S Dearborn Street 1808 Chicago, IL 60605",299000.0
+3,2.0,1300,"7841 S Seeley Avenue Chicago, IL 60620",289900.0
+3,2.0,1250,"8944 S Jeffery Boulevard Chicago, IL 60617",279900.0
+3,1.0,1020,"6125 S Nashville Avenue Chicago, IL 60638",265000.0
+2,2.0,1065,"801 S Plymouth Court 616 Chicago, IL 60605",265000.0
+3,2.0,1320,"10519 S Eberhart Avenue Chicago, IL 60628",264900.0
+3,2.0,1700,"4316 S Vincennes Avenue 3S Chicago, IL 60653",260000.0
+3,2.0,1200,"6230 W 63rd Place Chicago, IL 60638",259999.0
+1,1.0,864,"2024 S Wabash Avenue 507 Chicago, IL 60616",249900.0
+2,2.0,1300,"6171 N Sheridan Road 2511 Chicago, IL 60660",245000.0
+3,2.0,2080,"8121 S Wentworth Avenue Chicago, IL 60620",245000.0
+4,2.0,1400,"1329 E 89th Place Chicago, IL 60619",237900.0
+2,1.0,850,"4907 N Avers Avenue 2 Chicago, IL 60625",230000.0
+2,1.0,1255,"12034 S Kildare Avenue Alsip, IL 60803",230000.0
+1,1.0,585,"40 E 9th Street 614 Chicago, IL 60605",215000.0
+2,1.0,1000,"5349 N Delphia Avenue 149 Chicago, IL 60656",212000.0
+4,2.0,2000,"4952 S Paulina Street Chicago, IL 60609",200000.0
+2,1.0,1000,"5927 W Addison Street 2B Chicago, IL 60634",185000.0
+1,1.0,1200,"6301 N Sheridan Road 20K Chicago, IL 60660",179900.0
+3,2.0,1200,"2117 E 96th Place Chicago, IL 60617",174900.0
+4,1.0,1317,"8216 S Brandon Avenue Chicago, IL 60617",80000.0
+5,2.0,1400,"114 W 108th Place Chicago, IL 60628",73900.0
+3,2.0,1700,"4250 N Marine Drive N , 2035 Chicago, IL 60613",469000.0
+2,1.0,1200,"10730 S Albany Avenue Chicago, IL 60655",289000.0
+1,1.0,1040,"100 N Hermitage Avenue , 504 Chicago, IL 60612",277000.0
+4,4.0,4098,"3454 W Potomac Avenue Chicago, IL 60651",959000.0
+3,2.0,1629,"5446 S Kimbark Avenue 3 Chicago, IL 60615",929000.0
+3,2.0,2400,"4508 N Mozart Street Chicago, IL 60625",875000.0
+4,2.0,2830,"1912 W Lunt Avenue Chicago, IL 60626",825000.0
+2,2.0,1470,"175 E Delaware Place 7204 Chicago, IL 60611",750000.0
+3,3.0,3036,"3440 N Central Avenue Chicago, IL 60634",699000.0
+3,2.0,2200,"884 N Paulina Street 1R Chicago, IL 60622",650000.0
+2,2.0,1225,"1040 W Adams Street 510 Chicago, IL 60607",550000.0
+2,2.0,1263,"909 W Washington Boulevard 712 Chicago, IL 60607",549900.0
+2,2.0,1200,"401 E Ontario Street 1909 Chicago, IL 60611",489900.0
+2,1.0,1100,"2149 N Kenmore Avenue 2N Chicago, IL 60614",465000.0
+2,2.0,1234,"125 E 13TH Street 1311 Chicago, IL 60605",465000.0
+2,2.0,1224,"933 W VAN BUREN Street 315 Chicago, IL 60607",440000.0
+2,2.0,1350,"195 N Harbor Drive 1408 Chicago, IL 60601",425000.0
+4,2.0,2530,"5025 W Superior Street Chicago, IL 60644",424900.0
+3,2.0,2302,"6004 S Mobile Avenue Chicago, IL 60638",420000.0
+4,2.0,3100,"8034 S Clyde Avenue Chicago, IL 60617",395000.0
+5,3.0,2500,"8732 S Dorchester Avenue Chicago, IL 60619",389000.0
+3,2.0,2100,"3910 W 83rd Place Chicago, IL 60652",370000.0
+2,2.0,1372,"4635 N Malden Street GS Chicago, IL 60640",359900.0
+2,2.0,1100,"2212 W Lawrence Avenue 1E Chicago, IL 60625",350000.0
+3,2.0,1344,"10544 S Springfield Avenue Chicago, IL 60655",349900.0
+1,1.0,977,"333 W Hubbard Street 513 Chicago, IL 60654",335000.0
+3,2.0,1498,"7354 S Michigan Avenue Chicago, IL 60619",319900.0
+1,1.0,740,"501 N Clinton Street 1301 Chicago, IL 60654",319000.0
+2,2.0,1250,"5445 N Sheridan Road 3901 Chicago, IL 60640",315000.0
+3,2.0,1152,"13247 S Commercial Avenue Chicago, IL 60633",280000.0
+3,2.0,1800,"11812 S Bishop Street Chicago, IL 60643",269900.0
+4,2.0,2000,"6843 S Maplewood Avenue Chicago, IL 60629",269900.0
+4,2.0,1381,"3115 S 53rd Court Cicero, IL 60804",259000.0
+2,2.0,1040,"8738 S Bennett Avenue Chicago, IL 60617",254900.0
+3,2.0,1040,"7709 S Champlain Avenue Chicago, IL 60619",249999.0
+2,2.0,1500,"6423 N Damen Avenue 1W Chicago, IL 60645",249900.0
+5,2.0,2051,"1329 W 71st Street Chicago, IL 60636",235000.0
+6,2.0,1008,"1020 N Avers Avenue Chicago, IL 60651",220900.0
+2,2.0,1178,"6833 N Kedzie Avenue 306 Chicago, IL 60645",178900.0
+3,1.0,1190,"11920 S Parnell Avenue Chicago, IL 60628",165000.0
+3,1.0,1440,"7517 S Chappel Avenue Chicago, IL 60649",149000.0
+1,1.0,900,"1714 W Touhy Avenue D1N Chicago, IL 60626",125000.0
+2,1.0,800,"10600 S Walden Parkway 1E Chicago, IL 60643",124900.0
+4,2.0,1160,"10210 S Emerald Avenue Chicago, IL 60628",86900.0
+3,2.0,1338,"6927 S Woodlawn Avenue Chicago, IL 60637",72000.0
+5,2.0,1400,"10514 S Perry Avenue Chicago, IL 60628",68000.0
+4,2.0,1673,"13942 S Chippewa Avenue Burnham, IL 60633",64900.0
+4,3.0,2820,"7324 W Lunt Avenue Chicago, IL 60631",755000.0
+3,2.0,1650,"1526 N La Salle Drive 3E Chicago, IL 60610",675000.0
+2,2.0,1300,"123 S Green Street 1101B Chicago, IL 60607",599000.0
+2,2.0,1390,"10 E Ontario Street 4902 Chicago, IL 60611",525000.0
+4,3.0,2216,"4929 N Hamlin Avenue Chicago, IL 60625",450000.0
+2,2.0,1257,"474 N Lake Shore Drive 2508 Chicago, IL 60611",430000.0
+3,2.0,1500,"1945 W EVERGREEN Avenue GF Chicago, IL 60622",425000.0
+4,3.0,2200,"3617 N Nottingham Avenue Chicago, IL 60634",409000.0
+3,2.0,1241,"5515 S NORMANDY Avenue Chicago, IL 60638",405000.0
+2,2.0,1100,"2256 W ERIE Street 1 Chicago, IL 60612",385000.0
+2,2.0,1250,"1250 W Van Buren Street 314 Chicago, IL 60607",375000.0
+4,2.0,1650,"5241 N Mobile Avenue Chicago, IL 60630",359900.0
 4,2.0,1800,"Chicago, IL 60617",340000.0
-2,2.0,1048,"235 W VAN BUREN Street 2719
-Chicago, IL 60607",325000.0
-2,2.0,1218,"1700 E 56th Street 2908
-Chicago, IL 60637",325000.0
-4,3.0,1700,"5235 S Francisco Avenue
-Chicago, IL 60632",319900.0
-1,1.0,890,"405 N Wabash Avenue 3811
-Chicago, IL 60611",315000.0
-2,2.0,1200,"1500 S Halsted Street 1A
-Chicago, IL 60607",280000.0
-3,1.0,1200,"3719 W Ferdinand Street
-Chicago, IL 60624",274999.0
-5,3.0,1680,"6606 S Talman Avenue
-Chicago, IL 60629",270000.0
-1,1.0,762,"4144 N Sheridan Road 411
-Chicago, IL 60613",259900.0
-2,2.0,1200,"3444 N Narragansett Avenue 3
-Chicago, IL 60634",259000.0
-2,1.0,874,"2658 W Rascher Avenue 301
-Chicago, IL 60625",245000.0
-5,2.0,1824,"6801 S Oakley Avenue
-Chicago, IL 60636",244900.0
-3,1.0,2638,"8940 S Emerald Avenue
-Chicago, IL 60620",230000.0
-1,1.0,906,"4250 N Marine Drive 2108
-Chicago, IL 60613",225000.0
-2,1.0,1000,"4716 N BERNARD Street 2E
-Chicago, IL 60625",225000.0
-1,2.0,1000,"1324 W Greenleaf Avenue 1B
-Chicago, IL 60626",224500.0
-1,1.0,850,"4343 N Clarendon Avenue 1505
-Chicago, IL 60613",185000.0
-2,1.0,850,"3433 W Bryn Mawr Avenue GN
-Chicago, IL 60659",178000.0
-2,2.0,1657,"5000 S East End Avenue 14B
-Chicago, IL 60615",172000.0
-1,1.0,680,"8444 W Wilson Avenue 209
-Chicago, IL 60656",160000.0
-2,1.0,1100,"5532 S Shore Drive 6E
-Chicago, IL 60637",160000.0
-1,1.0,850,"6301 N Sheridan Road 10J
-Chicago, IL 60660",159900.0
-4,1.0,1440,"936 N Karlov Avenue
-Chicago, IL 60651",120000.0
-3,2.0,1635,"10238 S Rhodes Avenue
-Chicago, IL 60628",110000.0
-2,1.0,1000,"6634 S Greenwood Avenue 1A
-Chicago, IL 60637",65000.0
-3,1.0,880,"8613 S Colfax Avenue
-Chicago, IL 60617",59900.0
-3,2.0,1900,"1038 W ARMITAGE Avenue B
-Chicago, IL 60614",799000.0
-4,3.0,2550,"940 N Karlov Avenue
-Chicago, IL 60651",649900.0
-3,2.0,2150,"2150 W NORTH Avenue 3
-Chicago, IL 60647",625000.0
-2,2.0,1325,"33 W Ontario Street 17F
-Chicago, IL 60654",445000.0
-3,1.0,1600,"5924 N MAGNOLIA Avenue 2N
-Chicago, IL 60660",425000.0
-2,2.0,2043,"1019 W BALMORAL Avenue 1A
-Chicago, IL 60640",425000.0
-2,1.0,1046,"2300 W Wabansia Avenue 237
-Chicago, IL 60647",415000.0
-4,3.0,3500,"8431 S Crandon Avenue
-Chicago, IL 60617",394900.0
-1,1.0,1093,"10 E Ontario Street 4907
-Chicago, IL 60611",349900.0
-2,2.0,1100,"6906 N Lakewood Avenue 3E
-Chicago, IL 60626",349900.0
-4,3.0,3133,"7025 S Parnell Avenue
-Chicago, IL 60621",344900.0
-3,2.0,1388,"5021 N Rutherford Avenue
-Chicago, IL 60656",340000.0
-1,1.0,650,"210 S Desplaines Street 402
-Chicago, IL 60661",325000.0
-1,1.0,947,"1717 S Prairie Avenue 1302
-Chicago, IL 60616",321000.0
-1,1.0,1064,"260 E Chestnut Street 4005
-Chicago, IL 60611",320000.0
-5,2.0,2000,"3211 S Karlov Avenue
-Chicago, IL 60623",295000.0
-2,1.0,1009,"5117 N Cumberland Avenue
-Norridge, IL 60706",289900.0
-2,1.0,961,"3821 S 60th Court
-Cicero, IL 60804",280000.0
-1,1.0,968,"221 E Cullerton Street 706
-Chicago, IL 60616",275000.0
-3,1.0,900,"8924 S Rockwell Avenue
-Evergreen Park, IL 60805",259900.0
-3,2.0,950,"2412 E 91st Street
-Chicago, IL 60617",259900.0
-4,1.0,1660,"7234 S Sacramento Avenue
-Chicago, IL 60629",249500.0
-3,2.0,1344,"2336 S Lawndale Avenue
-Chicago, IL 60623",249000.0
-3,2.0,1512,"923 N Pine Avenue
-Chicago, IL 60651",235000.0
-3,3.0,2800,"11645 S Yale Avenue
-Chicago, IL 60628",233000.0
-1,1.0,700,"2909 N SHERIDAN Road 912
-Chicago, IL 60657",210000.0
-3,2.0,1440,"2610 W 25th Street
-Chicago, IL 60608",194000.0
-2,1.0,856,"8427 S Green Street
-Chicago, IL 60620",179000.0
-2,1.0,1700,"451 E Oakwood Boulevard 2
-Chicago, IL 60653",149999.0
-3,2.0,1330,"10757 S Champlain Avenue
-Chicago, IL 60628",145000.0
-2,1.0,1085,"4572 W 131st Street 1N
-Alsip, IL 60803",104900.0
-2,1.0,1280,"10763 S Champlain Avenue
-Chicago, IL 60628",99000.0
-2,1.0,993,"9034 S Ridgeland Avenue
-Chicago, IL 60617",187000.0
-2,2.0,1870,"1430 N La Salle Street D1
-Chicago, IL 60610",825000.0
-4,3.0,2400,"1340 W Hubbard Street 1
-Chicago, IL 60622",749000.0
-3,3.0,1978,"2457 W Coyle Avenue
-Chicago, IL 60645",599990.0
-2,2.0,1400,"2740 N Pine Grove Avenue 17HF
-Chicago, IL 60614",384000.0
-1,1.0,1000,"3450 S Halsted Street 204
-Chicago, IL 60608",245900.0
-3,1.0,1221,"1000 N Leclaire Avenue
-Chicago, IL 60651",124700.0
-1,1.0,800,"5148 S King Drive B3
-Chicago, IL 60615",88000.0
-3,3.0,3100,"2008 S CALUMET Avenue I
-Chicago, IL 60616",849900.0
-3,2.0,1837,"7306 W Pensacola Avenue
-Norridge, IL 60706",514000.0
-2,2.0,1200,"1720 S Michigan Avenue 1718
-Chicago, IL 60616",449900.0
-3,2.0,2138,"7240 N California Avenue
-Chicago, IL 60645",429000.0
-4,3.0,3477,"7621 S Luella Avenue
-Chicago, IL 60649",419900.0
-3,2.0,1661,"12346 S Lamon Avenue
-Alsip, IL 60803",349900.0
-3,3.0,1800,"4930 S Maplewood Avenue
-Chicago, IL 60632",310000.0
-3,2.0,1545,"4551 S MICHIGAN Avenue B
-Chicago, IL 60653",299995.0
-4,2.0,1600,"9031 S Marshfield Avenue
-Chicago, IL 60620",299000.0
-4,2.0,1586,"7054 S Throop Street
-Chicago, IL 60636",259900.0
-3,1.0,1136,"3827 W 116th Place
-Alsip, IL 60803",249000.0
-3,2.0,1800,"12533 S Lowe Avenue
-Chicago, IL 60628",235000.0
-4,2.0,1400,"12411 S May Street
-Calumet Park, IL 60827",229000.0
-2,1.0,900,"4335 W 63rd Street 2S
-Chicago, IL 60629",160000.0
-2,1.0,1000,"6634 S Greenwood Avenue 3B
-Chicago, IL 60637",74000.0
-4,2.0,1500,"7116 S University Avenue
-Chicago, IL 60619",69900.0
-2,1.0,1100,"9731 S Ellis Avenue
-Chicago, IL 60628",65000.0
-3,2.0,1290,"9311 S Richmond Avenue
-Evergreen Park, IL 60805",385000.0
-1,1.0,1287,"363 E Wacker Drive 2107
-Chicago, IL 60601",1050000.0
-2,2.0,1201,"211 N Harbor Drive 1501
-Chicago, IL 60601",860000.0
-4,3.0,3101,"1624 W Peterson Avenue
-Chicago, IL 60660",850000.0
-3,2.0,1800,"2207 W Chicago Avenue 3E
-Chicago, IL 60622",665000.0
-3,2.0,1845,"4109 N Kimball Avenue
-Chicago, IL 60618",634900.0
-2,2.0,1650,"5053 N Clark Street 2N
-Chicago, IL 60640",545000.0
-3,2.0,1350,"928 W Eastwood Avenue 4E
-Chicago, IL 60640",525000.0
-2,1.0,1700,"680 N Lake Shore Drive 1507
-Chicago, IL 60611",525000.0
-2,2.0,1400,"1504 N Western Avenue 2N
-Chicago, IL 60622",459900.0
-4,2.0,2300,"9535 S Fairfield Avenue
-Evergreen Park, IL 60805",419000.0
-3,2.0,1340,"9726 S Longwood Drive
-Chicago, IL 60643",399900.0
-4,3.0,1680,"6630 S Kostner Avenue
-Chicago, IL 60629",389900.0
-5,3.0,1565,"7540 S Winchester Avenue
-Chicago, IL 60620",355000.0
-4,2.0,1200,"1402 N Karlov Avenue
-Chicago, IL 60651",350000.0
-3,3.0,1600,"8934 S Justine Street
-Chicago, IL 60620",345000.0
-4,2.0,1163,"6333 S Mozart Street
-Chicago, IL 60629",344900.0
-2,2.0,1986,"531 E 89th Place
-Chicago, IL 60619",339900.0
-1,1.0,925,"8 E RANDOLPH Street 2002
-Chicago, IL 60601",289900.0
-1,1.0,750,"474 N Lake Shore Drive 2904
-Chicago, IL 60611",274000.0
-4,2.0,3750,"8322 S Aberdeen Street
-Chicago, IL 60620",269900.0
-4,2.0,2000,"8832 S Halsted Street
-Chicago, IL 60620",225000.0
-2,1.0,1086,"5802 N Western Avenue 3S
-Chicago, IL 60659",220000.0
-1,1.0,666,"1122 W Catalpa Street 805
-Chicago, IL 60640",200000.0
-2,1.0,1000,"3519 N CENTRAL Avenue 3B
-Chicago, IL 60634",189900.0
-4,1.0,1426,"949 N Lockwood Avenue
-Chicago, IL 60651",154000.0
-4,1.0,1056,"10739 S La Salle Street
-Chicago, IL 60628",75000.0
-3,2.0,2400,"822 W Hubbard Street 5
-Chicago, IL 60642",899990.0
-3,2.0,2000,"1920 N MAUD Avenue C
-Chicago, IL 60614",825000.0
-3,3.0,2480,"2901 W Sherwin Avenue
-Chicago, IL 60645",799900.0
-2,2.0,1400,"2422 N Racine Avenue 2
-Chicago, IL 60614",799000.0
-3,2.0,1700,"200 E Delaware Place 10A
-Chicago, IL 60611",775000.0
-1,1.0,1023,"10 E Delaware Place 14A
-Chicago, IL 60611",699000.0
-3,3.0,2600,"2920 N Commonwealth Avenue 8B
-Chicago, IL 60657",699000.0
-3,2.0,2000,"2413 W Fullerton Avenue 3
-Chicago, IL 60647",680000.0
-3,2.0,1543,"1235 W George Street 215
-Chicago, IL 60657",675000.0
-3,2.0,1670,"1841 S Calumet Avenue 2207
-Chicago, IL 60616",669000.0
-2,2.0,1436,"1000 W Adams Street 609
-Chicago, IL 60607",645000.0
-2,2.0,1383,"814 N Winchester Avenue 3
-Chicago, IL 60622",600000.0
-2,2.0,1320,"1713 N North Park Avenue 4
-Chicago, IL 60614",599000.0
-2,2.0,1325,"110 W SUPERIOR Street 1402
-Chicago, IL 60654",599000.0
-5,2.0,2200,"6610 N Fairfield Avenue
-Chicago, IL 60645",565000.0
-4,2.0,1722,"1922 S YOUNG Parkway
-Chicago, IL 60616",550000.0
-2,2.0,1450,"512 N McClurg Court 804
-Chicago, IL 60611",545000.0
-3,2.0,1200,"1221 W Draper Street 2
-Chicago, IL 60614",525000.0
-2,2.0,1250,"1219 W FOSTER Avenue 3E
-Chicago, IL 60640",465000.0
-1,1.0,1450,"1725 W North Avenue 302
-Chicago, IL 60622",449000.0
-2,2.0,1200,"195 N Harbor Drive 3405
-Chicago, IL 60601",439900.0
-4,2.0,2804,"7023 W School Street
-Chicago, IL 60634",425000.0
-2,2.0,1280,"3716 N Mozart Street
-Chicago, IL 60618",399900.0
-2,1.0,1500,"2114 W North Avenue 1W
-Chicago, IL 60647",399900.0
-3,2.0,1600,"3126 W Walton Street 2
-Chicago, IL 60622",399000.0
-2,1.0,1200,"3235 N Oakley Avenue 2S
-Chicago, IL 60618",390000.0
-2,2.0,1459,"4160 N NATCHEZ Avenue 507
-Chicago, IL 60634",390000.0
-2,2.0,1152,"1407 S Halsted Street 3A
-Chicago, IL 60607",379900.0
-3,1.0,1800,"2020 W Lunt Avenue I
-Chicago, IL 60645",379000.0
-2,2.0,850,"660 W Wayman Street 707
-Chicago, IL 60661",369900.0
+2,2.0,1048,"235 W VAN BUREN Street 2719 Chicago, IL 60607",325000.0
+2,2.0,1218,"1700 E 56th Street 2908 Chicago, IL 60637",325000.0
+4,3.0,1700,"5235 S Francisco Avenue Chicago, IL 60632",319900.0
+1,1.0,890,"405 N Wabash Avenue 3811 Chicago, IL 60611",315000.0
+2,2.0,1200,"1500 S Halsted Street 1A Chicago, IL 60607",280000.0
+3,1.0,1200,"3719 W Ferdinand Street Chicago, IL 60624",274999.0
+5,3.0,1680,"6606 S Talman Avenue Chicago, IL 60629",270000.0
+1,1.0,762,"4144 N Sheridan Road 411 Chicago, IL 60613",259900.0
+2,2.0,1200,"3444 N Narragansett Avenue 3 Chicago, IL 60634",259000.0
+2,1.0,874,"2658 W Rascher Avenue 301 Chicago, IL 60625",245000.0
+5,2.0,1824,"6801 S Oakley Avenue Chicago, IL 60636",244900.0
+3,1.0,2638,"8940 S Emerald Avenue Chicago, IL 60620",230000.0
+1,1.0,906,"4250 N Marine Drive 2108 Chicago, IL 60613",225000.0
+2,1.0,1000,"4716 N BERNARD Street 2E Chicago, IL 60625",225000.0
+1,2.0,1000,"1324 W Greenleaf Avenue 1B Chicago, IL 60626",224500.0
+1,1.0,850,"4343 N Clarendon Avenue 1505 Chicago, IL 60613",185000.0
+2,1.0,850,"3433 W Bryn Mawr Avenue GN Chicago, IL 60659",178000.0
+2,2.0,1657,"5000 S East End Avenue 14B Chicago, IL 60615",172000.0
+1,1.0,680,"8444 W Wilson Avenue 209 Chicago, IL 60656",160000.0
+2,1.0,1100,"5532 S Shore Drive 6E Chicago, IL 60637",160000.0
+1,1.0,850,"6301 N Sheridan Road 10J Chicago, IL 60660",159900.0
+4,1.0,1440,"936 N Karlov Avenue Chicago, IL 60651",120000.0
+3,2.0,1635,"10238 S Rhodes Avenue Chicago, IL 60628",110000.0
+2,1.0,1000,"6634 S Greenwood Avenue 1A Chicago, IL 60637",65000.0
+3,1.0,880,"8613 S Colfax Avenue Chicago, IL 60617",59900.0
+3,2.0,1900,"1038 W ARMITAGE Avenue B Chicago, IL 60614",799000.0
+4,3.0,2550,"940 N Karlov Avenue Chicago, IL 60651",649900.0
+3,2.0,2150,"2150 W NORTH Avenue 3 Chicago, IL 60647",625000.0
+2,2.0,1325,"33 W Ontario Street 17F Chicago, IL 60654",445000.0
+3,1.0,1600,"5924 N MAGNOLIA Avenue 2N Chicago, IL 60660",425000.0
+2,2.0,2043,"1019 W BALMORAL Avenue 1A Chicago, IL 60640",425000.0
+2,1.0,1046,"2300 W Wabansia Avenue 237 Chicago, IL 60647",415000.0
+4,3.0,3500,"8431 S Crandon Avenue Chicago, IL 60617",394900.0
+1,1.0,1093,"10 E Ontario Street 4907 Chicago, IL 60611",349900.0
+2,2.0,1100,"6906 N Lakewood Avenue 3E Chicago, IL 60626",349900.0
+4,3.0,3133,"7025 S Parnell Avenue Chicago, IL 60621",344900.0
+3,2.0,1388,"5021 N Rutherford Avenue Chicago, IL 60656",340000.0
+1,1.0,650,"210 S Desplaines Street 402 Chicago, IL 60661",325000.0
+1,1.0,947,"1717 S Prairie Avenue 1302 Chicago, IL 60616",321000.0
+1,1.0,1064,"260 E Chestnut Street 4005 Chicago, IL 60611",320000.0
+5,2.0,2000,"3211 S Karlov Avenue Chicago, IL 60623",295000.0
+2,1.0,1009,"5117 N Cumberland Avenue Norridge, IL 60706",289900.0
+2,1.0,961,"3821 S 60th Court Cicero, IL 60804",280000.0
+1,1.0,968,"221 E Cullerton Street 706 Chicago, IL 60616",275000.0
+3,1.0,900,"8924 S Rockwell Avenue Evergreen Park, IL 60805",259900.0
+3,2.0,950,"2412 E 91st Street Chicago, IL 60617",259900.0
+4,1.0,1660,"7234 S Sacramento Avenue Chicago, IL 60629",249500.0
+3,2.0,1344,"2336 S Lawndale Avenue Chicago, IL 60623",249000.0
+3,2.0,1512,"923 N Pine Avenue Chicago, IL 60651",235000.0
+3,3.0,2800,"11645 S Yale Avenue Chicago, IL 60628",233000.0
+1,1.0,700,"2909 N SHERIDAN Road 912 Chicago, IL 60657",210000.0
+3,2.0,1440,"2610 W 25th Street Chicago, IL 60608",194000.0
+2,1.0,856,"8427 S Green Street Chicago, IL 60620",179000.0
+2,1.0,1700,"451 E Oakwood Boulevard 2 Chicago, IL 60653",149999.0
+3,2.0,1330,"10757 S Champlain Avenue Chicago, IL 60628",145000.0
+2,1.0,1085,"4572 W 131st Street 1N Alsip, IL 60803",104900.0
+2,1.0,1280,"10763 S Champlain Avenue Chicago, IL 60628",99000.0
+2,1.0,993,"9034 S Ridgeland Avenue Chicago, IL 60617",187000.0
+2,2.0,1870,"1430 N La Salle Street D1 Chicago, IL 60610",825000.0
+4,3.0,2400,"1340 W Hubbard Street 1 Chicago, IL 60622",749000.0
+3,3.0,1978,"2457 W Coyle Avenue Chicago, IL 60645",599990.0
+2,2.0,1400,"2740 N Pine Grove Avenue 17HF Chicago, IL 60614",384000.0
+1,1.0,1000,"3450 S Halsted Street 204 Chicago, IL 60608",245900.0
+3,1.0,1221,"1000 N Leclaire Avenue Chicago, IL 60651",124700.0
+1,1.0,800,"5148 S King Drive B3 Chicago, IL 60615",88000.0
+3,3.0,3100,"2008 S CALUMET Avenue I Chicago, IL 60616",849900.0
+3,2.0,1837,"7306 W Pensacola Avenue Norridge, IL 60706",514000.0
+2,2.0,1200,"1720 S Michigan Avenue 1718 Chicago, IL 60616",449900.0
+3,2.0,2138,"7240 N California Avenue Chicago, IL 60645",429000.0
+4,3.0,3477,"7621 S Luella Avenue Chicago, IL 60649",419900.0
+3,2.0,1661,"12346 S Lamon Avenue Alsip, IL 60803",349900.0
+3,3.0,1800,"4930 S Maplewood Avenue Chicago, IL 60632",310000.0
+3,2.0,1545,"4551 S MICHIGAN Avenue B Chicago, IL 60653",299995.0
+4,2.0,1600,"9031 S Marshfield Avenue Chicago, IL 60620",299000.0
+4,2.0,1586,"7054 S Throop Street Chicago, IL 60636",259900.0
+3,1.0,1136,"3827 W 116th Place Alsip, IL 60803",249000.0
+3,2.0,1800,"12533 S Lowe Avenue Chicago, IL 60628",235000.0
+4,2.0,1400,"12411 S May Street Calumet Park, IL 60827",229000.0
+2,1.0,900,"4335 W 63rd Street 2S Chicago, IL 60629",160000.0
+2,1.0,1000,"6634 S Greenwood Avenue 3B Chicago, IL 60637",74000.0
+4,2.0,1500,"7116 S University Avenue Chicago, IL 60619",69900.0
+2,1.0,1100,"9731 S Ellis Avenue Chicago, IL 60628",65000.0
+3,2.0,1290,"9311 S Richmond Avenue Evergreen Park, IL 60805",385000.0
+1,1.0,1287,"363 E Wacker Drive 2107 Chicago, IL 60601",1050000.0
+2,2.0,1201,"211 N Harbor Drive 1501 Chicago, IL 60601",860000.0
+4,3.0,3101,"1624 W Peterson Avenue Chicago, IL 60660",850000.0
+3,2.0,1800,"2207 W Chicago Avenue 3E Chicago, IL 60622",665000.0
+3,2.0,1845,"4109 N Kimball Avenue Chicago, IL 60618",634900.0
+2,2.0,1650,"5053 N Clark Street 2N Chicago, IL 60640",545000.0
+3,2.0,1350,"928 W Eastwood Avenue 4E Chicago, IL 60640",525000.0
+2,1.0,1700,"680 N Lake Shore Drive 1507 Chicago, IL 60611",525000.0
+2,2.0,1400,"1504 N Western Avenue 2N Chicago, IL 60622",459900.0
+4,2.0,2300,"9535 S Fairfield Avenue Evergreen Park, IL 60805",419000.0
+3,2.0,1340,"9726 S Longwood Drive Chicago, IL 60643",399900.0
+4,3.0,1680,"6630 S Kostner Avenue Chicago, IL 60629",389900.0
+5,3.0,1565,"7540 S Winchester Avenue Chicago, IL 60620",355000.0
+4,2.0,1200,"1402 N Karlov Avenue Chicago, IL 60651",350000.0
+3,3.0,1600,"8934 S Justine Street Chicago, IL 60620",345000.0
+4,2.0,1163,"6333 S Mozart Street Chicago, IL 60629",344900.0
+2,2.0,1986,"531 E 89th Place Chicago, IL 60619",339900.0
+1,1.0,925,"8 E RANDOLPH Street 2002 Chicago, IL 60601",289900.0
+1,1.0,750,"474 N Lake Shore Drive 2904 Chicago, IL 60611",274000.0
+4,2.0,3750,"8322 S Aberdeen Street Chicago, IL 60620",269900.0
+4,2.0,2000,"8832 S Halsted Street Chicago, IL 60620",225000.0
+2,1.0,1086,"5802 N Western Avenue 3S Chicago, IL 60659",220000.0
+1,1.0,666,"1122 W Catalpa Street 805 Chicago, IL 60640",200000.0
+2,1.0,1000,"3519 N CENTRAL Avenue 3B Chicago, IL 60634",189900.0
+4,1.0,1426,"949 N Lockwood Avenue Chicago, IL 60651",154000.0
+4,1.0,1056,"10739 S La Salle Street Chicago, IL 60628",75000.0
+3,2.0,2400,"822 W Hubbard Street 5 Chicago, IL 60642",899990.0
+3,2.0,2000,"1920 N MAUD Avenue C Chicago, IL 60614",825000.0
+3,3.0,2480,"2901 W Sherwin Avenue Chicago, IL 60645",799900.0
+2,2.0,1400,"2422 N Racine Avenue 2 Chicago, IL 60614",799000.0
+3,2.0,1700,"200 E Delaware Place 10A Chicago, IL 60611",775000.0
+1,1.0,1023,"10 E Delaware Place 14A Chicago, IL 60611",699000.0
+3,3.0,2600,"2920 N Commonwealth Avenue 8B Chicago, IL 60657",699000.0
+3,2.0,2000,"2413 W Fullerton Avenue 3 Chicago, IL 60647",680000.0
+3,2.0,1543,"1235 W George Street 215 Chicago, IL 60657",675000.0
+3,2.0,1670,"1841 S Calumet Avenue 2207 Chicago, IL 60616",669000.0
+2,2.0,1436,"1000 W Adams Street 609 Chicago, IL 60607",645000.0
+2,2.0,1383,"814 N Winchester Avenue 3 Chicago, IL 60622",600000.0
+2,2.0,1320,"1713 N North Park Avenue 4 Chicago, IL 60614",599000.0
+2,2.0,1325,"110 W SUPERIOR Street 1402 Chicago, IL 60654",599000.0
+5,2.0,2200,"6610 N Fairfield Avenue Chicago, IL 60645",565000.0
+4,2.0,1722,"1922 S YOUNG Parkway Chicago, IL 60616",550000.0
+2,2.0,1450,"512 N McClurg Court 804 Chicago, IL 60611",545000.0
+3,2.0,1200,"1221 W Draper Street 2 Chicago, IL 60614",525000.0
+2,2.0,1250,"1219 W FOSTER Avenue 3E Chicago, IL 60640",465000.0
+1,1.0,1450,"1725 W North Avenue 302 Chicago, IL 60622",449000.0
+2,2.0,1200,"195 N Harbor Drive 3405 Chicago, IL 60601",439900.0
+4,2.0,2804,"7023 W School Street Chicago, IL 60634",425000.0
+2,2.0,1280,"3716 N Mozart Street Chicago, IL 60618",399900.0
+2,1.0,1500,"2114 W North Avenue 1W Chicago, IL 60647",399900.0
+3,2.0,1600,"3126 W Walton Street 2 Chicago, IL 60622",399000.0
+2,1.0,1200,"3235 N Oakley Avenue 2S Chicago, IL 60618",390000.0
+2,2.0,1459,"4160 N NATCHEZ Avenue 507 Chicago, IL 60634",390000.0
+2,2.0,1152,"1407 S Halsted Street 3A Chicago, IL 60607",379900.0
+3,1.0,1800,"2020 W Lunt Avenue I Chicago, IL 60645",379000.0
+2,2.0,850,"660 W Wayman Street 707 Chicago, IL 60661",369900.0
 4,3.0,2500,"Chicago, IL 60619",350000.0
-2,1.0,1128,"50 E 16th Street 912
-Chicago, IL 60616",348000.0
-3,2.0,2900,"8554 S Michigan Avenue
-Chicago, IL 60619",345000.0
-3,2.0,1432,"12334 S Lamon Avenue
-Alsip, IL 60803",325000.0
-3,1.0,1234,"10201 S California Avenue
-Chicago, IL 60655",324900.0
-4,2.0,1500,"9347 S Sangamon Street
-Chicago, IL 60620",299900.0
-4,2.0,1600,"9146 S Greenwood Avenue
-Chicago, IL 60619",279000.0
-4,1.0,1928,"4652 W West End Avenue
-Chicago, IL 60644",275000.0
-3,1.0,945,"4722 W 82nd Place
-Chicago, IL 60652",265000.0
-3,2.0,1100,"9206 S Harper Avenue
-Chicago, IL 60619",259900.0
-2,2.0,1100,"5652 W 63rd Street 3E
-Chicago, IL 60638",249900.0
-3,3.0,3100,"8332 S Drexel Avenue
-Chicago, IL 60619",239000.0
-1,1.0,831,"500 S Clinton Street 226
-Chicago, IL 60607",235000.0
-2,2.0,850,"7912 W North Avenue 403
-Elmwood Park, IL 60707",204900.0
-3,1.0,1100,"4935 S MARSHFIELD Avenue
-Chicago, IL 60609",179900.0
-1,1.0,600,"5738 W Higgins Avenue GS
-Chicago, IL 60630",155000.0
-1,1.0,850,"7120 N Sheridan Road 216
-Chicago, IL 60626",149900.0
-3,1.0,1020,"1617 W 71st Street
-Chicago, IL 60636",139900.0
-3,1.0,1072,"1434 W 114th Place
-Chicago, IL 60643",129900.0
-3,1.0,1400,"602 E 88th Place
-Chicago, IL 60619",125000.0
-6,3.0,1968,"11941 S La Salle Street
-Chicago, IL 60628",115000.0
-2,1.0,1782,"9752 S Drexel Avenue
-Chicago, IL 60628",105000.0
-1,1.0,650,"3162 W Meadow Lane Drive 1
-Merrionette Park, IL 60803",95000.0
-4,1.0,2500,"10042 S Emerald Avenue
-Chicago, IL 60628",359999.0
+2,1.0,1128,"50 E 16th Street 912 Chicago, IL 60616",348000.0
+3,2.0,2900,"8554 S Michigan Avenue Chicago, IL 60619",345000.0
+3,2.0,1432,"12334 S Lamon Avenue Alsip, IL 60803",325000.0
+3,1.0,1234,"10201 S California Avenue Chicago, IL 60655",324900.0
+4,2.0,1500,"9347 S Sangamon Street Chicago, IL 60620",299900.0
+4,2.0,1600,"9146 S Greenwood Avenue Chicago, IL 60619",279000.0
+4,1.0,1928,"4652 W West End Avenue Chicago, IL 60644",275000.0
+3,1.0,945,"4722 W 82nd Place Chicago, IL 60652",265000.0
+3,2.0,1100,"9206 S Harper Avenue Chicago, IL 60619",259900.0
+2,2.0,1100,"5652 W 63rd Street 3E Chicago, IL 60638",249900.0
+3,3.0,3100,"8332 S Drexel Avenue Chicago, IL 60619",239000.0
+1,1.0,831,"500 S Clinton Street 226 Chicago, IL 60607",235000.0
+2,2.0,850,"7912 W North Avenue 403 Elmwood Park, IL 60707",204900.0
+3,1.0,1100,"4935 S MARSHFIELD Avenue Chicago, IL 60609",179900.0
+1,1.0,600,"5738 W Higgins Avenue GS Chicago, IL 60630",155000.0
+1,1.0,850,"7120 N Sheridan Road 216 Chicago, IL 60626",149900.0
+3,1.0,1020,"1617 W 71st Street Chicago, IL 60636",139900.0
+3,1.0,1072,"1434 W 114th Place Chicago, IL 60643",129900.0
+3,1.0,1400,"602 E 88th Place Chicago, IL 60619",125000.0
+6,3.0,1968,"11941 S La Salle Street Chicago, IL 60628",115000.0
+2,1.0,1782,"9752 S Drexel Avenue Chicago, IL 60628",105000.0
+1,1.0,650,"3162 W Meadow Lane Drive 1 Merrionette Park, IL 60803",95000.0
+4,1.0,2500,"10042 S Emerald Avenue Chicago, IL 60628",359999.0
