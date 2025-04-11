@@ -47,7 +47,7 @@ jobs:
         git config --global user.email "actions@github.com"
         
         # Add files (verify paths exist)
-        if [ -f "raw_data.csv" ]; then
+        if [ -f "webscraping_project_real_estate/raw_data.csv" ]; then
           git add raw_data.csv
         fi
         if [ -f "cleaned_data.csv" ]; then
