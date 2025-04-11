@@ -47,14 +47,10 @@ jobs:
         git config --global user.email "actions@github.com"
         
         # Add files (verify paths exist)
-        if [ -f "raw_data.csv" ]; then
-          git add raw_data.csv
-        fi
-        if [ -f "cleaned_data.csv" ]; then
-          git add cleaned_data.csv
-        fi
+        git add raw_data.csv
+        git add cleaned_data.csv
         
         # Commit and push with token authentication
         git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY
-        git commit -m "Automated update: scrape and clean data" || echo "No changes to commit"
+        git commit -m "Automated update: scrape and clean data"
         git push origin HEAD:main
