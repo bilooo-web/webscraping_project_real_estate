@@ -48,10 +48,10 @@ jobs:
         
         # Add files (verify paths exist)
         if [ -f "webscraping_project_real_estate/raw_data.csv" ]; then
-          git add raw_data.csv
+          git add webscraping_project_real_estate/raw_data.csv
         fi
         if [ -f "cleaned_data.csv" ]; then
-          git add cleaned_data.csv
+          git add webscraping_project_real_estate/cleaned_data.csv
         fi
         
         # Commit and push with token authentication
