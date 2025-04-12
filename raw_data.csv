@@ -1,28 +1,19 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"3
-beds",1,"731
-sq.ft.","11534 S Peoria Street Chicago, IL 60643","$125,000"
 "1
 beds",1,"815
 sq.ft.","33 W Ontario Street , 20C Chicago, IL 60654","$299,000"
+"4
+beds",1,"2,500
+sq.ft.","10042 S Emerald Avenue Chicago, IL 60628","$349,999"
 "1
 beds",1,"700
 sq.ft.","222 N Columbus Drive , 606 Chicago, IL 60601","$259,900"
-"3
-beds",1,"1,280
-sq.ft.","9412 S Millard Avenue Evergreen Park, IL 60805","$309,900"
-"3
-beds",2,"1,150
-sq.ft.","12727 S Page Street Calumet Park, IL 60827","$179,950"
-"3
-beds",2,"1,500
-sq.ft.","4706 S Saint Lawrence Avenue 2W Chicago, IL 60615","$430,000"
-"2
-beds",2,"2,200
-sq.ft.","4431 N Paulina Street 1S Chicago, IL 60640","$595,000"
 "2
 beds",2,"1,200
 sq.ft.","1939 N Sawyer Avenue G Chicago, IL 60647","$260,000"
+"3
+beds",1,"731
+sq.ft.","11534 S Peoria Street Chicago, IL 60643","$125,000"
 "3
 beds",2,"1,800
 sq.ft.","1332 W Madison Street 3E Chicago, IL 60607","$725,000"
@@ -41,6 +32,9 @@ sq.ft.","6030 N Sheridan Road 1810 Chicago, IL 60660","$183,000"
 "3
 beds",3,"2,200
 sq.ft.","313 S Racine Avenue 4B Chicago, IL 60607","$999,999"
+"2
+beds",2,"2,200
+sq.ft.","4431 N Paulina Street 1S Chicago, IL 60640","$595,000"
 "3
 beds",2,"1,900
 sq.ft.","6342 N Sheridan Road 2B Chicago, IL 60660","$435,000"
@@ -398,6 +392,9 @@ sq.ft.","1402 W Chestnut Street 3 Chicago, IL 60642","$1,200,000"
 "3
 beds",2,"1,704
 sq.ft.","1926 N Lincoln Park West 4B Chicago, IL 60614","$749,000"
+"3
+beds",2,"1,500
+sq.ft.","4706 S Saint Lawrence Avenue 2W Chicago, IL 60615","$430,000"
 "2
 beds",1,"1,250
 sq.ft.","1542 W School Street G Chicago, IL 60657","$589,000"
@@ -815,6 +812,12 @@ sq.ft.","6725 S Prairie Avenue Chicago, IL 60637","$99,900"
 "5
 beds",2,"1,496
 sq.ft.","1221 E 72nd Place Chicago, IL 60619","$25,000"
+"3
+beds",1,"1,280
+sq.ft.","9412 S Millard Avenue Evergreen Park, IL 60805","$309,900"
+"3
+beds",2,"1,150
+sq.ft.","12727 S Page Street Calumet Park, IL 60827","$179,950"
 "3
 beds",3,"2,650
 sq.ft.","366 W Superior Street 501 Chicago, IL 60654","$1,825,000"
@@ -3020,6 +3023,3 @@ sq.ft.","9752 S Drexel Avenue Chicago, IL 60628","$105,000"
 "1
 beds",1,"650
 sq.ft.","3162 W Meadow Lane Drive 1 Merrionette Park, IL 60803","$95,000"
-"4
-beds",1,"2,500
-sq.ft.","10042 S Emerald Avenue Chicago, IL 60628","$359,999"

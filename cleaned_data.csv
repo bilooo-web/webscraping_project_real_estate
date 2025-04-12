@@ -1,18 +1,16 @@
 bedrooms,bathrooms,square_footage,address,price
-3,1.0,731,"11534 S Peoria Street Chicago, IL 60643",125000.0
 1,1.0,815,"33 W Ontario Street , 20C Chicago, IL 60654",299000.0
+4,1.0,2500,"10042 S Emerald Avenue Chicago, IL 60628",349999.0
 1,1.0,700,"222 N Columbus Drive , 606 Chicago, IL 60601",259900.0
-3,1.0,1280,"9412 S Millard Avenue Evergreen Park, IL 60805",309900.0
-3,2.0,1150,"12727 S Page Street Calumet Park, IL 60827",179950.0
-3,2.0,1500,"4706 S Saint Lawrence Avenue 2W Chicago, IL 60615",430000.0
-2,2.0,2200,"4431 N Paulina Street 1S Chicago, IL 60640",595000.0
 2,2.0,1200,"1939 N Sawyer Avenue G Chicago, IL 60647",260000.0
+3,1.0,731,"11534 S Peoria Street Chicago, IL 60643",125000.0
 3,2.0,1800,"1332 W Madison Street 3E Chicago, IL 60607",725000.0
 3,2.0,1770,"1943 N BISSELL Street B Chicago, IL 60614",775000.0
 4,2.0,3000,"4137 N NARRAGANSETT Avenue 8 Chicago, IL 60634",519900.0
 2,2.0,1153,"333 W Hubbard Street 3M Chicago, IL 60654",520000.0
 1,1.0,750,"6030 N Sheridan Road 1810 Chicago, IL 60660",183000.0
 3,3.0,2200,"313 S Racine Avenue 4B Chicago, IL 60607",999999.0
+2,2.0,2200,"4431 N Paulina Street 1S Chicago, IL 60640",595000.0
 3,2.0,1900,"6342 N Sheridan Road 2B Chicago, IL 60660",435000.0
 2,1.0,1013,"1819 S Michigan Avenue , 308 Chicago, IL 60616",319900.0
 5,3.0,2874,"8358 S Sangamon Street Chicago, IL 60620",325000.0
@@ -120,6 +118,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1500,"240 E ILLINOIS Street 307 Chicago, IL 60611",425000.0
 4,3.0,3079,"7315 S California Avenue Chicago, IL 60629",364900.0
 3,2.0,1704,"1926 N Lincoln Park West 4B Chicago, IL 60614",749000.0
+3,2.0,1500,"4706 S Saint Lawrence Avenue 2W Chicago, IL 60615",430000.0
 2,1.0,1250,"1542 W School Street G Chicago, IL 60657",589000.0
 2,2.0,1027,"1460 N SANDBURG Terrace 2011A Chicago, IL 60610",290000.0
 2,1.0,910,"1618 W Columbia Avenue 1N Chicago, IL 60626",219000.0
@@ -246,6 +245,8 @@ bedrooms,bathrooms,square_footage,address,price
 4,1.0,1378,"9037 S Ada Street Chicago, IL 60620",100000.0
 4,2.0,1800,"6725 S Prairie Avenue Chicago, IL 60637",99900.0
 5,2.0,1496,"1221 E 72nd Place Chicago, IL 60619",25000.0
+3,1.0,1280,"9412 S Millard Avenue Evergreen Park, IL 60805",309900.0
+3,2.0,1150,"12727 S Page Street Calumet Park, IL 60827",179950.0
 3,3.0,2035,"1242 N Lake Shore Drive 4N Chicago, IL 60610",1050000.0
 3,2.0,1820,"1400 W Monroe Street 5E Chicago, IL 60607",950000.0
 2,2.0,2000,"990 N Lake Shore Drive 7C Chicago, IL 60611",799000.0
@@ -921,4 +922,3 @@ bedrooms,bathrooms,square_footage,address,price
 6,3.0,1968,"11941 S La Salle Street Chicago, IL 60628",115000.0
 2,1.0,1782,"9752 S Drexel Avenue Chicago, IL 60628",105000.0
 1,1.0,650,"3162 W Meadow Lane Drive 1 Merrionette Park, IL 60803",95000.0
-4,1.0,2500,"10042 S Emerald Avenue Chicago, IL 60628",359999.0
