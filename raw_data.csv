@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "1
 beds",1,"815
 sq.ft.","33 W Ontario Street , 20C Chicago, IL 60654","$299,000"
-"4
-beds",1,"2,500
-sq.ft.","10042 S Emerald Avenue Chicago, IL 60628","$349,999"
 "1
 beds",1,"700
 sq.ft.","222 N Columbus Drive , 606 Chicago, IL 60601","$259,900"
@@ -3023,3 +3020,6 @@ sq.ft.","9752 S Drexel Avenue Chicago, IL 60628","$105,000"
 "1
 beds",1,"650
 sq.ft.","3162 W Meadow Lane Drive 1 Merrionette Park, IL 60803","$95,000"
+"4
+beds",1,"2,500
+sq.ft.","10042 S Emerald Avenue Chicago, IL 60628","$359,999"

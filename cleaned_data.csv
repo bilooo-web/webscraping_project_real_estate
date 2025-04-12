@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1.0,815,"33 W Ontario Street , 20C Chicago, IL 60654",299000.0
-4,1.0,2500,"10042 S Emerald Avenue Chicago, IL 60628",349999.0
 1,1.0,700,"222 N Columbus Drive , 606 Chicago, IL 60601",259900.0
 2,2.0,1200,"1939 N Sawyer Avenue G Chicago, IL 60647",260000.0
 3,1.0,731,"11534 S Peoria Street Chicago, IL 60643",125000.0
@@ -922,3 +921,4 @@ bedrooms,bathrooms,square_footage,address,price
 6,3.0,1968,"11941 S La Salle Street Chicago, IL 60628",115000.0
 2,1.0,1782,"9752 S Drexel Avenue Chicago, IL 60628",105000.0
 1,1.0,650,"3162 W Meadow Lane Drive 1 Merrionette Park, IL 60803",95000.0
+4,1.0,2500,"10042 S Emerald Avenue Chicago, IL 60628",359999.0
