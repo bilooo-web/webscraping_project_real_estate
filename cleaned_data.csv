@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 3,1.0,2000,"5832 N Sacramento Avenue Chicago, IL 60659",450000.0
 4,1.0,2500,"10042 S Emerald Avenue Chicago, IL 60628",349999.0
-2,2.0,1027,"1460 N SANDBURG Terrace 2011A Chicago, IL 60610",290000.0
 2,1.0,910,"1618 W Columbia Avenue 1N Chicago, IL 60626",219000.0
 3,3.0,1422,"1487 N CLYBOURN Avenue B Chicago, IL 60610",767400.0
 3,1.0,1569,"9527 S Damen Avenue Chicago, IL 60643",424000.0
@@ -93,6 +92,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1149,"303 W OHIO Street 1906 Chicago, IL 60654",475000.0
 3,2.0,1704,"1926 N Lincoln Park West 4B Chicago, IL 60614",749000.0
 3,2.0,1500,"4706 S Saint Lawrence Avenue 2W Chicago, IL 60615",430000.0
+2,2.0,1027,"1460 N SANDBURG Terrace 2011A Chicago, IL 60610",290000.0
 2,2.0,1550,"130 S CANAL Street 619 Chicago, IL 60606",440000.0
 3,2.0,2400,"522 N Western Avenue 201 Chicago, IL 60612",859000.0
 2,2.0,1365,"630 N State Street 2108 Chicago, IL 60654",549990.0
