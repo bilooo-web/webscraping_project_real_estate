@@ -4,16 +4,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,1.0,910,"1618 W Columbia Avenue 1N Chicago, IL 60626",219000.0
 3,3.0,1422,"1487 N CLYBOURN Avenue B Chicago, IL 60610",767400.0
 3,1.0,1569,"9527 S Damen Avenue Chicago, IL 60643",424000.0
-2,2.0,1300,"4507 N Campbell Avenue 3 Chicago, IL 60625",425000.0
-2,2.0,1300,"125 E 13TH Street 1002 Chicago, IL 60605",400000.0
-2,1.0,935,"3340 N Pioneer Avenue Chicago, IL 60634",314900.0
-4,3.0,2700,"2012 W Erie Street 1W Chicago, IL 60612",875000.0
-2,1.0,1000,"5853 W Newport Avenue Chicago, IL 60634",285500.0
-2,1.0,1013,"1819 S Michigan Avenue , 308 Chicago, IL 60616",319900.0
-4,2.0,3100,"1478 S PRAIRIE Avenue N Chicago, IL 60605",929000.0
-1,1.0,650,"Chicago, IL 60614",292900.0
-2,2.0,1573,"900 W Washington Boulevard 402 Chicago, IL 60607",999999.0
-2,2.0,1200,"480 N Mcclurg Court 901 Chicago, IL 60611",399999.0
 2,2.0,1450,"360 E Randolph Street 3902 Chicago, IL 60601",759000.0
 1,1.0,735,"1901 S Calumet Avenue 611 Chicago, IL 60616",280000.0
 4,2.0,2070,"2017 N Newcastle Avenue Chicago, IL 60707",430000.0
@@ -154,8 +144,10 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1201,"8014 W Summerdale Avenue Chicago, IL 60656",475000.0
 2,2.0,1226,"1600 S Prairie Avenue 1204 Chicago, IL 60616",475000.0
 3,1.0,1432,"670 W Irving Park Road 6 Chicago, IL 60613",449000.0
+2,2.0,1300,"4507 N Campbell Avenue 3 Chicago, IL 60625",425000.0
 2,2.0,1200,"2848 N ALBANY Avenue 2S Chicago, IL 60618",424900.0
 2,2.0,1250,"1329 W Fillmore Street 3 Chicago, IL 60607",404000.0
+2,2.0,1300,"125 E 13TH Street 1002 Chicago, IL 60605",400000.0
 4,2.0,2500,"12820 S Blossom Drive Alsip, IL 60803",399974.0
 1,1.0,1071,"160 E Illinois Street 1605 Chicago, IL 60611",399000.0
 4,2.0,1560,"5649 W School Street Chicago, IL 60634",397000.0
@@ -215,6 +207,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,3.0,1400,"3229 W 65TH Place Chicago, IL 60629",349900.0
 4,2.0,1561,"1801 N 72nd Court Elmwood Park, IL 60707",339000.0
 2,1.0,1200,"1316 W Fargo Avenue 308 Chicago, IL 60626",315000.0
+2,1.0,935,"3340 N Pioneer Avenue Chicago, IL 60634",314900.0
 4,2.0,3741,"8059 S Morgan Street Chicago, IL 60620",310000.0
 1,1.0,900,"405 N WABASH Avenue 2314 Chicago, IL 60611",299900.0
 3,1.0,2150,"5121 S Trumbull Avenue Chicago, IL 60632",299900.0
@@ -299,6 +292,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1341,"1935 S Archer Avenue , 515 Chicago, IL 60616",375000.0
 5,3.0,3600,"4930 S Martin Luther King Drive Chicago, IL 60653",949000.0
 4,2.0,2500,"1308 W Addison Street 1E Chicago, IL 60613",899000.0
+4,3.0,2700,"2012 W Erie Street 1W Chicago, IL 60612",875000.0
 3,2.0,1700,"2414 N Sawyer Avenue 2D Chicago, IL 60647",819999.0
 3,2.0,1978,"4343 N Richmond Avenue 3N Chicago, IL 60618",799000.0
 2,2.0,1400,"130 N Garland Court 2307 Chicago, IL 60602",699000.0
@@ -329,6 +323,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1.0,1874,"2906 E 130th Street Chicago, IL 60633",300000.0
 2,2.0,1200,"6320 W Higgins Avenue 303 Chicago, IL 60630",299900.0
 1,1.0,900,"1606 W Winona Street 3 Chicago, IL 60640",299000.0
+2,1.0,1000,"5853 W Newport Avenue Chicago, IL 60634",285500.0
 1,1.0,849,"440 N Wabash Avenue 2008 Chicago, IL 60611",279000.0
 2,2.0,1200,"3900 N LAKE SHORE Drive 6K Chicago, IL 60613",273000.0
 3,2.0,1800,"9139 S Colfax Avenue Chicago, IL 60617",269900.0
@@ -527,6 +522,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1.0,1003,"6805 S Wabash Avenue Chicago, IL 60637",169900.0
 1,1.0,850,"1849 W Greenleaf Avenue 3S Chicago, IL 60626",167000.0
 3,1.0,1048,"4027 W Cullerton Street Chicago, IL 60623",107000.0
+2,1.0,1013,"1819 S Michigan Avenue , 308 Chicago, IL 60616",319900.0
 3,3.0,3015,"2607 N ASHLAND Avenue 3W Chicago, IL 60614",989000.0
 3,3.0,3000,"3430 N Elaine Place CH Chicago, IL 60657",899000.0
 2,2.0,1800,"505 N Lake Shore Drive 5306 Chicago, IL 60611",880000.0
@@ -587,6 +583,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1.0,1100,"333 N Canal Street 1702 Chicago, IL 60606",445000.0
 3,1.0,1350,"3935 N Saint Louis Avenue Chicago, IL 60618",429900.0
 2,2.0,1225,"635 N Dearborn Street 1206 Chicago, IL 60654",425000.0
+2,2.0,1200,"480 N Mcclurg Court 901 Chicago, IL 60611",399999.0
 2,1.0,1177,"1111 S Wabash Avenue 2007 Chicago, IL 60605",399000.0
 2,2.0,952,"635 N Dearborn Street 2103 Chicago, IL 60654",385000.0
 1,1.0,1000,"1000 W Washington Boulevard 232 Chicago, IL 60607",385000.0
@@ -919,3 +916,8 @@ bedrooms,bathrooms,square_footage,address,price
 4,2.0,1722,"1922 S YOUNG Parkway Chicago, IL 60616",550000.0
 2,2.0,1450,"512 N McClurg Court 804 Chicago, IL 60611",545000.0
 3,2.0,1200,"1221 W Draper Street 2 Chicago, IL 60614",525000.0
+2,2.0,1250,"1219 W FOSTER Avenue 3E Chicago, IL 60640",465000.0
+1,1.0,1450,"1725 W North Avenue 302 Chicago, IL 60622",449000.0
+2,2.0,1200,"195 N Harbor Drive 3405 Chicago, IL 60601",439900.0
+4,2.0,2804,"7023 W School Street Chicago, IL 60634",425000.0
+2,2.0,1280,"3716 N Mozart Street Chicago, IL 60618",399900.0
