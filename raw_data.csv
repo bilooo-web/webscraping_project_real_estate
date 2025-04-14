@@ -1,8 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
-beds",2,"1,027
-sq.ft.","1460 N SANDBURG Terrace 2011A Chicago, IL 60610","$290,000"
-"2
 beds",2,"1,550
 sq.ft.","130 S CANAL Street 619 Chicago, IL 60606","$440,000"
 "5
@@ -1163,6 +1160,9 @@ sq.ft.","3836 N Pioneer Avenue Chicago, IL 60634","$295,000"
 "3
 beds",2,"1,500
 sq.ft.","6123 S Kimbark Avenue 1N Chicago, IL 60637","$295,000"
+"2
+beds",2,"1,027
+sq.ft.","1460 N SANDBURG Terrace 2011A Chicago, IL 60610","$290,000"
 "4
 beds",2,"2,700
 sq.ft.","2610 E 74th Place Chicago, IL 60649","$289,900"
