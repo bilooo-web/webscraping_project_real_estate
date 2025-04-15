@@ -132,7 +132,7 @@ plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.grid(alpha=0.2)
 st.pyplot(fig)
 
-# 3. Enhanced Correlation Analysis -----------------------------------------------
+# 3.Correlation Analysis -----------------------------------------------
 st.subheader("🔗 Feature Correlation Matrix")
 corr_matrix = filtered_df[numeric_cols].corr()
 
@@ -162,7 +162,7 @@ plt.xticks(rotation=45, ha='right', fontsize=12)
 plt.yticks(rotation=0, fontsize=12)
 st.pyplot(fig)
 
-# 5. Categorical Analysis -------------------------------------------------------
+# 4. Categorical Analysis -------------------------------------------------------
 st.subheader("🏘️ Categorical Analysis")
 cat_cols = ['bedrooms', 'bathrooms']
 
@@ -202,7 +202,7 @@ if cat_cols:
     plt.tight_layout()
     st.pyplot(fig)
 
-# 6. Price per Square Foot Analysis ---------------------------------------------
+# 5. Price per Square Foot Analysis ---------------------------------------------
 st.subheader("📐 Price per Square Foot Analysis")
 filtered_df['price_per_sqft'] = filtered_df['price'] / filtered_df['square_footage']
     
@@ -214,7 +214,7 @@ plt.ylabel('Frequency', fontsize=12)
 plt.grid(alpha=0.3)
 st.pyplot(fig)
 
-# 7. Top/Bottom Properties ------------------------------------------------------
+# 6. Top/Bottom Properties ------------------------------------------------------
 st.subheader("🏆 Top & Bottom Properties")
 top_n = st.slider('Select number of properties to display', 1, 20, 5)
 
@@ -233,7 +233,7 @@ with col2:
         .style.format({'price': '${:,.0f}', 'square_footage': '{:,.0f}', 'price_per_sqft': '${:,.2f}'})
     )
 
-# 9. Pairwise Relationships (Bonus) --------------------------------------------
+# 7. Pairwise Relationships--------------------------------------------
 st.subheader("📈 Pairwise Feature Relationships")
 
 # Create the pairplot figure explicitly
@@ -251,7 +251,7 @@ pairplot_fig.fig.subplots_adjust(hspace=0.3, wspace=0.3)
 # Render the pairplot
 st.pyplot(pairplot_fig)
 
-# 10. Enhanced Machine Learning Price Prediction ----------------------------------------
+# 8. Machine Learning Price Prediction ----------------------------------------
 st.subheader("🤖 Enhanced Machine Learning Price Prediction")
 
 if len(filtered_df) > 100:
@@ -385,7 +385,7 @@ else:
     st.warning("Not enough data for machine learning (need at least 100 samples)")
     
 # =============================================
-# ENHANCED NLP FEATURES
+# NLP FEATURES
 # =============================================
 
 # Function to extract zip codes from addresses
@@ -393,7 +393,7 @@ def extract_zip_code(address):
     zip_code = re.findall(r'IL (\d{5})', str(address))
     return zip_code[0] if zip_code else None
 
-# Enhanced function to extract street types
+# function to extract street types
 def extract_street_type(address):
     street_types = ['Street', 'Avenue', 'Road', 'Drive', 'Court', 'Place', 
                    'Boulevard', 'Way', 'Lane', 'Terrace', 'Circle', 'Highway',
@@ -430,7 +430,7 @@ def extract_street_type(address):
     
     return 'Other'
 
-# Function to extract neighborhood/area (improved)
+# Function to extract neighborhood/area
 def extract_area(address):
     # Common Chicago neighborhoods and their patterns
     neighborhood_patterns = {
@@ -469,13 +469,13 @@ def extract_area(address):
     
     return 'Other Area'
 
-# Apply enhanced NLP functions to create new features
+# Apply NLP functions to create new features
 filtered_df['zip_code'] = filtered_df['address'].apply(extract_zip_code)
 filtered_df['street_type'] = filtered_df['address'].apply(extract_street_type)
 filtered_df['area'] = filtered_df['address'].apply(extract_area)
 
 # =============================================
-# ENHANCED NLP VISUALIZATIONS
+# NLP VISUALIZATIONS
 # =============================================
 
 # 1. Location Analysis by Area
@@ -576,7 +576,7 @@ if len(filtered_df['zip_code'].unique()) > 1:
 else:
     st.warning("Not enough zip code diversity to display analysis")
 
-# 3. Enhanced Street Type Analysis
+# 3. Street Type Analysis
 st.subheader("🛣️ Street Type Analysis")
 
 if len(filtered_df['street_type'].unique()) > 1:
