@@ -655,7 +655,7 @@ st.pyplot(fig)
 st.subheader("📊 Price by Street Type and Area")
 
 if len(filtered_df['street_type'].unique()) > 1 and len(filtered_df['area'].unique()) > 1:
-    # Get top 5 street types and areas by count
+    # Get top 5 street types and areas
     top_street_types = filtered_df['street_type'].value_counts().nlargest(5).index
     top_areas = filtered_df['area'].value_counts().nlargest(5).index
     
@@ -665,64 +665,22 @@ if len(filtered_df['street_type'].unique()) > 1 and len(filtered_df['area'].uniq
     ]
     
     if not filtered_combo.empty:
-        # Create figure with larger size
-        fig, ax = plt.subplots(figsize=(16, 10))
-        
-        # Use pointplot instead of boxplot for better readability with many categories
-        sns.pointplot(
+        fig, ax = plt.subplots(figsize=(14, 8))
+        sns.boxplot(
             data=filtered_combo,
-            x='street_type',
-            y='price',
+            x='price',
+            y='street_type',
             hue='area',
-            palette='tab10',
-            estimator=np.median,
-            errorbar=('ci', 95),  # Show 95% confidence intervals
-            markers='o',
-            linestyles='-',
-            dodge=0.4,  # Separate points for each area
-            scale=1.2,  # Increase point size
+            palette='Set2',
             ax=ax
         )
-        
-        # Formatting
-        ax.set_title('Median Price by Street Type and Area\n(with 95% Confidence Intervals)', 
-                    fontsize=16, pad=20)
-        ax.set_xlabel('Street Type', fontsize=14)
-        ax.set_ylabel('Price ($)', fontsize=14)
-        ax.yaxis.set_major_formatter(ticker.StrMethodFormatter('${x:,.0f}'))
-        
-        # Rotate x-axis labels for better readability
-        plt.xticks(rotation=45, ha='right')
-        
-        # legend
-        ax.legend(title='Neighborhood Area', 
-                 bbox_to_anchor=(1.05, 1), 
-                 loc='upper left',
-                 fontsize=12,
-                 title_fontsize=13)
-        
-        # gridlines for better value reading
-        ax.grid(True, axis='y', alpha=0.3)
-        
-        # Remove spines for cleaner look
-        sns.despine()
-        
-        # Adjust layout to prevent label cutoff
+        ax.set_title('Price Distribution by Street Type and Area', fontsize=14)
+        ax.set_xlabel('Price ($)', fontsize=12)
+        ax.set_ylabel('Street Type', fontsize=12)
+        ax.xaxis.set_major_formatter(ticker.StrMethodFormatter('${x:,.0f}'))
+        ax.legend(title='Area', bbox_to_anchor=(1.05, 1), loc='upper left')
         plt.tight_layout()
         st.pyplot(fig)
-        
-        # explanatory text
-        st.markdown("""
-        **How to interpret this chart:**
-        - Each point represents the **median price** for properties on that street type in that area
-        - The lines show the 95% confidence interval around the median estimate
-        - Compare how the same street type varies across different areas
-        - Look for street types that consistently command higher prices across areas
-        """)
-        
-        # sample size information
-        st.write(f"**Sample sizes:** Total {len(filtered_combo)} properties ({len(top_street_types)} street types × {len(top_areas)} areas)")
-        
     else:
         st.warning("Not enough data to show combination of street type and area")
 else:
