@@ -1,4 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$399,900"
+"2
+beds",2,"909
+sq.ft.","4539 S Mozart Street Chicago, IL 60632","$150,000"
 "4
 beds",2,"2,681
 sq.ft.","11521 S Aberdeen Street Chicago, IL 60643","$275,000"
@@ -3017,9 +3023,3 @@ sq.ft.","8554 S Michigan Avenue Chicago, IL 60619","$345,000"
 "3
 beds",2,"1,432
 sq.ft.","12334 S Lamon Avenue Alsip, IL 60803","$325,000"
-"3
-beds",1,"1,234
-sq.ft.","10201 S California Avenue Chicago, IL 60655","$324,900"
-"4
-beds",2,"1,500
-sq.ft.","9347 S Sangamon Street Chicago, IL 60620","$299,900"
