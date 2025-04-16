@@ -252,7 +252,7 @@ pairplot_fig.fig.subplots_adjust(hspace=0.3, wspace=0.3)
 st.pyplot(pairplot_fig)
 
 # 8. Machine Learning Price Prediction ----------------------------------------
-st.subheader("🤖 Enhanced Machine Learning Price Prediction")
+st.subheader("🤖 Machine Learning Price Prediction")
 
 if len(filtered_df) > 100:
     # Feature selection
