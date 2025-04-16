@@ -1,5 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2.0,1750,"4520 S King Drive , 4B Chicago, IL 60653",399900.0
+1,1.0,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",669000.0
 2,2.0,909,"4539 S Mozart Street Chicago, IL 60632",150000.0
 3,3.0,2688,"5443 S Rutherford Avenue Chicago, IL 60638",668900.0
 8,4.0,1302,"2435 S Whipple Street Chicago, IL 60623",115000.0
@@ -916,4 +917,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,3.0,2800,"11645 S Yale Avenue Chicago, IL 60628",233000.0
 1,1.0,700,"2909 N SHERIDAN Road 912 Chicago, IL 60657",210000.0
 3,2.0,1440,"2610 W 25th Street Chicago, IL 60608",180000.0
-2,1.0,856,"8427 S Green Street Chicago, IL 60620",179000.0
