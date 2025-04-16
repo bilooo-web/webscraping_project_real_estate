@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2.0,1750,"4520 S King Drive , 4B Chicago, IL 60653",399900.0
 2,2.0,909,"4539 S Mozart Street Chicago, IL 60632",150000.0
-3,2.0,1805,"2859 N Halsted Street 203 Chicago, IL 60657",785000.0
 3,3.0,2688,"5443 S Rutherford Avenue Chicago, IL 60638",668900.0
 4,3.0,2600,"1329 W Walton Street 1 Chicago, IL 60642",799000.0
 4,2.0,2681,"11521 S Aberdeen Street Chicago, IL 60643",275000.0
@@ -66,6 +65,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,2.0,1750,"10511 S yates Avenue Chicago, IL 60617",74900.0
 3,2.0,2200,"224 W Saint Paul Avenue 1 Chicago, IL 60614",840000.0
 4,4.0,1984,"5818 W Dakin Street Chicago, IL 60634",795000.0
+3,2.0,1805,"2859 N Halsted Street 203 Chicago, IL 60657",785000.0
 2,2.0,1042,"5004 N Nagle Avenue Chicago, IL 60630",450000.0
 3,2.0,1757,"4636 W Patterson Avenue Chicago, IL 60641",399000.0
 2,2.0,1200,"5455 N Sheridan Road 3702 Chicago, IL 60640",350000.0
@@ -902,7 +902,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2.0,1500,"7116 S University Avenue Chicago, IL 60619",69900.0
 2,1.0,1000,"6634 S Greenwood Avenue 3B Chicago, IL 60637",67500.0
 2,1.0,1100,"9731 S Ellis Avenue Chicago, IL 60628",65000.0
-3,2.0,1290,"9311 S Richmond Avenue Evergreen Park, IL 60805",375000.0
+3,2.0,1290,"9311 S Richmond Avenue Evergreen Park, IL 60805",385000.0
 2,2.0,1201,"211 N Harbor Drive 1501 Chicago, IL 60601",860000.0
 4,3.0,3101,"1624 W Peterson Avenue Chicago, IL 60660",850000.0
 3,2.0,1700,"1242 W Jackson Boulevard 2W Chicago, IL 60607",775000.0

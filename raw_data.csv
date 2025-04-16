@@ -6,9 +6,6 @@ sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$399,900"
 beds",2,"909
 sq.ft.","4539 S Mozart Street Chicago, IL 60632","$150,000"
 "3
-beds",2,"1,805
-sq.ft.","2859 N Halsted Street 203 Chicago, IL 60657","$785,000"
-"3
 beds",2,"2,000
 sq.ft.","1827 N Larrabee Street PH Chicago, IL 60614","$1,300,000"
 "3
@@ -224,6 +221,9 @@ sq.ft.","224 W Saint Paul Avenue 1 Chicago, IL 60614","$840,000"
 "4
 beds",4,"1,984
 sq.ft.","5818 W Dakin Street Chicago, IL 60634","$795,000"
+"3
+beds",2,"1,805
+sq.ft.","2859 N Halsted Street 203 Chicago, IL 60657","$785,000"
 "2
 beds",2,"1,042
 sq.ft.","5004 N Nagle Avenue Chicago, IL 60630","$450,000"
@@ -2980,7 +2980,7 @@ beds",1,"1,100
 sq.ft.","9731 S Ellis Avenue Chicago, IL 60628","$65,000"
 "3
 beds",2,"1,290
-sq.ft.","9311 S Richmond Avenue Evergreen Park, IL 60805","$375,000"
+sq.ft.","9311 S Richmond Avenue Evergreen Park, IL 60805","$385,000"
 "4
 beds",3,"4,000
 sq.ft.","3903 N Drake Avenue Chicago, IL 60618","$1,425,000"
