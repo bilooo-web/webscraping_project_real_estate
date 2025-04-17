@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
-3,2.0,1750,"4520 S King Drive , 4B Chicago, IL 60653",399900.0
+2,2.0,1250,"1644 W Cullerton Street , 2 Chicago, IL 60608",349900.0
 1,1.0,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",669000.0
-2,2.0,909,"4539 S Mozart Street Chicago, IL 60632",150000.0
 3,3.0,2688,"5443 S Rutherford Avenue Chicago, IL 60638",668900.0
 8,4.0,1302,"2435 S Whipple Street Chicago, IL 60623",115000.0
 2,2.0,1800,"2310 W Nelson Street 101 Chicago, IL 60618",499900.0
@@ -11,6 +10,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2.0,2237,"7617 S Wabash Avenue Chicago, IL 60619",274900.0
 5,3.0,2846,"5815 N Merrimac Avenue Chicago, IL 60646",670000.0
 3,3.0,2855,"5843 N Oconto Avenue Chicago, IL 60631",899000.0
+3,2.0,1750,"4520 S King Drive , 4B Chicago, IL 60653",399900.0
 4,2.0,2681,"11521 S Aberdeen Street Chicago, IL 60643",275000.0
 3,2.0,1140,"2501 S 58th Avenue Cicero, IL 60804",359000.0
 2,2.0,1200,"2637 W Huron Street Chicago, IL 60612",625000.0
@@ -122,6 +122,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1380,"6811 S Bishop Street Chicago, IL 60636",209900.0
 1,1.0,750,"6030 N SHERIDAN Road 803 Chicago, IL 60660",169900.0
 2,1.0,850,"346 E 41st Street 2 Chicago, IL 60653",124900.0
+2,2.0,909,"4539 S Mozart Street Chicago, IL 60632",150000.0
 2,2.0,1390,"10 E Ontario Street 4902 Chicago, IL 60611",499500.0
 3,1.0,1165,"3601 S 57th Court Cicero, IL 60804",349900.0
 4,3.0,2200,"8848 S Bishop Street Chicago, IL 60620",344900.0
@@ -421,6 +422,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1007,"7101 S Carpenter Street Chicago, IL 60621",115000.0
 1,1.0,500,"5424 W Ferdinand Street 104 Chicago, IL 60644",110000.0
 5,2.0,2000,"8312 S Maryland Avenue Chicago, IL 60619",59000.0
+3,2.0,1200,"7528 W Argyle St Harwood Heights, IL 60706",419900.0
 3,2.0,1200,"7528 W Argyle Street Harwood Heights, IL 60706",419900.0
 4,3.0,4000,"8110 W Balmoral Avenue Chicago, IL 60656",900000.0
 3,2.0,1800,"405 N Wabash Avenue 4510 Chicago, IL 60611",574999.0
@@ -916,4 +918,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1512,"923 N Pine Avenue Chicago, IL 60651",235000.0
 3,3.0,2800,"11645 S Yale Avenue Chicago, IL 60628",233000.0
 1,1.0,700,"2909 N SHERIDAN Road 912 Chicago, IL 60657",210000.0
-3,2.0,1440,"2610 W 25th Street Chicago, IL 60608",180000.0

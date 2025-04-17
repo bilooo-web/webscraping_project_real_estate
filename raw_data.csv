@@ -1,13 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$399,900"
+"2
+beds",2,"1,250
+sq.ft.","1644 W Cullerton Street , 2 Chicago, IL 60608","$349,900"
 "1
 beds",1,"1,314
 sq.ft.","401 N Wabash Avenue , 39G Chicago, IL 60611","$669,000"
-"2
-beds",2,"909
-sq.ft.","4539 S Mozart Street Chicago, IL 60632","$150,000"
 "3
 beds",2,"2,000
 sq.ft.","1827 N Larrabee Street PH Chicago, IL 60614","$1,300,000"
@@ -44,6 +41,9 @@ sq.ft.","1120 W Adams Street 5W Chicago, IL 60607","$1,175,000"
 "3
 beds",3,"2,855
 sq.ft.","5843 N Oconto Avenue Chicago, IL 60631","$899,000"
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$399,900"
 "4
 beds",2,"2,681
 sq.ft.","11521 S Aberdeen Street Chicago, IL 60643","$275,000"
@@ -401,6 +401,9 @@ sq.ft.","6030 N SHERIDAN Road 803 Chicago, IL 60660","$169,900"
 "2
 beds",1,"850
 sq.ft.","346 E 41st Street 2 Chicago, IL 60653","$124,900"
+"2
+beds",2,"909
+sq.ft.","4539 S Mozart Street Chicago, IL 60632","$150,000"
 "2
 beds",2,"1,390
 sq.ft.","10 E Ontario Street 4902 Chicago, IL 60611","$499,500"
@@ -1378,7 +1381,7 @@ beds",2,"2,000
 sq.ft.","8312 S Maryland Avenue Chicago, IL 60619","$59,000"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
 "3
 beds",2,"1,200
 sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
@@ -3020,6 +3023,3 @@ sq.ft.","11645 S Yale Avenue Chicago, IL 60628","$233,000"
 "1
 beds",1,"700
 sq.ft.","2909 N SHERIDAN Road 912 Chicago, IL 60657","$210,000"
-"3
-beds",2,"1,440
-sq.ft.","2610 W 25th Street Chicago, IL 60608","$180,000"
