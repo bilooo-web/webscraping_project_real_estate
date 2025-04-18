@@ -2,8 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1300,"1345 W Fillmore Street , 3 Chicago, IL 60607",379900.0
 1,1.0,850,"1935 S Archer Avenue , 314B Chicago, IL 60616",260000.0
 2,2.0,1250,"1644 W Cullerton Street , 2 Chicago, IL 60608",349900.0
-1,1.0,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",669000.0
-8,4.0,1302,"2435 S Whipple Street Chicago, IL 60623",115000.0
 2,2.0,1800,"2310 W Nelson Street 101 Chicago, IL 60618",499900.0
 3,2.0,1760,"6514 W FOSTER Avenue Chicago, IL 60656",449999.0
 4,3.0,2518,"3012 N Leavitt Street 1 Chicago, IL 60618",950000.0
@@ -149,6 +147,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1.0,800,"10602 S Walden Parkway 2W Chicago, IL 60643",135500.0
 4,1.0,1012,"7310 S OAKLEY Avenue Chicago, IL 60636",119900.0
 1,1.0,1250,"12109 S PRINCETON Avenue Chicago, IL 60628",59000.0
+1,1.0,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",669000.0
 2,2.0,1573,"900 W Washington Boulevard 402 Chicago, IL 60607",949995.0
 3,2.0,2700,"1636 W Huron Street Chicago, IL 60622",895000.0
 3,2.0,1718,"1258 N MILWAUKEE Avenue 3S Chicago, IL 60622",799500.0
@@ -925,3 +924,4 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1250,"1250 W Van Buren Street 314 Chicago, IL 60607",375000.0
 4,2.0,1650,"5241 N Mobile Avenue Chicago, IL 60630",359900.0
 2,2.0,1200,"9429 S Leavitt Street Chicago, IL 60643",350000.0
+4,2.0,1800,"Chicago, IL 60617",340000.0
