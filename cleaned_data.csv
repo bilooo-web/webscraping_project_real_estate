@@ -8,6 +8,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1300,"525 W Superior Street 322 Chicago, IL 60654",469900.0
 1,1.0,800,"6255 S Mason Avenue 3B Chicago, IL 60638",139900.0
 1,1.0,750,"6030 N Sheridan Road 1810 Chicago, IL 60660",183000.0
+3,2.0,1341,"1935 S Archer Avenue , 515 Chicago, IL 60616",375000.0
 2,2.0,1200,"2636 N FAIRFIELD Avenue G Chicago, IL 60647",325000.0
 2,1.0,700,"2947 N Sheffield Avenue 3 Chicago, IL 60657",315000.0
 5,2.0,1584,"6725 S Honore Street Chicago, IL 60636",239900.0
@@ -495,7 +496,6 @@ bedrooms,bathrooms,square_footage,address,price
 6,2.0,1972,"220 N Lorel Avenue Chicago, IL 60644",99000.0
 3,1.0,1494,"12013 S Princeton Avenue Chicago, IL 60628",89900.0
 4,2.0,2403,"5847 S Nagle Avenue Chicago, IL 60638",569900.0
-3,2.0,1341,"1935 S Archer Avenue , 515 Chicago, IL 60616",375000.0
 5,3.0,3600,"4930 S Martin Luther King Drive Chicago, IL 60653",949000.0
 4,2.0,2500,"1308 W Addison Street 1E Chicago, IL 60613",899000.0
 3,2.0,1700,"2414 N Sawyer Avenue 2D Chicago, IL 60647",819999.0
@@ -549,8 +549,8 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1007,"7101 S Carpenter Street Chicago, IL 60621",115000.0
 1,1.0,500,"5424 W Ferdinand Street 104 Chicago, IL 60644",110000.0
 5,2.0,2000,"8312 S Maryland Avenue Chicago, IL 60619",59000.0
-3,2.0,1200,"7528 W Argyle St Harwood Heights, IL 60706",419900.0
 3,2.0,1200,"7528 W Argyle Street Harwood Heights, IL 60706",419900.0
+3,2.0,1200,"7528 W Argyle St Harwood Heights, IL 60706",419900.0
 4,3.0,4000,"8110 W Balmoral Avenue Chicago, IL 60656",900000.0
 3,2.0,1800,"405 N Wabash Avenue 4510 Chicago, IL 60611",574999.0
 3,2.0,2961,"3039 S Kolin Avenue Chicago, IL 60623",425000.0
