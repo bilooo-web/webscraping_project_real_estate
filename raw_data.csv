@@ -6,12 +6,6 @@ sq.ft.","1345 W Fillmore Street , 3 Chicago, IL 60607","$379,900"
 beds",1,"850
 sq.ft.","1935 S Archer Avenue , 314B Chicago, IL 60616","$260,000"
 "2
-beds",2,"1,250
-sq.ft.","1644 W Cullerton Street , 2 Chicago, IL 60608","$349,900"
-"4
-beds",3,"2,518
-sq.ft.","3012 N Leavitt Street 1 Chicago, IL 60618","$950,000"
-"2
 beds",2,"1,302
 sq.ft.","1213 N Noble Street 3 Chicago, IL 60642","$469,900"
 "3
@@ -65,6 +59,9 @@ sq.ft.","6150 N Kenmore Avenue 5D Chicago, IL 60660","$289,900"
 "3
 beds",3,"3,382
 sq.ft.","2047 W Race Avenue Chicago, IL 60612","$1,649,000"
+"4
+beds",3,"2,518
+sq.ft.","3012 N Leavitt Street 1 Chicago, IL 60618","$950,000"
 "2
 beds",3,"3,794
 sq.ft.","1123 W 19th Street Chicago, IL 60608","$809,999"
@@ -575,6 +572,9 @@ sq.ft.","54 E 137th Place Riverdale, IL 60827","$74,900"
 "3
 beds",2,"1,535
 sq.ft.","2955 E 80th Place Chicago, IL 60617","$64,900"
+"2
+beds",2,"1,250
+sq.ft.","1644 W Cullerton Street , 2 Chicago, IL 60608","$349,900"
 "3
 beds",3,"3,050
 sq.ft.","1040 N LAKE SHORE Drive 7C Chicago, IL 60611","$1,795,000"
@@ -1780,10 +1780,10 @@ beds",2,"2,000
 sq.ft.","8312 S Maryland Avenue Chicago, IL 60619","$59,000"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
 "2
 beds",2,"2,022
 sq.ft.","401 N Wabash Avenue 56D Chicago, IL 60611","$1,149,000"
