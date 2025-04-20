@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",1,"819
+sq.ft.","4335 S Rockwell Street Chicago, IL 60632","$299,900"
 "5
 beds",3,"3,755
 sq.ft.","1909 W George Street Chicago, IL 60657","$1,350,000"
@@ -53,27 +56,30 @@ sq.ft.","3119 S EMERALD Avenue Chicago, IL 60616","$765,000"
 "2
 beds",2,"1,149
 sq.ft.","303 W OHIO Street 1906 Chicago, IL 60654","$475,000"
-"3
-beds",3,"3,500
-sq.ft.","5141 W Dakin Street Chicago, IL 60641","$849,900"
 "5
 beds",1,"3,196
 sq.ft.","41 N Lotus Avenue Chicago, IL 60644","$449,900"
 "3
+beds",3,"3,500
+sq.ft.","5141 W Dakin Street Chicago, IL 60641","$849,900"
+"3
 beds",2,"1,200
 sq.ft.","7943 S Blackstone Avenue Chicago, IL 60619","$290,000"
+"1
+beds",1,"900
+sq.ft.","5455 N Sheridan Road 2204 Chicago, IL 60640","$199,000"
 "3
 beds",2,"1,830
 sq.ft.","9332 S Francisco Avenue Evergreen Park, IL 60805","$310,000"
-"3
-beds",3,"1,565
-sq.ft.","4950 N Mason Avenue Chicago, IL 60630","$515,000"
 "3
 beds",2,"1,700
 sq.ft.","3862 S Lake Park Avenue 3S Chicago, IL 60653","$370,000"
 "3
 beds",2,"1,500
 sq.ft.","4706 S Saint Lawrence Avenue 2W Chicago, IL 60615","$430,000"
+"2
+beds",2,"1,129
+sq.ft.","4141 N Kedzie Avenue 202 Chicago, IL 60618","$415,000"
 "4
 beds",2,"1,700
 sq.ft.","5936 S Keeler Avenue Chicago, IL 60629","$359,999"
@@ -83,6 +89,24 @@ sq.ft.","811 S Lytle Street 205 Chicago, IL 60607","$239,000"
 "3
 beds",2,"1,120
 sq.ft.","12722 S Laflin Street Calumet Park, IL 60827","$230,000"
+"4
+beds",3,"2,700
+sq.ft.","2823 N OAKLEY Avenue D Chicago, IL 60618","$1,095,000"
+"3
+beds",2,"2,248
+sq.ft.","3908 W 69th Place Chicago, IL 60629","$399,000"
+"2
+beds",2,"972
+sq.ft.","10208 S California Avenue S Evergreen Park, IL 60805","$305,000"
+"5
+beds",2,"2,065
+sq.ft.","250 W 119th Street Chicago, IL 60628","$275,000"
+"2
+beds",2,"1,660
+sq.ft.","12510 S Edbrooke Avenue Chicago, IL 60628","$249,900"
+"4
+beds",2,"2,774
+sq.ft.","11433 S Wallace Street Chicago, IL 60628","$184,900"
 "3
 beds",3,"1,891
 sq.ft.","111 S Peoria Street 309 Chicago, IL 60607","$1,169,900"
@@ -113,6 +137,9 @@ sq.ft.","4616 N Kenmore Avenue 401 Chicago, IL 60640","$325,000"
 "5
 beds",2,"2,450
 sq.ft.","5018 W 23RD Street Cicero, IL 60804","$325,000"
+"2
+beds",1,"2,825
+sq.ft.","2816 S Loomis Street Chicago, IL 60608","$300,000"
 "1
 beds",1,"800
 sq.ft.","2650 N Lakeview Avenue 2107 Chicago, IL 60614","$299,900"
@@ -200,6 +227,9 @@ sq.ft.","345 N La Salle Drive N 2501 Chicago, IL 60654","$549,000"
 "3
 beds",2,"1,208
 sq.ft.","2307 N Avers Avenue 2 Chicago, IL 60647","$525,000"
+"3
+beds",3,"1,565
+sq.ft.","4950 N Mason Avenue Chicago, IL 60630","$515,000"
 "3
 beds",3,"3,250
 sq.ft.","400 N Trumbull Avenue N Chicago, IL 60624","$485,000"
@@ -869,9 +899,6 @@ sq.ft.","1460 N Sandburg Terrace 2408 Chicago, IL 60610","$324,950"
 "3
 beds",2,"1,800
 sq.ft.","8532 S Prairie Avenue Chicago, IL 60619","$314,900"
-"5
-beds",2,"2,065
-sq.ft.","250 W 119th Street Chicago, IL 60628","$289,000"
 "1
 beds",1,"735
 sq.ft.","1901 S Calumet Avenue 611 Chicago, IL 60616","$280,000"
@@ -1239,14 +1266,14 @@ sq.ft.","4624 N Commons Drive 104 Chicago, IL 60656","$169,900"
 beds",1,"1,000
 sq.ft.","5515 S Hoyne Avenue Chicago, IL 60636","$169,900"
 "2
+beds",1,"1,058
+sq.ft.","5024 W Van Buren Street D Chicago, IL 60644","$165,000"
+"2
 beds",1,"500
 sq.ft.","11345 S Ada Street Chicago, IL 60643","$160,000"
 "3
 beds",1,"1,566
 sq.ft.","10304 S Prospect Avenue Chicago, IL 60643","$150,000"
-"2
-beds",1,"1,058
-sq.ft.","5024 W Van Buren Street D Chicago, IL 60644","$149,900"
 "3
 beds",2,"1,248
 sq.ft.","8439 S Ada Street Chicago, IL 60620","$139,900"
@@ -1574,9 +1601,6 @@ sq.ft.","11549 S Kilbourn Avenue Alsip, IL 60803","$269,873"
 "2
 beds",2,"1,800
 sq.ft.","5000 S Cornell Avenue 21B Chicago, IL 60615","$250,000"
-"2
-beds",1,"980
-sq.ft.","12510 S Edbrooke Avenue Chicago, IL 60628","$249,900"
 "3
 beds",2,"1,300
 sq.ft.","2323 W Pershing Road 402 Chicago, IL 60609","$249,900"
@@ -2158,7 +2182,7 @@ beds",1,"1,093
 sq.ft.","10 E Ontario Street 4005 Chicago, IL 60611","$350,000"
 "4
 beds",2,"1,800
-sq.ft.","1118 E 46th Street 1E Chicago, IL 60653","$324,999"
+sq.ft.","1118 E 46th Street 1E Chicago, IL 60653","$319,999"
 "3
 beds",2,"1,650
 sq.ft.","6208 N Talman Avenue G Chicago, IL 60659","$300,000"
@@ -2807,9 +2831,6 @@ sq.ft.","4300 N Marine Drive 306 Chicago, IL 60613","$429,000"
 "2
 beds",2,"1,215
 sq.ft.","701 S Wells Street 2102 Chicago, IL 60607","$425,000"
-"2
-beds",2,"1,129
-sq.ft.","4141 N Kedzie Avenue 202 Chicago, IL 60618","$415,000"
 "3
 beds",2,"1,400
 sq.ft.","4400 S Prairie Avenue 2 Chicago, IL 60653","$415,000"
@@ -3002,24 +3023,3 @@ sq.ft.","Evergreen Park, IL 60805","$299,900"
 "1
 beds",1,"1,000
 sq.ft.","600 S Dearborn Street 1808 Chicago, IL 60605","$299,000"
-"3
-beds",2,"1,300
-sq.ft.","7841 S Seeley Avenue Chicago, IL 60620","$289,900"
-"3
-beds",2,"1,250
-sq.ft.","8944 S Jeffery Boulevard Chicago, IL 60617","$279,900"
-"3
-beds",1,"1,020
-sq.ft.","6125 S Nashville Avenue Chicago, IL 60638","$265,000"
-"2
-beds",2,"1,065
-sq.ft.","801 S Plymouth Court 616 Chicago, IL 60605","$265,000"
-"3
-beds",2,"1,320
-sq.ft.","10519 S Eberhart Avenue Chicago, IL 60628","$264,900"
-"3
-beds",2,"1,700
-sq.ft.","4316 S Vincennes Avenue 3S Chicago, IL 60653","$260,000"
-"3
-beds",2,"1,200
-sq.ft.","6230 W 63rd Place Chicago, IL 60638","$259,999"
