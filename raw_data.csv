@@ -1,10 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"1
-beds",1,"850
-sq.ft.","4624 N Commons Drive 104 Chicago, IL 60656","$169,900"
-"5
-beds",3,"3,500
-sq.ft.","1531 N Wood Street Chicago, IL 60622","$1,499,999"
 "5
 beds",3,"3,755
 sq.ft.","1909 W George Street Chicago, IL 60657","$1,350,000"
@@ -662,6 +656,9 @@ sq.ft.","2035 N Orleans Street 2N Chicago, IL 60614","$1,995,000"
 "4
 beds",4,"3,126
 sq.ft.","1929 S Prairie Avenue Chicago, IL 60616","$1,550,000"
+"5
+beds",3,"3,500
+sq.ft.","1531 N Wood Street Chicago, IL 60622","$1,499,999"
 "3
 beds",3,"2,143
 sq.ft.","1120 W Adams Street 5W Chicago, IL 60607","$1,175,000"
@@ -1235,6 +1232,9 @@ sq.ft.","734 E 42nd Street Chicago, IL 60653","$180,000"
 "3
 beds",2,"1,329
 sq.ft.","9258 S Bishop Street Chicago, IL 60620","$179,900"
+"1
+beds",1,"850
+sq.ft.","4624 N Commons Drive 104 Chicago, IL 60656","$169,900"
 "2
 beds",1,"1,000
 sq.ft.","5515 S Hoyne Avenue Chicago, IL 60636","$169,900"

@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-1,1.0,850,"4624 N Commons Drive 104 Chicago, IL 60656",169900.0
 1,1.0,864,"330 N Jefferson Street 1002 Chicago, IL 60661",349000.0
 3,1.0,1360,"3426 W WRIGHTWOOOD Avenue Chicago, IL 60647",495000.0
 3,2.0,1760,"6514 W FOSTER Avenue Chicago, IL 60656",449999.0
@@ -372,6 +371,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,2100,"8605 S Dorchester Avenue Chicago, IL 60619",204900.0
 3,2.0,1877,"734 E 42nd Street Chicago, IL 60653",180000.0
 3,2.0,1329,"9258 S Bishop Street Chicago, IL 60620",179900.0
+1,1.0,850,"4624 N Commons Drive 104 Chicago, IL 60656",169900.0
 2,1.0,1000,"5515 S Hoyne Avenue Chicago, IL 60636",169900.0
 2,1.0,500,"11345 S Ada Street Chicago, IL 60643",160000.0
 3,1.0,1566,"10304 S Prospect Avenue Chicago, IL 60643",150000.0
