@@ -1,17 +1,8 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2.0,1300,"1345 W Fillmore Street , 3 Chicago, IL 60607",379900.0
 1,1.0,850,"1935 S Archer Avenue , 314B Chicago, IL 60616",260000.0
-2,2.0,1300,"525 W Superior Street 322 Chicago, IL 60654",469900.0
-1,1.0,800,"6255 S Mason Avenue 3B Chicago, IL 60638",139900.0
-1,1.0,750,"6030 N Sheridan Road 1810 Chicago, IL 60660",183000.0
 3,2.0,1341,"1935 S Archer Avenue , 515 Chicago, IL 60616",375000.0
-2,2.0,1200,"2636 N FAIRFIELD Avenue G Chicago, IL 60647",325000.0
-2,1.0,700,"2947 N Sheffield Avenue 3 Chicago, IL 60657",315000.0
-5,2.0,1584,"6725 S Honore Street Chicago, IL 60636",239900.0
 4,2.0,3100,"1478 S PRAIRIE Avenue N Chicago, IL 60605",929000.0
-4,3.0,2600,"1329 W Walton Street 1 Chicago, IL 60642",799000.0
-4,2.0,2237,"7617 S Wabash Avenue Chicago, IL 60619",274900.0
-3,3.0,2060,"367 W Locust Street 407 Chicago, IL 60610",875000.0
 3,2.0,1500,"2342 W Harrison Street 2 Chicago, IL 60612",349000.0
 2,2.0,1100,"6150 N Kenmore Avenue 5D Chicago, IL 60660",289900.0
 4,3.0,2518,"3012 N Leavitt Street 1 Chicago, IL 60618",950000.0
@@ -168,6 +159,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1500,"3532 N Fremont Street 3 Chicago, IL 60657",599900.0
 2,2.0,1600,"260 E Chestnut Street 2701 Chicago, IL 60611",515000.0
 2,2.0,1443,"1600 S Prairie Avenue 803 Chicago, IL 60616",474900.0
+2,2.0,1300,"525 W Superior Street 322 Chicago, IL 60654",469900.0
 1,1.0,1000,"111 E Chestnut Street 39H Chicago, IL 60611",425000.0
 4,2.0,2530,"5025 W Superior Street Chicago, IL 60644",424900.0
 3,2.0,2000,"6125 N Hoyne Avenue 2S Chicago, IL 60659",400000.0
@@ -196,6 +188,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1.0,1123,"5611 S WHIPPLE Street Chicago, IL 60629",150000.0
 1,1.0,800,"7061 N Kedzie Avenue 1409 Chicago, IL 60645",144900.0
 3,1.0,798,"2037 W 69th Place Chicago, IL 60636",139900.0
+1,1.0,800,"6255 S Mason Avenue 3B Chicago, IL 60638",139900.0
 2,1.0,800,"2656 W Fitch Avenue GW Chicago, IL 60645",139900.0
 3,1.0,1552,"7521 S Parnell Avenue Chicago, IL 60620",109900.0
 3,2.0,1200,"10616 S Lafayette Avenue Chicago, IL 60628",90000.0
@@ -228,6 +221,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2.0,1446,"6146 S Normandy Avenue Chicago, IL 60638",337400.0
 4,3.0,1018,"6722 S Honore Street Chicago, IL 60636",310000.0
 3,3.0,2500,"6914 S Cregier Avenue Chicago, IL 60649",300000.0
+4,2.0,2237,"7617 S Wabash Avenue Chicago, IL 60619",274900.0
 3,3.0,3136,"8841 S JUSTINE Street Chicago, IL 60620",265000.0
 3,2.0,1200,"844 E 40th Street A2 Chicago, IL 60653",259900.0
 2,2.0,1000,"6142 W 63rd Street 3W Chicago, IL 60638",249900.0
@@ -466,6 +460,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1.0,1200,"2149 E 90th Street Chicago, IL 60617",189900.0
 2,1.0,1020,"7600 S Euclid Avenue Chicago, IL 60649",189000.0
 2,1.0,1300,"6101 N Sheridan Road 14C Chicago, IL 60660",189000.0
+1,1.0,750,"6030 N Sheridan Road 1810 Chicago, IL 60660",183000.0
 2,2.0,1600,"8135 S Muskegon Avenue Chicago, IL 60617",179000.0
 1,1.0,830,"6301 N Sheridan Road 2U Chicago, IL 60660",135000.0
 2,2.0,1035,"7424 S Blackstone Avenue Chicago, IL 60619",135000.0
@@ -784,6 +779,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1.0,715,"5809 N Rogers Avenue Chicago, IL 60646",345000.0
 2,1.0,1200,"600 S Dearborn Street 901 Chicago, IL 60605",340000.0
 3,2.0,2240,"9048 S LUELLA Avenue Chicago, IL 60617",340000.0
+2,2.0,1200,"2636 N FAIRFIELD Avenue G Chicago, IL 60647",325000.0
 3,2.0,1763,"519 E 91st Street Chicago, IL 60619",315000.0
 1,1.0,826,"545 N Dearborn Street 2202 Chicago, IL 60654",310000.0
 4,2.0,2000,"7430 S King Drive Chicago, IL 60619",303900.0
@@ -926,3 +922,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,2400,"5714 N Austin Avenue Chicago, IL 60646",420000.0
 2,1.0,1025,"1301 W Madison Street 502 Chicago, IL 60607",419000.0
 1,1.0,979,"1122 N Dearborn Street 12E Chicago, IL 60610",410000.0
+2,1.0,1125,"41 E 8TH Street 4A Chicago, IL 60605",395000.0
+1,1.0,1250,"345 N Canal Street 502 Chicago, IL 60606",379000.0
+3,2.0,2474,"5600 S Karlov Avenue Chicago, IL 60629",370000.0
+1,1.0,900,"111 S Morgan Street 801 Chicago, IL 60607",350000.0
