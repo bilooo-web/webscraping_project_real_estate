@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,1.0,1292,"545 W 29th Street Chicago, IL 60616",369998.0
 3,2.0,2080,"12603 S Michigan Avenue Chicago, IL 60628",289900.0
 3,1.0,819,"4335 S Rockwell Street Chicago, IL 60632",299900.0
 2,1.0,900,"5735 S Washtenaw Avenue Chicago, IL 60629",199900.0
@@ -562,8 +563,8 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1007,"7101 S Carpenter Street Chicago, IL 60621",115000.0
 1,1.0,500,"5424 W Ferdinand Street 104 Chicago, IL 60644",110000.0
 5,2.0,2000,"8312 S Maryland Avenue Chicago, IL 60619",59000.0
-3,2.0,1200,"7528 W Argyle Street Harwood Heights, IL 60706",419900.0
 3,2.0,1200,"7528 W Argyle St Harwood Heights, IL 60706",419900.0
+3,2.0,1200,"7528 W Argyle Street Harwood Heights, IL 60706",419900.0
 4,3.0,4000,"8110 W Balmoral Avenue Chicago, IL 60656",900000.0
 3,2.0,1800,"405 N Wabash Avenue 4510 Chicago, IL 60611",574999.0
 3,2.0,2961,"3039 S Kolin Avenue Chicago, IL 60623",425000.0
@@ -920,4 +921,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,1.0,1020,"5916 S Meade Avenue Chicago, IL 60638",335000.0
 2,1.0,700,"2947 N Sheffield Avenue 3 Chicago, IL 60657",315000.0
 2,2.0,1200,"2457 W Harrison Street 4 Chicago, IL 60612",315000.0
-4,2.0,1462,"Evergreen Park, IL 60805",299900.0

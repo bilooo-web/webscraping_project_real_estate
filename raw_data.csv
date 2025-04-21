@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",1,"1,292
+sq.ft.","545 W 29th Street Chicago, IL 60616","$369,998"
+"3
 beds",2,"2,080
 sq.ft.","12603 S Michigan Avenue Chicago, IL 60628","$289,900"
 "3
@@ -1834,10 +1837,10 @@ beds",2,"2,000
 sq.ft.","8312 S Maryland Avenue Chicago, IL 60619","$59,000"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
 "2
 beds",2,"2,022
 sq.ft.","401 N Wabash Avenue 56D Chicago, IL 60611","$1,149,000"
@@ -3020,6 +3023,3 @@ sq.ft.","2947 N Sheffield Avenue 3 Chicago, IL 60657","$315,000"
 "2
 beds",2,"1,200
 sq.ft.","2457 W Harrison Street 4 Chicago, IL 60612","$315,000"
-"4
-beds",2,"1,462
-sq.ft.","Evergreen Park, IL 60805","$299,900"
