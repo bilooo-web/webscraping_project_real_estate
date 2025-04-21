@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2.0,2080,"12603 S Michigan Avenue Chicago, IL 60628",289900.0
 3,1.0,819,"4335 S Rockwell Street Chicago, IL 60632",299900.0
 2,1.0,900,"5735 S Washtenaw Avenue Chicago, IL 60629",199900.0
 3,2.0,1200,"7943 S Blackstone Avenue Chicago, IL 60619",290000.0
@@ -920,4 +921,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,1.0,700,"2947 N Sheffield Avenue 3 Chicago, IL 60657",315000.0
 2,2.0,1200,"2457 W Harrison Street 4 Chicago, IL 60612",315000.0
 4,2.0,1462,"Evergreen Park, IL 60805",299900.0
-1,1.0,1000,"600 S Dearborn Street 1808 Chicago, IL 60605",299000.0

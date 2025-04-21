@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",2,"2,080
+sq.ft.","12603 S Michigan Avenue Chicago, IL 60628","$289,900"
+"3
 beds",1,"819
 sq.ft.","4335 S Rockwell Street Chicago, IL 60632","$299,900"
 "2
@@ -3020,6 +3023,3 @@ sq.ft.","2457 W Harrison Street 4 Chicago, IL 60612","$315,000"
 "4
 beds",2,"1,462
 sq.ft.","Evergreen Park, IL 60805","$299,900"
-"1
-beds",1,"1,000
-sq.ft.","600 S Dearborn Street 1808 Chicago, IL 60605","$299,000"
