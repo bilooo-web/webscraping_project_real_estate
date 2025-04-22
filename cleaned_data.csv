@@ -1,6 +1,8 @@
 bedrooms,bathrooms,square_footage,address,price
 3,1.0,1292,"545 W 29th Street Chicago, IL 60616",369998.0
 1,1.0,800,"1918 S Michigan Avenue , 103 Chicago, IL 60616",260000.0
+1,1.0,950,"437 W Division Street , 505 Chicago, IL 60610",319900.0
+2,2.0,1500,"7033 N Kedzie Avenue , 504 Chicago, IL 60645",169900.0
 3,2.0,2080,"12603 S Michigan Avenue Chicago, IL 60628",289900.0
 3,2.0,1200,"7943 S Blackstone Avenue Chicago, IL 60619",290000.0
 2,2.0,1235,"2 E ERIE Street 2102 Chicago, IL 60611",535000.0
@@ -919,5 +921,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,2474,"5600 S Karlov Avenue Chicago, IL 60629",370000.0
 1,1.0,900,"111 S Morgan Street 801 Chicago, IL 60607",350000.0
 6,2.0,1380,"3716 W 54th Street Chicago, IL 60632",338000.0
-3,1.0,1020,"5916 S Meade Avenue Chicago, IL 60638",335000.0
-2,1.0,700,"2947 N Sheffield Avenue 3 Chicago, IL 60657",315000.0
