@@ -14,9 +14,6 @@ sq.ft.","7033 N Kedzie Avenue , 504 Chicago, IL 60645","$169,900"
 "3
 beds",2,"2,080
 sq.ft.","12603 S Michigan Avenue Chicago, IL 60628","$289,900"
-"3
-beds",2,"1,200
-sq.ft.","7943 S Blackstone Avenue Chicago, IL 60619","$290,000"
 "2
 beds",2,"1,235
 sq.ft.","2 E ERIE Street 2102 Chicago, IL 60611","$535,000"
@@ -1418,6 +1415,9 @@ sq.ft.","405 N WABASH Avenue 2314 Chicago, IL 60611","$299,900"
 "3
 beds",1,"2,150
 sq.ft.","5121 S Trumbull Avenue Chicago, IL 60632","$299,900"
+"3
+beds",2,"1,200
+sq.ft.","7943 S Blackstone Avenue Chicago, IL 60619","$290,000"
 "4
 beds",2,"1,200
 sq.ft.","9315 S Clyde Avenue Chicago, IL 60617","$290,000"
@@ -1846,10 +1846,10 @@ beds",2,"2,000
 sq.ft.","8312 S Maryland Avenue Chicago, IL 60619","$59,000"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
 "2
 beds",2,"2,022
 sq.ft.","401 N Wabash Avenue 56D Chicago, IL 60611","$1,149,000"

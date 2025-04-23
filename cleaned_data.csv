@@ -4,7 +4,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1.0,950,"437 W Division Street , 505 Chicago, IL 60610",319900.0
 2,2.0,1500,"7033 N Kedzie Avenue , 504 Chicago, IL 60645",169900.0
 3,2.0,2080,"12603 S Michigan Avenue Chicago, IL 60628",289900.0
-3,2.0,1200,"7943 S Blackstone Avenue Chicago, IL 60619",290000.0
 2,2.0,1235,"2 E ERIE Street 2102 Chicago, IL 60611",535000.0
 1,1.0,900,"5455 N Sheridan Road 2204 Chicago, IL 60640",199000.0
 3,2.0,1830,"9332 S Francisco Avenue Evergreen Park, IL 60805",310000.0
@@ -430,6 +429,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2.0,3741,"8059 S Morgan Street Chicago, IL 60620",310000.0
 1,1.0,900,"405 N WABASH Avenue 2314 Chicago, IL 60611",299900.0
 3,1.0,2150,"5121 S Trumbull Avenue Chicago, IL 60632",299900.0
+3,2.0,1200,"7943 S Blackstone Avenue Chicago, IL 60619",290000.0
 4,2.0,1200,"9315 S Clyde Avenue Chicago, IL 60617",290000.0
 3,1.0,1000,"6328 S Kostner Avenue Chicago, IL 60629",285000.0
 1,1.0,914,"600 S Dearborn Street 1603 Chicago, IL 60605",279000.0
@@ -566,8 +566,8 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1007,"7101 S Carpenter Street Chicago, IL 60621",115000.0
 1,1.0,500,"5424 W Ferdinand Street 104 Chicago, IL 60644",110000.0
 5,2.0,2000,"8312 S Maryland Avenue Chicago, IL 60619",59000.0
-3,2.0,1200,"7528 W Argyle Street Harwood Heights, IL 60706",419900.0
 3,2.0,1200,"7528 W Argyle St Harwood Heights, IL 60706",419900.0
+3,2.0,1200,"7528 W Argyle Street Harwood Heights, IL 60706",419900.0
 4,3.0,4000,"8110 W Balmoral Avenue Chicago, IL 60656",900000.0
 3,2.0,1800,"405 N Wabash Avenue 4510 Chicago, IL 60611",574999.0
 3,2.0,2961,"3039 S Kolin Avenue Chicago, IL 60623",425000.0
