@@ -2,6 +2,9 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "4
 beds",1,"1,080
 sq.ft.","5135 W George Street Chicago, IL 60641","$349,900"
+"3
+beds",1,"1,080
+sq.ft.","7046 W 63rd Place Chicago, IL 60638","$337,000"
 "1
 beds",1,"950
 sq.ft.","437 W Division Street , 505 Chicago, IL 60610","$319,900"
@@ -1849,10 +1852,10 @@ beds",2,"2,000
 sq.ft.","8312 S Maryland Avenue Chicago, IL 60619","$59,000"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
 "2
 beds",2,"2,022
 sq.ft.","401 N Wabash Avenue 56D Chicago, IL 60611","$1,149,000"
@@ -2593,7 +2596,7 @@ beds",1,"950
 sq.ft.","8026 S Michigan Avenue 2A Chicago, IL 60619","$70,000"
 "4
 beds",4,"2,069
-sq.ft.","5005 S Ridgeway Avenue Chicago, IL 60632","$485,000"
+sq.ft.","5005 S Ridgeway Avenue Chicago, IL 60632","$475,000"
 "7
 beds",4,"6,400
 sq.ft.","4435 N Hamilton Avenue Chicago, IL 60625","$4,195,000"
@@ -3020,6 +3023,3 @@ sq.ft.","345 N Canal Street 502 Chicago, IL 60606","$379,000"
 "3
 beds",2,"2,474
 sq.ft.","5600 S Karlov Avenue Chicago, IL 60629","$370,000"
-"1
-beds",1,"900
-sq.ft.","111 S Morgan Street 801 Chicago, IL 60607","$350,000"
