@@ -1,10 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"3
-beds",1,"1,292
-sq.ft.","545 W 29th Street Chicago, IL 60616","$369,998"
-"1
-beds",1,"800
-sq.ft.","1918 S Michigan Avenue , 103 Chicago, IL 60616","$260,000"
 "4
 beds",1,"1,080
 sq.ft.","5135 W George Street Chicago, IL 60641","$349,900"
@@ -14,9 +8,6 @@ sq.ft.","437 W Division Street , 505 Chicago, IL 60610","$319,900"
 "2
 beds",2,"1,500
 sq.ft.","7033 N Kedzie Avenue , 504 Chicago, IL 60645","$169,900"
-"3
-beds",2,"2,080
-sq.ft.","12603 S Michigan Avenue Chicago, IL 60628","$289,900"
 "2
 beds",2,"1,235
 sq.ft.","2 E ERIE Street 2102 Chicago, IL 60611","$535,000"
@@ -24,8 +15,14 @@ sq.ft.","2 E ERIE Street 2102 Chicago, IL 60611","$535,000"
 beds",1,"900
 sq.ft.","5455 N Sheridan Road 2204 Chicago, IL 60640","$199,000"
 "3
+beds",1,"1,292
+sq.ft.","545 W 29th Street Chicago, IL 60616","$369,998"
+"3
 beds",2,"1,830
 sq.ft.","9332 S Francisco Avenue Evergreen Park, IL 60805","$310,000"
+"1
+beds",1,"800
+sq.ft.","1918 S Michigan Avenue , 103 Chicago, IL 60616","$260,000"
 "3
 beds",2,"1,700
 sq.ft.","3862 S Lake Park Avenue 3S Chicago, IL 60653","$370,000"
@@ -50,6 +47,9 @@ sq.ft.","811 S Lytle Street 205 Chicago, IL 60607","$239,000"
 "3
 beds",2,"1,120
 sq.ft.","12722 S Laflin Street Calumet Park, IL 60827","$230,000"
+"3
+beds",2,"2,080
+sq.ft.","12603 S Michigan Avenue Chicago, IL 60628","$289,900"
 "2
 beds",2,"1,433
 sq.ft.","1016 N Hermitage Avenue 3 Chicago, IL 60622","$819,000"
@@ -1849,10 +1849,10 @@ beds",2,"2,000
 sq.ft.","8312 S Maryland Avenue Chicago, IL 60619","$59,000"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
 "2
 beds",2,"2,022
 sq.ft.","401 N Wabash Avenue 56D Chicago, IL 60611","$1,149,000"
