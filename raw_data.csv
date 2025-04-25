@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",2,"1,130
+sq.ft.","61 W 15th Street , 608 Chicago, IL 60605","$329,800"
 "4
 beds",1,"1,080
 sq.ft.","5135 W George Street Chicago, IL 60641","$349,900"
@@ -32,6 +35,9 @@ sq.ft.","4141 N Kedzie Avenue 202 Chicago, IL 60618","$415,000"
 "3
 beds",2,"2,445
 sq.ft.","331 E 17th Street Chicago, IL 60616","$779,000"
+"1
+beds",1,"650
+sq.ft.","Chicago, IL 60614","$284,900"
 "3
 beds",3,"1,654
 sq.ft.","7811 S Ada Street Chicago, IL 60620","$200,000"
@@ -3017,9 +3023,3 @@ sq.ft.","1122 N Dearborn Street 12E Chicago, IL 60610","$410,000"
 "2
 beds",1,"1,125
 sq.ft.","41 E 8TH Street 4A Chicago, IL 60605","$395,000"
-"1
-beds",1,"1,250
-sq.ft.","345 N Canal Street 502 Chicago, IL 60606","$379,000"
-"3
-beds",2,"2,474
-sq.ft.","5600 S Karlov Avenue Chicago, IL 60629","$370,000"

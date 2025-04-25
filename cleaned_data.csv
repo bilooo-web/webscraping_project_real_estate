@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+2,2.0,1130,"61 W 15th Street , 608 Chicago, IL 60605",329800.0
 4,1.0,1080,"5135 W George Street Chicago, IL 60641",349900.0
 3,1.0,1080,"7046 W 63rd Place Chicago, IL 60638",337000.0
 2,2.0,1235,"2 E ERIE Street 2102 Chicago, IL 60611",535000.0
@@ -10,6 +11,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1500,"4706 S Saint Lawrence Avenue 2W Chicago, IL 60615",430000.0
 2,2.0,1129,"4141 N Kedzie Avenue 202 Chicago, IL 60618",415000.0
 3,2.0,2445,"331 E 17th Street Chicago, IL 60616",779000.0
+1,1.0,650,"Chicago, IL 60614",284900.0
 3,3.0,1654,"7811 S Ada Street Chicago, IL 60620",200000.0
 4,2.0,1700,"5936 S Keeler Avenue Chicago, IL 60629",359999.0
 1,1.0,718,"811 S Lytle Street 205 Chicago, IL 60607",239000.0
@@ -919,5 +921,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,1.0,1025,"1301 W Madison Street 502 Chicago, IL 60607",419000.0
 1,1.0,979,"1122 N Dearborn Street 12E Chicago, IL 60610",410000.0
 2,1.0,1125,"41 E 8TH Street 4A Chicago, IL 60605",395000.0
-1,1.0,1250,"345 N Canal Street 502 Chicago, IL 60606",379000.0
-3,2.0,2474,"5600 S Karlov Avenue Chicago, IL 60629",370000.0
