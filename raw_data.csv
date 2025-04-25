@@ -1,16 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",2,"1,130
+sq.ft.","61 W 15th Street , 608 Chicago, IL 60605","$329,800"
 "4
 beds",1,"1,080
 sq.ft.","5135 W George Street Chicago, IL 60641","$349,900"
 "3
 beds",1,"1,080
 sq.ft.","7046 W 63rd Place Chicago, IL 60638","$337,000"
-"1
-beds",1,"950
-sq.ft.","437 W Division Street , 505 Chicago, IL 60610","$319,900"
-"2
-beds",2,"1,500
-sq.ft.","7033 N Kedzie Avenue , 504 Chicago, IL 60645","$169,900"
 "2
 beds",2,"1,235
 sq.ft.","2 E ERIE Street 2102 Chicago, IL 60611","$535,000"
@@ -50,6 +47,12 @@ sq.ft.","811 S Lytle Street 205 Chicago, IL 60607","$239,000"
 "3
 beds",2,"1,120
 sq.ft.","12722 S Laflin Street Calumet Park, IL 60827","$230,000"
+"1
+beds",1,"950
+sq.ft.","437 W Division Street , 505 Chicago, IL 60610","$319,900"
+"2
+beds",2,"1,500
+sq.ft.","7033 N Kedzie Avenue , 504 Chicago, IL 60645","$169,900"
 "3
 beds",2,"2,080
 sq.ft.","12603 S Michigan Avenue Chicago, IL 60628","$289,900"
@@ -1852,10 +1855,10 @@ beds",2,"2,000
 sq.ft.","8312 S Maryland Avenue Chicago, IL 60619","$59,000"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
 "2
 beds",2,"2,022
 sq.ft.","401 N Wabash Avenue 56D Chicago, IL 60611","$1,149,000"
@@ -3020,6 +3023,3 @@ sq.ft.","41 E 8TH Street 4A Chicago, IL 60605","$395,000"
 "1
 beds",1,"1,250
 sq.ft.","345 N Canal Street 502 Chicago, IL 60606","$379,000"
-"3
-beds",2,"2,474
-sq.ft.","5600 S Karlov Avenue Chicago, IL 60629","$370,000"
