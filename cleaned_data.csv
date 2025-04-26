@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2.0,1130,"61 W 15th Street , 608 Chicago, IL 60605",329800.0
-4,1.0,1080,"5135 W George Street Chicago, IL 60641",349900.0
-3,1.0,1080,"7046 W 63rd Place Chicago, IL 60638",337000.0
+3,2.0,2000,"7141 N Kedzie Avenue , 1515 Chicago, IL 60645",315000.0
 2,2.0,1235,"2 E ERIE Street 2102 Chicago, IL 60611",535000.0
 1,1.0,900,"5455 N Sheridan Road 2204 Chicago, IL 60640",199000.0
 3,1.0,1292,"545 W 29th Street Chicago, IL 60616",369998.0
@@ -16,6 +15,8 @@ bedrooms,bathrooms,square_footage,address,price
 4,2.0,1700,"5936 S Keeler Avenue Chicago, IL 60629",359999.0
 1,1.0,718,"811 S Lytle Street 205 Chicago, IL 60607",239000.0
 3,2.0,1120,"12722 S Laflin Street Calumet Park, IL 60827",230000.0
+4,1.0,1080,"5135 W George Street Chicago, IL 60641",349900.0
+3,1.0,1080,"7046 W 63rd Place Chicago, IL 60638",337000.0
 1,1.0,950,"437 W Division Street , 505 Chicago, IL 60610",319900.0
 2,2.0,1500,"7033 N Kedzie Avenue , 504 Chicago, IL 60645",169900.0
 3,2.0,2080,"12603 S Michigan Avenue Chicago, IL 60628",289900.0
@@ -920,4 +921,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,2400,"5714 N Austin Avenue Chicago, IL 60646",420000.0
 2,1.0,1025,"1301 W Madison Street 502 Chicago, IL 60607",419000.0
 1,1.0,979,"1122 N Dearborn Street 12E Chicago, IL 60610",410000.0
-2,1.0,1125,"41 E 8TH Street 4A Chicago, IL 60605",395000.0
