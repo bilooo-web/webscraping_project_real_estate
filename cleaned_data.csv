@@ -2,23 +2,20 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,2500,"10042 S Emerald Avenue Chicago, IL 60628",345000.0
 2,2,1298,"360 E Randolph Street , 1207 Chicago, IL 60601",549000.0
 4,3,2200,"1035 W Taylor Street 1 Chicago, IL 60607",699000.0
-4,3,2000,"1955 W Melrose Street 1 Chicago, IL 60657",645000.0
 4,3,2550,"942 N Harding Avenue Chicago, IL 60651",689900.0
 4,3,2550,"932 N Monticello Avenue Chicago, IL 60651",689900.0
 1,1,700,"10 E Ontario Street 1806 Chicago, IL 60611",275000.0
-2,2,1450,"1931 N DAMEN Avenue 2N Chicago, IL 60647",549995.0
 3,2,1900,"1138 W Pratt Boulevard 1S Chicago, IL 60626",474900.0
 3,2,1700,"1433 N Ashland Avenue 3W Chicago, IL 60622",750000.0
 3,3,2212,"2152 N Tripp Avenue Chicago, IL 60639",670000.0
 1,1,800,"1918 S Michigan Avenue , 103 Chicago, IL 60616",260000.0
-3,1,1600,"5924 N MAGNOLIA Avenue 2N Chicago, IL 60660",425000.0
 4,4,3285,"8800 S Laflin Street Chicago, IL 60620",380000.0
+3,2,1900,"360 E Randolph Street 3201 Chicago, IL 60601",1175000.0
 2,2,1244,"1400 W Monroe Street 4A Chicago, IL 60607",809000.0
 1,1,650,"Chicago, IL 60614",284900.0
 2,2,1450,"360 E Randolph Street 3902 Chicago, IL 60601",759000.0
 3,2,1500,"4814 N Damen Avenue 201 Chicago, IL 60625",675000.0
 2,2,1300,"925 N Howe Street Chicago, IL 60610",524900.0
-5,1,3196,"41 N Lotus Avenue Chicago, IL 60644",399900.0
 3,2,2587,"1512 W HURON Street 1 Chicago, IL 60622",825000.0
 3,2,2000,"2126 W Armitage Avenue 4 Chicago, IL 60647",700000.0
 4,2,2675,"5429 S DREXEL Avenue Chicago, IL 60615",700000.0
@@ -26,13 +23,10 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,858,"3421 S 57th Court Cicero, IL 60804",265000.0
 4,4,3300,"2849 N Hermitage Avenue 24 Chicago, IL 60657",1100000.0
 3,4,2815,"324 E 17th Street Chicago, IL 60616",899000.0
-3,3,2200,"2729 N Sheffield Avenue 1S Chicago, IL 60614",850000.0
 4,4,4400,"4504 N Keokuk Avenue Chicago, IL 60630",819000.0
 3,3,3028,"5912 W Grace Street Chicago, IL 60634",649900.0
 2,2,1169,"1000 W ADAMS Street 705 Chicago, IL 60607",599000.0
-2,1,1250,"1307 S Wabash Avenue 510 Chicago, IL 60605",385000.0
 2,2,1500,"5950 N Paulina Street 1E Chicago, IL 60660",375000.0
-3,2,1500,"1241 W Rosemont Avenue GE Chicago, IL 60660",289900.0
 4,3,2960,"6617 N Whipple Street Chicago, IL 60645",569000.0
 2,2,1400,"843 W Adams Street 309 Chicago, IL 60607",699000.0
 4,3,3300,"2500 N 78 Court Elmwood Park, IL 60707",524900.0
@@ -46,8 +40,10 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1550,"200 E DELAWARE Place 35F Chicago, IL 60611",845000.0
 3,2,1704,"1926 N Lincoln Park West 4B Chicago, IL 60614",749000.0
 3,2,1875,"360 E RANDOLPH Street 2903 Chicago, IL 60601",1145000.0
+5,4,4550,"7319 W Ibsen Street Chicago, IL 60631",1179900.0
 2,2,1610,"333 W HUBBARD Street 1004 Chicago, IL 60654",750000.0
 2,2,1200,"744 N May Street 201 Chicago, IL 60642",439900.0
+3,2,1532,"1419 N OAKLEY Boulevard Chicago, IL 60622",729000.0
 3,2,1905,"650 N Morgan Street 303 Chicago, IL 60642",725000.0
 2,2,1300,"2407 W Moffat Street 3 Chicago, IL 60647",550000.0
 4,1,1764,"1255 W Argyle Street Chicago, IL 60640",850000.0
@@ -70,7 +66,9 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1600,"9115 S May Street Chicago, IL 60620",339900.0
 3,2,1760,"6514 W FOSTER Avenue Chicago, IL 60656",449999.0
 3,3,2855,"5843 N Oconto Avenue Chicago, IL 60631",899000.0
+3,2,2445,"331 E 17th Street Chicago, IL 60616",779000.0
 3,3,1799,"4604 S Woodlawn Avenue Chicago, IL 60653",499000.0
+3,2,1850,"401 E ONTARIO Street 4106 Chicago, IL 60611",599000.0
 2,2,1240,"1515 S Prairie Avenue 1203 Chicago, IL 60605",425000.0
 2,2,1348,"8 E RANDOLPH Street 1905 Chicago, IL 60601",449000.0
 1,2,1000,"1324 W Greenleaf Avenue 1B Chicago, IL 60626",214000.0
@@ -84,9 +82,8 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1130,"101 W Superior Street 803 Chicago, IL 60654",460000.0
 4,3,2450,"2604 W Farwell Avenue Chicago, IL 60645",779000.0
 1,1,800,"4920 N Marine Drive 411 Chicago, IL 60640",155000.0
-2,2,1650,"1017 W Washington Boulevard 4D Chicago, IL 60607",925000.0
+3,3,2500,"4129 N Oketo Avenue Norridge, IL 60706",775000.0
 3,2,2400,"3124 N Sacramento Avenue Chicago, IL 60618",850000.0
-2,1,1275,"2128 W 111th Street F Chicago, IL 60643",185000.0
 4,2,2100,"2050 W WILLOW Street E Chicago, IL 60647",989000.0
 1,1,800,"4704 N Kasson Avenue 3 Chicago, IL 60630",190000.0
 4,3,3015,"4565 N Potawatomie Avenue Chicago, IL 60656",799000.0
@@ -95,7 +92,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,3552,"1042 W 34th Place Chicago, IL 60608",795000.0
 4,3,2787,"3342 S Giles Avenue Chicago, IL 60616",725000.0
 3,3,1600,"8934 S Justine Street Chicago, IL 60620",340000.0
-1,1,718,"811 S Lytle Street 205 Chicago, IL 60607",239000.0
+5,3,1123,"5705 S Mayfield Avenue Chicago, IL 60638",450000.0
 1,1,950,"210 S Desplaines Street 1110 Chicago, IL 60661",349900.0
 2,2,980,"1069 W 14th Place 223 Chicago, IL 60608",350000.0
 1,1,849,"440 N Wabash Avenue 2008 Chicago, IL 60611",279000.0
@@ -107,23 +104,43 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1368,"505 N Mcclurg Court 4505 Chicago, IL 60611",749995.0
 2,2,1300,"324 N Jefferson Street 107 Chicago, IL 60661",479900.0
 1,1,835,"222 N Columbus Drive 3810 Chicago, IL 60601",313000.0
+2,2,1100,"6906 N Lakewood Avenue 3E Chicago, IL 60626",344500.0
 4,3,1400,"8243 S Halsted Street Chicago, IL 60620",267999.0
 3,2,1500,"2342 W Harrison Street 2 Chicago, IL 60612",349000.0
+2,2,1500,"1452 W FULLERTON Avenue 2 Chicago, IL 60614",485000.0
 4,2,2100,"9101 S Wallace Street Chicago, IL 60620",280000.0
 4,2,1645,"7715 W Patterson Avenue Chicago, IL 60634",429900.0
 1,1,800,"1632 S INDIANA Avenue 506 Chicago, IL 60616",242000.0
 4,2,2530,"5025 W Superior Street Chicago, IL 60644",419900.0
+5,2,2600,"8343 S Calumet Avenue Chicago, IL 60619",230000.0
+1,1,800,"6700 S South Shore Drive 2J Chicago, IL 60649",123500.0
 5,3,2700,"4249 N Central Park Avenue Chicago, IL 60618",559900.0
 3,2,1120,"12722 S Laflin Street Calumet Park, IL 60827",230000.0
+2,2,1268,"234 W Polk Street 3202 Chicago, IL 60607",775000.0
+2,2,1310,"234 W Polk Street 3401 Chicago, IL 60607",755000.0
+3,2,2634,"6707 S Euclid Avenue Chicago, IL 60649",524999.0
+3,2,1141,"3724 S 60th Court Cicero, IL 60804",395000.0
+3,2,1577,"2827 N 77th Court Elmwood Park, IL 60707",389000.0
+3,2,1300,"6608 N Oconto Avenue Chicago, IL 60631",369900.0
+3,3,1900,"6824 W 65th Street 6 Chicago, IL 60638",349900.0
+4,3,3000,"10940 S Wallace Street Chicago, IL 60628",319900.0
+4,2,2120,"11326 S EGGLESTON Avenue Chicago, IL 60628",272700.0
+2,2,1100,"6301 N Sheridan Road 14E Chicago, IL 60660",239000.0
+3,2,1234,"6741 S Merrill Avenue 3S Chicago, IL 60649",149000.0
+2,1,1090,"9043 S Luella Avenue Chicago, IL 60617",93000.0
+3,1,1448,"7207 1/2 S Saint Lawrence Avenue Chicago, IL 60619",89900.0
 2,2,1758,"130 N Garland Court 3803 Chicago, IL 60602",1019000.0
 3,2,1553,"211 N Harbor Drive 409 Chicago, IL 60601",949900.0
+3,3,3000,"535 N WOOD Street Chicago, IL 60622",850000.0
 3,3,1550,"1435 W Winnemac Avenue Chicago, IL 60640",795000.0
 4,3,3548,"5605 S MERRIMAC Avenue Chicago, IL 60638",659900.0
 2,2,1358,"195 N Harbor Drive 4408 Chicago, IL 60601",540000.0
 5,4,3112,"601 E 32nd Street 210-211 Chicago, IL 60616",450000.0
 3,2,2400,"2500 N 74th Avenue 1S Elmwood Park, IL 60707",444900.0
 2,2,1254,"125 S Jefferson Street 3104 Chicago, IL 60661",425000.0
+5,1,3196,"41 N Lotus Avenue Chicago, IL 60644",399900.0
 2,2,1225,"222 N Columbus Drive 809 Chicago, IL 60601",399000.0
+2,2,1474,"Harwood Heights, IL 60706",399000.0
 1,2,1660,"2347 W Ohio Street 1 Chicago, IL 60612",399000.0
 1,1,858,"155 N Harbor Drive 4505 Chicago, IL 60601",350000.0
 1,1,1200,"165 N CANAL Street 1304 Chicago, IL 60606",339000.0
@@ -137,16 +154,24 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1700,"1015 W 103rd Place Chicago, IL 60643",270000.0
 3,1,1800,"530 E 91st Place Chicago, IL 60619",269800.0
 2,2,1104,"10453 S Kedzie Avenue B Chicago, IL 60655",245000.0
+1,1,620,"2800 N Lake Shore Drive 613 Chicago, IL 60657",199000.0
+3,2,1062,"10434 S Green Street Chicago, IL 60643",199000.0
+4,2,1825,"2728 N Mont Clare Avenue Chicago, IL 60607",175000.0
+2,1,903,"8615 S Aberdeen Street Chicago, IL 60620",174900.0
 2,2,1516,"5300 S Shore Drive 59 Chicago, IL 60615",170000.0
+2,1,880,"2035 W Granville Avenue C414 Chicago, IL 60659",159000.0
 1,1,750,"6301 N Sheridan Road 10F Chicago, IL 60660",155000.0
 4,2,1936,"7917 S Ellis Avenue Chicago, IL 60619",155000.0
 1,1,796,"4800 S Chicago Beach Drive 702S Chicago, IL 60615",149900.0
 1,1,800,"5040 N Marine Drive D3 Chicago, IL 60640",129900.0
+2,2,1384,"211 N Harbor Drive 2106 Chicago, IL 60601",1175000.0
 3,3,2157,"130 N Garland Court 3501 Chicago, IL 60602",1000000.0
+2,2,1650,"1017 W Washington Boulevard 4D Chicago, IL 60607",925000.0
 3,2,2100,"802 W Wolfram Street 3S Chicago, IL 60657",799000.0
 3,2,1700,"1711 W Division Street 304 Chicago, IL 60622",750000.0
 2,2,1560,"1235 S Prairie Avenue 2805 Chicago, IL 60605",649900.0
 5,3,2500,"2913 N Nordica Avenue Chicago, IL 60634",649000.0
+4,3,2000,"1955 W Melrose Street 1 Chicago, IL 60657",645000.0
 3,1,1900,"5150 W Berteau Avenue Chicago, IL 60641",625000.0
 3,3,3000,"3920 N Lake Shore Drive 3S Chicago, IL 60613",625000.0
 2,2,2100,"1550 N State Parkway 501 Chicago, IL 60610",595000.0
@@ -180,6 +205,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1500,"10537 S HALE Avenue 1W Chicago, IL 60643",199000.0
 2,2,1000,"6104 S Dorchester Avenue 2S Chicago, IL 60637",195000.0
 4,1,1065,"7517 S Honore Street Chicago, IL 60620",185500.0
+2,1,1275,"2128 W 111th Street F Chicago, IL 60643",185000.0
 3,1,1318,"13620 S Atlantic Avenue Riverdale, IL 60827",179900.0
 3,2,1329,"9258 S Bishop Street Chicago, IL 60620",179000.0
 3,1,1300,"9900 S Wallace Street Chicago, IL 60628",160000.0
@@ -191,12 +217,14 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1130,"61 W 15th Street , 608 Chicago, IL 60605",329800.0
 3,2,2000,"7141 N Kedzie Avenue , 1515 Chicago, IL 60645",315000.0
 4,4,3200,"5251 N Paulina Street Chicago, IL 60640",1125000.0
+3,3,2200,"2729 N Sheffield Avenue 1S Chicago, IL 60614",850000.0
 3,2,2400,"522 N Western Avenue 201 Chicago, IL 60612",839000.0
 3,2,2050,"1622 W Julian Street 1 Chicago, IL 60622",799900.0
 4,3,2549,"5301 W Berteau Avenue Chicago, IL 60641",775000.0
 3,3,2112,"1407 S Plymouth Court Chicago, IL 60605",737000.0
 6,4,3900,"5529 W CORNELIA Avenue Chicago, IL 60641",699900.0
 3,2,1475,"847 W Ainslie Street 1E Chicago, IL 60640",679000.0
+2,2,1450,"1931 N DAMEN Avenue 2N Chicago, IL 60647",549995.0
 4,2,1836,"6118 N Kimball Avenue Chicago, IL 60659",549000.0
 2,2,1650,"2149 N Southport Avenue 1A Chicago, IL 60614",525000.0
 2,2,1373,"235 W VAN BUREN Street 4515 Chicago, IL 60607",505000.0
@@ -206,17 +234,18 @@ bedrooms,bathrooms,square_footage,address,price
 5,3,1814,"4048 N Marmora Avenue Chicago, IL 60630",475000.0
 3,1,1960,"10829 S Longwood Drive Chicago, IL 60643",460000.0
 2,1,1181,"757 N Orleans Street 1704 Chicago, IL 60654",450000.0
-4,2,2593,"5820 W Race Avenue Chicago, IL 60644",450000.0
 4,3,3178,"7435 S INDIANA Avenue Chicago, IL 60619",409900.0
 3,2,1400,"4400 S Prairie Avenue 2 Chicago, IL 60653",399999.0
 1,1,767,"125 S Green Street 202A Chicago, IL 60607",399900.0
 4,2,1458,"2112 N Latrobe Avenue Chicago, IL 60639",399000.0
 3,2,1939,"2061 W FARWELL Avenue 1 Chicago, IL 60645",395000.0
+2,1,1250,"1307 S Wabash Avenue 510 Chicago, IL 60605",385000.0
 3,2,1425,"6347 S Talman Avenue Chicago, IL 60629",334901.0
 3,2,1300,"4210 W Holmberg Court Alsip, IL 60803",330000.0
 1,1,823,"233 E 13th Street 804 Chicago, IL 60605",329000.0
 2,1,980,"1620 S Michigan Avenue 424 Chicago, IL 60616",325000.0
 4,3,2500,"7740 S Vernon Avenue Chicago, IL 60619",325000.0
+3,2,1500,"1241 W Rosemont Avenue GE Chicago, IL 60660",289900.0
 1,1,1007,"221 E Cullerton Street 406 Chicago, IL 60616",280000.0
 1,1,750,"440 N Mcclurg Court 805 Chicago, IL 60611",275000.0
 4,2,1600,"9146 S Greenwood Avenue Chicago, IL 60619",269000.0
@@ -257,6 +286,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2058,"7359 S Constance Avenue Chicago, IL 60649",289000.0
 1,1,750,"480 N McClurg Court 604 Chicago, IL 60611",285000.0
 4,2,1344,"5609 S Damen Avenue Chicago, IL 60636",280000.0
+4,2,1800,"707 E 93rd Street Chicago, IL 60619",250000.0
 5,2,1824,"6801 S Oakley Avenue Chicago, IL 60636",239900.0
 1,1,900,"4250 N Marine Drive 1013 Chicago, IL 60613",230000.0
 2,2,1000,"5401 S Hyde Park Boulevard 705 Chicago, IL 60615",225000.0
@@ -335,12 +365,10 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,3477,"7621 S Luella Avenue Chicago, IL 60649",399985.0
 3,2,1200,"2828 W 36th Place Chicago, IL 60632",390000.0
 6,3,6200,"7225 S Princeton Avenue Chicago, IL 60621",299000.0
-2,2,1208,"5351 N EAST RIVER Road 101 Chicago, IL 60656",249900.0
 2,1,950,"3115 N Nashville Avenue 2E Chicago, IL 60634",199900.0
 1,1,905,"7061 N Kedzie Avenue 312 Chicago, IL 60645",145000.0
 2,1,900,"5301 W Le Moyne Street 2 Chicago, IL 60651",137000.0
 4,3,2700,"2823 N OAKLEY Avenue D Chicago, IL 60618",1095000.0
-5,1,3196,"41 N Lotus Avenue Chicago, IL 60644",449900.0
 3,2,2248,"3908 W 69th Place Chicago, IL 60629",399000.0
 2,2,972,"10208 S California Avenue S Evergreen Park, IL 60805",305000.0
 5,2,2065,"250 W 119th Street Chicago, IL 60628",275000.0
@@ -402,16 +430,13 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1700,"7825 S Saint Lawrence Avenue Chicago, IL 60619",275000.0
 5,2,1800,"1500 S Kenneth Avenue Chicago, IL 60623",274995.0
 2,2,3312,"9135 S Normal Avenue Chicago, IL 60620",274900.0
-2,2,1700,"1015 W 103rd Place Chicago, IL 60643",249926.0
 4,2,1400,"8018 S Laflin Street Chicago, IL 60620",249000.0
-2,3,2100,"11435 Crossings Court 0 Alsip, IL 60803",239900.0
 1,1,750,"33 E Cedar Street 11A Chicago, IL 60611",209900.0
 2,1,900,"5735 S Washtenaw Avenue Chicago, IL 60629",199900.0
 1,1,850,"5757 N SHERIDAN Road 12D Chicago, IL 60660",175000.0
 4,2,1056,"5338 S Justine Street Chicago, IL 60609",167000.0
 2,1,800,"4416 N Kostner Avenue 2B Chicago, IL 60630",166950.0
 3,1,1004,"4836 W Polk Street Chicago, IL 60644",150000.0
-1,1,800,"6700 S South Shore Drive 2J Chicago, IL 60649",123500.0
 1,1,800,"4800 S Chicago Beach Drive 1814N Chicago, IL 60615",117000.0
 3,1,945,"13749 S Wabash Avenue Riverdale, IL 60827",39999.0
 2,2,1300,"1345 W Fillmore Street , 3 Chicago, IL 60607",379900.0
@@ -425,7 +450,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,3000,"708 N Rockwell Street Chicago, IL 60612",799900.0
 4,3,3135,"2823 S SHORT Street Chicago, IL 60608",799900.0
 3,3,2000,"843 W Diversey Parkway 1 Chicago, IL 60614",799000.0
-3,2,1500,"316 W MENOMONEE Street H Chicago, IL 60614",775000.0
 5,3,4801,"4450 S Prairie Avenue Chicago, IL 60653",724999.0
 2,2,1500,"3532 N Fremont Street 3 Chicago, IL 60657",599900.0
 2,2,1600,"260 E Chestnut Street 2701 Chicago, IL 60611",515000.0
@@ -434,7 +458,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1300,"525 W Superior Street 322 Chicago, IL 60654",469900.0
 4,3,2300,"1449 E 65th Place 1 Chicago, IL 60637",469800.0
 1,1,1000,"111 E Chestnut Street 39H Chicago, IL 60611",425000.0
-4,2,2530,"5025 W Superior Street Chicago, IL 60644",424900.0
+3,1,1600,"5924 N MAGNOLIA Avenue 2N Chicago, IL 60660",425000.0
 3,2,2000,"6125 N Hoyne Avenue 2S Chicago, IL 60659",400000.0
 3,2,1300,"1625 N 73rd Court Elmwood Park, IL 60707",389900.0
 3,2,1650,"3150 N Lake Shore Drive 8E Chicago, IL 60657",389000.0
@@ -463,7 +487,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,900,"6238 N Leavitt Street 2S Chicago, IL 60659",180000.0
 1,1,720,"20 E GOETHE Street 203 Chicago, IL 60610",179900.0
 3,1,1123,"5611 S WHIPPLE Street Chicago, IL 60629",150000.0
-1,1,800,"7061 N Kedzie Avenue 1409 Chicago, IL 60645",144900.0
 3,1,798,"2037 W 69th Place Chicago, IL 60636",139900.0
 1,1,800,"6255 S Mason Avenue 3B Chicago, IL 60638",139900.0
 2,1,800,"2656 W Fitch Avenue GW Chicago, IL 60645",139900.0
@@ -499,7 +522,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2500,"6914 S Cregier Avenue Chicago, IL 60649",300000.0
 4,2,1446,"6146 S Normandy Avenue Chicago, IL 60638",297400.0
 4,3,1018,"6722 S Honore Street Chicago, IL 60636",290000.0
-3,2,1400,"Chicago, IL 60628",289900.0
 4,2,2237,"7617 S Wabash Avenue Chicago, IL 60619",274900.0
 3,3,3136,"8841 S JUSTINE Street Chicago, IL 60620",265000.0
 3,2,1200,"844 E 40th Street A2 Chicago, IL 60653",259900.0
@@ -516,12 +538,12 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1012,"7310 S OAKLEY Avenue Chicago, IL 60636",119900.0
 1,1,1250,"12109 S PRINCETON Avenue Chicago, IL 60628",54900.0
 1,1,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",669000.0
+3,3,2143,"1120 W Adams Street 5W Chicago, IL 60607",1175000.0
 3,3,3700,"3618 N Richmond Street Chicago, IL 60618",1135000.0
 2,2,1573,"900 W Washington Boulevard 402 Chicago, IL 60607",949995.0
 3,3,3500,"5141 W Dakin Street Chicago, IL 60641",849900.0
 5,3,4139,"3443 S Indiana Avenue Chicago, IL 60616",849000.0
 3,2,1718,"1258 N MILWAUKEE Avenue 3S Chicago, IL 60622",799500.0
-3,2,2445,"331 E 17th Street Chicago, IL 60616",779000.0
 4,2,2778,"4710 N Ashland Avenue Chicago, IL 60640",699900.0
 1,1,1023,"10 E Delaware Place 14A Chicago, IL 60611",679000.0
 1,1,970,"2550 N Lakeview Avenue S907 Chicago, IL 60614",675000.0
@@ -586,6 +608,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,800,"10602 S Walden Parkway 1W Chicago, IL 60643",129999.0
 3,2,1098,"7002 S Hermitage Avenue Chicago, IL 60636",105000.0
 3,1,1044,"620 W 111th Street Chicago, IL 60628",81000.0
+3,3,3308,"223 W LAKE Street 2S Chicago, IL 60606",1175000.0
 3,3,2700,"223 W LAKE Street 3N Chicago, IL 60606",1100000.0
 4,2,2860,"431 W Saint James Place Chicago, IL 60614",1099000.0
 3,2,1600,"3910 N Fremont Street I Chicago, IL 60613",615000.0
@@ -598,7 +621,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,2156,"3425 W Carroll Avenue Chicago, IL 60624",450000.0
 1,1,821,"600 N FAIRBANKS Court 1306 Chicago, IL 60611",449000.0
 4,2,2070,"2017 N Newcastle Avenue Chicago, IL 60707",430000.0
-3,2,1900,"6342 N Sheridan Road 5B Chicago, IL 60660",420000.0
 2,2,1300,"2658 W GUNNISON Street 1 Chicago, IL 60625",360000.0
 1,1,858,"155 N Harbor Drive 1305 Chicago, IL 60601",325000.0
 2,3,1600,"3206 W Berwyn Avenue 1 Chicago, IL 60625",324900.0
@@ -678,6 +700,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,1700,"1700 E 56th Street 801 Chicago, IL 60637",280000.0
 2,1,701,"1952 W George Street 1 Chicago, IL 60657",264900.0
 1,1,900,"1500 W Monroe Street 117 Chicago, IL 60607",255000.0
+1,1,718,"811 S Lytle Street 205 Chicago, IL 60607",239000.0
 2,1,900,"3950 N Lake Shore Drive 2209 Chicago, IL 60613",229900.0
 2,1,910,"1618 W Columbia Avenue 1N Chicago, IL 60626",219000.0
 4,2,1750,"8018 S Bennett Avenue Chicago, IL 60617",215000.0
@@ -712,7 +735,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1700,"720 S Dearborn Street 1105 Chicago, IL 60605",499999.0
 2,2,1350,"1444 N Orleans Street 6J Chicago, IL 60610",489000.0
 4,3,5176,"3100 N Newcastle Avenue Chicago, IL 60634",480000.0
-5,3,1123,"5705 S Mayfield Avenue Chicago, IL 60638",475000.0
 2,2,1380,"208 W Washington Street 711 Chicago, IL 60606",439900.0
 2,2,1250,"1400 S Michigan Avenue 1504 Chicago, IL 60605",430000.0
 2,2,1150,"345 W Fullerton Parkway 503 Chicago, IL 60614",425000.0
@@ -781,13 +803,12 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1300,"8 W MONROE Street 1704 Chicago, IL 60603",335000.0
 1,1,900,"1832 N Lincoln Avenue G1 Chicago, IL 60614",330000.0
 2,2,1000,"2434 W 47th Place Chicago, IL 60632",325000.0
-2,2,1250,"222 E Chestnut Street 3D Chicago, IL 60610",325000.0
 3,3,1800,"7832 S Evans Avenue Chicago, IL 60619",320000.0
 2,2,1080,"8 W Monroe Street 1007 Chicago, IL 60603",315000.0
 3,2,849,"6858 S Kedvale Avenue Chicago, IL 60629",299900.0
+4,3,1789,"7636 S Loomis Boulevard Chicago, IL 60620",285000.0
 1,1,800,"1212 N LaSalle Drive 802 Chicago, IL 60610",280000.0
 3,1,1400,"7501 S ABERDEEN Avenue Chicago, IL 60620",275000.0
-4,3,1789,"7636 S Loomis Boulevard Chicago, IL 60620",274900.0
 3,2,1311,"11549 S Kilbourn Avenue Alsip, IL 60803",269873.0
 2,2,1800,"5000 S Cornell Avenue 21B Chicago, IL 60615",250000.0
 3,2,1300,"2323 W Pershing Road 402 Chicago, IL 60609",249900.0
@@ -818,7 +839,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1650,"777 N Michigan Avenue 3701 Chicago, IL 60611",629000.0
 2,2,1430,"990 N Lake Shore Drive 29B Chicago, IL 60611",575000.0
 2,2,1400,"3010 N SHEFFIELD Avenue 2N Chicago, IL 60657",549500.0
-3,3,2321,"1512 N Campbell Avenue 1 Chicago, IL 60622",525000.0
 2,2,1350,"2800 N Lake Shore Drive 2417 Chicago, IL 60657",509000.0
 3,3,2600,"5301 N Oriole Avenue Chicago, IL 60656",499900.0
 3,2,1800,"2020 W Farragut Avenue 2 Chicago, IL 60625",495000.0
@@ -905,18 +925,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1050,"5362 N NOTTINGHAM Avenue Chicago, IL 60656",339000.0
 1,1,870,"226 N Clinton Street 216 Chicago, IL 60661",320000.0
 1,1,900,"401 E Ontario Street 1101 Chicago, IL 60611",299999.0
-2,2,2000,"3976 S Ellis Avenue GS Chicago, IL 60653",299900.0
-4,2,1459,"3836 N Pioneer Avenue Chicago, IL 60634",295000.0
-3,2,1500,"6123 S Kimbark Avenue 1N Chicago, IL 60637",295000.0
-2,2,1027,"1460 N SANDBURG Terrace 2011A Chicago, IL 60610",290000.0
-4,2,2700,"2610 E 74th Place Chicago, IL 60649",289900.0
-3,2,1249,"1317 N HARDING Avenue Chicago, IL 60651",280000.0
-1,1,936,"221 E Cullerton Street 413 Chicago, IL 60616",250000.0
-2,1,1080,"4430 N Kenneth Avenue 2 Chicago, IL 60630",249900.0
-1,1,571,"565 W Quincy Street 1711 Chicago, IL 60661",245000.0
-3,1,1641,"1221 N Central Avenue Chicago, IL 60651",225000.0
-4,2,2142,"7959 S Saginaw Avenue Chicago, IL 60617",224900.0
-1,1,900,"4250 N Marine Drive 1104 Chicago, IL 60613",205000.0
-2,2,1378,"5801 N Sheridan Road 12B Chicago, IL 60660",199900.0
-4,2,1208,"9601 S Calumet Avenue Chicago, IL 60619",169900.0
-5,2,2852,"1218 N Parkside Avenue Chicago, IL 60651",150000.0
