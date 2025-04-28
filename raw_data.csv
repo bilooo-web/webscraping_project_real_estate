@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "4
 beds",1,"2,500
 sq.ft.","10042 S Emerald Avenue Chicago, IL 60628","$345,000"
-"3
-beds",2,"1,500
-sq.ft.","2342 W Harrison Street 2 Chicago, IL 60612","$349,000"
 "2
 beds",2,"1,500
 sq.ft.","1452 W FULLERTON Avenue 2 Chicago, IL 60614","$485,000"
@@ -1253,6 +1250,9 @@ sq.ft.","917 N Keystone Avenue Chicago, IL 60651","$350,000"
 "4
 beds",2,"1,700
 sq.ft.","3319 N Ozanam Avenue Chicago, IL 60634","$350,000"
+"3
+beds",2,"1,500
+sq.ft.","2342 W Harrison Street 2 Chicago, IL 60612","$349,000"
 "4
 beds",2,"1,600
 sq.ft.","9115 S May Street Chicago, IL 60620","$339,900"
