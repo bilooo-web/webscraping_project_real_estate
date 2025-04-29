@@ -1,6 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2,2128,"11921 S Lavergne Avenue Alsip, IL 60803",298500.0
 3,3,1224,"3333 N Olcott Avenue Chicago, IL 60634",459900.0
-4,1,2500,"10042 S Emerald Avenue Chicago, IL 60628",345000.0
 2,2,1500,"1452 W FULLERTON Avenue 2 Chicago, IL 60614",485000.0
 4,2,2100,"9101 S Wallace Street Chicago, IL 60620",280000.0
 4,2,1645,"7715 W Patterson Avenue Chicago, IL 60634",429900.0
@@ -36,6 +36,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1234,"6741 S Merrill Avenue 3S Chicago, IL 60649",149000.0
 2,1,1090,"9043 S Luella Avenue Chicago, IL 60617",93000.0
 3,1,1448,"7207 1/2 S Saint Lawrence Avenue Chicago, IL 60619",89900.0
+4,1,2500,"10042 S Emerald Avenue Chicago, IL 60628",345000.0
 2,2,1758,"130 N Garland Court 3803 Chicago, IL 60602",1019000.0
 3,2,1553,"211 N Harbor Drive 409 Chicago, IL 60601",949900.0
 3,3,3000,"535 N WOOD Street Chicago, IL 60622",850000.0
@@ -922,4 +923,3 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,950,"6301 N Sheridan Road 24J Chicago, IL 60660",148000.0
 1,1,700,"3950 N Lake Shore Drive 904 Chicago, IL 60613",125000.0
 2,1,850,"2043 E 72nd Street 1C Chicago, IL 60649",72000.0
-3,1,1104,"7932 S Kenwood Avenue Chicago, IL 60619",70000.0
