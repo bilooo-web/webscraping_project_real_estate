@@ -1,4 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",2,"1,250
+sq.ft.","660 W Wayman Street , 701 Chicago, IL 60661","$530,000"
+"2
+beds",2,"2,366
+sq.ft.","118 E Erie Street , 15A Chicago, IL 60611","$1,450,000"
 "3
 beds",2,"2,128
 sq.ft.","11921 S Lavergne Avenue Alsip, IL 60803","$298,500"
@@ -56,6 +62,9 @@ sq.ft.","6514 W FOSTER Avenue Chicago, IL 60656","$424,999"
 "4
 beds",2,"2,530
 sq.ft.","5025 W Superior Street Chicago, IL 60644","$419,900"
+"1
+beds",1,"800
+sq.ft.","1918 S Michigan Avenue , 103 Chicago, IL 60616","$260,000"
 "3
 beds",2,"1,700
 sq.ft.","3862 S Lake Park Avenue 3S Chicago, IL 60653","$370,000"
@@ -92,9 +101,6 @@ sq.ft.","3110 N Leavitt Street Chicago, IL 60618","$1,975,000"
 "4
 beds",3,"3,423
 sq.ft.","2235 W Oakdale Avenue 15-C Chicago, IL 60618","$1,800,000"
-"2
-beds",2,"2,366
-sq.ft.","118 E Erie Street 15A Chicago, IL 60611","$1,450,000"
 "4
 beds",3,"3,423
 sq.ft.","2235 W Oakdale Avenue 14-A Chicago, IL 60618","$1,450,000"
@@ -1223,9 +1229,6 @@ sq.ft.","545 W 29th Street Chicago, IL 60616","$369,998"
 "3
 beds",2,"2,080
 sq.ft.","12603 S Michigan Avenue Chicago, IL 60628","$289,900"
-"1
-beds",1,"800
-sq.ft.","1918 S Michigan Avenue , 103 Chicago, IL 60616","$260,000"
 "2
 beds",2,"1,433
 sq.ft.","1016 N Hermitage Avenue 3 Chicago, IL 60622","$819,000"
@@ -3020,6 +3023,3 @@ sq.ft.","6818 W HOBART Avenue Chicago, IL 60631","$385,000"
 "2
 beds",2,"1,100
 sq.ft.","100 N Hermitage Avenue 409 Chicago, IL 60612","$330,000"
-"2
-beds",2,"1,168
-sq.ft.","10806 S Vernon Avenue Chicago, IL 60628","$329,900"
