@@ -8,9 +8,6 @@ sq.ft.","118 E Erie Street , 15A Chicago, IL 60611","$1,450,000"
 "3
 beds",2,"2,128
 sq.ft.","11921 S Lavergne Avenue Alsip, IL 60803","$298,500"
-"2
-beds",2,"1,500
-sq.ft.","1452 W FULLERTON Avenue 2 Chicago, IL 60614","$485,000"
 "4
 beds",2,"2,100
 sq.ft.","9101 S Wallace Street Chicago, IL 60620","$280,000"
@@ -20,6 +17,9 @@ sq.ft.","1917 N Lincoln Park West Chicago, IL 60614","$1,200,000"
 "3
 beds",2,"3,200
 sq.ft.","3812 S Normal Avenue Chicago, IL 60609","$715,000"
+"2
+beds",2,"1,500
+sq.ft.","1452 W FULLERTON Avenue 2 Chicago, IL 60614","$485,000"
 "4
 beds",2,"1,645
 sq.ft.","7715 W Patterson Avenue Chicago, IL 60634","$429,900"
@@ -59,12 +59,12 @@ sq.ft.","6514 W FOSTER Avenue Chicago, IL 60656","$424,999"
 "4
 beds",2,"2,530
 sq.ft.","5025 W Superior Street Chicago, IL 60644","$419,900"
-"1
-beds",1,"800
-sq.ft.","1918 S Michigan Avenue , 103 Chicago, IL 60616","$260,000"
 "3
 beds",2,"1,700
 sq.ft.","3862 S Lake Park Avenue 3S Chicago, IL 60653","$370,000"
+"1
+beds",1,"800
+sq.ft.","1918 S Michigan Avenue , 103 Chicago, IL 60616","$260,000"
 "3
 beds",3,"2,291
 sq.ft.","4849 W Eddy Street Chicago, IL 60641","$325,000"
