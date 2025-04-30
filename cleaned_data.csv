@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2,1250,"660 W Wayman Street , 701 Chicago, IL 60661",530000.0
 3,2,2128,"11921 S Lavergne Avenue Alsip, IL 60803",298500.0
-3,3,1224,"3333 N Olcott Avenue Chicago, IL 60634",459900.0
 2,2,1500,"1452 W FULLERTON Avenue 2 Chicago, IL 60614",485000.0
 4,2,2100,"9101 S Wallace Street Chicago, IL 60620",280000.0
 3,2,3200,"3812 S Normal Avenue Chicago, IL 60609",715000.0
@@ -64,6 +63,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1586,"5406 S Marshfield Avenue Chicago, IL 60609",189900.0
 3,2,1626,"5404 S Marshfield Avenue Chicago, IL 60609",189900.0
 4,1,1100,"6834 S CARPENTER Street Chicago, IL 60621",182500.0
+3,3,1224,"3333 N Olcott Avenue Chicago, IL 60634",459900.0
 2,2,1268,"234 W Polk Street 3202 Chicago, IL 60607",775000.0
 2,2,1310,"234 W Polk Street 3401 Chicago, IL 60607",755000.0
 3,2,2634,"6707 S Euclid Avenue Chicago, IL 60649",524999.0
@@ -897,8 +897,8 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1007,"7101 S Carpenter Street Chicago, IL 60621",115000.0
 1,1,500,"5424 W Ferdinand Street 104 Chicago, IL 60644",110000.0
 5,2,2000,"8312 S Maryland Avenue Chicago, IL 60619",59000.0
-3,2,1200,"7528 W Argyle Street Harwood Heights, IL 60706",419900.0
 3,2,1200,"7528 W Argyle St Harwood Heights, IL 60706",419900.0
+3,2,1200,"7528 W Argyle Street Harwood Heights, IL 60706",419900.0
 2,2,2022,"401 N Wabash Avenue 56D Chicago, IL 60611",1149000.0
 4,3,4000,"8110 W Balmoral Avenue Chicago, IL 60656",900000.0
 3,2,1800,"405 N Wabash Avenue 4510 Chicago, IL 60611",574999.0

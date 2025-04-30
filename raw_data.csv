@@ -8,9 +8,6 @@ sq.ft.","118 E Erie Street , 15A Chicago, IL 60611","$1,450,000"
 "3
 beds",2,"2,128
 sq.ft.","11921 S Lavergne Avenue Alsip, IL 60803","$298,500"
-"3
-beds",3,"1,224
-sq.ft.","3333 N Olcott Avenue Chicago, IL 60634","$459,900"
 "2
 beds",2,"1,500
 sq.ft.","1452 W FULLERTON Avenue 2 Chicago, IL 60614","$485,000"
@@ -227,6 +224,9 @@ sq.ft.","5404 S Marshfield Avenue Chicago, IL 60609","$189,900"
 "4
 beds",1,"1,100
 sq.ft.","6834 S CARPENTER Street Chicago, IL 60621","$182,500"
+"3
+beds",3,"1,224
+sq.ft.","3333 N Olcott Avenue Chicago, IL 60634","$459,900"
 "4
 beds",3,"4,000
 sq.ft.","3903 N Drake Avenue Chicago, IL 60618","$1,399,000"
@@ -2971,10 +2971,10 @@ beds",2,"2,000
 sq.ft.","8312 S Maryland Avenue Chicago, IL 60619","$59,000"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
 "3
 beds",2,"1,200
-sq.ft.","7528 W Argyle St Harwood Heights, IL 60706","$419,900"
+sq.ft.","7528 W Argyle Street Harwood Heights, IL 60706","$419,900"
 "2
 beds",2,"2,022
 sq.ft.","401 N Wabash Avenue 56D Chicago, IL 60611","$1,149,000"
