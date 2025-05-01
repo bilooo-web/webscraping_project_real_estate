@@ -1,4 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"4
+beds",3,"2,970
+sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,100,000"
+"3
+beds",2,"2,150
+sq.ft.","2044 W Roscoe Street , 2S Chicago, IL 60618","$799,900"
+"4
+beds",4,"2,069
+sq.ft.","5005 S Ridgeway Avenue Chicago, IL 60632","$475,000"
 "2
 beds",2,"1,250
 sq.ft.","660 W Wayman Street , 701 Chicago, IL 60661","$530,000"
@@ -410,9 +419,6 @@ sq.ft.","1240 N Lake Shore Drive 9B Chicago, IL 60610","$499,000"
 "2
 beds",2,"1,150
 sq.ft.","345 W Fullerton Parkway 801 Chicago, IL 60614","$489,000"
-"4
-beds",4,"2,069
-sq.ft.","5005 S Ridgeway Avenue Chicago, IL 60632","$475,000"
 "2
 beds",2,"1,500
 sq.ft.","1111 S STATE Street A500 Chicago, IL 60605","$450,000"
@@ -3017,9 +3023,3 @@ sq.ft.","9037 S Ada Street Chicago, IL 60620","$100,000"
 "4
 beds",2,"1,800
 sq.ft.","6725 S Prairie Avenue Chicago, IL 60637","$94,900"
-"5
-beds",2,"1,496
-sq.ft.","1221 E 72nd Place Chicago, IL 60619","$25,000"
-"3
-beds",1,"1,280
-sq.ft.","9412 S Millard Avenue Evergreen Park, IL 60805","$309,900"

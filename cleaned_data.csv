@@ -1,4 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
+4,3,2970,"1146 W Hubbard Street , 1E Chicago, IL 60642",1100000.0
+3,2,2150,"2044 W Roscoe Street , 2S Chicago, IL 60618",799900.0
+4,4,2069,"5005 S Ridgeway Avenue Chicago, IL 60632",475000.0
 2,2,1250,"660 W Wayman Street , 701 Chicago, IL 60661",530000.0
 4,3,2400,"1645 W Wolfram Street 2 Chicago, IL 60657",875000.0
 3,3,2212,"2152 N Tripp Avenue Chicago, IL 60639",670000.0
@@ -115,7 +118,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,2750,"4250 N Marine Drive 1622 Chicago, IL 60613",514289.0
 3,3,2000,"1240 N Lake Shore Drive 9B Chicago, IL 60610",499000.0
 2,2,1150,"345 W Fullerton Parkway 801 Chicago, IL 60614",489000.0
-4,4,2069,"5005 S Ridgeway Avenue Chicago, IL 60632",475000.0
 2,2,1500,"1111 S STATE Street A500 Chicago, IL 60605",450000.0
 4,3,2156,"3425 W Carroll Avenue Chicago, IL 60624",445000.0
 2,2,1400,"4519 N Ashland Avenue 2S Chicago, IL 60640",435000.0
@@ -912,5 +914,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,974,"722 E 105th Street Chicago, IL 60628",120000.0
 4,1,1378,"9037 S Ada Street Chicago, IL 60620",100000.0
 4,2,1800,"6725 S Prairie Avenue Chicago, IL 60637",94900.0
-5,2,1496,"1221 E 72nd Place Chicago, IL 60619",25000.0
-3,1,1280,"9412 S Millard Avenue Evergreen Park, IL 60805",309900.0
