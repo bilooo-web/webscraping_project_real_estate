@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2,1250,"660 W Wayman Street , 701 Chicago, IL 60661",530000.0
-3,2,2128,"11921 S Lavergne Avenue Alsip, IL 60803",298500.0
 4,2,2100,"9101 S Wallace Street Chicago, IL 60620",280000.0
 3,2,3200,"3812 S Normal Avenue Chicago, IL 60609",715000.0
 1,1,800,"1845 S Michigan Avenue 1602 Chicago, IL 60616",265000.0
@@ -102,6 +101,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,900,"3524 N Lawndale Avenue 1G Chicago, IL 60618",194000.0
 3,2,1188,"8313 S Ingleside Avenue Chicago, IL 60619",169900.0
 3,1,1770,"10916 S Wabash Avenue Chicago, IL 60628",75000.0
+3,2,2128,"11921 S Lavergne Avenue Alsip, IL 60803",298500.0
 3,2,2400,"8618 W Wilson Avenue Chicago, IL 60656",599900.0
 3,2,1900,"2716 N 73rd Avenue Elmwood Park, IL 60707",469900.0
 5,2,2300,"5336 S Harding Avenue Chicago, IL 60632",365000.0

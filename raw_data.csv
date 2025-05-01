@@ -2,12 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",2,"1,250
 sq.ft.","660 W Wayman Street , 701 Chicago, IL 60661","$530,000"
-"2
-beds",2,"2,366
-sq.ft.","118 E Erie Street , 15A Chicago, IL 60611","$1,450,000"
-"3
-beds",2,"2,128
-sq.ft.","11921 S Lavergne Avenue Alsip, IL 60803","$298,500"
 "4
 beds",2,"2,100
 sq.ft.","9101 S Wallace Street Chicago, IL 60620","$280,000"
@@ -356,6 +350,12 @@ sq.ft.","8313 S Ingleside Avenue Chicago, IL 60619","$169,900"
 "3
 beds",1,"1,770
 sq.ft.","10916 S Wabash Avenue Chicago, IL 60628","$75,000"
+"2
+beds",2,"2,366
+sq.ft.","118 E Erie Street , 15A Chicago, IL 60611","$1,450,000"
+"3
+beds",2,"2,128
+sq.ft.","11921 S Lavergne Avenue Alsip, IL 60803","$298,500"
 "3
 beds",2,"2,400
 sq.ft.","8618 W Wilson Avenue Chicago, IL 60656","$599,900"
