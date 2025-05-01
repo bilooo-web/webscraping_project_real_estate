@@ -3,9 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",2,"1,250
 sq.ft.","660 W Wayman Street , 701 Chicago, IL 60661","$530,000"
 "4
-beds",2,"2,100
-sq.ft.","9101 S Wallace Street Chicago, IL 60620","$280,000"
-"4
 beds",2,"3,020
 sq.ft.","1917 N Lincoln Park West Chicago, IL 60614","$1,200,000"
 "3
@@ -962,6 +959,9 @@ sq.ft.","1241 W Rosemont Avenue GE Chicago, IL 60660","$289,900"
 "1
 beds",1,"1,007
 sq.ft.","221 E Cullerton Street 406 Chicago, IL 60616","$280,000"
+"4
+beds",2,"2,100
+sq.ft.","9101 S Wallace Street Chicago, IL 60620","$280,000"
 "1
 beds",1,"750
 sq.ft.","440 N Mcclurg Court 805 Chicago, IL 60611","$275,000"
