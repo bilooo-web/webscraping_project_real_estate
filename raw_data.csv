@@ -1,25 +1,19 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"4
-beds",3,"2,970
-sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,100,000"
 "3
 beds",2,"2,150
 sq.ft.","2044 W Roscoe Street , 2S Chicago, IL 60618","$799,900"
+"4
+beds",3,"2,970
+sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,100,000"
 "4
 beds",4,"2,069
 sq.ft.","5005 S Ridgeway Avenue Chicago, IL 60632","$475,000"
 "3
 beds",3,"2,212
 sq.ft.","2152 N Tripp Avenue Chicago, IL 60639","$670,000"
-"5
-beds",4,"5,200
-sq.ft.","3708 N Greenview Avenue Chicago, IL 60613","$1,990,000"
 "2
 beds",2,"1,600
 sq.ft.","1537 N Clybourn Avenue D Chicago, IL 60610","$650,000"
-"4
-beds",2,"3,020
-sq.ft.","1917 N Lincoln Park West Chicago, IL 60614","$1,200,000"
 "5
 beds",3,"2,100
 sq.ft.","7742 S Hermitage Avenue Chicago, IL 60620","$350,000"
@@ -86,6 +80,9 @@ sq.ft.","1448 W Chestnut Street 2 Chicago, IL 60642","$585,000"
 "2
 beds",1,"1,100
 sq.ft.","4453 N Beacon Street 1 Chicago, IL 60640","$350,000"
+"5
+beds",4,"5,200
+sq.ft.","3708 N Greenview Avenue Chicago, IL 60613","$1,990,000"
 "3
 beds",2,"1,415
 sq.ft.","1255 N Orleans Court 1202 Chicago, IL 60610","$524,000"
@@ -632,6 +629,9 @@ sq.ft.","2235 W Oakdale Avenue 14-A Chicago, IL 60618","$1,450,000"
 "3
 beds",3,"2,124
 sq.ft.","600 N Lake Shore Drive 3411 Chicago, IL 60611","$1,299,500"
+"4
+beds",2,"3,020
+sq.ft.","1917 N Lincoln Park West Chicago, IL 60614","$1,200,000"
 "1
 beds",1,"2,000
 sq.ft.","159 E Walton Place 5G Chicago, IL 60611","$995,000"
