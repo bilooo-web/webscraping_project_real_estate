@@ -1,11 +1,11 @@
 bedrooms,bathrooms,square_footage,address,price
-3,3,2212,"2152 N Tripp Avenue Chicago, IL 60639",670000.0
-2,2,1600,"1537 N Clybourn Avenue D Chicago, IL 60610",650000.0
 5,3,2100,"7742 S Hermitage Avenue Chicago, IL 60620",350000.0
+3,3,2212,"2152 N Tripp Avenue Chicago, IL 60639",670000.0
 2,2,1400,"3705 N Paulina Street 3 Chicago, IL 60613",515000.0
 2,2,1370,"1310 N Ritchie Court 10B Chicago, IL 60610",470000.0
 2,2,1900,"4830 N Albany Avenue 1N Chicago, IL 60625",440000.0
 3,2,2150,"2044 W Roscoe Street , 2S Chicago, IL 60618",799900.0
+2,2,1600,"1537 N Clybourn Avenue D Chicago, IL 60610",650000.0
 2,2,1100,"4716 W Addison Street 2W Chicago, IL 60641",315000.0
 3,2,3200,"3812 S Normal Avenue Chicago, IL 60609",715000.0
 1,1,800,"1845 S Michigan Avenue 1602 Chicago, IL 60616",265000.0
