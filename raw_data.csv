@@ -1,14 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",2,"2,150
-sq.ft.","2044 W Roscoe Street , 2S Chicago, IL 60618","$799,900"
-"4
-beds",3,"2,970
-sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,100,000"
-"4
-beds",4,"2,069
-sq.ft.","5005 S Ridgeway Avenue Chicago, IL 60632","$475,000"
-"3
 beds",3,"2,212
 sq.ft.","2152 N Tripp Avenue Chicago, IL 60639","$670,000"
 "2
@@ -26,6 +17,9 @@ sq.ft.","1310 N Ritchie Court 10B Chicago, IL 60610","$470,000"
 "2
 beds",2,"1,900
 sq.ft.","4830 N Albany Avenue 1N Chicago, IL 60625","$440,000"
+"3
+beds",2,"2,150
+sq.ft.","2044 W Roscoe Street , 2S Chicago, IL 60618","$799,900"
 "2
 beds",2,"1,100
 sq.ft.","4716 W Addison Street 2W Chicago, IL 60641","$315,000"
@@ -53,6 +47,9 @@ sq.ft.","1430 N Astor Street 11C Chicago, IL 60610","$580,000"
 "4
 beds",2,"1,645
 sq.ft.","7715 W Patterson Avenue Chicago, IL 60634","$429,900"
+"4
+beds",3,"2,970
+sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,100,000"
 "3
 beds",1,"1,700
 sq.ft.","4251 N MOZART Street 3S Chicago, IL 60618","$390,000"
@@ -758,6 +755,9 @@ sq.ft.","4846 S MAY Street Chicago, IL 60609","$110,000"
 "3
 beds",1,"1,033
 sq.ft.","436 W 127th Street Chicago, IL 60628","$89,900"
+"4
+beds",4,"2,069
+sq.ft.","5005 S Ridgeway Avenue Chicago, IL 60632","$475,000"
 "4
 beds",3,"3,269
 sq.ft.","2235 W Oakdale Avenue 3-D Chicago, IL 60618","$1,200,000"
