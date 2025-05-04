@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-3,3,2143,"1120 W Adams Street 5W Chicago, IL 60607",1175000.0
 3,2,1400,"636 N Racine Avenue 2N Chicago, IL 60642",550000.0
 2,2,1600,"1537 N Clybourn Avenue D Chicago, IL 60610",650000.0
 3,1,1600,"5924 N MAGNOLIA Avenue 2N Chicago, IL 60660",425000.0
@@ -86,6 +85,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1300,"324 N Jefferson Street 107 Chicago, IL 60661",479900.0
 3,2,2405,"8630 S Bishop Street Chicago, IL 60620",328999.0
 1,1,900,"740 S Federal Street 804 Chicago, IL 60605",219500.0
+3,3,2143,"1120 W Adams Street 5W Chicago, IL 60607",1175000.0
 3,3,2245,"7614 S Chappel Avenue Chicago, IL 60649",394999.0
 4,3,1400,"8243 S Halsted Street Chicago, IL 60620",262999.0
 2,2,1327,"1550 N Lake Shore Drive 2A Chicago, IL 60610",599900.0

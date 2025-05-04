@@ -1,11 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",3,"2,143
-sq.ft.","1128 W Adams Street 2W Chicago, IL 60607","$1,299,000"
-"3
-beds",3,"2,143
-sq.ft.","1120 W Adams Street 5W Chicago, IL 60607","$1,175,000"
-"3
 beds",2,"1,400
 sq.ft.","636 N Racine Avenue 2N Chicago, IL 60642","$550,000"
 "2
@@ -299,9 +293,15 @@ sq.ft.","8630 S Bishop Street Chicago, IL 60620","$328,999"
 "3
 beds",2,"2,000
 sq.ft.","1827 N Larrabee Street PH Chicago, IL 60614","$1,275,000"
+"3
+beds",3,"2,143
+sq.ft.","1128 W Adams Street 2W Chicago, IL 60607","$1,299,000"
 "1
 beds",1,"900
 sq.ft.","740 S Federal Street 804 Chicago, IL 60605","$219,500"
+"3
+beds",3,"2,143
+sq.ft.","1120 W Adams Street 5W Chicago, IL 60607","$1,175,000"
 "3
 beds",3,"2,245
 sq.ft.","7614 S Chappel Avenue Chicago, IL 60649","$394,999"
