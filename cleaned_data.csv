@@ -1,9 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-3,2,1400,"636 N Racine Avenue 2N Chicago, IL 60642",550000.0
-2,2,1600,"1537 N Clybourn Avenue D Chicago, IL 60610",650000.0
-3,2,1700,"1711 W Division Street 304 Chicago, IL 60622",750000.0
-3,3,2212,"2152 N Tripp Avenue Chicago, IL 60639",670000.0
-1,1,800,"1918 S Michigan Avenue , 103 Chicago, IL 60616",260000.0
 2,2,1200,"815 N Marshfield Avenue 602 Chicago, IL 60622",449900.0
 2,1,1200,"1528 W Ardmore Avenue 3W Chicago, IL 60660",299900.0
 4,3,3516,"4130 N Mango Avenue Chicago, IL 60634",870000.0
@@ -26,9 +21,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1300,"405 N WABASH Avenue 4709 Chicago, IL 60611",449999.0
 2,1,1250,"1542 W School Street G Chicago, IL 60657",589000.0
 3,2,2400,"822 W Hubbard Street 5 Chicago, IL 60642",899990.0
-2,2,1244,"1400 W Monroe Street 4A Chicago, IL 60607",809000.0
 2,2,1450,"360 E Randolph Street 3902 Chicago, IL 60601",737000.0
-3,2,1875,"360 E RANDOLPH Street 2903 Chicago, IL 60601",1145000.0
 1,1,850,"1000 W ADAMS Street 824 Chicago, IL 60607",360000.0
 2,2,1260,"740 S Federal Street 301 Chicago, IL 60605",319900.0
 2,2,1241,"3737 N Clifton Avenue 3 Chicago, IL 60613",799900.0
@@ -260,7 +253,9 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,3100,"1445 W Fry Street 3 Chicago, IL 60622",1175000.0
 4,3,3888,"2123 N Austin Avenue Chicago, IL 60639",775000.0
 3,3,2400,"1039 N Monticello Avenue Chicago, IL 60651",675000.0
+2,2,1600,"1537 N Clybourn Avenue D Chicago, IL 60610",650000.0
 3,2,1600,"474 N LAKE SHORE Drive 4808 Chicago, IL 60611",555000.0
+3,2,1400,"636 N Racine Avenue 2N Chicago, IL 60642",550000.0
 4,2,2800,"3105 N 76th Court Elmwood Park, IL 60707",539000.0
 3,2,1415,"1255 N Orleans Court 1202 Chicago, IL 60610",524000.0
 2,2,1228,"1517 W Augusta Boulevard 2 Chicago, IL 60642",500000.0
@@ -415,6 +410,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2400,"3124 N Sacramento Avenue Chicago, IL 60618",850000.0
 3,2,2587,"1512 W HURON Street 1 Chicago, IL 60642",825000.0
 3,2,2100,"802 W Wolfram Street 3S Chicago, IL 60657",799000.0
+3,2,1700,"1711 W Division Street 304 Chicago, IL 60622",750000.0
 3,2,2000,"2126 W Armitage Avenue 4 Chicago, IL 60647",700000.0
 4,2,2675,"5429 S DREXEL Avenue Chicago, IL 60615",700000.0
 4,3,2200,"1035 W Taylor Street 1 Chicago, IL 60607",699000.0
@@ -531,6 +527,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2100,"1547 N LEAVITT Street 3S Chicago, IL 60622",799999.0
 4,3,2550,"942 N Harding Avenue Chicago, IL 60651",689900.0
 4,3,2550,"932 N Monticello Avenue Chicago, IL 60651",689900.0
+3,3,2212,"2152 N Tripp Avenue Chicago, IL 60639",670000.0
 3,2,1700,"2515 W Gunnison Street 3 Chicago, IL 60625",599900.0
 4,3,2168,"4026 N Pittsburgh Avenue Chicago, IL 60634",590000.0
 4,3,2960,"6617 N Whipple Street Chicago, IL 60645",559000.0
@@ -633,6 +630,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,880,"8613 S Colfax Avenue Chicago, IL 60617",59900.0
 3,1,1292,"545 W 29th Street Chicago, IL 60616",369998.0
 3,2,2080,"12603 S Michigan Avenue Chicago, IL 60628",289900.0
+1,1,800,"1918 S Michigan Avenue , 103 Chicago, IL 60616",260000.0
 2,2,1433,"1016 N Hermitage Avenue 3 Chicago, IL 60622",819000.0
 5,4,4012,"604 N Latrobe Avenue Chicago, IL 60644",624999.0
 4,3,3477,"7621 S Luella Avenue Chicago, IL 60649",399985.0
@@ -925,3 +923,5 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1395,"474 N Lake Shore Drive 6102 Chicago, IL 60611",567070.0
 2,2,1386,"1629 S Prairie Avenue 2206 Chicago, IL 60616",540000.0
 4,2,3000,"4137 N NARRAGANSETT Avenue 8 Chicago, IL 60634",519900.0
+3,2,1381,"221 E Cullerton Street 417 Chicago, IL 60616",500000.0
+2,2,1800,"2310 W Nelson Street 101 Chicago, IL 60618",499900.0

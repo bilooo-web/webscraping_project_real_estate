@@ -1,19 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"3
-beds",2,"1,400
-sq.ft.","636 N Racine Avenue 2N Chicago, IL 60642","$550,000"
-"2
-beds",2,"1,600
-sq.ft.","1537 N Clybourn Avenue D Chicago, IL 60610","$650,000"
-"3
-beds",2,"1,700
-sq.ft.","1711 W Division Street 304 Chicago, IL 60622","$750,000"
-"3
-beds",3,"2,212
-sq.ft.","2152 N Tripp Avenue Chicago, IL 60639","$670,000"
-"1
-beds",1,"800
-sq.ft.","1918 S Michigan Avenue , 103 Chicago, IL 60616","$260,000"
 "2
 beds",2,"1,200
 sq.ft.","815 N Marshfield Avenue 602 Chicago, IL 60622","$449,900"
@@ -23,9 +8,6 @@ sq.ft.","1528 W Ardmore Avenue 3W Chicago, IL 60660","$299,900"
 "4
 beds",3,"3,516
 sq.ft.","4130 N Mango Avenue Chicago, IL 60634","$870,000"
-"4
-beds",3,"3,200
-sq.ft.","550 N Saint Clair Street 2302 Chicago, IL 60611","$1,550,000"
 "3
 beds",2,"2,925
 sq.ft.","2206 W 107th Place Chicago, IL 60643","$799,999"
@@ -93,14 +75,8 @@ sq.ft.","1542 W School Street G Chicago, IL 60657","$589,000"
 beds",2,"2,400
 sq.ft.","822 W Hubbard Street 5 Chicago, IL 60642","$899,990"
 "2
-beds",2,"1,244
-sq.ft.","1400 W Monroe Street 4A Chicago, IL 60607","$809,000"
-"2
 beds",2,"1,450
 sq.ft.","360 E Randolph Street 3902 Chicago, IL 60601","$737,000"
-"3
-beds",2,"1,875
-sq.ft.","360 E RANDOLPH Street 2903 Chicago, IL 60601","$1,145,000"
 "1
 beds",1,"850
 sq.ft.","1000 W ADAMS Street 824 Chicago, IL 60607","$360,000"
@@ -845,9 +821,15 @@ sq.ft.","2123 N Austin Avenue Chicago, IL 60639","$775,000"
 "3
 beds",3,"2,400
 sq.ft.","1039 N Monticello Avenue Chicago, IL 60651","$675,000"
+"2
+beds",2,"1,600
+sq.ft.","1537 N Clybourn Avenue D Chicago, IL 60610","$650,000"
 "3
 beds",2,"1,600
 sq.ft.","474 N LAKE SHORE Drive 4808 Chicago, IL 60611","$555,000"
+"3
+beds",2,"1,400
+sq.ft.","636 N Racine Avenue 2N Chicago, IL 60642","$550,000"
 "4
 beds",2,"2,800
 sq.ft.","3105 N 76th Court Elmwood Park, IL 60707","$539,000"
@@ -1353,6 +1335,9 @@ sq.ft.","1512 W HURON Street 1 Chicago, IL 60642","$825,000"
 beds",2,"2,100
 sq.ft.","802 W Wolfram Street 3S Chicago, IL 60657","$799,000"
 "3
+beds",2,"1,700
+sq.ft.","1711 W Division Street 304 Chicago, IL 60622","$750,000"
+"3
 beds",2,"2,000
 sq.ft.","2126 W Armitage Avenue 4 Chicago, IL 60647","$700,000"
 "4
@@ -1523,6 +1508,9 @@ sq.ft.","1619 N BELL Avenue Chicago, IL 60647","$1,825,000"
 "4
 beds",3,"3,500
 sq.ft.","419 W Wellington Avenue 1 Chicago, IL 60657","$1,599,000"
+"4
+beds",3,"3,200
+sq.ft.","550 N Saint Clair Street 2302 Chicago, IL 60611","$1,550,000"
 "4
 beds",3,"3,502
 sq.ft.","2128 W OHIO Street Chicago, IL 60612","$1,399,000"
@@ -1754,6 +1742,9 @@ sq.ft.","942 N Harding Avenue Chicago, IL 60651","$689,900"
 "4
 beds",3,"2,550
 sq.ft.","932 N Monticello Avenue Chicago, IL 60651","$689,900"
+"3
+beds",3,"2,212
+sq.ft.","2152 N Tripp Avenue Chicago, IL 60639","$670,000"
 "3
 beds",2,"1,700
 sq.ft.","2515 W Gunnison Street 3 Chicago, IL 60625","$599,900"
@@ -2069,6 +2060,9 @@ sq.ft.","545 W 29th Street Chicago, IL 60616","$369,998"
 "3
 beds",2,"2,080
 sq.ft.","12603 S Michigan Avenue Chicago, IL 60628","$289,900"
+"1
+beds",1,"800
+sq.ft.","1918 S Michigan Avenue , 103 Chicago, IL 60616","$260,000"
 "2
 beds",2,"1,433
 sq.ft.","1016 N Hermitage Avenue 3 Chicago, IL 60622","$819,000"
@@ -3023,3 +3017,9 @@ sq.ft.","1629 S Prairie Avenue 2206 Chicago, IL 60616","$540,000"
 "4
 beds",2,"3,000
 sq.ft.","4137 N NARRAGANSETT Avenue 8 Chicago, IL 60634","$519,900"
+"3
+beds",2,"1,381
+sq.ft.","221 E Cullerton Street 417 Chicago, IL 60616","$500,000"
+"2
+beds",2,"1,800
+sq.ft.","2310 W Nelson Street 101 Chicago, IL 60618","$499,900"
