@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$389,900"
 "2
 beds",2,"1,327
 sq.ft.","1550 N Lake Shore Drive 2A Chicago, IL 60610","$599,900"
@@ -2723,9 +2726,6 @@ sq.ft.","6030 N SHERIDAN Road 803 Chicago, IL 60660","$169,900"
 "2
 beds",1,"850
 sq.ft.","346 E 41st Street 2 Chicago, IL 60653","$124,900"
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$399,900"
 "2
 beds",2,"909
 sq.ft.","4539 S Mozart Street Chicago, IL 60632","$150,000"
