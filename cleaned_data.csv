@@ -57,26 +57,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1462,"4850 N Crescent Avenue Norridge, IL 60706",469900.0
 2,2,975,"901 W MADISON Street 816 Chicago, IL 60607",450000.0
 3,2,1250,"5445 N Sheridan Road 2012 Chicago, IL 60640",449000.0
-2,2,1100,"600 N Kingsbury Street 1812 Chicago, IL 60654",412500.0
-2,2,1380,"208 W Washington Street 711 Chicago, IL 60606",410000.0
-2,2,1080,"8 W Monroe Street 507 Chicago, IL 60603",325000.0
-1,1,725,"300 N State Street 4930 Chicago, IL 60654",320000.0
-1,1,850,"550 N St Clair Street 902 Chicago, IL 60611",299999.0
-1,1,800,"401 E ONTARIO Street 904 Chicago, IL 60611",275000.0
-2,2,960,"504 W 127th Place Chicago, IL 60628",275000.0
-1,1,800,"2456 W Grace Street 2E Chicago, IL 60618",245000.0
-4,2,2200,"7621 S Eberhart Avenue Chicago, IL 60619",239900.0
-1,1,650,"400 E RANDOLPH Street 921 Chicago, IL 60601",225000.0
-3,1,769,"12216 S Carpenter Street Chicago, IL 60643",210000.0
-3,2,1400,"Chicago, IL 60617",197495.0
-1,1,825,"655 W Irving Park Road 3608 Chicago, IL 60613",195000.0
-1,1,750,"1358 W Estes Avenue 2W Chicago, IL 60626",174900.0
-2,1,850,"2636 W Foster Avenue 204 Chicago, IL 60625",172900.0
-2,1,1300,"6953 S Loomis Boulevard Chicago, IL 60636",139000.0
-3,1,1160,"7553 S Paxton Avenue Chicago, IL 60649",135200.0
-4,2,1938,"7125 S University Avenue Chicago, IL 60619",112000.0
-1,1,800,"3838 W 111th Street 211 Chicago, IL 60655",99000.0
-3,2,1098,"7002 S Hermitage Avenue Chicago, IL 60636",95000.0
 2,2,2200,"505 N LAKE SHORE Drive 6304-6305 Chicago, IL 60611",925000.0
 4,2,3000,"2651 W Augusta Boulevard 1 Chicago, IL 60622",899999.0
 4,3,2574,"2432 W Ohio Street Chicago, IL 60612",835000.0
@@ -251,7 +231,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,950,"115 E 60th Street 2 Chicago, IL 60637",99900.0
 2,1,1136,"6954 S Honore Street Chicago, IL 60636",60000.0
 3,1,990,"147 E 118th Place Chicago, IL 60628",43000.0
-4,4,3400,"2709 N Hermitage Avenue Chicago, IL 60614",1225000.0
 4,3,3035,"1250 S Michigan Avenue 2802 Chicago, IL 60605",1200000.0
 4,4,3100,"1734 S Indiana Avenue Chicago, IL 60616",1200000.0
 3,2,2500,"1113 W Chestnut Street 2W Chicago, IL 60642",1139000.0
