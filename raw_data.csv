@@ -1,11 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",2,"1,494
-sq.ft.","6811 S Kedvale Avenue Chicago, IL 60629","$359,900"
-"2
-beds",2,"1,500
-sq.ft.","7061 N Kedzie Avenue , 1504 Chicago, IL 60645","$165,000"
-"3
 beds",3,"2,212
 sq.ft.","2152 N Tripp Avenue Chicago, IL 60639","$670,000"
 "3
@@ -3023,3 +3017,9 @@ sq.ft.","1255 S STATE Street 1305 Chicago, IL 60605","$264,900"
 "3
 beds",2,"2,178
 sq.ft.","4953 S Laramie Avenue Chicago, IL 60638","$249,000"
+"3
+beds",1,"1,200
+sq.ft.","8823 S Wallace Street Chicago, IL 60620","$240,000"
+"2
+beds",2,"1,100
+sq.ft.","2118 W 35th Street 2 Chicago, IL 60609","$238,000"

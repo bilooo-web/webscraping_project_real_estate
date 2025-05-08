@@ -1,6 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-3,2,1494,"6811 S Kedvale Avenue Chicago, IL 60629",359900.0
-2,2,1500,"7061 N Kedzie Avenue , 1504 Chicago, IL 60645",165000.0
 3,3,2212,"2152 N Tripp Avenue Chicago, IL 60639",670000.0
 3,2,2000,"3056 N Paulina Street Chicago, IL 60657",900000.0
 3,2,3200,"3812 S Normal Avenue Chicago, IL 60609",715000.0
@@ -921,3 +919,5 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,950,"2000 N LINCOLN PARK WEST Parkway 314 Chicago, IL 60614",269500.0
 1,1,720,"1255 S STATE Street 1305 Chicago, IL 60605",264900.0
 3,2,2178,"4953 S Laramie Avenue Chicago, IL 60638",249000.0
+3,1,1200,"8823 S Wallace Street Chicago, IL 60620",240000.0
+2,2,1100,"2118 W 35th Street 2 Chicago, IL 60609",238000.0
