@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",3,"2,600
+sq.ft.","2170 N Stave Street , 1 Chicago, IL 60647","$700,000"
+"3
 beds",2,"1,494
 sq.ft.","6811 S Kedvale Avenue Chicago, IL 60629","$359,900"
 "2
@@ -3020,6 +3023,3 @@ sq.ft.","73 E Elm Street 1B Chicago, IL 60611","$740,000"
 "5
 beds",3,"3,000
 sq.ft.","5815 N Merrimac Avenue Chicago, IL 60646","$670,000"
-"2
-beds",2,"1,800
-sq.ft.","1122 W Newport Avenue 1A Chicago, IL 60657","$649,900"

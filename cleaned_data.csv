@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,3,2600,"2170 N Stave Street , 1 Chicago, IL 60647",700000.0
 3,2,1494,"6811 S Kedvale Avenue Chicago, IL 60629",359900.0
 2,2,1500,"7061 N Kedzie Avenue , 1504 Chicago, IL 60645",165000.0
 3,2,1208,"2307 N Avers Avenue 2 Chicago, IL 60647",525000.0
@@ -917,4 +918,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,3552,"1042 W 34th Place Chicago, IL 60608",795000.0
 2,1,1485,"73 E Elm Street 1B Chicago, IL 60611",740000.0
 5,3,3000,"5815 N Merrimac Avenue Chicago, IL 60646",670000.0
-2,2,1800,"1122 W Newport Avenue 1A Chicago, IL 60657",649900.0
