@@ -1,12 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 3,3,2600,"2170 N Stave Street , 1 Chicago, IL 60647",700000.0
-3,2,1494,"6811 S Kedvale Avenue Chicago, IL 60629",359900.0
-2,2,1500,"7061 N Kedzie Avenue , 1504 Chicago, IL 60645",165000.0
-3,2,1208,"2307 N Avers Avenue 2 Chicago, IL 60647",500000.0
-1,1,750,"6301 N SHERIDAN Road 9G Chicago, IL 60660",149000.0
-2,2,1405,"2762 N Lincoln Avenue 205 Chicago, IL 60614",620000.0
-1,1,800,"2456 W Grace Street 2E Chicago, IL 60618",245000.0
-3,3,2212,"2152 N Tripp Avenue Chicago, IL 60639",670000.0
 2,2,1300,"1944 W Thomas Street 3 Chicago, IL 60622",720000.0
 3,2,1669,"1400 W Monroe Street 4F Chicago, IL 60607",1100000.0
 3,2,1700,"1360 W WALTON Street 2E Chicago, IL 60642",729000.0
@@ -62,6 +55,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1385,"850 N DEWITT Place 12A Chicago, IL 60611",369000.0
 2,1,1000,"1247 W Roscoe Street 2 Chicago, IL 60657",349900.0
 4,3,2500,"5411 W BERENICE Avenue Chicago, IL 60641",634900.0
+2,2,1405,"2762 N Lincoln Avenue 205 Chicago, IL 60614",620000.0
 2,2,1680,"5051 N Clark Street 4S Chicago, IL 60640",575000.0
 4,3,2100,"8139 W BRYN MAWR Avenue Norwood Park, IL 60631",574900.0
 1,1,680,"1645 W Ogden Avenue 641 Chicago, IL 60612",247500.0
@@ -100,6 +94,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1327,"1550 N Lake Shore Drive 2A Chicago, IL 60610",550000.0
 2,1,800,"1019 N Washtenaw Avenue 2 Chicago, IL 60622",290000.0
 3,2,1500,"1542 W Fry Street 2 Chicago, IL 60642",689000.0
+1,1,800,"2456 W Grace Street 2E Chicago, IL 60618",245000.0
 4,3,2574,"2432 W Ohio Street Chicago, IL 60612",835000.0
 3,2,1500,"4728 N Malden Street 3S Chicago, IL 60640",550000.0
 3,2,2187,"1844 N 75th Court Elmwood Park, IL 60707",499900.0
@@ -108,6 +103,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1500,"6033 N Sheridan Road 4G Chicago, IL 60660",324900.0
 3,3,2499,"8610 S Aberdeen Street Chicago, IL 60620",362500.0
 2,2,1323,"1629 S PRAIRIE Avenue 1402 Chicago, IL 60616",484900.0
+3,3,2212,"2152 N Tripp Avenue Chicago, IL 60639",670000.0
 3,3,3552,"1042 W 34th Place Chicago, IL 60608",795000.0
 3,2,2000,"8141 S Avalon Avenue Chicago, IL 60619",279000.0
 5,3,3497,"424 N Lawler Avenue Chicago, IL 60644",449900.0
@@ -147,6 +143,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,3000,"2201 N 74th Court Elmwood Park, IL 60707",750000.0
 1,1,1274,"225 N Columbus Drive 5703 Chicago, IL 60601",649000.0
 3,2,2034,"5832 N Overhill Avenue Chicago, IL 60631",549500.0
+3,2,1208,"2307 N Avers Avenue 2 Chicago, IL 60647",500000.0
 2,2,1450,"1212 N Wells Street 1405 Chicago, IL 60610",485000.0
 2,2,1479,"1160 S Michigan Avenue 1005 Chicago, IL 60605",435000.0
 3,2,1901,"3781 W 76th Street Chicago, IL 60652",399900.0
@@ -209,6 +206,8 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,900,"3441 W Bryn Mawr Avenue 1E Chicago, IL 60659",140000.0
 1,1,850,"10433 S Hale Avenue 1A Chicago, IL 60643",120000.0
 3,1,1492,"10623 S Avenue E Chicago, IL 60617",114000.0
+3,2,1494,"6811 S Kedvale Avenue Chicago, IL 60629",359900.0
+2,2,1500,"7061 N Kedzie Avenue , 1504 Chicago, IL 60645",165000.0
 4,2,2633,"3408 S Carpenter Street Chicago, IL 60608",800000.0
 2,2,1470,"175 E Delaware Place 7204 Chicago, IL 60611",720000.0
 6,3,3000,"5742 W Henderson Street Chicago, IL 60634",675000.0
@@ -914,3 +913,4 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,850,"5757 N SHERIDAN Road 12D Chicago, IL 60660",175000.0
 2,1,800,"4416 N Kostner Avenue 2B Chicago, IL 60630",166950.0
 3,1,1004,"4836 W Polk Street Chicago, IL 60644",150000.0
+1,1,800,"4800 S Chicago Beach Drive 1814N Chicago, IL 60615",117000.0
