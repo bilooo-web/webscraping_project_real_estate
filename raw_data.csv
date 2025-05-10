@@ -2,18 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
 beds",3,"2,600
 sq.ft.","2170 N Stave Street , 1 Chicago, IL 60647","$700,000"
-"2
-beds",2,"1,300
-sq.ft.","1944 W Thomas Street 3 Chicago, IL 60622","$720,000"
-"3
-beds",2,"1,669
-sq.ft.","1400 W Monroe Street 4F Chicago, IL 60607","$1,100,000"
-"3
-beds",2,"1,700
-sq.ft.","1360 W WALTON Street 2E Chicago, IL 60642","$729,000"
-"4
-beds",3,"3,200
-sq.ft.","4218 N CALIFORNIA Avenue Chicago, IL 60618","$900,000"
 "5
 beds",4,"4,200
 sq.ft.","1745 W Cornelia Avenue Chicago, IL 60657","$1,674,900"
@@ -50,6 +38,9 @@ sq.ft.","3812 S Normal Avenue Chicago, IL 60609","$715,000"
 "3
 beds",2,"1,540
 sq.ft.","117 S Bell Avenue 4S Chicago, IL 60612","$519,900"
+"3
+beds",2,"1,700
+sq.ft.","1360 W WALTON Street 2E Chicago, IL 60642","$729,000"
 "6
 beds",6,"7,120
 sq.ft.","4717 N Paulina Street Chicago, IL 60640","$3,300,000"
@@ -74,6 +65,9 @@ sq.ft.","1448 W Chestnut Street 3 Chicago, IL 60642","$899,000"
 "3
 beds",3,"2,400
 sq.ft.","1730 W Diversey Parkway 1E Chicago, IL 60614","$749,000"
+"2
+beds",2,"1,300
+sq.ft.","1944 W Thomas Street 3 Chicago, IL 60622","$720,000"
 "3
 beds",3,"3,028
 sq.ft.","5912 W Grace Street Chicago, IL 60634","$624,999"
@@ -608,6 +602,9 @@ sq.ft.","4313 N Ashland Avenue Chicago, IL 60613","$910,000"
 "2
 beds",2,"2,100
 sq.ft.","1560 N Sandburg Terrace 4301-03 Chicago, IL 60610","$908,500"
+"4
+beds",3,"3,200
+sq.ft.","4218 N CALIFORNIA Avenue Chicago, IL 60618","$900,000"
 "2
 beds",2,"1,500
 sq.ft.","55 W Delaware Place 314 Chicago, IL 60610","$800,000"
@@ -2609,6 +2606,9 @@ sq.ft.","123 W Oak Street K Chicago, IL 60610","$1,440,000"
 "3
 beds",3,"2,161
 sq.ft.","10 E Delaware Place 32E Chicago, IL 60611","$1,350,000"
+"3
+beds",2,"1,669
+sq.ft.","1400 W Monroe Street 4F Chicago, IL 60607","$1,100,000"
 "5
 beds",3,"3,265
 sq.ft.","4208 N Kedvale Avenue Chicago, IL 60641","$1,100,000"

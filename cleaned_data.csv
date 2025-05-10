@@ -1,9 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 3,3,2600,"2170 N Stave Street , 1 Chicago, IL 60647",700000.0
-2,2,1300,"1944 W Thomas Street 3 Chicago, IL 60622",720000.0
-3,2,1669,"1400 W Monroe Street 4F Chicago, IL 60607",1100000.0
-3,2,1700,"1360 W WALTON Street 2E Chicago, IL 60642",729000.0
-4,3,3200,"4218 N CALIFORNIA Avenue Chicago, IL 60618",900000.0
 3,2,1850,"401 E ONTARIO Street 4006 Chicago, IL 60611",675000.0
 3,2,2000,"3056 N Paulina Street Chicago, IL 60657",900000.0
 2,2,1514,"1001 W Madison Street 211 Chicago, IL 60607",599000.0
@@ -12,10 +8,12 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,3516,"4130 N Mango Avenue Chicago, IL 60634",870000.0
 3,2,3200,"3812 S Normal Avenue Chicago, IL 60609",715000.0
 3,2,1540,"117 S Bell Avenue 4S Chicago, IL 60612",519900.0
+3,2,1700,"1360 W WALTON Street 2E Chicago, IL 60642",729000.0
 3,2,2060,"9539 S Forest Avenue Chicago, IL 60628",295000.0
 3,2,2400,"4443 N Francisco Avenue Chicago, IL 60625",1200000.0
 3,2,2350,"1448 W Chestnut Street 3 Chicago, IL 60642",899000.0
 3,3,2400,"1730 W Diversey Parkway 1E Chicago, IL 60614",749000.0
+2,2,1300,"1944 W Thomas Street 3 Chicago, IL 60622",720000.0
 3,3,3028,"5912 W Grace Street Chicago, IL 60634",624999.0
 2,2,1500,"2130 W Le Moyne Street 2 Chicago, IL 60622",599900.0
 2,2,1380,"208 W Washington Street 711 Chicago, IL 60606",410000.0
@@ -173,6 +171,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1783,"3951 N Wayne Avenue 405 Chicago, IL 60613",1179999.0
 3,2,2448,"4313 N Ashland Avenue Chicago, IL 60613",910000.0
 2,2,2100,"1560 N Sandburg Terrace 4301-03 Chicago, IL 60610",908500.0
+4,3,3200,"4218 N CALIFORNIA Avenue Chicago, IL 60618",900000.0
 2,2,1500,"55 W Delaware Place 314 Chicago, IL 60610",800000.0
 2,2,1111,"234 W Polk Street 2604 Chicago, IL 60607",640000.0
 4,3,1850,"3235 S Stewart Avenue Chicago, IL 60616",625000.0
@@ -783,6 +782,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,2,1000,"6529 S Aberdeen Street Chicago, IL 60621",80000.0
 1,1,950,"437 W Division Street , 505 Chicago, IL 60610",319900.0
 2,2,1500,"7033 N Kedzie Avenue , 504 Chicago, IL 60645",169900.0
+3,2,1669,"1400 W Monroe Street 4F Chicago, IL 60607",1100000.0
 5,3,3265,"4208 N Kedvale Avenue Chicago, IL 60641",1100000.0
 3,2,2150,"1212 N Lake Shore Drive 19AS Chicago, IL 60610",975000.0
 3,2,2400,"6 S LAFLIN Street 913 Chicago, IL 60607",970000.0
