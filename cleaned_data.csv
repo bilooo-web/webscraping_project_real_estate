@@ -1,5 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 4,3,3500,"5151 W Fletcher Street Chicago, IL 60641",667000.0
+1,1,720,"6030 N Sheridan Road 1708 Chicago, IL 60660",174900.0
 4,2,1500,"7725 S St Louis Avenue Chicago, IL 60652",300000.0
 2,2,970,"817 W Washington Boulevard 507 Chicago, IL 60607",570000.0
 2,2,1075,"1841 S Calumet Avenue 1909 Chicago, IL 60616",375000.0
@@ -71,7 +72,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1400,"1329 E 89th Place Chicago, IL 60619",219900.0
 2,1,900,"8637 1/2 W FOSTER Avenue 1B Chicago, IL 60656",214900.0
 5,2,1700,"22 E 118th Street Chicago, IL 60628",199000.0
-1,1,720,"6030 N Sheridan Road 1708 Chicago, IL 60660",174900.0
 3,3,2100,"5000 S East End Avenue 25B Chicago, IL 60615",155000.0
 2,2,878,"10159 S Wentworth Avenue Chicago, IL 60628",150000.0
 1,1,716,"128 W 115th Street Chicago, IL 60628",141999.0
