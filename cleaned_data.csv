@@ -3,6 +3,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1300,"6343 S Campbell Avenue Chicago, IL 60629",264900.0
 3,1,1300,"6148 S Campbell Avenue Chicago, IL 60629",264900.0
 3,4,1800,"7658 S LAFAYETTE Avenue Chicago, IL 60620",324900.0
+1,1,800,"1918 S Michigan Avenue , 103 Chicago, IL 60616",260000.0
 4,3,3300,"2914 N Spaulding Avenue Chicago, IL 60618",1150000.0
 4,3,3300,"2500 N 78th Court Elmwood Park, IL 60707",499900.0
 2,1,1100,"918 W Sunnyside Avenue 1B Chicago, IL 60640",349000.0
@@ -858,7 +859,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,880,"8613 S Colfax Avenue Chicago, IL 60617",59900.0
 3,1,1292,"545 W 29th Street Chicago, IL 60616",369998.0
 3,2,2080,"12603 S Michigan Avenue Chicago, IL 60628",289900.0
-1,1,800,"1918 S Michigan Avenue , 103 Chicago, IL 60616",260000.0
 2,2,1433,"1016 N Hermitage Avenue 3 Chicago, IL 60622",819000.0
 5,4,4012,"604 N Latrobe Avenue Chicago, IL 60644",624999.0
 4,3,3477,"7621 S Luella Avenue Chicago, IL 60649",399985.0
