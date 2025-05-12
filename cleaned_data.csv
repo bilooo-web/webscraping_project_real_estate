@@ -2,14 +2,11 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,3500,"5151 W Fletcher Street Chicago, IL 60641",667000.0
 1,1,720,"6030 N Sheridan Road 1708 Chicago, IL 60660",174900.0
 4,2,1500,"7725 S St Louis Avenue Chicago, IL 60652",300000.0
-2,2,970,"817 W Washington Boulevard 507 Chicago, IL 60607",570000.0
-2,2,1075,"1841 S Calumet Avenue 1909 Chicago, IL 60616",375000.0
 3,2,2350,"1448 W Chestnut Street 3 Chicago, IL 60642",899000.0
 1,1,475,"1238 W Carmen Avenue 3N Chicago, IL 60640",143000.0
 4,4,3800,"1716 W Beverly Glen Parkway Chicago, IL 60643",600000.0
 3,2,1900,"6145 N Sheridan Road 8D Chicago, IL 60660",350000.0
 1,1,750,"5620 W Goodman Street 11 Chicago, IL 60630",179500.0
-2,2,1244,"1400 W Monroe Street 4A Chicago, IL 60607",780000.0
 3,2,1567,"4111 W Devon Avenue Chicago, IL 60646",450000.0
 3,2,1208,"2307 N Avers Avenue 2 Chicago, IL 60647",500000.0
 2,2,1200,"3942 W 64th Street Chicago, IL 60629",329900.0
@@ -85,6 +82,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,1274,"225 N Columbus Drive 5703 Chicago, IL 60601",649000.0
 2,2,1514,"1001 W Madison Street 211 Chicago, IL 60607",599000.0
 2,2,1196,"505 N McClurg Court 3601 Chicago, IL 60611",595000.0
+2,2,970,"817 W Washington Boulevard 507 Chicago, IL 60607",570000.0
 3,2,2034,"5832 N Overhill Avenue Chicago, IL 60631",549500.0
 2,2,1450,"1212 N Wells Street 1405 Chicago, IL 60610",485000.0
 3,3,1650,"4936 N Mulligan Avenue Chicago, IL 60630",459000.0
@@ -153,6 +151,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1360,"603 N Long Avenue Chicago, IL 60644",394900.0
 1,1,900,"225 S Sangamon Street 802 Chicago, IL 60607",380000.0
 2,1,1000,"7835 W Berwyn Avenue Chicago, IL 60656",380000.0
+2,2,1075,"1841 S Calumet Avenue 1909 Chicago, IL 60616",375000.0
 4,2,2112,"5030 W 22nd Place Cicero, IL 60804",359000.0
 1,1,1148,"1530 S State Street 1127 Chicago, IL 60605",349000.0
 2,2,1100,"801 S Plymouth Court 602 Chicago, IL 60605",339000.0
@@ -918,3 +917,4 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1700,"3319 N Ozanam Avenue Chicago, IL 60634",350000.0
 3,2,1500,"2342 W Harrison Street 2 Chicago, IL 60612",349000.0
 5,2,920,"917 N Keystone Avenue Chicago, IL 60651",340000.0
+4,2,1600,"9115 S May Street Chicago, IL 60620",339900.0
