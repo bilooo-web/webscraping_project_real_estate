@@ -1,4 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"950
+sq.ft.","437 W Division Street , 505 Chicago, IL 60610","$314,900"
+"4
+beds",2,"1,976
+sq.ft.","8620 S Marshfield Avenue Chicago, IL 60620","$250,000"
 "3
 beds",1,"1,584
 sq.ft.","8742 S Racine Avenue Chicago, IL 60620","$170,000"
@@ -221,9 +227,6 @@ sq.ft.","401 E Ontario Street 1310 Chicago, IL 60611","$295,000"
 "3
 beds",2,"1,600
 sq.ft.","4122 S Vincennes Avenue 3N Chicago, IL 60653","$289,999"
-"4
-beds",2,"1,976
-sq.ft.","8620 S Marshfield Avenue Chicago, IL 60620","$250,000"
 "1
 beds",1,"800
 sq.ft.","100 E Walton Street 37B Chicago, IL 60611","$248,900"
@@ -2822,9 +2825,6 @@ sq.ft.","5436 W Monroe Street Chicago, IL 60644","$99,900"
 "5
 beds",2,"1,000
 sq.ft.","6529 S Aberdeen Street Chicago, IL 60621","$80,000"
-"1
-beds",1,"950
-sq.ft.","437 W Division Street , 505 Chicago, IL 60610","$319,900"
 "2
 beds",2,"1,500
 sq.ft.","7033 N Kedzie Avenue , 504 Chicago, IL 60645","$169,900"
