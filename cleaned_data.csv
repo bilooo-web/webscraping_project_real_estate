@@ -1,7 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 3,1,1584,"8742 S Racine Avenue Chicago, IL 60620",170000.0
-2,1,1300,"6343 S Campbell Avenue Chicago, IL 60629",264900.0
-3,1,1300,"6148 S Campbell Avenue Chicago, IL 60629",264900.0
 3,4,1800,"7658 S LAFAYETTE Avenue Chicago, IL 60620",324900.0
 1,1,800,"1918 S Michigan Avenue , 103 Chicago, IL 60616",260000.0
 4,3,3300,"2914 N Spaulding Avenue Chicago, IL 60618",1150000.0
@@ -21,6 +19,8 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,900,"550 N St. Clair Street 1702 Chicago, IL 60611",399777.0
 3,1,960,"5851 S Newland Avenue Chicago, IL 60638",329900.0
 3,2,1202,"11414 S Wallace Street Chicago, IL 60628",299000.0
+2,1,1300,"6343 S Campbell Avenue Chicago, IL 60629",264900.0
+3,1,1300,"6148 S Campbell Avenue Chicago, IL 60629",264900.0
 2,2,1000,"2930 N HARLEM Avenue 5D Elmwood Park, IL 60707",222900.0
 1,1,800,"253 E delaware Place 10C Chicago, IL 60611",175000.0
 3,3,2700,"223 W LAKE Street 3N Chicago, IL 60606",1075000.0

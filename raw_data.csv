@@ -2,12 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
 beds",1,"1,584
 sq.ft.","8742 S Racine Avenue Chicago, IL 60620","$170,000"
-"2
-beds",1,"1,300
-sq.ft.","6343 S Campbell Avenue Chicago, IL 60629","$264,900"
-"3
-beds",1,"1,300
-sq.ft.","6148 S Campbell Avenue Chicago, IL 60629","$264,900"
 "3
 beds",4,"1,800
 sq.ft.","7658 S LAFAYETTE Avenue Chicago, IL 60620","$324,900"
@@ -71,6 +65,12 @@ sq.ft.","5851 S Newland Avenue Chicago, IL 60638","$329,900"
 "3
 beds",2,"1,202
 sq.ft.","11414 S Wallace Street Chicago, IL 60628","$299,000"
+"2
+beds",1,"1,300
+sq.ft.","6343 S Campbell Avenue Chicago, IL 60629","$264,900"
+"3
+beds",1,"1,300
+sq.ft.","6148 S Campbell Avenue Chicago, IL 60629","$264,900"
 "2
 beds",2,"1,000
 sq.ft.","2930 N HARLEM Avenue 5D Elmwood Park, IL 60707","$222,900"
