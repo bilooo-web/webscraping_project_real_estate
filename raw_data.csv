@@ -1,7 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",1,"960
+sq.ft.","7317 S Mozart Street Chicago, IL 60629","$189,900"
 "1
 beds",1,"950
 sq.ft.","437 W Division Street , 505 Chicago, IL 60610","$314,900"
+"8
+beds",3,"3,837
+sq.ft.","5019 N Kostner Avenue Chicago, IL 60630","$695,000"
 "4
 beds",2,"1,976
 sq.ft.","8620 S Marshfield Avenue Chicago, IL 60620","$250,000"
@@ -143,6 +149,9 @@ sq.ft.","1550 N Lake Shore Drive 2A Chicago, IL 60610","$550,000"
 "3
 beds",2,"1,500
 sq.ft.","4728 N Malden Street 3S Chicago, IL 60640","$550,000"
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$389,900"
 "3
 beds",2,"2,187
 sq.ft.","1844 N 75th Court Elmwood Park, IL 60707","$499,900"
@@ -365,9 +374,6 @@ sq.ft.","2615 W 102nd Place Chicago, IL 60655","$765,000"
 "2
 beds",2,"1,361
 sq.ft.","240 E Illinois Street 2206 Chicago, IL 60611","$699,000"
-"8
-beds",3,"3,837
-sq.ft.","5019 N Kostner Avenue Chicago, IL 60630","$695,000"
 "3
 beds",2,"1,650
 sq.ft.","645 W Bittersweet Place 1 Chicago, IL 60613","$655,000"
@@ -1313,9 +1319,6 @@ sq.ft.","7626 S Yates Boulevard Chicago, IL 60649","$89,000"
 "3
 beds",1,"1,448
 sq.ft.","7207 1/2 S Saint Lawrence Avenue Chicago, IL 60619","$79,900"
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$389,900"
 "1
 beds",1,"550
 sq.ft.","4250 N Marine Drive , 1723 Chicago, IL 60613","$157,000"
@@ -3020,6 +3023,3 @@ sq.ft.","1400 W Monroe Street 4F Chicago, IL 60607","$1,100,000"
 "5
 beds",3,"3,265
 sq.ft.","4208 N Kedvale Avenue Chicago, IL 60641","$1,100,000"
-"3
-beds",2,"2,150
-sq.ft.","1212 N Lake Shore Drive 19AS Chicago, IL 60610","$975,000"
