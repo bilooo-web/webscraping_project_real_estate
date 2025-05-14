@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,950,"437 W Division Street , 505 Chicago, IL 60610",314900.0
 4,2,1976,"8620 S Marshfield Avenue Chicago, IL 60620",250000.0
-3,1,1584,"8742 S Racine Avenue Chicago, IL 60620",170000.0
 3,2,2200,"39 E Schiller Street 3W Chicago, IL 60610",999000.0
 2,2,1241,"3737 N Clifton Avenue 3 Chicago, IL 60613",799900.0
 4,4,3800,"1716 W Beverly Glen Parkway Chicago, IL 60643",600000.0
@@ -80,6 +79,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,2021,"5805 N Harlem Avenue Chicago, IL 60631",449000.0
 3,3,2500,"6914 S Cregier Avenue Chicago, IL 60649",300000.0
 4,1,861,"12028 S Lafayette Avenue Chicago, IL 60628",124900.0
+3,1,1584,"8742 S Racine Avenue Chicago, IL 60620",170000.0
 4,2,2210,"2120 N NEVA Avenue Chicago, IL 60707",469900.0
 1,1,900,"550 N St. Clair Street 1702 Chicago, IL 60611",399777.0
 3,1,960,"5851 S Newland Avenue Chicago, IL 60638",329900.0
