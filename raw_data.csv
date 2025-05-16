@@ -2,18 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",1,"960
 sq.ft.","7317 S Mozart Street Chicago, IL 60629","$189,900"
-"2
-beds",1,"1,100
-sq.ft.","2315 N Commonwealth Avenue 2N Chicago, IL 60614","$425,000"
-"3
-beds",2,"2,200
-sq.ft.","39 E Schiller Street 3W Chicago, IL 60610","$999,000"
-"2
-beds",2,"1,241
-sq.ft.","3737 N Clifton Avenue 3 Chicago, IL 60613","$799,900"
-"4
-beds",4,"3,800
-sq.ft.","1716 W Beverly Glen Parkway Chicago, IL 60643","$600,000"
 "3
 beds",1,"1,800
 sq.ft.","3257 N SEMINARY Avenue C Chicago, IL 60657","$649,000"
@@ -95,6 +83,9 @@ sq.ft.","956 W 18th Place Chicago, IL 60608","$699,999"
 "1
 beds",1,"1,100
 sq.ft.","1000 W Washington Boulevard 242 Chicago, IL 60607","$499,900"
+"3
+beds",2,"2,200
+sq.ft.","39 E Schiller Street 3W Chicago, IL 60610","$999,000"
 "2
 beds",2,"1,100
 sq.ft.","3033 N Sheridan Road 1105 Chicago, IL 60657","$435,000"
@@ -269,6 +260,9 @@ sq.ft.","2104 S May Street Chicago, IL 60608","$989,000"
 "2
 beds",2,"1,327
 sq.ft.","1550 N Lake Shore Drive 2A Chicago, IL 60610","$535,000"
+"2
+beds",1,"1,100
+sq.ft.","2315 N Commonwealth Avenue 2N Chicago, IL 60614","$425,000"
 "2
 beds",2,"1,450
 sq.ft.","8560 W Foster Avenue 209 Norridge, IL 60706","$354,900"
@@ -1379,6 +1373,9 @@ sq.ft.","5742 W Henderson Street Chicago, IL 60634","$675,000"
 "3
 beds",2,"1,650
 sq.ft.","2143 W Division Street 3 Chicago, IL 60622","$624,900"
+"4
+beds",4,"3,800
+sq.ft.","1716 W Beverly Glen Parkway Chicago, IL 60643","$600,000"
 "2
 beds",2,"1,500
 sq.ft.","2130 W Le Moyne Street 2 Chicago, IL 60622","$599,900"
@@ -1715,6 +1712,9 @@ sq.ft.","505 N Lake Shore Drive 1810-1811 Chicago, IL 60611","$995,000"
 "4
 beds",3,"2,200
 sq.ft.","2405 W Iowa Street 405 Chicago, IL 60622","$975,000"
+"2
+beds",2,"1,241
+sq.ft.","3737 N Clifton Avenue 3 Chicago, IL 60613","$799,900"
 "3
 beds",2,"2,200
 sq.ft.","2608 N Lakeview Avenue 4C Chicago, IL 60614","$795,000"
