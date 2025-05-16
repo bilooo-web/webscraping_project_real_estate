@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",1,"960
 sq.ft.","7317 S Mozart Street Chicago, IL 60629","$189,900"
-"1
-beds",1,"950
-sq.ft.","437 W Division Street , 505 Chicago, IL 60610","$314,900"
 "2
 beds",1,"1,100
 sq.ft.","2315 N Commonwealth Avenue 2N Chicago, IL 60614","$425,000"
@@ -677,6 +674,9 @@ sq.ft.","8509 S MUSKEGON Avenue Chicago, IL 60617","$99,900"
 "3
 beds",1,"1,230
 sq.ft.","8818 S Cottage Grove Avenue Chicago, IL 60619","$92,000"
+"1
+beds",1,"950
+sq.ft.","437 W Division Street , 505 Chicago, IL 60610","$314,900"
 "11
 beds",7,"14,000
 sq.ft.","325 W Wellington Avenue Chicago, IL 60657","$3,995,000"

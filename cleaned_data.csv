@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 2,1,960,"7317 S Mozart Street Chicago, IL 60629",189900
-1,1,950,"437 W Division Street , 505 Chicago, IL 60610",314900
 2,1,1100,"2315 N Commonwealth Avenue 2N Chicago, IL 60614",425000
 3,2,2200,"39 E Schiller Street 3W Chicago, IL 60610",999000
 2,2,1241,"3737 N Clifton Avenue 3 Chicago, IL 60613",799900
@@ -202,6 +201,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1149,"722 E 91st Place Chicago, IL 60619",119900
 3,1,817,"8509 S MUSKEGON Avenue Chicago, IL 60617",99900
 3,1,1230,"8818 S Cottage Grove Avenue Chicago, IL 60619",92000
+1,1,950,"437 W Division Street , 505 Chicago, IL 60610",314900
 3,2,2400,"6 S LAFLIN Street 913 Chicago, IL 60607",950000
 2,2,1722,"1201 S Prairie Avenue 3502 Chicago, IL 60605",930000
 3,2,1718,"1258 N MILWAUKEE Avenue 3S Chicago, IL 60622",799500
