@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"1,330
+sq.ft.","2820 W 100th Place Evergreen Park, IL 60805","$265,000"
 "2
 beds",1,"960
 sq.ft.","7317 S Mozart Street Chicago, IL 60629","$189,900"
@@ -716,9 +719,6 @@ sq.ft.","30 E Huron Street 2708 Chicago, IL 60611","$269,000"
 "4
 beds",1,"2,156
 sq.ft.","Chicago, IL 60620","$269,000"
-"3
-beds",2,"1,330
-sq.ft.","2820 W 100th Place Evergreen Park, IL 60805","$265,000"
 "3
 beds",2,"1,320
 sq.ft.","10519 S Eberhart Avenue Chicago, IL 60628","$264,900"

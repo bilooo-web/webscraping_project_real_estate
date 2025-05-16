@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2.0,1330,"2820 W 100th Place Evergreen Park, IL 60805",265000
 2,1.0,960,"7317 S Mozart Street Chicago, IL 60629",189900
 3,1.0,1800,"3257 N SEMINARY Avenue C Chicago, IL 60657",649000
 2,2.0,1350,"3708 W CORNELIA Avenue 2E Chicago, IL 60618",450000
@@ -208,7 +209,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1600,"2058 W 70th Place Chicago, IL 60636",289900
 1,1.0,645,"30 E Huron Street 2708 Chicago, IL 60611",269000
 4,1.0,2156,"Chicago, IL 60620",269000
-3,2.0,1330,"2820 W 100th Place Evergreen Park, IL 60805",265000
 3,2.0,1320,"10519 S Eberhart Avenue Chicago, IL 60628",264900
 4,1.0,2000,"8107 S Princeton Avenue Chicago, IL 60620",260000
 3,1.0,1080,"1230 W 112th Place Chicago, IL 60643",255000
