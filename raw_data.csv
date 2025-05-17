@@ -3,15 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",2,"1,330
 sq.ft.","2820 W 100th Place Evergreen Park, IL 60805","$265,000"
 "3
-beds",1,"1,800
-sq.ft.","3257 N SEMINARY Avenue C Chicago, IL 60657","$649,000"
-"3
-beds",3,"2,688
-sq.ft.","5443 S Rutherford Avenue Chicago, IL 60638","$649,750"
-"3
-beds",2,"2,035
-sq.ft.","1751 W Granville Avenue 1 Chicago, IL 60660","$549,995"
-"3
 beds",2,"1,680
 sq.ft.","3641 N Ashland Avenue 4N Chicago, IL 60613","$625,000"
 "3
@@ -68,6 +59,9 @@ sq.ft.","1203 W Superior Street 1C Chicago, IL 60642","$959,900"
 "2
 beds",2,"1,545
 sq.ft.","501 N Clinton Street 502 Chicago, IL 60654","$575,000"
+"3
+beds",2,"2,035
+sq.ft.","1751 W Granville Avenue 1 Chicago, IL 60660","$549,995"
 "2
 beds",2,"1,250
 sq.ft.","3737 N Fremont Street 2 Chicago, IL 60613","$489,900"
@@ -386,6 +380,9 @@ sq.ft.","1550 N Lake Shore Drive 2A Chicago, IL 60610","$535,000"
 "2
 beds",1,"1,100
 sq.ft.","2315 N Commonwealth Avenue 2N Chicago, IL 60614","$425,000"
+"3
+beds",1,"1,800
+sq.ft.","3257 N SEMINARY Avenue C Chicago, IL 60657","$649,000"
 "2
 beds",2,"1,450
 sq.ft.","8560 W Foster Avenue 209 Norridge, IL 60706","$354,900"
@@ -2378,6 +2375,9 @@ sq.ft.","1667 N Bissell Street 3 Chicago, IL 60614","$660,000"
 "2
 beds",2,"1,350
 sq.ft.","1140 W Newport Avenue H Chicago, IL 60657","$649,777"
+"3
+beds",3,"2,688
+sq.ft.","5443 S Rutherford Avenue Chicago, IL 60638","$649,750"
 "3
 beds",2,"1,600
 sq.ft.","3930 N SOUTHPORT Avenue 2S Chicago, IL 60613","$599,000"

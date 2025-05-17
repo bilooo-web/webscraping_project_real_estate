@@ -1,8 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2.0,1330,"2820 W 100th Place Evergreen Park, IL 60805",265000
-3,1.0,1800,"3257 N SEMINARY Avenue C Chicago, IL 60657",649000
-3,3.0,2688,"5443 S Rutherford Avenue Chicago, IL 60638",649750
-3,2.0,2035,"1751 W Granville Avenue 1 Chicago, IL 60660",549995
 3,2.0,1680,"3641 N Ashland Avenue 4N Chicago, IL 60613",625000
 3,2.0,2255,"4639 S Saint Lawrence Avenue 2 Chicago, IL 60653",305000
 3,2.0,1541,"5135 S Kimbark Avenue Chicago, IL 60615",680000
@@ -20,6 +17,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1900,"360 E Randolph Street 3201 Chicago, IL 60601",1175000
 4,3.0,2800,"1203 W Superior Street 1C Chicago, IL 60642",959900
 2,2.0,1545,"501 N Clinton Street 502 Chicago, IL 60654",575000
+3,2.0,2035,"1751 W Granville Avenue 1 Chicago, IL 60660",549995
 2,2.0,1250,"3737 N Fremont Street 2 Chicago, IL 60613",489900
 2,2.0,1050,"1000 W 15th Street 116 Chicago, IL 60608",425000
 1,1.0,700,"111 W MAPLE Street 1110 Chicago, IL 60610",249999
@@ -113,6 +111,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2.0,1400,"13524 S Avenue M Chicago, IL 60633",299900
 2,2.0,1327,"1550 N Lake Shore Drive 2A Chicago, IL 60610",535000
 2,1.0,1100,"2315 N Commonwealth Avenue 2N Chicago, IL 60614",425000
+3,1.0,1800,"3257 N SEMINARY Avenue C Chicago, IL 60657",649000
 2,2.0,1450,"8560 W Foster Avenue 209 Norridge, IL 60706",354900
 3,2.0,1647,"12540 S Tripp Avenue Alsip, IL 60803",349900
 2,2.0,1500,"55 W Delaware Place 314 Chicago, IL 60610",800000
@@ -716,6 +715,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,2000,"2413 W Fullerton Avenue 3 Chicago, IL 60647",675000
 2,2.0,1400,"1667 N Bissell Street 3 Chicago, IL 60614",660000
 2,2.0,1350,"1140 W Newport Avenue H Chicago, IL 60657",649777
+3,3.0,2688,"5443 S Rutherford Avenue Chicago, IL 60638",649750
 3,2.0,1600,"3930 N SOUTHPORT Avenue 2S Chicago, IL 60613",599000
 3,2.0,1600,"2424 W Chicago Avenue 203 Chicago, IL 60622",595000
 2,2.0,1420,"1448 W Chestnut Street 2 Chicago, IL 60642",585000
