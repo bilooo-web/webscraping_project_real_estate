@@ -2,18 +2,9 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
 beds",2,"1,330
 sq.ft.","2820 W 100th Place Evergreen Park, IL 60805","$265,000"
-"2
-beds",1,"960
-sq.ft.","7317 S Mozart Street Chicago, IL 60629","$189,900"
-"4
-beds",2,"2,800
-sq.ft.","215 W CONCORD Lane Chicago, IL 60614","$1,249,000"
 "3
 beds",1,"1,800
 sq.ft.","3257 N SEMINARY Avenue C Chicago, IL 60657","$649,000"
-"2
-beds",2,"1,350
-sq.ft.","3708 W CORNELIA Avenue 2E Chicago, IL 60618","$450,000"
 "3
 beds",3,"2,688
 sq.ft.","5443 S Rutherford Avenue Chicago, IL 60638","$649,750"
@@ -26,6 +17,9 @@ sq.ft.","3641 N Ashland Avenue 4N Chicago, IL 60613","$625,000"
 "3
 beds",2,"2,255
 sq.ft.","4639 S Saint Lawrence Avenue 2 Chicago, IL 60653","$305,000"
+"4
+beds",2,"2,800
+sq.ft.","215 W CONCORD Lane Chicago, IL 60614","$1,249,000"
 "3
 beds",2,"1,541
 sq.ft.","5135 S Kimbark Avenue Chicago, IL 60615","$680,000"
@@ -53,6 +47,9 @@ sq.ft.","400 S Green Street 310 Chicago, IL 60607","$935,000"
 "3
 beds",2,"1,120
 sq.ft.","12722 S Laflin Street Calumet Park, IL 60827","$220,000"
+"2
+beds",2,"1,350
+sq.ft.","3708 W CORNELIA Avenue 2E Chicago, IL 60618","$450,000"
 "2
 beds",2,"1,300
 sq.ft.","405 N WABASH Avenue 4709 Chicago, IL 60611","$449,999"
@@ -896,6 +893,9 @@ sq.ft.","118 W 103rd Place Chicago, IL 60628","$80,000"
 "2
 beds",1,"1,500
 sq.ft.","72 E 37th Street Chicago, IL 60653","$69,900"
+"2
+beds",1,"960
+sq.ft.","7317 S Mozart Street Chicago, IL 60629","$189,900"
 "3
 beds",3,"3,693
 sq.ft.","9 W Walton Street 1702 Chicago, IL 60610","$4,790,000"
