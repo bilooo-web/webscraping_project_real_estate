@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-2,2.0,1500,"4406 W Augusta Boulevard Chicago, IL 60651",285000
 4,3.0,3810,"940 N Karlov Avenue Chicago, IL 60651",609900
 4,3.0,2550,"932 N Monticello Avenue Chicago, IL 60651",689900
 4,3.0,3200,"399 W Fullerton Parkway 16E Chicago, IL 60614",675000
@@ -924,3 +923,4 @@ bedrooms,bathrooms,square_footage,address,price
 1,1.0,1200,"3946 N RAVENSWOOD Avenue 305 Chicago, IL 60613",324000
 3,1.0,1300,"2935 W 100th Place Evergreen Park, IL 60805",299999
 3,1.0,836,"2144 N 73rd Avenue Elmwood Park, IL 60707",275000
+2,2.0,1700,"1015 W 103rd Place Chicago, IL 60643",270000
