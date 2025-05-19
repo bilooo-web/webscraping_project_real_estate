@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",1,"1,454
+sq.ft.","3356 N New England Avenue Chicago, IL 60634","$435,000"
+"3
 beds",2,"1,105
 sq.ft.","4717 N Newcastle Avenue Harwood Heights, IL 60706","$384,900"
 "2
@@ -3020,6 +3023,3 @@ sq.ft.","8615 S Aberdeen Street Chicago, IL 60620","$174,900"
 "2
 beds",2,"1,516
 sq.ft.","5300 S Shore Drive 59 Chicago, IL 60615","$170,000"
-"2
-beds",1,"880
-sq.ft.","2035 W Granville Avenue C414 Chicago, IL 60659","$159,000"

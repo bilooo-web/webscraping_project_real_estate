@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,1.0,1454,"3356 N New England Avenue Chicago, IL 60634",435000
 3,2.0,1105,"4717 N Newcastle Avenue Harwood Heights, IL 60706",384900
 2,2.0,1500,"4406 W Augusta Boulevard Chicago, IL 60651",285000
 4,3.0,3300,"2500 N 78th Court Elmwood Park, IL 60707",470000
@@ -912,4 +913,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,2.0,1825,"2728 N Mont Clare Avenue Chicago, IL 60607",175000
 2,1.0,903,"8615 S Aberdeen Street Chicago, IL 60620",174900
 2,2.0,1516,"5300 S Shore Drive 59 Chicago, IL 60615",170000
-2,1.0,880,"2035 W Granville Avenue C414 Chicago, IL 60659",159000
