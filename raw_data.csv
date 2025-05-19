@@ -11,36 +11,6 @@ sq.ft.","932 N Monticello Avenue Chicago, IL 60651","$689,900"
 "4
 beds",3,"3,200
 sq.ft.","399 W Fullerton Parkway 16E Chicago, IL 60614","$675,000"
-"3
-beds",3,"2,212
-sq.ft.","2152 N Tripp Avenue Chicago, IL 60639","$670,000"
-"1
-beds",1,"900
-sq.ft.","850 W Cornelia Avenue 102 Chicago, IL 60657","$350,000"
-"3
-beds",2,"1,541
-sq.ft.","5135 S Kimbark Avenue Chicago, IL 60615","$680,000"
-"2
-beds",2,"1,450
-sq.ft.","1212 N Wells Street 1405 Chicago, IL 60610","$485,000"
-"3
-beds",1,"1,118
-sq.ft.","6955 W Berwyn Avenue Chicago, IL 60656","$459,000"
-"2
-beds",2,"1,075
-sq.ft.","1841 S Calumet Avenue 1909 Chicago, IL 60616","$375,000"
-"4
-beds",3,"3,516
-sq.ft.","4130 N Mango Avenue Chicago, IL 60634","$870,000"
-"2
-beds",2,"1,420
-sq.ft.","1448 W Chestnut Street 2 Chicago, IL 60642","$585,000"
-"3
-beds",2,"1,700
-sq.ft.","1332 W Madison Street 2E Chicago, IL 60607","$679,000"
-"2
-beds",2,"1,350
-sq.ft.","3708 W CORNELIA Avenue 2E Chicago, IL 60618","$450,000"
 "4
 beds",3,"3,000
 sq.ft.","3249 N Newcastle Avenue Chicago, IL 60634","$565,000"
@@ -641,6 +611,9 @@ sq.ft.","4304 N Nordica Avenue Norridge, IL 60706","$375,000"
 "3
 beds",2,"2,076
 sq.ft.","2740 W 35th Place Chicago, IL 60632","$370,000"
+"1
+beds",1,"900
+sq.ft.","850 W Cornelia Avenue 102 Chicago, IL 60657","$350,000"
 "2
 beds",2,"1,471
 sq.ft.","1349 W Chase Avenue 2E Chicago, IL 60626","$350,000"
@@ -788,6 +761,12 @@ sq.ft.","1058 W Armitage Avenue A Chicago, IL 60614","$699,000"
 "5
 beds",2,"2,600
 sq.ft.","1702 N Lawndale Avenue Chicago, IL 60647","$695,000"
+"3
+beds",2,"1,541
+sq.ft.","5135 S Kimbark Avenue Chicago, IL 60615","$680,000"
+"3
+beds",2,"1,700
+sq.ft.","1332 W Madison Street 2E Chicago, IL 60607","$679,000"
 "5
 beds",4,"3,330
 sq.ft.","4631 S Evans Avenue Chicago, IL 60653","$675,000"
@@ -1143,6 +1122,9 @@ sq.ft.","3529 S 54th Avenue Cicero, IL 60804","$489,000"
 beds",2,"1,250
 sq.ft.","1250 N DEARBORN Street 5B Chicago, IL 60610","$450,000"
 "2
+beds",2,"1,350
+sq.ft.","3708 W CORNELIA Avenue 2E Chicago, IL 60618","$450,000"
+"2
 beds",2,"1,300
 sq.ft.","405 N WABASH Avenue 4709 Chicago, IL 60611","$449,999"
 "2
@@ -1457,6 +1439,9 @@ sq.ft.","5832 N Overhill Avenue Chicago, IL 60631","$549,500"
 "3
 beds",2,"1,208
 sq.ft.","2307 N Avers Avenue 2 Chicago, IL 60647","$500,000"
+"2
+beds",2,"1,450
+sq.ft.","1212 N Wells Street 1405 Chicago, IL 60610","$485,000"
 "3
 beds",3,"1,650
 sq.ft.","4936 N Mulligan Avenue Chicago, IL 60630","$459,000"
@@ -1631,6 +1616,9 @@ sq.ft.","1000 W WASHINGTON Boulevard 127 Chicago, IL 60607","$475,000"
 "2
 beds",2,"1,250
 sq.ft.","175 E Delaware Place 4811 Chicago, IL 60611","$474,900"
+"3
+beds",1,"1,118
+sq.ft.","6955 W Berwyn Avenue Chicago, IL 60656","$459,000"
 "2
 beds",2,"1,250
 sq.ft.","758 N Larrabee Street 620 Chicago, IL 60654","$450,000"
@@ -1655,6 +1643,9 @@ sq.ft.","225 S Sangamon Street 802 Chicago, IL 60607","$380,000"
 "2
 beds",1,"1,000
 sq.ft.","7835 W Berwyn Avenue Chicago, IL 60656","$380,000"
+"2
+beds",2,"1,075
+sq.ft.","1841 S Calumet Avenue 1909 Chicago, IL 60616","$375,000"
 "1
 beds",1,"1,148
 sq.ft.","1530 S State Street 1127 Chicago, IL 60605","$349,000"
@@ -2471,6 +2462,9 @@ sq.ft.","3430 N Elaine Place CH Chicago, IL 60657","$899,000"
 "4
 beds",3,"2,400
 sq.ft.","1645 W Wolfram Street 2 Chicago, IL 60657","$875,000"
+"4
+beds",3,"3,516
+sq.ft.","4130 N Mango Avenue Chicago, IL 60634","$870,000"
 "3
 beds",3,"2,000
 sq.ft.","400 E Ohio Street 3203 Chicago, IL 60611","$769,900"
@@ -2504,6 +2498,9 @@ sq.ft.","3930 N SOUTHPORT Avenue 2S Chicago, IL 60613","$599,000"
 "3
 beds",2,"1,600
 sq.ft.","2424 W Chicago Avenue 203 Chicago, IL 60622","$595,000"
+"2
+beds",2,"1,420
+sq.ft.","1448 W Chestnut Street 2 Chicago, IL 60642","$585,000"
 "2
 beds",2,"1,358
 sq.ft.","195 N Harbor Drive 2908 Chicago, IL 60601","$565,000"
@@ -3023,3 +3020,6 @@ sq.ft.","2650 N LAKEVIEW Avenue 509 Chicago, IL 60614","$530,000"
 "2
 beds",2,"1,260
 sq.ft.","1122 N CLARK Street 3501 Chicago, IL 60610","$475,000"
+"5
+beds",4,"3,112
+sq.ft.","601 E 32nd Street 210-211 Chicago, IL 60616","$450,000"
