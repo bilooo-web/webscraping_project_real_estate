@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2.0,1500,"13005 S Blossom Drive Alsip, IL 60803",319999
 3,1.0,1454,"3356 N New England Avenue Chicago, IL 60634",435000
 3,2.0,1105,"4717 N Newcastle Avenue Harwood Heights, IL 60706",384900
 2,2.0,1500,"4406 W Augusta Boulevard Chicago, IL 60651",285000
@@ -428,7 +429,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1800,"11344 S Parnell Avenue Chicago, IL 60628",90000
 4,2.0,1858,"11940 S YALE Avenue Chicago, IL 60628",84900
 3,1.0,924,"6117 S Paulina Street Chicago, IL 60636",57000
-3,3.0,2600,"2170 N Stave Street , 1 Chicago, IL 60647",700000
+3,3.0,2600,"2170 N Stave St , 1 Chicago, IL 60647",700000
 3,2.0,2448,"4313 N Ashland Avenue Chicago, IL 60613",910000
 2,2.0,2100,"1560 N Sandburg Terrace 4301-03 Chicago, IL 60610",908500
 4,3.0,3200,"4218 N CALIFORNIA Avenue Chicago, IL 60618",900000
@@ -584,6 +585,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1.0,795,"10 E Ontario Street 2304 Chicago, IL 60611",257500
 3,2.0,1288,"7649 S Luella Avenue Chicago, IL 60649",150000
 4,2.0,2500,"6350 S Wood Street Chicago, IL 60636",68000
+4,2.0,900,"11719 S Throop St Chicago, IL 60643",190000
 3,2.0,2000,"111 E CHESTNUT Street 47BD Chicago, IL 60611",699999
 1,1.0,923,"401 N Wabash Avenue 52B Chicago, IL 60611",565000
 2,2.0,1569,"3755 N Wilton Avenue 3SE Chicago, IL 60613",525000
@@ -911,5 +913,3 @@ bedrooms,bathrooms,square_footage,address,price
 1,1.0,620,"2800 N Lake Shore Drive 613 Chicago, IL 60657",199000
 3,2.0,1062,"10434 S Green Street Chicago, IL 60643",189000
 4,2.0,1825,"2728 N Mont Clare Avenue Chicago, IL 60607",175000
-2,1.0,903,"8615 S Aberdeen Street Chicago, IL 60620",174900
-2,2.0,1516,"5300 S Shore Drive 59 Chicago, IL 60615",170000

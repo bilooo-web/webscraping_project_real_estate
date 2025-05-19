@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",2,"1,500
+sq.ft.","13005 S Blossom Drive Alsip, IL 60803","$319,999"
+"3
 beds",1,"1,454
 sq.ft.","3356 N New England Avenue Chicago, IL 60634","$435,000"
 "3
@@ -1414,7 +1417,7 @@ beds",1,"924
 sq.ft.","6117 S Paulina Street Chicago, IL 60636","$57,000"
 "3
 beds",3,"2,600
-sq.ft.","2170 N Stave Street , 1 Chicago, IL 60647","$700,000"
+sq.ft.","2170 N Stave St , 1 Chicago, IL 60647","$700,000"
 "4
 beds",4,"5,800
 sq.ft.","2046 N Mohawk Street Chicago, IL 60614","$3,250,000"
@@ -1958,6 +1961,9 @@ sq.ft.","7649 S Luella Avenue Chicago, IL 60649","$150,000"
 "4
 beds",2,"2,500
 sq.ft.","6350 S Wood Street Chicago, IL 60636","$68,000"
+"4
+beds",2,"900
+sq.ft.","11719 S Throop St Chicago, IL 60643","$190,000"
 "4
 beds",3,"4,063
 sq.ft.","450 W Superior Street Chicago, IL 60610","$1,799,000"
@@ -3017,9 +3023,3 @@ sq.ft.","10434 S Green Street Chicago, IL 60643","$189,000"
 "4
 beds",2,"1,825
 sq.ft.","2728 N Mont Clare Avenue Chicago, IL 60607","$175,000"
-"2
-beds",1,"903
-sq.ft.","8615 S Aberdeen Street Chicago, IL 60620","$174,900"
-"2
-beds",2,"1,516
-sq.ft.","5300 S Shore Drive 59 Chicago, IL 60615","$170,000"
