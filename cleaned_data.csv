@@ -2,7 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1500,"13005 S Blossom Drive Alsip, IL 60803",319999
 3,1.0,1454,"3356 N New England Avenue Chicago, IL 60634",435000
 3,2.0,1105,"4717 N Newcastle Avenue Harwood Heights, IL 60706",384900
-2,2.0,1500,"4406 W Augusta Boulevard Chicago, IL 60651",285000
 4,3.0,3300,"2500 N 78th Court Elmwood Park, IL 60707",470000
 3,2.0,1400,"4627 N Beacon Street 1B Chicago, IL 60640",499900
 3,2.0,1500,"4706 S Saint Lawrence Avenue 2W Chicago, IL 60615",430000
@@ -24,6 +23,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1.0,700,"3021 S Michigan Avenue 302 Chicago, IL 60616",139000
 4,2.0,1800,"9321 S Green Street Chicago, IL 60620",100000
 2,1.0,1000,"13711 S Stewart Avenue 2W Riverdale, IL 60827",55000
+2,2.0,1500,"4406 W Augusta Boulevard Chicago, IL 60651",285000
 3,3.0,2800,"60 W 15th Street Chicago, IL 60605",1095000
 2,2.0,1758,"130 N Garland Court 3803 Chicago, IL 60602",999000
 2,2.0,1408,"211 N Harbor Drive 3003 Chicago, IL 60601",960000
