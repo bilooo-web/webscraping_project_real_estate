@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"2,100
+sq.ft.","2044 W Roscoe Street , 2S Chicago, IL 60618","$799,000"
 "2
 beds",2,"1,210
 sq.ft.","1629 S Prairie Avenue , 1503 Chicago, IL 60616","$499,000"
@@ -3020,6 +3023,3 @@ sq.ft.","7022 W 64th Street Chicago, IL 60638","$480,000"
 "4
 beds",3,"2,650
 sq.ft.","5415 S Oak Park Avenue Chicago, IL 60638","$444,900"
-"1
-beds",1,"905
-sq.ft.","860 W Blackhawk Street 2401 Chicago, IL 60642","$435,000"
