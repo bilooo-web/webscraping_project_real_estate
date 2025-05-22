@@ -2,12 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
 beds",2,"2,100
 sq.ft.","2044 W Roscoe Street , 2S Chicago, IL 60618","$799,000"
-"2
-beds",2,"1,300
-sq.ft.","4309 N RICHMOND Street 3S Chicago, IL 60618","$400,000"
-"1
-beds",1,"800
-sq.ft.","6700 S South Shore Drive 2J Chicago, IL 60649","$120,000"
 "5
 beds",3,"2,000
 sq.ft.","15 E 118th Street Chicago, IL 60628","$258,000"
@@ -56,6 +50,9 @@ sq.ft.","10509 S Edbrooke Avenue Chicago, IL 60628","$279,000"
 "3
 beds",3,"2,200
 sq.ft.","2729 N Sheffield Avenue 1S Chicago, IL 60614","$850,000"
+"1
+beds",1,"800
+sq.ft.","6700 S South Shore Drive 2J Chicago, IL 60649","$120,000"
 "2
 beds",3,"3,794
 sq.ft.","1123 W 19th Street Chicago, IL 60608","$809,999"
@@ -275,6 +272,9 @@ sq.ft.","4444 S Berkeley Avenue Chicago, IL 60653","$467,000"
 "2
 beds",2,"1,226
 sq.ft.","1600 S Prairie Avenue 1204 Chicago, IL 60616","$425,000"
+"2
+beds",2,"1,300
+sq.ft.","4309 N RICHMOND Street 3S Chicago, IL 60618","$400,000"
 "4
 beds",1,"1,400
 sq.ft.","7771 W Elmgrove Drive Elmwood Park, IL 60707","$389,990"

@@ -1,7 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2.0,2100,"2044 W Roscoe Street , 2S Chicago, IL 60618",799000
-2,2.0,1300,"4309 N RICHMOND Street 3S Chicago, IL 60618",400000
-1,1.0,800,"6700 S South Shore Drive 2J Chicago, IL 60649",120000
 5,3.0,2000,"15 E 118th Street Chicago, IL 60628",258000
 2,2.0,1300,"817 W Washington Boulevard 503 Chicago, IL 60607",675000
 2,1.0,1050,"3826 N Troy Street N 2N Chicago, IL 60618",309000
@@ -17,6 +15,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,3.0,3888,"2123 N Austin Avenue Chicago, IL 60639",775000
 3,2.0,2307,"10509 S Edbrooke Avenue Chicago, IL 60628",279000
 3,3.0,2200,"2729 N Sheffield Avenue 1S Chicago, IL 60614",850000
+1,1.0,800,"6700 S South Shore Drive 2J Chicago, IL 60649",120000
 2,3.0,3794,"1123 W 19th Street Chicago, IL 60608",809999
 2,2.0,1201,"2317 W Wolfram Street 211 Chicago, IL 60618",414999
 2,2.0,1400,"5140 N Albany Avenue 1 Chicago, IL 60625",349900
@@ -83,6 +82,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1.0,1000,"7087 N McAlpin Avenue Chicago, IL 60646",499000
 4,3.0,2800,"4444 S Berkeley Avenue Chicago, IL 60653",467000
 2,2.0,1226,"1600 S Prairie Avenue 1204 Chicago, IL 60616",425000
+2,2.0,1300,"4309 N RICHMOND Street 3S Chicago, IL 60618",400000
 4,1.0,1400,"7771 W Elmgrove Drive Elmwood Park, IL 60707",389990
 1,1.0,750,"2020 N Lincoln Park West Avenue 36K Chicago, IL 60614",389000
 2,2.0,1300,"1307 S Wabash Avenue 402 Chicago, IL 60605",389000
