@@ -3,12 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",2,"2,100
 sq.ft.","2044 W Roscoe Street , 2S Chicago, IL 60618","$799,000"
 "2
-beds",2,"1,210
-sq.ft.","1629 S Prairie Avenue , 1503 Chicago, IL 60616","$499,000"
-"3
-beds",2,"1,500
-sq.ft.","13005 S Blossom Drive Alsip, IL 60803","$319,999"
-"2
 beds",2,"1,300
 sq.ft.","4309 N RICHMOND Street 3S Chicago, IL 60618","$400,000"
 "1
@@ -347,6 +341,12 @@ sq.ft.","12010 S Michigan Avenue Chicago, IL 60628","$140,000"
 "3
 beds",1,"1,000
 sq.ft.","117 W 103rd Place Chicago, IL 60628","$95,000"
+"2
+beds",2,"1,210
+sq.ft.","1629 S Prairie Avenue , 1503 Chicago, IL 60616","$499,000"
+"3
+beds",2,"1,500
+sq.ft.","13005 S Blossom Drive Alsip, IL 60803","$319,999"
 "3
 beds",3,"2,200
 sq.ft.","1617 N LARRABEE Street Chicago, IL 60614","$850,000"
