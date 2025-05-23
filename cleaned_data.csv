@@ -1,5 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2.0,2100,"2044 W Roscoe Street , 2S Chicago, IL 60618",799000
+2,2.0,1210,"1629 S Prairie Avenue , 1503 Chicago, IL 60616",499000
+2,1.0,1100,"6021 N Damen Avenue , 202 Chicago, IL 60659",239000
 1,1.0,720,"6030 N Sheridan Road 1710 Chicago, IL 60660",175000
 1,1.0,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",669000
 3,2.0,2000,"3056 N Paulina Street Chicago, IL 60657",900000
@@ -101,6 +103,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3.0,2500,"4129 N Oketo Avenue Norridge, IL 60706",729000
 2,1.0,1072,"1737 W 105Th Street Chicago, IL 60643",299000
 1,1.0,864,"330 N Jefferson Street 1002 Chicago, IL 60661",349000
+3,2.0,4375,"8155 S Essex Avenue Chicago, IL 60617",389900
 1,1.0,1200,"6301 N Sheridan Road 20K Chicago, IL 60660",179900
 3,3.0,3693,"5843 N Oconto Avenue Chicago, IL 60631",879000
 4,4.0,4276,"7144 N Overhill Avenue Chicago, IL 60631",875000
@@ -124,7 +127,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1500,"1467 W 73rd Street Chicago, IL 60636",251900
 3,1.0,1152,"7825 S Pulaski Road Chicago, IL 60652",250000
 3,2.0,1750,"4716 S Laflin Street Chicago, IL 60609",239900
-2,1.0,1100,"6021 N DAMEN Avenue 202 Chicago, IL 60659",239000
 2,2.0,1100,"6324 S Kimbark Avenue 404 Chicago, IL 60637",234900
 3,1.0,2638,"8940 S Emerald Avenue Chicago, IL 60620",220000
 2,1.0,1000,"3519 N CENTRAL Avenue 3B Chicago, IL 60634",189900
@@ -252,7 +254,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,1.0,960,"75 E 37th Place Chicago, IL 60653",150000
 3,1.0,1400,"12010 S Michigan Avenue Chicago, IL 60628",140000
 3,1.0,1000,"117 W 103rd Place Chicago, IL 60628",95000
-2,2.0,1210,"1629 S Prairie Avenue , 1503 Chicago, IL 60616",499000
 3,2.0,1500,"13005 S Blossom Drive Alsip, IL 60803",319999
 3,3.0,2200,"1617 N LARRABEE Street Chicago, IL 60614",850000
 3,2.0,1480,"1925 W 34th Street A Chicago, IL 60608",475000
@@ -913,5 +914,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,1.0,990,"147 E 118th Place Chicago, IL 60628",43000
 3,2.0,2500,"1113 W Chestnut Street 2W Chicago, IL 60642",1139000
 5,2.0,2800,"4820 N Hamilton Avenue Chicago, IL 60625",1050000
-3,3.0,3000,"3430 N Elaine Place CH Chicago, IL 60657",899000
-4,3.0,2400,"1645 W Wolfram Street 2 Chicago, IL 60657",875000

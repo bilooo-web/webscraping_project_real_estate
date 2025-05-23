@@ -2,6 +2,12 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
 beds",2,"2,100
 sq.ft.","2044 W Roscoe Street , 2S Chicago, IL 60618","$799,000"
+"2
+beds",2,"1,210
+sq.ft.","1629 S Prairie Avenue , 1503 Chicago, IL 60616","$499,000"
+"2
+beds",1,"1,100
+sq.ft.","6021 N Damen Avenue , 202 Chicago, IL 60659","$239,000"
 "1
 beds",1,"720
 sq.ft.","6030 N Sheridan Road 1710 Chicago, IL 60660","$175,000"
@@ -332,6 +338,9 @@ sq.ft.","1737 W 105Th Street Chicago, IL 60643","$299,000"
 "1
 beds",1,"864
 sq.ft.","330 N Jefferson Street 1002 Chicago, IL 60661","$349,000"
+"3
+beds",2,"4,375
+sq.ft.","8155 S Essex Avenue Chicago, IL 60617","$389,900"
 "1
 beds",1,"1,200
 sq.ft.","6301 N Sheridan Road 20K Chicago, IL 60660","$179,900"
@@ -410,9 +419,6 @@ sq.ft.","7825 S Pulaski Road Chicago, IL 60652","$250,000"
 "3
 beds",2,"1,750
 sq.ft.","4716 S Laflin Street Chicago, IL 60609","$239,900"
-"2
-beds",1,"1,100
-sq.ft.","6021 N DAMEN Avenue 202 Chicago, IL 60659","$239,000"
 "2
 beds",2,"1,100
 sq.ft.","6324 S Kimbark Avenue 404 Chicago, IL 60637","$234,900"
@@ -3017,9 +3023,3 @@ sq.ft.","1113 W Chestnut Street 2W Chicago, IL 60642","$1,139,000"
 "5
 beds",2,"2,800
 sq.ft.","4820 N Hamilton Avenue Chicago, IL 60625","$1,050,000"
-"3
-beds",3,"3,000
-sq.ft.","3430 N Elaine Place CH Chicago, IL 60657","$899,000"
-"4
-beds",3,"2,400
-sq.ft.","1645 W Wolfram Street 2 Chicago, IL 60657","$875,000"
