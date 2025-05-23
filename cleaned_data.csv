@@ -87,6 +87,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3.0,1374,"1718 N Clybourn Avenue 1 Chicago, IL 60614",700000
 3,3.0,2100,"2447 W Walton Street 1 Chicago, IL 60622",599000
 2,1.0,1333,"7350 N RIDGE Boulevard 21B Chicago, IL 60645",195500
+3,2.0,1750,"4520 S King Drive , 4B Chicago, IL 60653",389900
 3,2.0,1600,"310 S MICHIGAN Avenue 702 Chicago, IL 60604",645000
 3,2.0,1700,"1332 W Madison Street 2E Chicago, IL 60607",679000
 3,2.0,1900,"360 E Randolph Street 3201 Chicago, IL 60601",1099000
@@ -786,7 +787,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,2.0,1400,"250 W 107TH Place Chicago, IL 60628",89900
 3,1.0,1110,"7626 S Yates Boulevard Chicago, IL 60649",89000
 3,1.0,1448,"7207 1/2 S Saint Lawrence Avenue Chicago, IL 60619",79900
-3,2.0,1750,"4520 S King Drive , 4B Chicago, IL 60653",389900
 1,1.0,550,"4250 N Marine Drive , 1723 Chicago, IL 60613",157000
 5,2.0,4500,"4540 S Prairie Avenue Chicago, IL 60653",725000
 4,3.0,1300,"2126 N Kostner Avenue Chicago, IL 60639",450000
