@@ -1,10 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"4
-beds",3,"4,583
-sq.ft.","6205 W Grace Street Chicago, IL 60634","$749,900"
-"2
-beds",2,"1,250
-sq.ft.","660 W Wayman Street , 701 Chicago, IL 60661","$530,000"
 "2
 beds",2,"1,210
 sq.ft.","1629 S Prairie Avenue , 1503 Chicago, IL 60616","$499,000"
@@ -14,9 +8,6 @@ sq.ft.","6021 N Damen Avenue , 202 Chicago, IL 60659","$239,000"
 "1
 beds",1,"720
 sq.ft.","6030 N Sheridan Road 1710 Chicago, IL 60660","$175,000"
-"3
-beds",2,"2,790
-sq.ft.","7317 W Greenleaf Street Chicago, IL 60631","$700,000"
 "4
 beds",2,"1,377
 sq.ft.","337 W 106th Place Chicago, IL 60628","$269,900"
@@ -248,6 +239,9 @@ sq.ft.","1250 W Van Buren Street 202 Chicago, IL 60607","$275,000"
 "3
 beds",3,"3,382
 sq.ft.","2049 W Race Avenue Chicago, IL 60612","$1,599,000"
+"3
+beds",2,"2,790
+sq.ft.","7317 W Greenleaf Street Chicago, IL 60631","$700,000"
 "3
 beds",2,"1,300
 sq.ft.","1625 N 73rd Court Elmwood Park, IL 60707","$389,900"
@@ -3023,3 +3017,9 @@ sq.ft.","1250 S Michigan Avenue 2802 Chicago, IL 60605","$1,200,000"
 "4
 beds",4,"3,100
 sq.ft.","1734 S Indiana Avenue Chicago, IL 60616","$1,200,000"
+"3
+beds",2,"2,500
+sq.ft.","1113 W Chestnut Street 2W Chicago, IL 60642","$1,139,000"
+"5
+beds",2,"2,800
+sq.ft.","4820 N Hamilton Avenue Chicago, IL 60625","$1,050,000"
