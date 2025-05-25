@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 4,3.0,4583,"6205 W Grace Street Chicago, IL 60634",749900
 2,2.0,1250,"660 W Wayman Street , 701 Chicago, IL 60661",530000
-2,1.0,1333,"7350 N RIDGE Boulevard 21B Chicago, IL 60645",195500
 3,2.0,2200,"1013 W WEBSTER Avenue 5 Chicago, IL 60614",900000
 4,2.0,1377,"337 W 106th Place Chicago, IL 60628",269900
 3,2.0,1750,"4520 S King Drive , 4B Chicago, IL 60653",389900
@@ -34,6 +33,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3.0,2500,"4129 N Oketo Avenue Norridge, IL 60706",729000
 2,1.0,1072,"1737 W 105Th Street Chicago, IL 60643",299000
 3,3.0,2100,"2447 W Walton Street 1 Chicago, IL 60622",599000
+2,1.0,1333,"7350 N RIDGE Boulevard 21B Chicago, IL 60645",195500
 3,2.0,1500,"4706 S Saint Lawrence Avenue 2W Chicago, IL 60615",430000
 3,3.0,3600,"5141 W Dakin Street Chicago, IL 60641",824999
 1,1.0,864,"330 N Jefferson Street 1002 Chicago, IL 60661",349000
