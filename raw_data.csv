@@ -12,20 +12,8 @@ sq.ft.","1013 W WEBSTER Avenue 5 Chicago, IL 60614","$900,000"
 beds",2,"1,377
 sq.ft.","337 W 106th Place Chicago, IL 60628","$269,900"
 "3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$389,900"
-"3
 beds",3,"3,000
 sq.ft.","4183 W Nelson Street Chicago, IL 60641","$1,199,000"
-"3
-beds",3,"2,212
-sq.ft.","2152 N Tripp Avenue Chicago, IL 60639","$650,000"
-"3
-beds",2,"1,600
-sq.ft.","310 S MICHIGAN Avenue 702 Chicago, IL 60604","$645,000"
-"3
-beds",2,"1,700
-sq.ft.","1332 W Madison Street 2E Chicago, IL 60607","$679,000"
 "3
 beds",2,"1,900
 sq.ft.","360 E Randolph Street 3201 Chicago, IL 60601","$1,099,000"
@@ -47,9 +35,6 @@ sq.ft.","4914 S Washington Park Court Chicago, IL 60615","$625,000"
 "2
 beds",2,"1,254
 sq.ft.","2639 W BELMONT Avenue 4 Chicago, IL 60618","$424,900"
-"1
-beds",1,"850
-sq.ft.","345 N La Salle Drive 2702 Chicago, IL 60654","$323,000"
 "4
 beds",4,"3,659
 sq.ft.","1340 W Chestnut Street 303 Chicago, IL 60642","$2,000,000"
@@ -758,6 +743,9 @@ sq.ft.","817 W Washington Boulevard 503 Chicago, IL 60607","$675,000"
 "2
 beds",2,"1,500
 sq.ft.","2501 N Sheffield Avenue 2S Chicago, IL 60614","$650,000"
+"3
+beds",3,"2,212
+sq.ft.","2152 N Tripp Avenue Chicago, IL 60639","$650,000"
 "2
 beds",2,"1,600
 sq.ft.","1537 N Clybourn Avenue D Chicago, IL 60610","$625,000"
@@ -971,6 +959,9 @@ sq.ft.","33 W ONTARIO Street 51B Chicago, IL 60654","$785,000"
 "5
 beds",3,"2,600
 sq.ft.","5863 N Kenmore Avenue 2 Chicago, IL 60660","$700,000"
+"3
+beds",2,"1,600
+sq.ft.","310 S MICHIGAN Avenue 702 Chicago, IL 60604","$645,000"
 "2
 beds",2,"1,567
 sq.ft.","360 E Randolph Street 905 Chicago, IL 60601","$600,000"
@@ -1385,6 +1376,9 @@ sq.ft.","3842 N Alta Vista Terrace Chicago, IL 60613","$700,000"
 "3
 beds",2,"1,541
 sq.ft.","5135 S Kimbark Avenue Chicago, IL 60615","$680,000"
+"3
+beds",2,"1,700
+sq.ft.","1332 W Madison Street 2E Chicago, IL 60607","$679,000"
 "5
 beds",4,"3,330
 sq.ft.","4631 S Evans Avenue Chicago, IL 60653","$675,000"
@@ -2687,6 +2681,9 @@ sq.ft.","7626 S Yates Boulevard Chicago, IL 60649","$89,000"
 "3
 beds",1,"1,448
 sq.ft.","7207 1/2 S Saint Lawrence Avenue Chicago, IL 60619","$79,900"
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$389,900"
 "1
 beds",1,"550
 sq.ft.","4250 N Marine Drive , 1723 Chicago, IL 60613","$157,000"
@@ -3023,3 +3020,6 @@ sq.ft.","5407 S Justine Street Chicago, IL 60609","$279,900"
 "1
 beds",1,"858
 sq.ft.","6 S Laflin Street 615S Chicago, IL 60607","$275,000"
+"3
+beds",1,"1,200
+sq.ft.","13101 S Buffalo Avenue Chicago, IL 60633","$260,000"
