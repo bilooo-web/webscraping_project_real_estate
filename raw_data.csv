@@ -1,8 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
-beds",1,"942
-sq.ft.","Chicago, IL 60652","$211,000"
-"2
 beds",2,"1,318
 sq.ft.","100 N Hermitage Avenue 409 Chicago, IL 60612","$325,000"
 "2
@@ -59,6 +56,9 @@ sq.ft.","4728 S Evans Avenue Chicago, IL 60615","$249,900"
 "2
 beds",2,"1,100
 sq.ft.","6301 N Sheridan Road 14E Chicago, IL 60660","$235,000"
+"2
+beds",1,"942
+sq.ft.","Chicago, IL 60652","$211,000"
 "2
 beds",1,"968
 sq.ft.","4336 S Christiana Avenue Chicago, IL 60632","$200,000"

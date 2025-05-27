@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-2,1.0,942,"Chicago, IL 60652",211000
 2,2.0,1318,"100 N Hermitage Avenue 409 Chicago, IL 60612",325000
 2,1.0,700,"2940 W 38th Street Chicago, IL 60632",219000
 1,1.0,784,"6700 S South Shore Drive 2G Chicago, IL 60649",125000
@@ -19,6 +18,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1195,"2946 W 102nd Street Evergreen Park, IL 60805",444000
 4,1.0,1818,"4728 S Evans Avenue Chicago, IL 60615",249900
 2,2.0,1100,"6301 N Sheridan Road 14E Chicago, IL 60660",235000
+2,1.0,942,"Chicago, IL 60652",211000
 2,1.0,968,"4336 S Christiana Avenue Chicago, IL 60632",200000
 2,1.0,950,"6254 N RICHMOND Street 1 Chicago, IL 60659",175000
 1,1.0,800,"6301 N Sheridan Road 22N Chicago, IL 60660",127000
