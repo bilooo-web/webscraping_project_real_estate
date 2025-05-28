@@ -1,4 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
+2,1.0,1200,"757 N Orleans Street , 1104 Chicago, IL 60654",480000
+1,1.0,965,"777 N Michigan Avenue , 3308 Chicago, IL 60611",240000
 2,2.0,1318,"100 N Hermitage Avenue 409 Chicago, IL 60612",325000
 2,1.0,700,"2940 W 38th Street Chicago, IL 60632",219000
 2,2.0,1300,"817 W Washington Boulevard 503 Chicago, IL 60607",675000
@@ -18,6 +20,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1902,"4316 N Sayre Avenue Norridge, IL 60706",465000
 1,1.0,864,"330 N Jefferson Street 1002 Chicago, IL 60661",349000
 2,2.0,1327,"1550 N Lake Shore Drive 2A Chicago, IL 60610",535000
+3,2.0,1750,"4520 S King Drive , 4B Chicago, IL 60653",389900
 3,2.0,2925,"2206 W 107th Place Chicago, IL 60643",799999
 3,3.0,2200,"2729 N Sheffield Avenue 1S Chicago, IL 60614",835000
 2,2.0,1244,"1400 W Monroe Street 4A Chicago, IL 60607",780000
@@ -67,7 +70,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1350,"622 N Rockwell Street 404 Chicago, IL 60612",499900
 4,3.0,2750,"4250 N Marine Drive 1622 Chicago, IL 60613",495000
 2,2.0,1295,"2 E Erie Street 2505 Chicago, IL 60611",485000
-2,1.0,1200,"757 N Orleans Street 1104 Chicago, IL 60654",480000
 2,2.0,1300,"324 N Jefferson Street 107 Chicago, IL 60661",479900
 4,3.0,2075,"3529 S 54th Avenue Cicero, IL 60804",474500
 3,1.0,1325,"6124 W Berteau Avenue Chicago, IL 60634",440000
@@ -85,7 +87,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1.0,764,"1910 S State Street 305 Chicago, IL 60616",275000
 3,2.0,1600,"2058 W 70th Place Chicago, IL 60636",269900
 3,2.0,1383,"8758 W Berwyn Avenue 2N Chicago, IL 60656",249900
-1,1.0,965,"777 N Michigan Avenue 3308 Chicago, IL 60611",240000
 4,2.0,1800,"8834 S East End Avenue Chicago, IL 60617",220000
 3,1.0,1740,"8837 S Morgan Street Chicago, IL 60620",214999
 1,1.0,750,"3441 W Grace Street G Chicago, IL 60618",199000
@@ -861,7 +862,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,2.0,1400,"250 W 107TH Place Chicago, IL 60628",89900
 3,1.0,1110,"7626 S Yates Boulevard Chicago, IL 60649",89000
 3,1.0,1448,"7207 1/2 S Saint Lawrence Avenue Chicago, IL 60619",79900
-3,2.0,1750,"4520 S King Drive , 4B Chicago, IL 60653",389900
 1,1.0,550,"4250 N Marine Drive , 1723 Chicago, IL 60613",157000
 5,2.0,4500,"4540 S Prairie Avenue Chicago, IL 60653",725000
 3,2.0,2187,"1844 N 75th Court Elmwood Park, IL 60707",499900

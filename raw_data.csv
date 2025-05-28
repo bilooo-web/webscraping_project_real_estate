@@ -1,5 +1,11 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
+beds",1,"1,200
+sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$480,000"
+"1
+beds",1,"965
+sq.ft.","777 N Michigan Avenue , 3308 Chicago, IL 60611","$240,000"
+"2
 beds",2,"1,318
 sq.ft.","100 N Hermitage Avenue 409 Chicago, IL 60612","$325,000"
 "2
@@ -59,6 +65,9 @@ sq.ft.","330 N Jefferson Street 1002 Chicago, IL 60661","$349,000"
 "2
 beds",2,"1,327
 sq.ft.","1550 N Lake Shore Drive 2A Chicago, IL 60610","$535,000"
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$389,900"
 "3
 beds",2,"2,925
 sq.ft.","2206 W 107th Place Chicago, IL 60643","$799,999"
@@ -255,9 +264,6 @@ sq.ft.","4250 N Marine Drive 1622 Chicago, IL 60613","$495,000"
 beds",2,"1,295
 sq.ft.","2 E Erie Street 2505 Chicago, IL 60611","$485,000"
 "2
-beds",1,"1,200
-sq.ft.","757 N Orleans Street 1104 Chicago, IL 60654","$480,000"
-"2
 beds",2,"1,300
 sq.ft.","324 N Jefferson Street 107 Chicago, IL 60661","$479,900"
 "4
@@ -308,9 +314,6 @@ sq.ft.","2058 W 70th Place Chicago, IL 60636","$269,900"
 "3
 beds",2,"1,383
 sq.ft.","8758 W Berwyn Avenue 2N Chicago, IL 60656","$249,900"
-"1
-beds",1,"965
-sq.ft.","777 N Michigan Avenue 3308 Chicago, IL 60611","$240,000"
 "4
 beds",2,"1,800
 sq.ft.","8834 S East End Avenue Chicago, IL 60617","$220,000"
@@ -2873,9 +2876,6 @@ sq.ft.","7626 S Yates Boulevard Chicago, IL 60649","$89,000"
 "3
 beds",1,"1,448
 sq.ft.","7207 1/2 S Saint Lawrence Avenue Chicago, IL 60619","$79,900"
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$389,900"
 "1
 beds",1,"550
 sq.ft.","4250 N Marine Drive , 1723 Chicago, IL 60613","$157,000"
