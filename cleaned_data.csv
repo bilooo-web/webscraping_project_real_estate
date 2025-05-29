@@ -17,6 +17,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,1.0,3196,"41 N Lotus Avenue Chicago, IL 60644",375000
 2,2.0,1300,"123 S Green Street 1101B Chicago, IL 60607",599000
 1,1.0,883,"1000 W Adams Street 523 Chicago, IL 60607",345000
+2,2.0,1210,"1629 S Prairie Avenue , 1503 Chicago, IL 60616",499000
 3,2.0,1902,"4316 N Sayre Avenue Norridge, IL 60706",465000
 1,1.0,864,"330 N Jefferson Street 1002 Chicago, IL 60661",349000
 2,2.0,1327,"1550 N Lake Shore Drive 2A Chicago, IL 60610",535000
@@ -25,6 +26,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3.0,2200,"2729 N Sheffield Avenue 1S Chicago, IL 60614",835000
 2,2.0,1244,"1400 W Monroe Street 4A Chicago, IL 60607",780000
 3,2.0,4375,"8155 S Essex Avenue Chicago, IL 60617",389900
+7,3.0,3389,"5706 N New Hampshire Avenue Chicago, IL 60631",925000
 4,3.0,1269,"6211 W School Street Chicago, IL 60634",520000
 3,3.0,2499,"8610 S Aberdeen Street Chicago, IL 60620",334900
 4,3.0,1600,"7605 S Champlain Avenue Chicago, IL 60619",359900
@@ -183,7 +185,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1.0,780,"7703 S Loomis Boulevard Chicago, IL 60620",89900
 4,2.0,1248,"11842 S STATE Street Chicago, IL 60628",75000
 2,1.0,931,"2523 E 97th Place Chicago, IL 60617",48000
-2,2.0,1210,"1629 S Prairie Avenue , 1503 Chicago, IL 60616",499000
 2,1.0,1100,"6021 N Damen Avenue , 202 Chicago, IL 60659",239000
 1,1.0,720,"6030 N Sheridan Road 1710 Chicago, IL 60660",175000
 3,4.0,3954,"5484 S Hyde Park Boulevard Chicago, IL 60615",1100000
@@ -326,7 +327,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1.0,960,"75 E 37th Place Chicago, IL 60653",150000
 3,1.0,1400,"12010 S Michigan Avenue Chicago, IL 60628",140000
 3,1.0,1000,"117 W 103rd Place Chicago, IL 60628",95000
-3,2.0,1500,"13005 S Blossom Drive Alsip, IL 60803",319999
+3,2.0,1500,"13005 S Blossom Drive Alsip, IL 60803",318999
 3,3.0,2200,"1617 N LARRABEE Street Chicago, IL 60614",850000
 3,2.0,1480,"1925 W 34th Street A Chicago, IL 60608",475000
 4,3.0,3300,"2500 N 78th Court Elmwood Park, IL 60707",470000
@@ -907,5 +908,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,2.0,1076,"Elmwood Park, IL 60707",249900
 1,1.0,683,"440 N Wabash Avenue 2307 Chicago, IL 60611",220000
 2,1.0,1053,"10313 S Church Street Chicago, IL 60643",199900
-1,1.0,750,"5620 W Goodman Street 11 Chicago, IL 60630",175000
-3,1.0,1133,"12448 S Honore Street Calumet Park, IL 60827",159900

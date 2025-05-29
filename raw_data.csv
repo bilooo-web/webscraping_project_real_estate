@@ -56,6 +56,9 @@ sq.ft.","123 S Green Street 1101B Chicago, IL 60607","$599,000"
 "1
 beds",1,"883
 sq.ft.","1000 W Adams Street 523 Chicago, IL 60607","$345,000"
+"2
+beds",2,"1,210
+sq.ft.","1629 S Prairie Avenue , 1503 Chicago, IL 60616","$499,000"
 "3
 beds",2,"1,902
 sq.ft.","4316 N Sayre Avenue Norridge, IL 60706","$465,000"
@@ -83,6 +86,9 @@ sq.ft.","8155 S Essex Avenue Chicago, IL 60617","$389,900"
 "6
 beds",4,"4,900
 sq.ft.","2426 W Warner Avenue Chicago, IL 60618","$1,899,000"
+"7
+beds",3,"3,389
+sq.ft.","5706 N New Hampshire Avenue Chicago, IL 60631","$925,000"
 "4
 beds",3,"1,269
 sq.ft.","6211 W School Street Chicago, IL 60634","$520,000"
@@ -621,9 +627,6 @@ sq.ft.","11842 S STATE Street Chicago, IL 60628","$75,000"
 beds",1,"931
 sq.ft.","2523 E 97th Place Chicago, IL 60617","$48,000"
 "2
-beds",2,"1,210
-sq.ft.","1629 S Prairie Avenue , 1503 Chicago, IL 60616","$499,000"
-"2
 beds",1,"1,100
 sq.ft.","6021 N Damen Avenue , 202 Chicago, IL 60659","$239,000"
 "1
@@ -1087,7 +1090,7 @@ beds",2,"1,210
 sq.ft.","1629 S Prairie Avenue , 1503 Chicago, IL 60616","$499,000"
 "3
 beds",2,"1,500
-sq.ft.","13005 S Blossom Drive Alsip, IL 60803","$319,999"
+sq.ft.","13005 S Blossom Drive Alsip, IL 60803","$318,999"
 "3
 beds",3,"2,200
 sq.ft.","1617 N LARRABEE Street Chicago, IL 60614","$850,000"
@@ -1109,6 +1112,9 @@ sq.ft.","1640 W Sherwin Avenue 4D Chicago, IL 60626","$239,900"
 "1
 beds",1,"650
 sq.ft.","4106 N Keystone Avenue 1W Chicago, IL 60641","$230,000"
+"3
+beds",1,"1,454
+sq.ft.","3356 N New England Avenue Chicago, IL 60634","$435,000"
 "3
 beds",1,"1,454
 sq.ft.","3356 N New England Avenue Chicago, IL 60634","$435,000"
@@ -3017,9 +3023,3 @@ sq.ft.","440 N Wabash Avenue 2307 Chicago, IL 60611","$220,000"
 "2
 beds",1,"1,053
 sq.ft.","10313 S Church Street Chicago, IL 60643","$199,900"
-"1
-beds",1,"750
-sq.ft.","5620 W Goodman Street 11 Chicago, IL 60630","$175,000"
-"3
-beds",1,"1,133
-sq.ft.","12448 S Honore Street Calumet Park, IL 60827","$159,900"
