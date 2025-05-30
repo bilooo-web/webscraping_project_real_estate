@@ -1,9 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 4,3.0,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1100000
-2,2.0,962,"5401 N Milwaukee Avenue 1A Chicago, IL 60630",255000
-2,1.0,1297,"6250 N Magnolia Avenue 3 Chicago, IL 60660",339900
-2,2.0,1300,"817 W Washington Boulevard 503 Chicago, IL 60607",675000
-3,3.0,2100,"2447 W Walton Street 1 Chicago, IL 60622",599000
 3,2.0,1208,"2307 N Avers Avenue 2 Chicago, IL 60647",485000
 3,1.0,2400,"6034 W 60th Street Chicago, IL 60638",479000
 2,2.0,1250,"210 S Desplaines Street 1102 Chicago, IL 60661",500000
@@ -37,6 +33,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1450,"2259 W Wabansia Avenue 309 Chicago, IL 60647",725000
 3,2.0,1902,"4316 N Sayre Avenue Norridge, IL 60706",465000
 1,1.0,864,"330 N Jefferson Street 1002 Chicago, IL 60661",349000
+2,2.0,1300,"817 W Washington Boulevard 503 Chicago, IL 60607",675000
 2,2.0,1327,"1550 N Lake Shore Drive 2A Chicago, IL 60610",535000
 3,2.0,1750,"4520 S King Drive , 4B Chicago, IL 60653",389900
 3,2.0,2925,"2206 W 107th Place Chicago, IL 60643",799999
@@ -77,6 +74,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1.0,1025,"40 E 9th Street 1417 Chicago, IL 60605",245000
 1,1.0,995,"10 E Ontario Street 3609 Chicago, IL 60611",290000
 3,3.0,1944,"3301 S Damen Avenue Chicago, IL 60608",499000
+3,3.0,2100,"2447 W Walton Street 1 Chicago, IL 60622",599000
 3,1.0,1296,"7843 S Yates Boulevard Chicago, IL 60649",140000
 2,2.0,1999,"60 E Monroe Street 6203 Chicago, IL 60603",1199000
 3,1.0,1000,"3041 S Michigan Avenue 506 Chicago, IL 60616",179900
@@ -87,6 +85,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1400,"1524 S Sangamon Street 507 Chicago, IL 60608",329900
 3,3.0,3028,"5912 W Grace Street Chicago, IL 60634",624999
 2,2.0,1300,"405 N WABASH Avenue 4709 Chicago, IL 60611",449999
+2,1.0,1297,"6250 N Magnolia Avenue 3 Chicago, IL 60660",339900
 4,1.0,1496,"6409 S Champlain Avenue Chicago, IL 60637",289000
 3,1.0,3720,"11814 S Parnell Avenue Chicago, IL 60628",250000
 4,2.0,2483,"5205 W Olive Avenue Chicago, IL 60646",649000
@@ -269,6 +268,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,2.0,3034,"9620 S Sangamon Street Chicago, IL 60643",270000
 4,2.0,2681,"11521 S Aberdeen Street Chicago, IL 60643",267000
 3,1.0,1130,"11709 S Kedzie Avenue Merrionette Park, IL 60803",259000
+2,2.0,962,"5401 N Milwaukee Avenue 1A Chicago, IL 60630",255000
 2,3.0,1400,"1450 W 62nd Street Chicago, IL 60636",255000
 2,1.0,900,"3843 N Narragansett Avenue 201 Chicago, IL 60634",254000
 3,2.0,1500,"1467 W 73rd Street Chicago, IL 60636",251900

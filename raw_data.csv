@@ -2,18 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "4
 beds",3,"2,850
 sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,100,000"
-"2
-beds",2,"962
-sq.ft.","5401 N Milwaukee Avenue 1A Chicago, IL 60630","$255,000"
-"2
-beds",1,"1,297
-sq.ft.","6250 N Magnolia Avenue 3 Chicago, IL 60660","$339,900"
-"2
-beds",2,"1,300
-sq.ft.","817 W Washington Boulevard 503 Chicago, IL 60607","$675,000"
-"3
-beds",3,"2,100
-sq.ft.","2447 W Walton Street 1 Chicago, IL 60622","$599,000"
 "3
 beds",2,"1,208
 sq.ft.","2307 N Avers Avenue 2 Chicago, IL 60647","$485,000"
@@ -122,6 +110,9 @@ sq.ft.","4316 N Sayre Avenue Norridge, IL 60706","$465,000"
 "1
 beds",1,"864
 sq.ft.","330 N Jefferson Street 1002 Chicago, IL 60661","$349,000"
+"2
+beds",2,"1,300
+sq.ft.","817 W Washington Boulevard 503 Chicago, IL 60607","$675,000"
 "2
 beds",2,"1,327
 sq.ft.","1550 N Lake Shore Drive 2A Chicago, IL 60610","$535,000"
@@ -264,6 +255,9 @@ sq.ft.","952 N Racine Avenue Chicago, IL 60622","$1,250,000"
 beds",3,"1,944
 sq.ft.","3301 S Damen Avenue Chicago, IL 60608","$499,000"
 "3
+beds",3,"2,100
+sq.ft.","2447 W Walton Street 1 Chicago, IL 60622","$599,000"
+"3
 beds",1,"1,296
 sq.ft.","7843 S Yates Boulevard Chicago, IL 60649","$140,000"
 "2
@@ -299,6 +293,9 @@ sq.ft.","5912 W Grace Street Chicago, IL 60634","$624,999"
 "2
 beds",2,"1,300
 sq.ft.","405 N WABASH Avenue 4709 Chicago, IL 60611","$449,999"
+"2
+beds",1,"1,297
+sq.ft.","6250 N Magnolia Avenue 3 Chicago, IL 60660","$339,900"
 "4
 beds",1,"1,496
 sq.ft.","6409 S Champlain Avenue Chicago, IL 60637","$289,000"
@@ -914,6 +911,9 @@ sq.ft.","11521 S Aberdeen Street Chicago, IL 60643","$267,000"
 "3
 beds",1,"1,130
 sq.ft.","11709 S Kedzie Avenue Merrionette Park, IL 60803","$259,000"
+"2
+beds",2,"962
+sq.ft.","5401 N Milwaukee Avenue 1A Chicago, IL 60630","$255,000"
 "2
 beds",3,"1,400
 sq.ft.","1450 W 62nd Street Chicago, IL 60636","$255,000"
