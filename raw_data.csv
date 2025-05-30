@@ -1,7 +1,19 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",2,"1,100
+sq.ft.","2142 W Madison Street , 1 Chicago, IL 60612","$275,000"
+"2
+beds",3,"2,000
+sq.ft.","Chicago, IL 60616","$479,000"
+"2
+beds",2,"1,218
+sq.ft.","2272 S Archer Avenue , 8A Chicago, IL 60616","$350,000"
 "4
 beds",3,"2,850
 sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,100,000"
+"3
+beds",2,"2,297
+sq.ft.","Chicago, IL 60645","$699,900"
 "3
 beds",2,"1,208
 sq.ft.","2307 N Avers Avenue 2 Chicago, IL 60647","$485,000"
@@ -398,9 +410,6 @@ sq.ft.","1910 S State Street 305 Chicago, IL 60616","$275,000"
 "4
 beds",3,"4,500
 sq.ft.","2912 N Commonwealth Avenue 10CD Chicago, IL 60657","$1,275,000"
-"2
-beds",2,"1,100
-sq.ft.","2142 W Madison Street 1 Chicago, IL 60612","$275,000"
 "4
 beds",3,"2,400
 sq.ft.","456 E North Water Street H Chicago, IL 60611","$949,000"
@@ -417,9 +426,6 @@ sq.ft.","6301 N Sheridan Road 20K Chicago, IL 60660","$179,900"
 beds",1,"850
 sq.ft.","345 N La Salle Drive 3305 Chicago, IL 60654","$375,000"
 "4
-beds",1,"1,080
-sq.ft.","5135 W George St Chicago, IL 60641","$349,900"
-"4
 beds",2,"1,600
 sq.ft.","9115 S May Street Chicago, IL 60620","$339,900"
 "4
@@ -428,6 +434,9 @@ sq.ft.","5936 S Keeler Avenue Chicago, IL 60629","$357,000"
 "3
 beds",2,"2,300
 sq.ft.","680 N Lake Shore Drive 519 Chicago, IL 60611","$634,000"
+"4
+beds",1,"1,080
+sq.ft.","5135 W George St Chicago, IL 60641","$349,900"
 "3
 beds",2,"1,905
 sq.ft.","650 N Morgan Street 303 Chicago, IL 60642","$725,000"
@@ -3014,12 +3023,3 @@ sq.ft.","1804 N Leavitt Street Chicago, IL 60647","$4,200,000"
 "3
 beds",3,"3,395
 sq.ft.","21 N May Street 903 Chicago, IL 60607","$2,849,000"
-"4
-beds",4,"4,100
-sq.ft.","55 E Erie Street 3203 Chicago, IL 60611","$2,350,000"
-"5
-beds",5,"4,600
-sq.ft.","1908 N HALSTED Street Chicago, IL 60614","$2,200,000"
-"4
-beds",3,"4,200
-sq.ft.","2113 W Huron Street Chicago, IL 60612","$1,575,000"

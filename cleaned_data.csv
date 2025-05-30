@@ -1,5 +1,9 @@
 bedrooms,bathrooms,square_footage,address,price
+2,2.0,1100,"2142 W Madison Street , 1 Chicago, IL 60612",275000
+2,3.0,2000,"Chicago, IL 60616",479000
+2,2.0,1218,"2272 S Archer Avenue , 8A Chicago, IL 60616",350000
 4,3.0,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1100000
+3,2.0,2297,"Chicago, IL 60645",699900
 3,2.0,1208,"2307 N Avers Avenue 2 Chicago, IL 60647",485000
 3,1.0,2400,"6034 W 60th Street Chicago, IL 60638",479000
 5,2.0,1800,"11427 S Stewart Avenue Chicago, IL 60628",248000
@@ -117,16 +121,15 @@ bedrooms,bathrooms,square_footage,address,price
 4,2.0,2483,"5205 W Olive Avenue Chicago, IL 60646",649000
 5,3.0,2635,"10904 S Central Park Avenue Chicago, IL 60655",499000
 1,1.0,764,"1910 S State Street 305 Chicago, IL 60616",275000
-2,2.0,1100,"2142 W Madison Street 1 Chicago, IL 60612",275000
 4,3.0,2400,"456 E North Water Street H Chicago, IL 60611",949000
 2,2.0,1409,"4521 N ASHLAND Avenue 3N Chicago, IL 60640",470000
 4,2.0,2300,"7951 S Kolin Avenue Chicago, IL 60652",379000
 1,1.0,1200,"6301 N Sheridan Road 20K Chicago, IL 60660",179900
 1,1.0,850,"345 N La Salle Drive 3305 Chicago, IL 60654",375000
-4,1.0,1080,"5135 W George St Chicago, IL 60641",349900
 4,2.0,1600,"9115 S May Street Chicago, IL 60620",339900
 4,2.0,1700,"5936 S Keeler Avenue Chicago, IL 60629",357000
 3,2.0,2300,"680 N Lake Shore Drive 519 Chicago, IL 60611",634000
+4,1.0,1080,"5135 W George St Chicago, IL 60641",349900
 3,2.0,1905,"650 N Morgan Street 303 Chicago, IL 60642",725000
 4,2.0,2432,"4114 W Cornelia Chicago, IL 60641",649000
 3,2.0,1560,"4727 N Clark Street 3S Chicago, IL 60640",579000
