@@ -3,12 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",3,"2,850
 sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,100,000"
 "2
-beds",1,"1,200
-sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$480,000"
-"1
-beds",1,"965
-sq.ft.","777 N Michigan Avenue , 3308 Chicago, IL 60611","$240,000"
-"2
 beds",2,"962
 sq.ft.","5401 N Milwaukee Avenue 1A Chicago, IL 60630","$255,000"
 "2
@@ -689,6 +683,12 @@ sq.ft.","116 E 118th Place Chicago, IL 60628","$59,900"
 "3
 beds",1,"931
 sq.ft.","13240 S Riverdale Avenue Chicago, IL 60827","$42,900"
+"2
+beds",1,"1,200
+sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$480,000"
+"1
+beds",1,"965
+sq.ft.","777 N Michigan Avenue , 3308 Chicago, IL 60611","$240,000"
 "2
 beds",2,"1,639
 sq.ft.","1201 S Prairie Avenue 1505 Chicago, IL 60605","$785,000"
