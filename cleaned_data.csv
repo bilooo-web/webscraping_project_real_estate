@@ -4,10 +4,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1218,"2272 S Archer Avenue , 8A Chicago, IL 60616",350000
 4,3.0,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1100000
 3,2.0,2297,"Chicago, IL 60645",699900
-3,2.0,1208,"2307 N Avers Avenue 2 Chicago, IL 60647",485000
-3,1.0,2400,"6034 W 60th Street Chicago, IL 60638",479000
-5,2.0,1800,"11427 S Stewart Avenue Chicago, IL 60628",248000
-3,2.0,1630,"345 N LaSalle Boulevard 3602 Chicago, IL 60654",669000
 3,1.0,1361,"9906 S Saint Louis Avenue Evergreen Park, IL 60805",355000
 2,2.0,1250,"210 S Desplaines Street 1102 Chicago, IL 60661",500000
 2,2.0,1300,"125 S Green Street 503A Chicago, IL 60607",749999
@@ -25,6 +21,8 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1250,"520 N Halsted Street 502 Chicago, IL 60642",425000
 4,3.0,2860,"2862 N Paulina Street Chicago, IL 60657",1130000
 3,2.0,1800,"2803 N Wolcott Avenue D Chicago, IL 60657",565000
+3,2.0,1208,"2307 N Avers Avenue 2 Chicago, IL 60647",485000
+3,2.0,1630,"345 N LaSalle Boulevard 3602 Chicago, IL 60654",669000
 3,2.0,2000,"324 N Jefferson Street 307 Chicago, IL 60661",650000
 1,2.0,1200,"616 W Fulton Street 503 Chicago, IL 60661",529000
 2,2.0,1226,"4428 N Racine Avenue GN Chicago, IL 60640",350000
@@ -125,6 +123,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1409,"4521 N ASHLAND Avenue 3N Chicago, IL 60640",470000
 4,2.0,2300,"7951 S Kolin Avenue Chicago, IL 60652",379000
 1,1.0,1200,"6301 N Sheridan Road 20K Chicago, IL 60660",179900
+3,1.0,2400,"6034 W 60th Street Chicago, IL 60638",479000
 1,1.0,850,"345 N La Salle Drive 3305 Chicago, IL 60654",375000
 4,2.0,1600,"9115 S May Street Chicago, IL 60620",339900
 4,2.0,1700,"5936 S Keeler Avenue Chicago, IL 60629",357000
