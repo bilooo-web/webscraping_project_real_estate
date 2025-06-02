@@ -8,51 +8,18 @@ sq.ft.","2272 S Archer Avenue , 8A Chicago, IL 60616","$350,000"
 "2
 beds",2,"1,400
 sq.ft.","1524 S Sangamon Street 507 Chicago, IL 60608","$329,900"
-"2
-beds",1,"700
-sq.ft.","2940 W 38th Street Chicago, IL 60632","$219,000"
-"2
-beds",2,"1,100
-sq.ft.","345 W Fullerton Parkway 601 Chicago, IL 60614","$425,000"
-"4
-beds",2,"1,905
-sq.ft.","5508 S Hyde Park Boulevard 3 Chicago, IL 60637","$399,900"
-"3
-beds",1,"1,361
-sq.ft.","9906 S Saint Louis Avenue Evergreen Park, IL 60805","$355,000"
-"1
-beds",1,"900
-sq.ft.","740 S Federal Street 804 Chicago, IL 60605","$209,500"
 "3
 beds",3,"3,000
 sq.ft.","4183 W Nelson Street Chicago, IL 60641","$1,199,000"
-"7
-beds",3,"3,389
-sq.ft.","5706 N New Hampshire Avenue Chicago, IL 60631","$925,000"
-"3
-beds",3,"2,100
-sq.ft.","2447 W Walton Street 1 Chicago, IL 60622","$599,000"
 "3
 beds",3,"2,212
 sq.ft.","2152 N Tripp Avenue Chicago, IL 60639","$650,000"
 "2
 beds",2,"1,762
 sq.ft.","6033 N Sheridan Road 12B Chicago, IL 60660","$404,999"
-"5
-beds",3,"4,000
-sq.ft.","2030 N LINCOLN Avenue AB Chicago, IL 60614","$1,750,000"
 "4
 beds",3,"1,778
 sq.ft.","1724 W 105th Street Chicago, IL 60643","$465,000"
-"3
-beds",2,"2,000
-sq.ft.","324 N Jefferson Street 307 Chicago, IL 60661","$650,000"
-"3
-beds",3,"3,028
-sq.ft.","5912 W Grace Street Chicago, IL 60634","$624,999"
-"2
-beds",2,"1,300
-sq.ft.","405 N WABASH Avenue 4709 Chicago, IL 60611","$449,999"
 "3
 beds",3,"2,232
 sq.ft.","410 N CLINTON Street Chicago, IL 60654","$1,000,000"
@@ -494,15 +461,24 @@ sq.ft.","1847 N Kedzie Avenue 1N Chicago, IL 60647","$459,700"
 "4
 beds",1,"2,182
 sq.ft.","9606 S VANDERPOEL Avenue Chicago, IL 60643","$449,900"
+"2
+beds",2,"1,100
+sq.ft.","345 W Fullerton Parkway 601 Chicago, IL 60614","$425,000"
 "3
 beds",2,"1,195
 sq.ft.","2946 W 102nd Street Evergreen Park, IL 60805","$425,000"
+"4
+beds",2,"1,905
+sq.ft.","5508 S Hyde Park Boulevard 3 Chicago, IL 60637","$399,900"
 "1
 beds",1,"980
 sq.ft.","1325 N State Parkway 17C Chicago, IL 60610","$385,000"
 "3
 beds",2,"1,900
 sq.ft.","5148 S Linder Avenue Chicago, IL 60638","$379,900"
+"3
+beds",1,"1,361
+sq.ft.","9906 S Saint Louis Avenue Evergreen Park, IL 60805","$355,000"
 "2
 beds",2,"1,150
 sq.ft.","1524 S Sangamon Street 512 Chicago, IL 60608","$345,000"
@@ -569,6 +545,9 @@ sq.ft.","1508 N Massasoit Avenue Chicago, IL 60651","$225,000"
 "3
 beds",1,"1,200
 sq.ft.","7338 S CAMPBELL Avenue Chicago, IL 60629","$214,999"
+"1
+beds",1,"900
+sq.ft.","740 S Federal Street 804 Chicago, IL 60605","$209,500"
 "2
 beds",1,"1,050
 sq.ft.","7830 W North Avenue 306 Elmwood Park, IL 60707","$165,000"
@@ -839,6 +818,9 @@ sq.ft.","727 S Dearborn Street 911 Chicago, IL 60605","$725,000"
 "3
 beds",2,"1,630
 sq.ft.","345 N LaSalle Boulevard 3602 Chicago, IL 60654","$669,000"
+"3
+beds",2,"2,000
+sq.ft.","324 N Jefferson Street 307 Chicago, IL 60661","$650,000"
 "3
 beds",2,"2,000
 sq.ft.","1707 S Jefferson Street 1 Chicago, IL 60616","$650,000"
@@ -1112,6 +1094,9 @@ sq.ft.","7649 S Dobson Avenue Chicago, IL 60619","$94,900"
 "5
 beds",2,"1,400
 sq.ft.","114 W 108th Place Chicago, IL 60628","$57,900"
+"7
+beds",3,"3,389
+sq.ft.","5706 N New Hampshire Avenue Chicago, IL 60631","$925,000"
 "4
 beds",3,"2,388
 sq.ft.","6205 W Grace Street Chicago, IL 60634","$749,900"
@@ -1136,6 +1121,9 @@ sq.ft.","5843 N Oconto Avenue Chicago, IL 60631","$879,000"
 "4
 beds",4,"4,276
 sq.ft.","7144 N Overhill Avenue Chicago, IL 60631","$875,000"
+"3
+beds",3,"2,100
+sq.ft.","2447 W Walton Street 1 Chicago, IL 60622","$599,000"
 "3
 beds",2,"1,650
 sq.ft.","2941 N Sheffield Avenue 1 Chicago, IL 60657","$589,000"
@@ -1412,6 +1400,9 @@ sq.ft.","5942 S King Drive 2N Chicago, IL 60637","$224,900"
 "1
 beds",1,"800
 sq.ft.","5415 N Sheridan Road 1504 Chicago, IL 60640","$222,000"
+"2
+beds",1,"700
+sq.ft.","2940 W 38th Street Chicago, IL 60632","$219,000"
 "3
 beds",1,"5,000
 sq.ft.","9716 S Union Avenue Chicago, IL 60628","$198,999"
@@ -1637,6 +1628,9 @@ sq.ft.","2501 N Sheffield Avenue 2S Chicago, IL 60614","$650,000"
 "2
 beds",2,"1,600
 sq.ft.","1537 N Clybourn Avenue D Chicago, IL 60610","$625,000"
+"3
+beds",3,"3,028
+sq.ft.","5912 W Grace Street Chicago, IL 60634","$624,999"
 "5
 beds",3,"2,100
 sq.ft.","2950 N Lowell Avenue Chicago, IL 60641","$598,000"
@@ -2597,6 +2591,9 @@ sq.ft.","1250 N DEARBORN Street 5B Chicago, IL 60610","$450,000"
 "2
 beds",2,"1,350
 sq.ft.","3708 W CORNELIA Avenue 2E Chicago, IL 60618","$450,000"
+"2
+beds",2,"1,300
+sq.ft.","405 N WABASH Avenue 4709 Chicago, IL 60611","$449,999"
 "3
 beds",2,"1,600
 sq.ft.","1529 S State Street 21J Chicago, IL 60605","$434,900"
@@ -3023,3 +3020,6 @@ sq.ft.","1944 W Thomas Street 3 Chicago, IL 60622","$720,000"
 "2
 beds",2,"1,111
 sq.ft.","234 W Polk Street 2604 Chicago, IL 60607","$640,000"
+"4
+beds",3,"2,500
+sq.ft.","5411 W BERENICE Avenue Chicago, IL 60641","$634,900"
