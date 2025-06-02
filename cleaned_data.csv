@@ -1,5 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2.0,1500,"1333 N Burling Street , B Chicago, IL 60610",549000
 3,1.0,1045,"3645 W 66th Street Chicago, IL 60629",320000
+3,2.0,1290,"9311 S Richmond Avenue Evergreen Park, IL 60805",365000
 3,2.0,1600,"3130 W Walton Street 3 Chicago, IL 60622",387000
 3,2.0,1500,"4706 S Saint Lawrence Avenue 2W Chicago, IL 60615",430000
 2,2.0,1450,"669 N Peoria Street 1N Chicago, IL 60642",529900
@@ -910,5 +912,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,2.0,1660,"5425 N Normandy Avenue Chicago, IL 60656",399900
 3,2.0,2000,"7230 W Belden Avenue 3 Elmwood Park, IL 60707",399000
 1,1.0,900,"225 S Sangamon Street 802 Chicago, IL 60607",380000
-2,1.0,1000,"7835 W Berwyn Avenue Chicago, IL 60656",380000
-2,2.0,1075,"1841 S Calumet Avenue 1909 Chicago, IL 60616",375000
