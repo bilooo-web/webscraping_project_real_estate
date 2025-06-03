@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2.0,1750,"4520 S King Drive , 4B Chicago, IL 60653",379900.0
 3,1.0,1154,"12237 S Avers Avenue Alsip, IL 60803",259900.0
 3,2.0,1500,"1333 N Burling Street , B Chicago, IL 60610",549000.0
 3,2.0,1103,"5151 S Mulligan Avenue Chicago, IL 60638",349900.0
@@ -49,7 +50,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,3.0,2476,"7801 S Seeley Avenue Chicago, IL 60620",399900.0
 4,2.0,1616,"10752 S Washtenaw Avenue Chicago, IL 60655",399000.0
 4,3.0,1480,"5930 W School Street Chicago, IL 60634",395000.0
-3,2.0,1750,"4520 S King Drive 4B Chicago, IL 60653",379900.0
 3,2.0,2458,"2101 W 82nd Place Chicago, IL 60620",369900.0
 3,1.0,1285,"4939 N Cumberland Avenue Norridge, IL 60706",350000.0
 3,2.0,1875,"615 E 101st Place Chicago, IL 60628",329900.0
@@ -369,7 +369,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,1.0,1542,"1112 N Monitor Avenue Chicago, IL 60651",135000.0
 4,2.0,1095,"7649 S Dobson Avenue Chicago, IL 60619",94900.0
 5,2.0,1400,"114 W 108th Place Chicago, IL 60628",57900.0
-7,3.0,3389,"5706 N New Hampshire Avenue Chicago, IL 60631",925000.0
+7,3.0,3389,"5706 N New Hampshire Avenue Chicago, IL 60631",895000.0
 4,3.0,2388,"6205 W Grace Street Chicago, IL 60634",749900.0
 2,2.0,1250,"660 W Wayman Street , 701 Chicago, IL 60661",530000.0
 3,3.0,3693,"5843 N Oconto Avenue Chicago, IL 60631",879000.0

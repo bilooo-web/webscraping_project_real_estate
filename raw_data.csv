@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$379,900"
+"3
 beds",1,"1,154
 sq.ft.","12237 S Avers Avenue Alsip, IL 60803","$259,900"
 "3
@@ -176,9 +179,6 @@ sq.ft.","10752 S Washtenaw Avenue Chicago, IL 60655","$399,000"
 "4
 beds",3,"1,480
 sq.ft.","5930 W School Street Chicago, IL 60634","$395,000"
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive 4B Chicago, IL 60653","$379,900"
 "3
 beds",2,"2,458
 sq.ft.","2101 W 82nd Place Chicago, IL 60620","$369,900"
@@ -1234,7 +1234,7 @@ beds",2,"1,400
 sq.ft.","114 W 108th Place Chicago, IL 60628","$57,900"
 "7
 beds",3,"3,389
-sq.ft.","5706 N New Hampshire Avenue Chicago, IL 60631","$925,000"
+sq.ft.","5706 N New Hampshire Avenue Chicago, IL 60631","$895,000"
 "4
 beds",3,"2,388
 sq.ft.","6205 W Grace Street Chicago, IL 60634","$749,900"
