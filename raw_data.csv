@@ -1,8 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",1,"1,154
-sq.ft.","12237 S Avers Avenue Alsip, IL 60803","$259,900"
-"3
 beds",2,"1,500
 sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$549,000"
 "3
@@ -3023,3 +3020,6 @@ sq.ft.","7411 S Champlain Avenue Chicago, IL 60619","$439,000"
 "4
 beds",2,"1,660
 sq.ft.","5425 N Normandy Avenue Chicago, IL 60656","$399,900"
+"3
+beds",2,"2,000
+sq.ft.","7230 W Belden Avenue 3 Elmwood Park, IL 60707","$399,000"

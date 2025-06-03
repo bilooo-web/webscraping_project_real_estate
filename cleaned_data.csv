@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-3,1.0,1154,"12237 S Avers Avenue Alsip, IL 60803",259900
 3,2.0,1500,"1333 N Burling Street , B Chicago, IL 60610",549000
 3,2.0,1103,"5151 S Mulligan Avenue Chicago, IL 60638",349900
 3,1.0,1045,"3645 W 66th Street Chicago, IL 60629",320000
@@ -912,3 +911,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,2206,"3055 N Nottingham Avenue Chicago, IL 60634",444900
 5,3.0,3300,"7411 S Champlain Avenue Chicago, IL 60619",439000
 4,2.0,1660,"5425 N Normandy Avenue Chicago, IL 60656",399900
+3,2.0,2000,"7230 W Belden Avenue 3 Elmwood Park, IL 60707",399000
