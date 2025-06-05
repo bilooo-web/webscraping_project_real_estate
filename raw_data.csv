@@ -1,10 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$379,900"
-"3
-beds",1,"1,154
-sq.ft.","12237 S Avers Avenue Alsip, IL 60803","$259,900"
 "2
 beds",2,"853
 sq.ft.","7518 W Forest Preserve Avenue Chicago, IL 60634","$360,000"
@@ -20,6 +14,9 @@ sq.ft.","1221 E 46th Street 1 Chicago, IL 60653","$599,000"
 "2
 beds",1,"1,000
 sq.ft.","1250 W VAN BUREN Street 203 Chicago, IL 60607","$325,000"
+"3
+beds",2,"1,500
+sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$549,000"
 "3
 beds",3,"2,200
 sq.ft.","2023 W Rice Street 1E Chicago, IL 60622","$625,000"
@@ -515,6 +512,12 @@ sq.ft.","3950 N Lake Shore Drive 1207B Chicago, IL 60613",Price On Request
 "3
 beds",1,"1,179
 sq.ft.","12616 S Lincoln Street Calumet Park, IL 60827",Price On Request
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$379,900"
+"3
+beds",1,"1,154
+sq.ft.","12237 S Avers Avenue Alsip, IL 60803","$259,900"
 "2
 beds",2,"1,027
 sq.ft.","2025 S Indiana Avenue 503 Chicago, IL 60616","$419,000"
@@ -524,9 +527,6 @@ sq.ft.","3645 W 66th Street Chicago, IL 60629","$320,000"
 "1
 beds",1,"800
 sq.ft.","2901 S Michigan Avenue 904 Chicago, IL 60616","$140,000"
-"3
-beds",2,"1,500
-sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$549,000"
 "3
 beds",2,"1,103
 sq.ft.","5151 S Mulligan Avenue Chicago, IL 60638","$349,900"
