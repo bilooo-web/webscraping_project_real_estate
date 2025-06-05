@@ -4,7 +4,6 @@ bedrooms,bathrooms,square_footage,address,price
 5,4.0,3408,"7100 N SIOUX Avenue Chicago, IL 60646",1099000.0
 5,3.0,3218,"1221 E 46th Street 1 Chicago, IL 60653",599000.0
 2,1.0,1000,"1250 W VAN BUREN Street 203 Chicago, IL 60607",325000.0
-3,2.0,1500,"1333 N Burling Street , B Chicago, IL 60610",549000.0
 3,3.0,2200,"2023 W Rice Street 1E Chicago, IL 60622",625000.0
 1,1.0,800,"1845 S Michigan Avenue 1602 Chicago, IL 60616",265000.0
 2,2.0,1650,"1248 W Fletcher Street C Chicago, IL 60657",675000.0
@@ -154,6 +153,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1027,"2025 S Indiana Avenue 503 Chicago, IL 60616",419000.0
 3,1.0,1045,"3645 W 66th Street Chicago, IL 60629",320000.0
 1,1.0,800,"2901 S Michigan Avenue 904 Chicago, IL 60616",140000.0
+3,2.0,1500,"1333 N Burling Street , B Chicago, IL 60610",549000.0
 3,2.0,1103,"5151 S Mulligan Avenue Chicago, IL 60638",349900.0
 5,3.0,2500,"2913 N Nordica Avenue Chicago, IL 60634",615000.0
 4,2.0,3200,"10724 S Ridgeway Avenue Chicago, IL 60655",479900.0
@@ -531,7 +531,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,2.0,1837,"7118 S Morgan Street Chicago, IL 60621",109900.0
 6,1.0,1505,"132 W 118th Street Chicago, IL 60628",45000.0
 3,2.0,2100,"2044 W Roscoe Street , 2S Chicago, IL 60618",799000.0
-1,1.0,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",649000.0
+1,1.0,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",669000.0
 3,3.0,2143,"1120 W Adams Street 5W Chicago, IL 60607",1149000.0
 4,4.0,3046,"4839 S Kenwood Avenue Chicago, IL 60615",949000.0
 2,2.0,1691,"250 E Pearson Street 1306 Chicago, IL 60611",799000.0

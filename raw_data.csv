@@ -15,9 +15,6 @@ sq.ft.","1221 E 46th Street 1 Chicago, IL 60653","$599,000"
 beds",1,"1,000
 sq.ft.","1250 W VAN BUREN Street 203 Chicago, IL 60607","$325,000"
 "3
-beds",2,"1,500
-sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$549,000"
-"3
 beds",3,"2,200
 sq.ft.","2023 W Rice Street 1E Chicago, IL 60622","$625,000"
 "1
@@ -527,6 +524,9 @@ sq.ft.","3645 W 66th Street Chicago, IL 60629","$320,000"
 "1
 beds",1,"800
 sq.ft.","2901 S Michigan Avenue 904 Chicago, IL 60616","$140,000"
+"3
+beds",2,"1,500
+sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$549,000"
 "3
 beds",2,"1,103
 sq.ft.","5151 S Mulligan Avenue Chicago, IL 60638","$349,900"
@@ -1777,7 +1777,7 @@ beds",2,"2,100
 sq.ft.","2044 W Roscoe Street , 2S Chicago, IL 60618","$799,000"
 "1
 beds",1,"1,314
-sq.ft.","401 N Wabash Avenue , 39G Chicago, IL 60611","$649,000"
+sq.ft.","401 N Wabash Avenue , 39G Chicago, IL 60611","$669,000"
 "3
 beds",3,"3,163
 sq.ft.","1109 W WASHINGTON Boulevard 2B Chicago, IL 60607","$2,499,000"
