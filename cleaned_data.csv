@@ -262,7 +262,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1515,"175 E DELAWARE Place 4803 Chicago, IL 60611",510000.0
 6,4.0,4000,"6846 S Cregier Avenue Chicago, IL 60649",475500.0
 4,3.0,1778,"1724 W 105th Street Chicago, IL 60643",465000.0
-2,2.0,1225,"222 N Columbus Drive 2808 Chicago, IL 60601",460000.0
 3,2.0,1735,"9601 S Claremont Avenue Chicago, IL 60643",439900.0
 3,2.0,1600,"3126 W Walton Street 2 Chicago, IL 60622",387000.0
 3,2.0,1255,"11400 S Hamlin Avenue Chicago, IL 60655",380000.0
@@ -295,6 +294,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1.0,700,"6638 S Greenwood Avenue 2B Chicago, IL 60637",45900.0
 4,3.0,3500,"5151 W Fletcher Street Chicago, IL 60641",652000.0
 2,3.0,2000,"Chicago, IL 60616",479000.0
+2,2.0,1225,"222 N Columbus Drive , 2808 Chicago, IL 60601",460000.0
 2,2.0,1218,"2272 S Archer Avenue , 8A Chicago, IL 60616",350000.0
 3,3.0,3400,"2537 W Moffat Street Chicago, IL 60647",1025000.0
 7,2.0,3600,"1701 W Chase Avenue Chicago, IL 60626",899000.0
