@@ -8,8 +8,8 @@ bedrooms,bathrooms,square_footage,address,price
 2,1.0,900,"1620 W Columbia Avenue 3N Chicago, IL 60626",240000.0
 5,3.0,3218,"1221 E 46th Street 1 Chicago, IL 60653",599000.0
 2,1.0,1000,"1250 W VAN BUREN Street 203 Chicago, IL 60607",325000.0
-3,2.0,2000,"3056 N Paulina Street Chicago, IL 60657",900000.0
 3,2.0,1500,"1333 N Burling Street , B Chicago, IL 60610",549000.0
+3,2.0,2000,"3056 N Paulina Street Chicago, IL 60657",900000.0
 3,3.0,2200,"2023 W Rice Street 1E Chicago, IL 60622",625000.0
 2,2.0,1232,"6400 W BELLE PLAINE Avenue 309 Chicago, IL 60634",300000.0
 1,1.0,800,"1845 S Michigan Avenue 1602 Chicago, IL 60616",265000.0
@@ -262,6 +262,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1515,"175 E DELAWARE Place 4803 Chicago, IL 60611",510000.0
 6,4.0,4000,"6846 S Cregier Avenue Chicago, IL 60649",475500.0
 4,3.0,1778,"1724 W 105th Street Chicago, IL 60643",465000.0
+2,2.0,1225,"222 N Columbus Drive 2808 Chicago, IL 60601",460000.0
 3,2.0,1735,"9601 S Claremont Avenue Chicago, IL 60643",439900.0
 3,2.0,1600,"3126 W Walton Street 2 Chicago, IL 60622",387000.0
 3,2.0,1255,"11400 S Hamlin Avenue Chicago, IL 60655",380000.0
@@ -294,7 +295,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1.0,700,"6638 S Greenwood Avenue 2B Chicago, IL 60637",45900.0
 4,3.0,3500,"5151 W Fletcher Street Chicago, IL 60641",652000.0
 2,3.0,2000,"Chicago, IL 60616",479000.0
-2,2.0,1225,"222 N Columbus Drive , 2808 Chicago, IL 60601",460000.0
 2,2.0,1218,"2272 S Archer Avenue , 8A Chicago, IL 60616",350000.0
 3,3.0,3400,"2537 W Moffat Street Chicago, IL 60647",1025000.0
 7,2.0,3600,"1701 W Chase Avenue Chicago, IL 60626",899000.0
@@ -607,7 +607,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,2.0,1837,"7118 S Morgan Street Chicago, IL 60621",109900.0
 6,1.0,1505,"132 W 118th Street Chicago, IL 60628",45000.0
 3,2.0,2100,"2044 W Roscoe Street , 2S Chicago, IL 60618",799000.0
-1,1.0,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",669000.0
+1,1.0,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",649000.0
 4,4.0,3046,"4839 S Kenwood Avenue Chicago, IL 60615",949000.0
 2,2.0,1691,"250 E Pearson Street 1306 Chicago, IL 60611",799000.0
 3,2.0,1800,"2207 W Chicago Avenue 3E Chicago, IL 60622",665000.0
