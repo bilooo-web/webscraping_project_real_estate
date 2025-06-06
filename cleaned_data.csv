@@ -17,6 +17,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1327,"1550 N Lake Shore Drive 2A Chicago, IL 60610",535000.0
 3,2.0,1153,"6954 S Prairie Avenue Chicago, IL 60637",260000.0
 3,2.0,1290,"9311 S Richmond Avenue Evergreen Park, IL 60805",365000.0
+4,3.0,3500,"5151 W Fletcher Street Chicago, IL 60641",652000.0
 2,2.0,1250,"2737 W Thomas Street 3 Chicago, IL 60622",435000.0
 2,2.0,1280,"6560 W Diversey Avenue 412D Chicago, IL 60707",285000.0
 2,2.0,1297,"5050 S East End Avenue 7D Chicago, IL 60615",125000.0
@@ -374,7 +375,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,2.0,987,"341 W 99th Place Chicago, IL 60628",120000.0
 2,1.0,800,"1756 W 35TH Street 2R Chicago, IL 60609",79900.0
 1,1.0,700,"6638 S Greenwood Avenue 2B Chicago, IL 60637",45900.0
-4,3.0,3500,"5151 W Fletcher Street Chicago, IL 60641",652000.0
 2,3.0,2000,"Chicago, IL 60616",479000.0
 2,2.0,1218,"2272 S Archer Avenue , 8A Chicago, IL 60616",350000.0
 3,3.0,2650,"1448 N Mohawk Street Chicago, IL 60610",1125000.0
