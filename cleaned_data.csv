@@ -1,7 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-2,1.0,1250,"7202 W Wrightwood Avenue , 2S Elmwood Park, IL 60707",199900.0
-3,2.0,1639,"2257 W Lake Street 101 Chicago, IL 60612",400000.0
-3,2.0,2200,"1331 W Greenleaf Avenue 2 Chicago, IL 60626",550000.0
 5,3.0,3000,"2534 W Haddon Avenue Chicago, IL 60622",899999.0
 5,4.0,3408,"7100 N SIOUX Avenue Chicago, IL 60646",1099000.0
 2,1.0,900,"1620 W Columbia Avenue 3N Chicago, IL 60626",240000.0
@@ -17,7 +14,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1327,"1550 N Lake Shore Drive 2A Chicago, IL 60610",535000.0
 3,2.0,1153,"6954 S Prairie Avenue Chicago, IL 60637",260000.0
 3,2.0,1290,"9311 S Richmond Avenue Evergreen Park, IL 60805",365000.0
-4,3.0,3500,"5151 W Fletcher Street Chicago, IL 60641",652000.0
 2,2.0,1250,"2737 W Thomas Street 3 Chicago, IL 60622",435000.0
 2,2.0,1280,"6560 W Diversey Avenue 412D Chicago, IL 60707",285000.0
 2,2.0,1297,"5050 S East End Avenue 7D Chicago, IL 60615",125000.0
@@ -41,6 +37,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1147,"9427 S Trumbull Avenue Evergreen Park, IL 60805",299000.0
 2,1.0,1000,"5332 N Delphia Avenue 108 Chicago, IL 60656",247000.0
 3,3.0,2400,"4637 S Michigan Avenue Chicago, IL 60653",624000.0
+3,2.0,2200,"1331 W Greenleaf Avenue 2 Chicago, IL 60626",550000.0
 1,1.0,995,"10 E Ontario Street 3609 Chicago, IL 60611",285000.0
 2,2.0,1290,"233 E 13th Street 2001 Chicago, IL 60605",580000.0
 2,2.0,1300,"324 N Jefferson Street 107 Chicago, IL 60661",469900.0
@@ -69,6 +66,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1500,"3037 W Belmont Avenue 2W Chicago, IL 60618",599999.0
 6,3.0,2995,"1428 N Central Avenue Chicago, IL 60651",499900.0
 2,2.0,1200,"1101 S State Street 1402 Chicago, IL 60605",400000.0
+3,2.0,1639,"2257 W Lake Street 101 Chicago, IL 60612",400000.0
 3,1.0,1656,"5943 S Parkside Avenue Chicago, IL 60638",375000.0
 1,1.0,1050,"201 E Chestnut Street 20F Chicago, IL 60611",259900.0
 3,1.0,1100,"5103 N Clark Street 2 Chicago, IL 60640",449900.0
@@ -346,7 +344,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1515,"175 E DELAWARE Place 4803 Chicago, IL 60611",510000.0
 6,4.0,4000,"6846 S Cregier Avenue Chicago, IL 60649",475500.0
 4,3.0,1778,"1724 W 105th Street Chicago, IL 60643",465000.0
-2,2.0,1225,"222 N Columbus Drive 2808 Chicago, IL 60601",460000.0
 3,2.0,1735,"9601 S Claremont Avenue Chicago, IL 60643",439900.0
 3,2.0,1255,"11400 S Hamlin Avenue Chicago, IL 60655",380000.0
 3,2.0,1600,"3126 W Walton Street 2 Chicago, IL 60622",375000.0
@@ -375,7 +372,9 @@ bedrooms,bathrooms,square_footage,address,price
 1,2.0,987,"341 W 99th Place Chicago, IL 60628",120000.0
 2,1.0,800,"1756 W 35TH Street 2R Chicago, IL 60609",79900.0
 1,1.0,700,"6638 S Greenwood Avenue 2B Chicago, IL 60637",45900.0
+4,3.0,3500,"5151 W Fletcher Street Chicago, IL 60641",652000.0
 2,3.0,2000,"Chicago, IL 60616",479000.0
+2,2.0,1225,"222 N Columbus Drive , 2808 Chicago, IL 60601",460000.0
 2,2.0,1218,"2272 S Archer Avenue , 8A Chicago, IL 60616",350000.0
 3,3.0,2650,"1448 N Mohawk Street Chicago, IL 60610",1125000.0
 3,3.0,3400,"2537 W Moffat Street Chicago, IL 60647",1025000.0
