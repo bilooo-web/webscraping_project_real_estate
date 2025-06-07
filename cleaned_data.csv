@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 2,1.0,1250,"7202 W Wrightwood Avenue , 2S Elmwood Park, IL 60707",199900.0
-2,2.0,1070,"1901 S CALUMET Avenue 2712 Chicago, IL 60616",425000.0
 3,2.0,1639,"2257 W Lake Street 101 Chicago, IL 60612",400000.0
 3,2.0,2200,"1331 W Greenleaf Avenue 2 Chicago, IL 60626",550000.0
 5,3.0,3000,"2534 W Haddon Avenue Chicago, IL 60622",899999.0
@@ -913,3 +912,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1345,"8325 W Maple Avenue Norridge, IL 60706",489000.0
 2,2.0,1400,"1117 W Fry Street 10 Chicago, IL 60642",465000.0
 2,2.0,1275,"1400 S Michigan Avenue 2303 Chicago, IL 60605",445000.0
+3,2.0,1690,"10527 S Harding Avenue Chicago, IL 60655",434900.0
