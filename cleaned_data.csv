@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+1,1.0,850,"5455 N Sheridan Road , 3611 Chicago, IL 60640",209900.0
 3,2.0,1040,"8225 S Wentworth Avenue Chicago, IL 60620",287000.0
 5,2.0,1184,"2724 N Newland Avenue Chicago, IL 60707",390000.0
 5,2.0,1600,"2627 E 74th Place Chicago, IL 60649",260000.0
@@ -101,7 +102,6 @@ bedrooms,bathrooms,square_footage,address,price
 5,3.0,2982,"6319 N Whipple Street Chicago, IL 60659",659000.0
 2,2.0,1080,"5642 W Dakin Street Chicago, IL 60634",479900.0
 2,1.0,1100,"5349 N Delphia Avenue 150 Chicago, IL 60656",229900.0
-1,1.0,850,"5455 N Sheridan Road 3611 Chicago, IL 60640",209900.0
 2,2.0,1782,"9620 S Exchange Avenue Chicago, IL 60617",85000.0
 2,2.0,1223,"234 W Polk Street 3209 Chicago, IL 60607",710000.0
 4,3.0,2950,"5442 N Western Avenue 1A Chicago, IL 60625",699900.0

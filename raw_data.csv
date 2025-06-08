@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"850
+sq.ft.","5455 N Sheridan Road , 3611 Chicago, IL 60640","$209,900"
 "3
 beds",2,"1,040
 sq.ft.","8225 S Wentworth Avenue Chicago, IL 60620","$287,000"
@@ -347,9 +350,6 @@ sq.ft.","5642 W Dakin Street Chicago, IL 60634","$479,900"
 "2
 beds",1,"1,100
 sq.ft.","5349 N Delphia Avenue 150 Chicago, IL 60656","$229,900"
-"1
-beds",1,"850
-sq.ft.","5455 N Sheridan Road 3611 Chicago, IL 60640","$209,900"
 "2
 beds",2,"1,782
 sq.ft.","9620 S Exchange Avenue Chicago, IL 60617","$85,000"
