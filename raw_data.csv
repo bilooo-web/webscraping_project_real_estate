@@ -2,12 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
 beds",2,"1,040
 sq.ft.","8225 S Wentworth Avenue Chicago, IL 60620","$287,000"
-"2
-beds",1,"1,333
-sq.ft.","7350 N RIDGE Boulevard 21B Chicago, IL 60645","$195,500"
-"3
-beds",1,"1,045
-sq.ft.","3645 W 66th Street Chicago, IL 60629","$320,000"
 "5
 beds",2,"1,184
 sq.ft.","2724 N Newland Avenue Chicago, IL 60707","$390,000"
@@ -239,6 +233,9 @@ sq.ft.","8610 S Aberdeen Street Chicago, IL 60620","$329,950"
 "3
 beds",2,"1,800
 sq.ft.","2803 N Wolcott Avenue D Chicago, IL 60657","$565,000"
+"2
+beds",1,"1,333
+sq.ft.","7350 N RIDGE Boulevard 21B Chicago, IL 60645","$195,500"
 "2
 beds",2,"4,687
 sq.ft.","102 E 144th Street Riverdale, IL 60827","$219,900"
@@ -1007,6 +1004,9 @@ sq.ft.","2025 S Indiana Avenue 503 Chicago, IL 60616","$419,000"
 "4
 beds",2,"1,002
 sq.ft.","1723 W 75th Place Chicago, IL 60620","$320,000"
+"3
+beds",1,"1,045
+sq.ft.","3645 W 66th Street Chicago, IL 60629","$320,000"
 "1
 beds",1,"800
 sq.ft.","2901 S Michigan Avenue 904 Chicago, IL 60616","$140,000"

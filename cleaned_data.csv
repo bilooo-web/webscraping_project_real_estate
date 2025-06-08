@@ -1,7 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2.0,1040,"8225 S Wentworth Avenue Chicago, IL 60620",287000.0
-2,1.0,1333,"7350 N RIDGE Boulevard 21B Chicago, IL 60645",195500.0
-3,1.0,1045,"3645 W 66th Street Chicago, IL 60629",320000.0
 5,2.0,1184,"2724 N Newland Avenue Chicago, IL 60707",390000.0
 5,2.0,1600,"2627 E 74th Place Chicago, IL 60649",260000.0
 2,1.0,1000,"Chicago, IL 60634",339000.0
@@ -70,6 +68,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1450,"2259 W Wabansia Avenue 309 Chicago, IL 60647",659900.0
 3,3.0,2499,"8610 S Aberdeen Street Chicago, IL 60620",329950.0
 3,2.0,1800,"2803 N Wolcott Avenue D Chicago, IL 60657",565000.0
+2,1.0,1333,"7350 N RIDGE Boulevard 21B Chicago, IL 60645",195500.0
 2,2.0,4687,"102 E 144th Street Riverdale, IL 60827",219900.0
 5,3.0,2400,"8307 S Morgan Street Chicago, IL 60620",297900.0
 2,1.0,1440,"2142 N Mobile Avenue Chicago, IL 60639",299000.0
@@ -299,6 +298,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1290,"233 E 13th Street 2001 Chicago, IL 60605",580000.0
 2,2.0,1027,"2025 S Indiana Avenue 503 Chicago, IL 60616",419000.0
 4,2.0,1002,"1723 W 75th Place Chicago, IL 60620",320000.0
+3,1.0,1045,"3645 W 66th Street Chicago, IL 60629",320000.0
 1,1.0,800,"2901 S Michigan Avenue 904 Chicago, IL 60616",140000.0
 3,2.0,1500,"1333 N Burling Street , B Chicago, IL 60610",549000.0
 3,2.0,1103,"5151 S Mulligan Avenue Chicago, IL 60638",349900.0
