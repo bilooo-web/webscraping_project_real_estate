@@ -1,13 +1,18 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1.0,850,"5455 N Sheridan Road , 3611 Chicago, IL 60640",209900.0
 2,2.0,4687,"102 E 144th Street Riverdale, IL 60827",219900.0
+2,1.0,1100,"918 W Sunnyside Avenue 1B Chicago, IL 60640",295000.0
 5,3.0,2400,"8307 S Morgan Street Chicago, IL 60620",297900.0
 2,1.0,1440,"2142 N Mobile Avenue Chicago, IL 60639",299000.0
+2,1.0,850,"5457 W Edmunds Street 1A Chicago, IL 60630",209000.0
+2,2.0,1200,"2700 N Wayne Avenue 2N Chicago, IL 60614",750000.0
+2,1.0,900,"7321 W Fullerton Avenue 10 Elmwood Park, IL 60707",178900.0
 5,3.0,4148,"6013 N Kildare Avenue Chicago, IL 60646",1100000.0
 5,3.0,2982,"6319 N Whipple Street Chicago, IL 60659",659000.0
 2,2.0,1080,"5642 W Dakin Street Chicago, IL 60634",479900.0
 2,1.0,1015,"230 W DIVISION Street 1208 Chicago, IL 60610",390000.0
 2,1.0,1100,"5349 N Delphia Avenue 150 Chicago, IL 60656",229900.0
+2,1.0,1000,"3914 W 63rd Street 1-A Chicago, IL 60629",144900.0
 2,2.0,1782,"9620 S Exchange Avenue Chicago, IL 60617",85000.0
 3,3.0,2708,"3334 N Odell Avenue Chicago, IL 60634",725000.0
 2,2.0,1223,"234 W Polk Street 3209 Chicago, IL 60607",710000.0
@@ -22,7 +27,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1507,"1530 S State Street 722 Chicago, IL 60605",425000.0
 2,2.0,1122,"1636 N WELLS Street 615 Chicago, IL 60614",419000.0
 5,2.0,943,"5531 S McVicker Avenue Chicago, IL 60638",405000.0
-3,2.0,996,"3836 W Wabansia Avenue W Chicago, IL 60647",399999.0
+3,2.0,1990,"3836 W Wabansia Avenue W Chicago, IL 60647",399999.0
 3,2.0,1677,"2822 N 76th Court Elmwood Park, IL 60707",399900.0
 4,4.0,2800,"7425 S Vernon Avenue Chicago, IL 60619",384900.0
 3,2.0,1338,"8425 S Spaulding Avenue Chicago, IL 60652",350000.0
@@ -96,7 +101,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1600,"14115 S Wabash Avenue Riverdale, IL 60827",250000.0
 2,2.0,1100,"7616 W Lawrence Avenue 3A Harwood Heights, IL 60706",236000.0
 3,2.0,1600,"5410 W Congress Parkway Chicago, IL 60644",235000.0
-2,1.0,850,"5457 W Edmunds Street 1A Chicago, IL 60630",209000.0
 3,1.0,2070,"11660 S Lowe Avenue Chicago, IL 60628",209000.0
 3,2.0,1400,"Chicago, IL 60617",205000.0
 1,1.0,800,"1550 N Lake Shore Drive 9F Chicago, IL 60610",199900.0
@@ -137,7 +141,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,1600,"2814 W 83rd Street Chicago, IL 60652",389900.0
 3,1.0,1656,"5943 S Parkside Avenue Chicago, IL 60638",375000.0
 3,2.0,1577,"2827 N 77th Court Elmwood Park, IL 60707",374000.0
-2,2.0,1150,"3201 W Leland Avenue 205 Chicago, IL 60625",365000.0
 2,2.0,1000,"2744 W Haddon Avenue 2 Chicago, IL 60622",354999.0
 3,3.0,2200,"8837 S THROOP Street Chicago, IL 60620",350000.0
 4,2.0,1700,"5936 S Keeler Avenue Chicago, IL 60629",349999.0
@@ -192,14 +195,13 @@ bedrooms,bathrooms,square_footage,address,price
 3,1.0,1184,"1703 S Ruble Street Chicago, IL 60616",389000.0
 2,2.0,1085,"1841 S Calumet Avenue 1008 Chicago, IL 60616",380000.0
 3,3.0,2000,"3601 W 123rd Place Alsip, IL 60803",355000.0
-2,1.0,1000,"Chicago, IL 60634",339000.0
+2,1.0,949,"Chicago, IL 60634",339000.0
 3,2.0,1080,"2435 N Oak Park Avenue Chicago, IL 60707",299900.0
 2,2.0,1200,"5415 N Sheridan Road 4511 Chicago, IL 60640",299900.0
 5,2.0,2082,"6746 S Honore Street Chicago, IL 60636",299900.0
 3,2.0,1147,"9427 S Trumbull Avenue Evergreen Park, IL 60805",299000.0
 1,1.0,800,"2749 N Hampden Court 1E Chicago, IL 60614",279000.0
 3,2.0,1800,"8535 S Sacramento Avenue Chicago, IL 60652",275000.0
-1,1.0,807,"1845 S Michigan Avenue 1009 Chicago, IL 60616",269000.0
 2,1.0,1000,"5332 N Delphia Avenue 108 Chicago, IL 60656",247000.0
 3,2.0,1236,"8410 S JEFFERY Boulevard Chicago, IL 60617",244900.0
 2,1.0,900,"1620 W Columbia Avenue 3N Chicago, IL 60626",240000.0
@@ -261,7 +263,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1.0,995,"10 E Ontario Street 3311 Chicago, IL 60611",265000.0
 1,1.0,741,"474 N Lake Shore Drive 3203 Chicago, IL 60611",250000.0
 2,2.0,1400,"4227 S CHAMPLAIN Avenue 2N Chicago, IL 60653",245000.0
-1,1.0,765,"10 E Ontario Street 3107 Chicago, IL 60611",244000.0
 1,1.0,900,"230 E Ontario Street 1206 Chicago, IL 60611",235000.0
 3,2.0,2748,"1831 S Avers Avenue Chicago, IL 60623",230000.0
 2,2.0,1433,"6033 N SHERIDAN Road 8E Chicago, IL 60660",225000.0
@@ -534,7 +535,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1.0,968,"4336 S Christiana Avenue Chicago, IL 60632",200000.0
 1,1.0,800,"6301 N Sheridan Road 22N Chicago, IL 60660",127000.0
 1,1.0,1000,"12026 S Kildare Avenue 15 Alsip, IL 60803",95000.0
-3,1.0,1300,"7828 S ESCANABA Avenue Chicago, IL 60649",63900.0
+3,1.0,1300,"7828 S ESCANABA Avenue Chicago, IL 60649",59900.0
 3,2.0,2124,"9329 S Wentworth Avenue Chicago, IL 60620",45000.0
 3,2.0,1500,"316 W MENOMONEE Street H Chicago, IL 60614",775000.0
 3,3.0,1152,"2062 W Belle Plaine Avenue Chicago, IL 60618",725000.0
@@ -581,7 +582,6 @@ bedrooms,bathrooms,square_footage,address,price
 6,3.0,2000,"723 E 90th Street Chicago, IL 60619",362000.0
 1,1.0,883,"1000 W Adams Street 523 Chicago, IL 60607",345000.0
 2,1.0,1000,"1250 W VAN BUREN Street 203 Chicago, IL 60607",325000.0
-3,2.0,1680,"1026 E 46th Street 3E Chicago, IL 60653",320000.0
 4,2.0,2094,"5241 W Adams Street Chicago, IL 60644",317900.0
 1,1.0,790,"3600 N Lake Shore Drive 707 Chicago, IL 60613",315000.0
 4,2.0,1980,"7658 S Luella Avenue Chicago, IL 60649",314900.0
@@ -786,7 +786,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1260,"233 E 13th Street 2209 Chicago, IL 60605",510000.0
 2,2.0,1225,"195 N Harbor Drive 4305 Chicago, IL 60601",495000.0
 1,1.0,661,"211 N Harbor Drive 1507 Chicago, IL 60601",475000.0
-2,2.0,1481,"1435 N Sedgwick Street 3 Chicago, IL 60610",475000.0
 2,2.0,1180,"565 W Quincy Street 1206 Chicago, IL 60661",459900.0
 2,1.0,3528,"Chicago, IL 60629",420000.0
 2,2.0,1741,"5423 S Newcastle Avenue Chicago, IL 60638",409000.0
@@ -914,3 +913,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,2961,"3039 S Kolin Avenue Chicago, IL 60623",399900.0
 4,3.0,4232,"1150 N Latrobe Avenue Chicago, IL 60651",377000.0
 2,2.0,1040,"1720 S Michigan Avenue 1602 Chicago, IL 60616",375000.0
+2,1.0,1000,"1056 N Leavitt Street 1F Chicago, IL 60622",350000.0
