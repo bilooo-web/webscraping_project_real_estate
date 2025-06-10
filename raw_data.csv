@@ -1,7 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"1
-beds",1,"850
-sq.ft.","5455 N Sheridan Road , 3611 Chicago, IL 60640","$209,900"
 "2
 beds",2,"4,687
 sq.ft.","102 E 144th Street Riverdale, IL 60827","$219,900"
@@ -44,6 +41,9 @@ sq.ft.","3914 W 63rd Street 1-A Chicago, IL 60629","$144,900"
 "2
 beds",2,"1,782
 sq.ft.","9620 S Exchange Avenue Chicago, IL 60617","$85,000"
+"1
+beds",1,"850
+sq.ft.","5455 N Sheridan Road , 3611 Chicago, IL 60640","$209,900"
 "4
 beds",5,"6,000
 sq.ft.","1530 S State Street 18A-B Chicago, IL 60605","$2,000,000"
