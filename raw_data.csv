@@ -1,7 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"3
-beds",2,"2,700
-sq.ft.","24 W ERIE Street 3 Chicago, IL 60654","$1,675,000"
 "2
 beds",2,"4,687
 sq.ft.","102 E 144th Street Riverdale, IL 60827","$219,900"
@@ -902,6 +899,9 @@ sq.ft.","2218 N Burling Street PH Chicago, IL 60614","$2,750,000"
 "3
 beds",2,"2,247
 sq.ft.","363 E Wacker Drive 1602 Chicago, IL 60601","$1,860,000"
+"3
+beds",2,"2,700
+sq.ft.","24 W ERIE Street 3 Chicago, IL 60654","$1,675,000"
 "3
 beds",2,"2,850
 sq.ft.","161 E CHICAGO Avenue 33DE Chicago, IL 60611","$1,199,500"
