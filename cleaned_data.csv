@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+1,1.0,800,"515 W Wrightwood Avenue , 302 Chicago, IL 60614",275000.0
 2,2.0,4687,"102 E 144th Street Riverdale, IL 60827",219900.0
 3,2.0,1121,"2743 W 83rd Street Chicago, IL 60652",375000.0
 1,1.0,850,"320 E 21st Street 402 Chicago, IL 60616",299900.0
@@ -40,6 +41,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2.0,2350,"1448 W Chestnut Street 3 Chicago, IL 60642",874900.0
 2,2.0,1300,"123 S Green Street 1101B Chicago, IL 60607",574000.0
 2,3.0,2200,"1505 N TALMAN Avenue 1 Chicago, IL 60622",539900.0
+3,1.0,731,"11534 S Peoria Street Chicago, IL 60643",125000.0
 2,1.0,850,"5457 W Edmunds Street 1A Chicago, IL 60630",209000.0
 4,1.0,1362,"Chicago, IL 60619",159000.0
 3,3.0,1800,"7015 S Indiana Avenue Chicago, IL 60637",349999.0
@@ -493,7 +495,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1.0,550,"5056 N Marine Drive 1C Chicago, IL 60640",120000.0
 3,1.0,1708,"7925 S Ridgeland Avenue Chicago, IL 60617",119900.0
 3,2.0,1580,"6801 S Crandon Avenue 1 Chicago, IL 60649",99900.0
-4,3.0,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1100000.0
+4,3.0,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1075000.0
 3,2.0,2297,"Chicago, IL 60645",699900.0
 2,2.0,1100,"2142 W Madison Street , 1 Chicago, IL 60612",275000.0
 4,3.0,2400,"456 E North Water Street H Chicago, IL 60611",949000.0
@@ -914,5 +916,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,2.0,1365,"100 E Huron Street 1806 Chicago, IL 60611",549000.0
 5,3.0,1948,"2343 N Karlov Avenue Chicago, IL 60639",545000.0
 2,2.0,1750,"3470 N Lake Shore Drive 17C Chicago, IL 60657",525000.0
-3,2.0,1500,"2636 N Fairfield Avenue 2N Chicago, IL 60647",519900.0
-3,2.0,1837,"7306 W Pensacola Avenue Norridge, IL 60706",519000.0

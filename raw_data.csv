@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"800
+sq.ft.","515 W Wrightwood Avenue , 302 Chicago, IL 60614","$275,000"
 "2
 beds",2,"4,687
 sq.ft.","102 E 144th Street Riverdale, IL 60827","$219,900"
@@ -140,6 +143,9 @@ sq.ft.","123 S Green Street 1101B Chicago, IL 60607","$574,000"
 "2
 beds",3,"2,200
 sq.ft.","1505 N TALMAN Avenue 1 Chicago, IL 60622","$539,900"
+"3
+beds",1,"731
+sq.ft.","11534 S Peoria Street Chicago, IL 60643","$125,000"
 "2
 beds",1,"850
 sq.ft.","5457 W Edmunds Street 1A Chicago, IL 60630","$209,000"
@@ -1612,7 +1618,7 @@ beds",2,"1,580
 sq.ft.","6801 S Crandon Avenue 1 Chicago, IL 60649","$99,900"
 "4
 beds",3,"2,850
-sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,100,000"
+sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,075,000"
 "3
 beds",2,"2,297
 sq.ft.","Chicago, IL 60645","$699,900"
@@ -3017,9 +3023,3 @@ sq.ft.","2343 N Karlov Avenue Chicago, IL 60639","$545,000"
 "2
 beds",2,"1,750
 sq.ft.","3470 N Lake Shore Drive 17C Chicago, IL 60657","$525,000"
-"3
-beds",2,"1,500
-sq.ft.","2636 N Fairfield Avenue 2N Chicago, IL 60647","$519,900"
-"3
-beds",2,"1,837
-sq.ft.","7306 W Pensacola Avenue Norridge, IL 60706","$519,000"
