@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1.0,800,"515 W Wrightwood Avenue , 302 Chicago, IL 60614",275000.0
-2,2.0,4687,"102 E 144th Street Riverdale, IL 60827",219900.0
 3,2.0,1121,"2743 W 83rd Street Chicago, IL 60652",375000.0
 1,1.0,850,"320 E 21st Street 402 Chicago, IL 60616",299900.0
 2,2.0,1300,"817 W Washington Boulevard 503 Chicago, IL 60607",675000.0
@@ -159,6 +158,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1.0,1040,"7830 S Kolmar Avenue Chicago, IL 60652",255000.0
 3,2.0,1191,"10027 S Merrill Avenue Chicago, IL 60617",252900.0
 1,1.0,800,"33 E Cedar Street 6B Chicago, IL 60611",230000.0
+2,2.0,4687,"102 E 144th Street Riverdale, IL 60827",219900.0
 3,2.0,2600,"6901 S Oglesby Avenue 2A Chicago, IL 60649",209000.0
 2,2.0,1200,"6415 N Damen Avenue 2W Chicago, IL 60645",182000.0
 3,1.0,2000,"14526 S Dearborn Street Riverdale, IL 60827",164999.0

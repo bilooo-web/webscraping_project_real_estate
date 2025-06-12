@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "1
 beds",1,"800
 sq.ft.","515 W Wrightwood Avenue , 302 Chicago, IL 60614","$275,000"
-"2
-beds",2,"4,687
-sq.ft.","102 E 144th Street Riverdale, IL 60827","$219,900"
 "3
 beds",2,"1,121
 sq.ft.","2743 W 83rd Street Chicago, IL 60652","$375,000"
@@ -530,6 +527,9 @@ sq.ft.","10027 S Merrill Avenue Chicago, IL 60617","$252,900"
 "1
 beds",1,"800
 sq.ft.","33 E Cedar Street 6B Chicago, IL 60611","$230,000"
+"2
+beds",2,"4,687
+sq.ft.","102 E 144th Street Riverdale, IL 60827","$219,900"
 "3
 beds",2,"2,600
 sq.ft.","6901 S Oglesby Avenue 2A Chicago, IL 60649","$209,000"
