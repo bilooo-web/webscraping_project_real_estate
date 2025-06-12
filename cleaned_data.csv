@@ -1,5 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,800,"515 W Wrightwood Avenue , 302 Chicago, IL 60614",275000.0
+2,1,1095,"6119 W School Street Chicago, IL 60634",329000.0
 3,2,1121,"2743 W 83rd Street Chicago, IL 60652",375000.0
 1,1,850,"320 E 21st Street 402 Chicago, IL 60616",299900.0
 3,3,2000,"1924 N Lawndale Avenue Chicago, IL 60647",599000.0
@@ -917,4 +918,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1900,"7949 S Manistee Avenue Chicago, IL 60617",247000.0
 1,1,800,"4015 N Milwaukee Avenue 211 Chicago, IL 60641",219700.0
 2,1,952,"9509 S Merrion Avenue Chicago, IL 60617",189000.0
-1,1,700,"3021 S Michigan Avenue 302 Chicago, IL 60616",139000.0
