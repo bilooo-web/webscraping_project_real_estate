@@ -1,5 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
+1,1,848,"222 N Columbus Drive , 912 Chicago, IL 60601",285000.0
 1,1,800,"515 W Wrightwood Avenue , 302 Chicago, IL 60614",275000.0
+4,2,1709,"2058 W Washington Boulevard Chicago, IL 60612",625000.0
 2,1,1095,"6119 W School Street Chicago, IL 60634",329000.0
 3,2,1121,"2743 W 83rd Street Chicago, IL 60652",375000.0
 1,1,850,"320 E 21st Street 402 Chicago, IL 60616",299900.0
@@ -916,5 +918,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1161,"2336 W 81st Street Chicago, IL 60620",259900.0
 2,2,1500,"12500 S Emerald Avenue Chicago, IL 60628",259900.0
 3,1,1900,"7949 S Manistee Avenue Chicago, IL 60617",247000.0
-1,1,800,"4015 N Milwaukee Avenue 211 Chicago, IL 60641",219700.0
-2,1,952,"9509 S Merrion Avenue Chicago, IL 60617",189000.0

@@ -1,7 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "1
+beds",1,"848
+sq.ft.","222 N Columbus Drive , 912 Chicago, IL 60601","$285,000"
+"1
 beds",1,"800
 sq.ft.","515 W Wrightwood Avenue , 302 Chicago, IL 60614","$275,000"
+"4
+beds",2,"1,709
+sq.ft.","2058 W Washington Boulevard Chicago, IL 60612","$625,000"
 "2
 beds",1,"1,095
 sq.ft.","6119 W School Street Chicago, IL 60634","$329,000"
@@ -3017,9 +3023,3 @@ sq.ft.","12500 S Emerald Avenue Chicago, IL 60628","$259,900"
 "3
 beds",1,"1,900
 sq.ft.","7949 S Manistee Avenue Chicago, IL 60617","$247,000"
-"1
-beds",1,"800
-sq.ft.","4015 N Milwaukee Avenue 211 Chicago, IL 60641","$219,700"
-"2
-beds",1,"952
-sq.ft.","9509 S Merrion Avenue Chicago, IL 60617","$189,000"
