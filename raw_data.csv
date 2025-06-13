@@ -11,21 +11,6 @@ sq.ft.","2058 W Washington Boulevard Chicago, IL 60612","$625,000"
 "2
 beds",1,"1,095
 sq.ft.","6119 W School Street Chicago, IL 60634","$329,000"
-"3
-beds",2,"1,121
-sq.ft.","2743 W 83rd Street Chicago, IL 60652","$375,000"
-"1
-beds",1,"850
-sq.ft.","320 E 21st Street 402 Chicago, IL 60616","$299,900"
-"3
-beds",3,"2,000
-sq.ft.","1924 N Lawndale Avenue Chicago, IL 60647","$599,000"
-"2
-beds",2,"1,300
-sq.ft.","817 W Washington Boulevard 503 Chicago, IL 60607","$675,000"
-"1
-beds",1,"800
-sq.ft.","6700 S South Shore Drive 2J Chicago, IL 60649","$120,000"
 "2
 beds",2,"1,200
 sq.ft.","1111 S Wabash Avenue 1410 Chicago, IL 60605","$425,000"
@@ -35,6 +20,9 @@ sq.ft.","2152 N Tripp Avenue Chicago, IL 60639","$650,000"
 "3
 beds",2,"1,750
 sq.ft.","1420 W Belmont Avenue 2 Chicago, IL 60657","$699,900"
+"3
+beds",3,"2,000
+sq.ft.","1924 N Lawndale Avenue Chicago, IL 60647","$599,000"
 "1
 beds",1,"900
 sq.ft.","4250 N Marine Drive 1104 Chicago, IL 60613","$179,900"
@@ -86,6 +74,9 @@ sq.ft.","3520 N Lake Shore Drive 4P Chicago, IL 60657","$240,000"
 "4
 beds",2,"2,000
 sq.ft.","1834 N Rockwell Street 1R Chicago, IL 60647","$775,000"
+"3
+beds",2,"1,121
+sq.ft.","2743 W 83rd Street Chicago, IL 60652","$375,000"
 "2
 beds",1,"1,078
 sq.ft.","11400 S Washtenaw Avenue Chicago, IL 60655","$299,000"
@@ -116,6 +107,9 @@ sq.ft.","10 E Ontario Street 3609 Chicago, IL 60611","$285,000"
 "2
 beds",2,"1,290
 sq.ft.","233 E 13th Street 2001 Chicago, IL 60605","$580,000"
+"1
+beds",1,"850
+sq.ft.","320 E 21st Street 402 Chicago, IL 60616","$299,900"
 "2
 beds",2,"1,520
 sq.ft.","1122 N Dearborn Street 7A Chicago, IL 60610","$600,000"
@@ -137,6 +131,9 @@ sq.ft.","2545 S DEARBORN Street 508 Chicago, IL 60616","$348,999"
 "3
 beds",3,"3,600
 sq.ft.","5141 W Dakin Street Chicago, IL 60641","$824,999"
+"1
+beds",1,"800
+sq.ft.","6700 S South Shore Drive 2J Chicago, IL 60649","$120,000"
 "4
 beds",4,"4,100
 sq.ft.","2248 W Ainslie Street Chicago, IL 60625","$1,950,000"
@@ -293,6 +290,9 @@ sq.ft.","1448 W Chestnut Street 3 Chicago, IL 60642","$874,900"
 "2
 beds",2,"1,300
 sq.ft.","123 S Green Street 1101B Chicago, IL 60607","$574,000"
+"2
+beds",2,"1,300
+sq.ft.","817 W Washington Boulevard 503 Chicago, IL 60607","$675,000"
 "2
 beds",3,"2,200
 sq.ft.","1505 N TALMAN Avenue 1 Chicago, IL 60622","$539,900"
