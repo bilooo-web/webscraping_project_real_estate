@@ -1,6 +1,8 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,848,"222 N Columbus Drive , 912 Chicago, IL 60601",285000.0
+2,2,1467,"7801 W Summerdale Avenue Chicago, IL 60656",350000.0
 3,2,1800,"3110 N 78th Avenue Elmwood Park, IL 60707",370000.0
+1,1,707,"1919 S Michigan Avenue , 412 Chicago, IL 60616",249000.0
 4,2,1709,"2058 W Washington Boulevard Chicago, IL 60612",625000.0
 4,2,1530,"8105 S Sawyer Avenue Chicago, IL 60652",295000.0
 2,2,1507,"1235 S Prairie Avenue 3605 Chicago, IL 60605",650000.0
@@ -185,7 +187,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,765,"10 E Ontario Street 2806 Chicago, IL 60611",250000.0
 3,2,960,"Chicago, IL 60628",249900.0
 2,2,1800,"1900 W 83rd Street 0 Chicago, IL 60620",249900.0
-1,1,707,"1919 S Michigan Avenue 412 Chicago, IL 60616",249000.0
 2,2,1200,"10342 S Eberhart Avenue Chicago, IL 60628",239900.0
 1,1,900,"4250 N Marine Drive 1013 Chicago, IL 60613",210000.0
 3,1,1024,"13815 S TRACY Avenue Riverdale, IL 60827",189900.0
@@ -919,4 +920,3 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,1000,"737 W WASHINGTON Boulevard 2702 Chicago, IL 60661",374900.0
 1,1,950,"825 N HUDSON Avenue 1B Chicago, IL 60610",350000.0
 1,1,900,"2800 N Lake Shore Drive 3215 Chicago, IL 60657",325000.0
-3,1,1678,"1753 N Normandy Avenue Chicago, IL 60707",325000.0
