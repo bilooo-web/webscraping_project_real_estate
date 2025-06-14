@@ -1,10 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,848,"222 N Columbus Drive , 912 Chicago, IL 60601",285000.0
-1,1,800,"515 W Wrightwood Avenue , 302 Chicago, IL 60614",275000.0
 3,2,1800,"3110 N 78th Avenue Elmwood Park, IL 60707",370000.0
 4,2,1709,"2058 W Washington Boulevard Chicago, IL 60612",625000.0
-2,1,1095,"6119 W School Street Chicago, IL 60634",329000.0
-2,2,1200,"1111 S Wabash Avenue 1410 Chicago, IL 60605",425000.0
 3,2,1858,"3180 N Lake Shore Drive 8A Chicago, IL 60657",475000.0
 3,3,2212,"2152 N Tripp Avenue Chicago, IL 60639",650000.0
 3,3,2000,"6351 N GLENWOOD Avenue 1S Chicago, IL 60660",548000.0
@@ -13,6 +10,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2200,"3020 N Sheffield Avenue 1N Chicago, IL 60657",875000.0
 3,2,1750,"1420 W Belmont Avenue 2 Chicago, IL 60657",699900.0
 3,3,2000,"1924 N Lawndale Avenue Chicago, IL 60647",599000.0
+1,1,800,"515 W Wrightwood Avenue , 302 Chicago, IL 60614",275000.0
 1,1,900,"4250 N Marine Drive 1104 Chicago, IL 60613",179900.0
 4,3,2800,"4821 W Crystal Street Chicago, IL 60651",465000.0
 2,2,1327,"1550 N Lake Shore Drive 2A Chicago, IL 60610",535000.0
@@ -77,6 +75,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,3,1750,"9835 S Drexel Avenue Chicago, IL 60628",269900.0
 4,1,1720,"8439 S Crandon Avenue Chicago, IL 60617",155500.0
 3,2,1735,"1200 W Monroe Street 808 Chicago, IL 60607",925000.0
+2,2,1200,"1111 S Wabash Avenue 1410 Chicago, IL 60605",425000.0
 4,2,1600,"5520 S Kildare Avenue Chicago, IL 60629",399900.0
 3,2,1269,"3437 S Morgan Street 2E Chicago, IL 60608",379000.0
 2,2,1080,"5642 W Dakin Street Chicago, IL 60634",479900.0
@@ -234,6 +233,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,731,"13308 S RIVERDALE Avenue Chicago, IL 60827",115000.0
 5,2,2013,"6717 S Aberdeen Street Chicago, IL 60621",101250.0
 4,2,1198,"1826 S Kildare Avenue Chicago, IL 60623",79000.0
+2,1,1095,"6119 W School Street Chicago, IL 60634",329000.0
 4,2,2500,"1016 N Hermitage Avenue 1 Chicago, IL 60622",1049000.0
 2,2,1600,"1020 W Armitage Avenue 3A Chicago, IL 60614",950000.0
 3,3,2688,"5443 S Rutherford Avenue Chicago, IL 60638",644750.0

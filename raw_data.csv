@@ -2,21 +2,12 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "1
 beds",1,"848
 sq.ft.","222 N Columbus Drive , 912 Chicago, IL 60601","$285,000"
-"1
-beds",1,"800
-sq.ft.","515 W Wrightwood Avenue , 302 Chicago, IL 60614","$275,000"
 "3
 beds",2,"1,800
 sq.ft.","3110 N 78th Avenue Elmwood Park, IL 60707","$370,000"
 "4
 beds",2,"1,709
 sq.ft.","2058 W Washington Boulevard Chicago, IL 60612","$625,000"
-"2
-beds",1,"1,095
-sq.ft.","6119 W School Street Chicago, IL 60634","$329,000"
-"2
-beds",2,"1,200
-sq.ft.","1111 S Wabash Avenue 1410 Chicago, IL 60605","$425,000"
 "3
 beds",2,"1,858
 sq.ft.","3180 N Lake Shore Drive 8A Chicago, IL 60657","$475,000"
@@ -41,6 +32,9 @@ sq.ft.","1420 W Belmont Avenue 2 Chicago, IL 60657","$699,900"
 "3
 beds",3,"2,000
 sq.ft.","1924 N Lawndale Avenue Chicago, IL 60647","$599,000"
+"1
+beds",1,"800
+sq.ft.","515 W Wrightwood Avenue , 302 Chicago, IL 60614","$275,000"
 "1
 beds",1,"900
 sq.ft.","4250 N Marine Drive 1104 Chicago, IL 60613","$179,900"
@@ -254,6 +248,9 @@ sq.ft.","8439 S Crandon Avenue Chicago, IL 60617","$155,500"
 "3
 beds",2,"1,735
 sq.ft.","1200 W Monroe Street 808 Chicago, IL 60607","$925,000"
+"2
+beds",2,"1,200
+sq.ft.","1111 S Wabash Avenue 1410 Chicago, IL 60605","$425,000"
 "4
 beds",2,"1,600
 sq.ft.","5520 S Kildare Avenue Chicago, IL 60629","$399,900"
@@ -776,6 +773,9 @@ sq.ft.","6717 S Aberdeen Street Chicago, IL 60621","$101,250"
 "4
 beds",2,"1,198
 sq.ft.","1826 S Kildare Avenue Chicago, IL 60623","$79,000"
+"2
+beds",1,"1,095
+sq.ft.","6119 W School Street Chicago, IL 60634","$329,000"
 "3
 beds",2,"1,638
 sq.ft.","211 N Harbor Drive 1902 Chicago, IL 60601","$1,507,500"
