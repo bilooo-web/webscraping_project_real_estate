@@ -2,9 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,848,"222 N Columbus Drive , 912 Chicago, IL 60601",285000.0
 3,2,1800,"3110 N 78th Avenue Elmwood Park, IL 60707",370000.0
 4,2,1709,"2058 W Washington Boulevard Chicago, IL 60612",625000.0
-3,2,1858,"3180 N Lake Shore Drive 8A Chicago, IL 60657",475000.0
-3,3,2212,"2152 N Tripp Avenue Chicago, IL 60639",650000.0
-3,3,2000,"6351 N GLENWOOD Avenue 1S Chicago, IL 60660",548000.0
 4,2,1530,"8105 S Sawyer Avenue Chicago, IL 60652",295000.0
 3,2,1800,"849 N Franklin Street 618 Chicago, IL 60610",849000.0
 3,3,2200,"3020 N Sheffield Avenue 1N Chicago, IL 60657",875000.0
@@ -13,6 +10,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"515 W Wrightwood Avenue , 302 Chicago, IL 60614",275000.0
 1,1,900,"4250 N Marine Drive 1104 Chicago, IL 60613",179900.0
 4,3,2800,"4821 W Crystal Street Chicago, IL 60651",465000.0
+3,3,2212,"2152 N Tripp Avenue Chicago, IL 60639",650000.0
 2,2,1327,"1550 N Lake Shore Drive 2A Chicago, IL 60610",535000.0
 2,1,1100,"918 W Sunnyside Avenue 1B Chicago, IL 60640",295000.0
 2,1,1200,"73 E ELM Street 12D Chicago, IL 60611",475000.0
@@ -70,6 +68,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1600,"474 N LAKE SHORE Drive 4808 Chicago, IL 60611",555000.0
 2,2,1300,"1632 S Indiana Avenue 502 Chicago, IL 60616",449999.0
 3,2,1700,"6526 S Kimbark Avenue 1N Chicago, IL 60637",269900.0
+3,2,1858,"3180 N Lake Shore Drive 8A Chicago, IL 60657",475000.0
 2,1,724,"1438 W Roscoe Street 3 Chicago, IL 60657",349900.0
 3,2,2650,"874 N Marshfield Avenue 1 Chicago, IL 60622",849900.0
 2,3,1750,"9835 S Drexel Avenue Chicago, IL 60628",269900.0
@@ -112,6 +111,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2200,"2729 N Sheffield Avenue 1S Chicago, IL 60614",835000.0
 2,2,1200,"3125 W Fullerton Avenue 214 Chicago, IL 60647",435000.0
 4,3,3200,"4218 N CALIFORNIA Avenue Chicago, IL 60618",850000.0
+3,3,2000,"6351 N GLENWOOD Avenue 1S Chicago, IL 60660",548000.0
 2,2,1220,"4872 N KENMORE Avenue 1 Chicago, IL 60640",399000.0
 3,2,1428,"432 N Lawndale Avenue Chicago, IL 60624",289999.0
 6,3,1997,"1428 N Central Avenue Chicago, IL 60651",474900.0
