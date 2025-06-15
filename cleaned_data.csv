@@ -2,7 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1467,"7801 W Summerdale Avenue Chicago, IL 60656",350000.0
 3,2,1800,"3110 N 78th Avenue Elmwood Park, IL 60707",370000.0
 1,1,707,"1919 S Michigan Avenue , 412 Chicago, IL 60616",249000.0
-2,1,1333,"7350 N RIDGE Boulevard 21B Chicago, IL 60645",195500.0
 2,2,1100,"1720 S Michigan Avenue 1608 Chicago, IL 60616",369000.0
 2,1,1100,"5349 N Delphia Avenue 150 Chicago, IL 60656",229900.0
 1,1,848,"222 N Columbus Drive , 912 Chicago, IL 60601",285000.0
@@ -44,6 +43,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,4,2815,"324 E 17th Street Chicago, IL 60616",899000.0
 2,2,1450,"669 N Peoria Street 1N Chicago, IL 60642",529900.0
 1,1,750,"6301 N Sheridan Road 10F Chicago, IL 60660",150000.0
+2,1,1333,"7350 N RIDGE Boulevard 21B Chicago, IL 60645",195500.0
 3,3,2212,"2152 N Tripp Avenue Chicago, IL 60639",650000.0
 4,1,1720,"8439 S Crandon Avenue Chicago, IL 60617",155500.0
 4,1,1300,"8129 S Princeton Avenue Chicago, IL 60620",198500.0
