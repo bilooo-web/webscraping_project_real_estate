@@ -14,18 +14,6 @@ sq.ft.","1720 S Michigan Avenue 1608 Chicago, IL 60616","$369,000"
 "2
 beds",1,"1,100
 sq.ft.","5349 N Delphia Avenue 150 Chicago, IL 60656","$229,900"
-"1
-beds",1,"848
-sq.ft.","222 N Columbus Drive , 912 Chicago, IL 60601","$285,000"
-"3
-beds",3,"2,200
-sq.ft.","2031 W Saint Paul Avenue 2W Chicago, IL 60647","$799,999"
-"3
-beds",3,"2,117
-sq.ft.","1211 S Prairie Avenue 1106 Chicago, IL 60605","$975,000"
-"4
-beds",3,"1,778
-sq.ft.","1724 W 105th Street Chicago, IL 60643","$449,000"
 "5
 beds",2,"2,600
 sq.ft.","1702 N Lawndale Avenue Chicago, IL 60647","$695,000"
@@ -53,9 +41,6 @@ sq.ft.","2743 W 83rd Street Chicago, IL 60652","$375,000"
 "5
 beds",3,"2,600
 sq.ft.","5863 N Kenmore Avenue 2 Chicago, IL 60660","$700,000"
-"2
-beds",2,"1,260
-sq.ft.","740 S Federal Street 301 Chicago, IL 60605","$315,000"
 "4
 beds",4,"5,100
 sq.ft.","3806 N Lowell Avenue Chicago, IL 60641","$2,289,000"
@@ -368,6 +353,9 @@ sq.ft.","118 E Erie Street 14B Chicago, IL 60611","$875,000"
 "3
 beds",4,"3,378
 sq.ft.","4249 N Spaulding Avenue Chicago, IL 60618","$849,000"
+"3
+beds",3,"2,200
+sq.ft.","2031 W Saint Paul Avenue 2W Chicago, IL 60647","$799,999"
 "2
 beds",2,"1,559
 sq.ft.","25 E Superior Street 2302 Chicago, IL 60611","$759,000"
@@ -575,6 +563,9 @@ sq.ft.","8540 S Rhodes Avenue Chicago, IL 60619","$58,000"
 "4
 beds",2,"1,709
 sq.ft.","2058 W Washington Boulevard Chicago, IL 60612","$625,000"
+"1
+beds",1,"848
+sq.ft.","222 N Columbus Drive , 912 Chicago, IL 60601","$285,000"
 "5
 beds",3,"5,100
 sq.ft.","3745 N Lakewood Avenue Chicago, IL 60613","$2,700,000"
@@ -593,6 +584,9 @@ sq.ft.","4741 S Drexel Boulevard Chicago, IL 60615","$1,249,000"
 "2
 beds",3,"2,800
 sq.ft.","1040 N Lake Shore Drive 34C Chicago, IL 60611","$1,149,000"
+"3
+beds",3,"2,117
+sq.ft.","1211 S Prairie Avenue 1106 Chicago, IL 60605","$975,000"
 "5
 beds",3,"3,600
 sq.ft.","4932 S Martin Luther King Drive Chicago, IL 60653","$949,000"
@@ -1466,6 +1460,9 @@ sq.ft.","1529 S State Street 11B Chicago, IL 60605","$339,000"
 "3
 beds",2,"1,093
 sq.ft.","3801 S Lombard Avenue Cicero, IL 60804","$319,900"
+"2
+beds",2,"1,260
+sq.ft.","740 S Federal Street 301 Chicago, IL 60605","$315,000"
 "1
 beds",1,"750
 sq.ft.","100 E Walton Street 22H Chicago, IL 60611","$310,000"
@@ -1934,6 +1931,9 @@ sq.ft.","175 E DELAWARE Place 4803 Chicago, IL 60611","$510,000"
 "6
 beds",4,"4,000
 sq.ft.","6846 S Cregier Avenue Chicago, IL 60649","$475,500"
+"4
+beds",3,"1,778
+sq.ft.","1724 W 105th Street Chicago, IL 60643","$449,000"
 "3
 beds",2,"1,735
 sq.ft.","9601 S Claremont Avenue Chicago, IL 60643","$439,900"
