@@ -53,6 +53,21 @@ sq.ft.","234 W Polk Street 2409 Chicago, IL 60607","$670,000"
 "1
 beds",1,"740
 sq.ft.","234 W Polk Street 2506 Chicago, IL 60607","$500,000"
+"1
+beds",1,"1,244
+sq.ft.","340 E Randolph Street 1106 Chicago, IL 60601","$565,000"
+"4
+beds",2,"1,332
+sq.ft.","4843 W Schubert Avenue Chicago, IL 60639","$459,900"
+"4
+beds",3,"2,156
+sq.ft.","3425 W Carroll Avenue Chicago, IL 60624","$445,000"
+"1
+beds",1,"800
+sq.ft.","659 W Randolph Street 1115 Chicago, IL 60661","$300,000"
+"3
+beds",1,"1,234
+sq.ft.","10201 S California Avenue Chicago, IL 60655","$294,900"
 "2
 beds",2,"1,223
 sq.ft.","234 W Polk Street 3809 Chicago, IL 60607","$740,000"
@@ -62,6 +77,9 @@ sq.ft.","11234 S LAWLER Avenue Alsip, IL 60803","$579,000"
 "2
 beds",2,"1,225
 sq.ft.","300 N State Street 5320 Chicago, IL 60654","$375,000"
+"3
+beds",1,"1,200
+sq.ft.","2159 N Nordica Avenue Chicago, IL 60707","$369,000"
 "2
 beds",2,"950
 sq.ft.","3909 W 71st Street Chicago, IL 60629","$293,000"
@@ -179,6 +197,9 @@ sq.ft.","4857 N Drake Avenue G Chicago, IL 60625","$240,000"
 "2
 beds",2,"1,200
 sq.ft.","10342 S Eberhart Avenue Chicago, IL 60628","$239,900"
+"6
+beds",2,"1,800
+sq.ft.","8127 S Blackstone Avenue Chicago, IL 60619","$229,900"
 "1
 beds",1,"900
 sq.ft.","4250 N Marine Drive 1013 Chicago, IL 60613","$210,000"
@@ -2832,9 +2853,6 @@ sq.ft.","3519 N CENTRAL Avenue 3B Chicago, IL 60634","$189,900"
 beds",1,"1,070
 sq.ft.","10244 S Crandon Avenue Chicago, IL 60617","$179,900"
 "1
-beds",1,"1,200
-sq.ft.","6301 N Sheridan Road 20K Chicago, IL 60660","$179,900"
-"1
 beds",1,"800
 sq.ft.","6171 N Sheridan Road 2103 Chicago, IL 60660","$175,000"
 "3
@@ -2842,7 +2860,7 @@ beds",1,"1,296
 sq.ft.","7843 S Yates Boulevard Chicago, IL 60649","$140,000"
 "3
 beds",2,"1,240
-sq.ft.","501 W 60th Place 3 Chicago, IL 60621","$135,900"
+sq.ft.","501 W 60th Place 3 Chicago, IL 60621","$130,999"
 "2
 beds",1,"1,090
 sq.ft.","8737 S Wood Street Chicago, IL 60620","$99,000"
@@ -2918,9 +2936,6 @@ sq.ft.","1111 S Wabash Avenue 1604 Chicago, IL 60605","$450,000"
 "3
 beds",2,"1,245
 sq.ft.","6311 N Kedvale Avenue Chicago, IL 60646","$449,900"
-"4
-beds",3,"2,156
-sq.ft.","3425 W Carroll Avenue Chicago, IL 60624","$445,000"
 "2
 beds",2,"1,404
 sq.ft.","Chicago, IL 60656","$429,000"
@@ -3008,18 +3023,3 @@ sq.ft.","3524 N Lawndale Avenue 1G Chicago, IL 60618","$187,500"
 "4
 beds",3,"1,400
 sq.ft.","5300 S Shore Drive 122 Chicago, IL 60615","$175,000"
-"2
-beds",1,"805
-sq.ft.","925 E 61ST Street 3 Chicago, IL 60637","$155,000"
-"2
-beds",1,"1,100
-sq.ft.","6104 S Kimbark Avenue 1 Chicago, IL 60637","$149,999"
-"2
-beds",1,"850
-sq.ft.","346 E 41st Street 2 Chicago, IL 60653","$119,900"
-"5
-beds",2,"1,837
-sq.ft.","7118 S Morgan Street Chicago, IL 60621","$109,900"
-"6
-beds",1,"1,505
-sq.ft.","132 W 118th Street Chicago, IL 60628","$45,000"

@@ -15,9 +15,15 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,935,"234 W Polk Street 2608 Chicago, IL 60607",550000.0
 2,2,1223,"234 W Polk Street 2409 Chicago, IL 60607",670000.0
 1,1,740,"234 W Polk Street 2506 Chicago, IL 60607",500000.0
+1,1,1244,"340 E Randolph Street 1106 Chicago, IL 60601",565000.0
+4,2,1332,"4843 W Schubert Avenue Chicago, IL 60639",459900.0
+4,3,2156,"3425 W Carroll Avenue Chicago, IL 60624",445000.0
+1,1,800,"659 W Randolph Street 1115 Chicago, IL 60661",300000.0
+3,1,1234,"10201 S California Avenue Chicago, IL 60655",294900.0
 2,2,1223,"234 W Polk Street 3809 Chicago, IL 60607",740000.0
 5,3,2800,"11234 S LAWLER Avenue Alsip, IL 60803",579000.0
 2,2,1225,"300 N State Street 5320 Chicago, IL 60654",375000.0
+3,1,1200,"2159 N Nordica Avenue Chicago, IL 60707",369000.0
 2,2,950,"3909 W 71st Street Chicago, IL 60629",293000.0
 2,1,1041,"3043 W 96th Place Evergreen Park, IL 60805",257000.0
 4,1,1165,"7704 S Homan Avenue Chicago, IL 60652",115000.0
@@ -54,6 +60,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1800,"1900 W 83rd Street 0 Chicago, IL 60620",249900.0
 2,2,1000,"4857 N Drake Avenue G Chicago, IL 60625",240000.0
 2,2,1200,"10342 S Eberhart Avenue Chicago, IL 60628",239900.0
+6,2,1800,"8127 S Blackstone Avenue Chicago, IL 60619",229900.0
 1,1,900,"4250 N Marine Drive 1013 Chicago, IL 60613",210000.0
 3,1,1024,"13815 S TRACY Avenue Riverdale, IL 60827",189900.0
 1,1,638,"5117 N EAST RIVER Road 1A Chicago, IL 60656",179500.0
@@ -246,7 +253,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,650,"827 W Lawrence Avenue 3N Chicago, IL 60640",199900.0
 2,2,1003,"11219 S Wallace Street Chicago, IL 60628",175000.0
 1,1,716,"128 W 115th Street Chicago, IL 60628",131999.0
-3,3,2606,"460 W DEMING Place 1E Chicago, IL 60614",1050000.0
 3,2,1735,"1200 W Monroe Street 808 Chicago, IL 60607",925000.0
 4,3,2781,"400 S Green Street 305 Chicago, IL 60607",899999.0
 2,2,1194,"211 N Harbor Drive 2101 Chicago, IL 60601",860000.0
@@ -723,8 +729,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1253,"12416 S Carpenter Street Calumet Park, IL 60827",149900.0
 2,2,1461,"6700 S CRANDON Avenue 7B Chicago, IL 60649",134900.0
 2,1,1300,"6953 S Loomis Boulevard Chicago, IL 60636",134000.0
-3,2,2200,"919 N LARRABEE Street 3N Chicago, IL 60610",1050000.0
-3,2,1885,"57 E Delaware Place 1605 Chicago, IL 60611",1049888.0
 3,3,2082,"2 E Erie Street 1605 Chicago, IL 60611",999999.0
 2,2,1725,"270 E PEARSON Street 602 Chicago, IL 60611",945000.0
 3,2,2300,"1043 W Wolfram Street 1 Chicago, IL 60657",875000.0
@@ -863,10 +867,9 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1333,"7350 N RIDGE Boulevard 21B Chicago, IL 60645",195500.0
 2,1,1000,"3519 N CENTRAL Avenue 3B Chicago, IL 60634",189900.0
 3,1,1070,"10244 S Crandon Avenue Chicago, IL 60617",179900.0
-1,1,1200,"6301 N Sheridan Road 20K Chicago, IL 60660",179900.0
 1,1,800,"6171 N Sheridan Road 2103 Chicago, IL 60660",175000.0
 3,1,1296,"7843 S Yates Boulevard Chicago, IL 60649",140000.0
-3,2,1240,"501 W 60th Place 3 Chicago, IL 60621",135900.0
+3,2,1240,"501 W 60th Place 3 Chicago, IL 60621",130999.0
 2,1,1090,"8737 S Wood Street Chicago, IL 60620",99000.0
 3,1,780,"7703 S Loomis Boulevard Chicago, IL 60620",89900.0
 4,2,1248,"11842 S STATE Street Chicago, IL 60628",75000.0
@@ -886,7 +889,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1902,"4316 N Sayre Avenue Norridge, IL 60706",465000.0
 2,2,1238,"1111 S Wabash Avenue 1604 Chicago, IL 60605",450000.0
 3,2,1245,"6311 N Kedvale Avenue Chicago, IL 60646",449900.0
-4,3,2156,"3425 W Carroll Avenue Chicago, IL 60624",445000.0
 2,2,1404,"Chicago, IL 60656",429000.0
 3,2,1200,"3145 N NORMANDY Avenue Chicago, IL 60634",399900.0
 3,2,2200,"1500 W Monroe Street 727 Chicago, IL 60607",399000.0
@@ -916,8 +918,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,5000,"9716 S Union Avenue Chicago, IL 60628",198999.0
 2,1,900,"3524 N Lawndale Avenue 1G Chicago, IL 60618",187500.0
 4,3,1400,"5300 S Shore Drive 122 Chicago, IL 60615",175000.0
-2,1,805,"925 E 61ST Street 3 Chicago, IL 60637",155000.0
-2,1,1100,"6104 S Kimbark Avenue 1 Chicago, IL 60637",149999.0
-2,1,850,"346 E 41st Street 2 Chicago, IL 60653",119900.0
-5,2,1837,"7118 S Morgan Street Chicago, IL 60621",109900.0
-6,1,1505,"132 W 118th Street Chicago, IL 60628",45000.0
