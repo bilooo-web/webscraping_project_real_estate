@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-2,2,1467,"7801 W Summerdale Avenue Chicago, IL 60656",350000.0
 4,1,1720,"8439 S Crandon Avenue Chicago, IL 60617",155500.0
 4,1,1300,"8129 S Princeton Avenue Chicago, IL 60620",198500.0
 3,2,1639,"2257 W Lake Street 101 Chicago, IL 60612",400000.0
@@ -27,6 +26,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,950,"3909 W 71st Street Chicago, IL 60629",293000.0
 2,1,1041,"3043 W 96th Place Evergreen Park, IL 60805",257000.0
 4,1,1165,"7704 S Homan Avenue Chicago, IL 60652",115000.0
+2,2,1467,"7801 W Summerdale Avenue Chicago, IL 60656",350000.0
 3,2,2400,"1304 N Hoyne Avenue 1 Chicago, IL 60622",970000.0
 2,2,1300,"817 W Washington Boulevard 503 Chicago, IL 60607",674900.0
 4,2,1200,"2416 W BELDEN Avenue Chicago, IL 60647",599000.0
