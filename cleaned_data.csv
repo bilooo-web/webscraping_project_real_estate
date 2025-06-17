@@ -1,6 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-4,1,1720,"8439 S Crandon Avenue Chicago, IL 60617",155500.0
-4,1,1300,"8129 S Princeton Avenue Chicago, IL 60620",198500.0
 3,2,1639,"2257 W Lake Street 101 Chicago, IL 60612",400000.0
 4,1,1362,"Chicago, IL 60619",159000.0
 3,3,1800,"7015 S Indiana Avenue Chicago, IL 60637",349999.0
@@ -199,6 +197,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,850,"6560 W Diversey Avenue 417 Chicago, IL 60707",240000.0
 1,1,783,"1460 N Sandburg Terrace Terrace 1508A Chicago, IL 60610",239000.0
 1,1,800,"1255 S STATE Street 1704 Chicago, IL 60605",230000.0
+4,1,1300,"8129 S Princeton Avenue Chicago, IL 60620",198500.0
 4,1,1400,"12249 S Perry Avenue Chicago, IL 60628",159999.0
 1,1,750,"2411 W Balmoral Avenue 1F Chicago, IL 60625",155000.0
 2,2,1092,"8723 S Hermitage Avenue Chicago, IL 60620",149000.0
@@ -252,6 +251,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1000,"2131 N Harlem Avenue 231 Chicago, IL 60707",210000.0
 1,1,650,"827 W Lawrence Avenue 3N Chicago, IL 60640",199900.0
 2,2,1003,"11219 S Wallace Street Chicago, IL 60628",175000.0
+4,1,1720,"8439 S Crandon Avenue Chicago, IL 60617",155500.0
 1,1,716,"128 W 115th Street Chicago, IL 60628",131999.0
 3,2,1735,"1200 W Monroe Street 808 Chicago, IL 60607",925000.0
 4,3,2781,"400 S Green Street 305 Chicago, IL 60607",899999.0

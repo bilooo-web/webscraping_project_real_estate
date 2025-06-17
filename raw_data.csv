@@ -1,13 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"4
-beds",1,"1,720
-sq.ft.","8439 S Crandon Avenue Chicago, IL 60617","$155,500"
 "5
 beds",3,"3,415
 sq.ft.","1333 E Madison Park Chicago, IL 60615","$1,375,000"
-"4
-beds",1,"1,300
-sq.ft.","8129 S Princeton Avenue Chicago, IL 60620","$198,500"
 "3
 beds",2,"1,639
 sq.ft.","2257 W Lake Street 101 Chicago, IL 60612","$400,000"
@@ -636,6 +630,9 @@ sq.ft.","1460 N Sandburg Terrace Terrace 1508A Chicago, IL 60610","$239,000"
 beds",1,"800
 sq.ft.","1255 S STATE Street 1704 Chicago, IL 60605","$230,000"
 "4
+beds",1,"1,300
+sq.ft.","8129 S Princeton Avenue Chicago, IL 60620","$198,500"
+"4
 beds",1,"1,400
 sq.ft.","12249 S Perry Avenue Chicago, IL 60628","$159,999"
 "1
@@ -797,6 +794,9 @@ sq.ft.","827 W Lawrence Avenue 3N Chicago, IL 60640","$199,900"
 "2
 beds",2,"1,003
 sq.ft.","11219 S Wallace Street Chicago, IL 60628","$175,000"
+"4
+beds",1,"1,720
+sq.ft.","8439 S Crandon Avenue Chicago, IL 60617","$155,500"
 "1
 beds",1,"716
 sq.ft.","128 W 115th Street Chicago, IL 60628","$131,999"
