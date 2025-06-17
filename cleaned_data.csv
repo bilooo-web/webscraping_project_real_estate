@@ -1,4 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
+2,2,1310,"3454 N Ashland Avenue , 4S Chicago, IL 60657",575000.0
+1,1,900,"4250 N Marine Drive , 1404 Chicago, IL 60613",219000.0
 2,2,1510,"25 E Superior Street 1801 Chicago, IL 60611",750000.0
 2,1,950,"3150 N Sheffield Avenue 205 Chicago, IL 60657",349900.0
 4,3,2904,"3019 W CORNELIA Avenue Chicago, IL 60618",789000.0
@@ -12,6 +14,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1362,"Chicago, IL 60619",159000.0
 3,2,2500,"7658 S Greenwood Avenue Chicago, IL 60619",365000.0
 3,2,1345,"8325 W Maple Avenue Norridge, IL 60706",449000.0
+7,3,3389,"5706 N New Hampshire Avenue Chicago, IL 60631",885000.0
 2,2,1226,"1600 S Prairie Avenue 1204 Chicago, IL 60616",425000.0
 3,3,1800,"7015 S Indiana Avenue Chicago, IL 60637",349999.0
 3,3,1374,"1718 N Clybourn Avenue 1 Chicago, IL 60614",700000.0
@@ -869,7 +872,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1542,"1112 N Monitor Avenue Chicago, IL 60651",135000.0
 4,2,1095,"7649 S Dobson Avenue Chicago, IL 60619",94900.0
 5,2,1400,"114 W 108th Place Chicago, IL 60628",57900.0
-7,3,3389,"5706 N New Hampshire Avenue Chicago, IL 60631",885000.0
 4,3,2388,"6205 W Grace Street Chicago, IL 60634",749900.0
 2,2,1250,"660 W Wayman Street , 701 Chicago, IL 60661",530000.0
 3,3,3693,"5843 N Oconto Avenue Chicago, IL 60631",879000.0
@@ -917,5 +919,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1090,"8737 S Wood Street Chicago, IL 60620",99000.0
 3,1,780,"7703 S Loomis Boulevard Chicago, IL 60620",89900.0
 4,2,1248,"11842 S STATE Street Chicago, IL 60628",75000.0
-2,1,931,"2523 E 97th Place Chicago, IL 60617",48000.0
-2,2,1210,"1629 S Prairie Avenue , 1503 Chicago, IL 60616",499000.0

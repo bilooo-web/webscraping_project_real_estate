@@ -1,4 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",2,"1,310
+sq.ft.","3454 N Ashland Avenue , 4S Chicago, IL 60657","$575,000"
+"1
+beds",1,"900
+sq.ft.","4250 N Marine Drive , 1404 Chicago, IL 60613","$219,000"
 "3
 beds",2,"2,700
 sq.ft.","24 W ERIE Street 3 Chicago, IL 60654","$1,675,000"
@@ -47,6 +53,9 @@ sq.ft.","7658 S Greenwood Avenue Chicago, IL 60619","$365,000"
 "3
 beds",2,"1,345
 sq.ft.","8325 W Maple Avenue Norridge, IL 60706","$449,000"
+"7
+beds",3,"3,389
+sq.ft.","5706 N New Hampshire Avenue Chicago, IL 60631","$885,000"
 "2
 beds",2,"1,226
 sq.ft.","1600 S Prairie Avenue 1204 Chicago, IL 60616","$425,000"
@@ -2861,9 +2870,6 @@ sq.ft.","7649 S Dobson Avenue Chicago, IL 60619","$94,900"
 "5
 beds",2,"1,400
 sq.ft.","114 W 108th Place Chicago, IL 60628","$57,900"
-"7
-beds",3,"3,389
-sq.ft.","5706 N New Hampshire Avenue Chicago, IL 60631","$885,000"
 "4
 beds",3,"2,388
 sq.ft.","6205 W Grace Street Chicago, IL 60634","$749,900"
@@ -3017,9 +3023,3 @@ sq.ft.","7703 S Loomis Boulevard Chicago, IL 60620","$89,900"
 "4
 beds",2,"1,248
 sq.ft.","11842 S STATE Street Chicago, IL 60628","$75,000"
-"2
-beds",1,"931
-sq.ft.","2523 E 97th Place Chicago, IL 60617","$48,000"
-"2
-beds",2,"1,210
-sq.ft.","1629 S Prairie Avenue , 1503 Chicago, IL 60616","$499,000"
