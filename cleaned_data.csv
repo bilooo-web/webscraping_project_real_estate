@@ -1,8 +1,8 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2,1310,"3454 N Ashland Avenue , 4S Chicago, IL 60657",575000.0
+3,2,1368,"2130 W Highland Avenue Chicago, IL 60659",479000.0
+3,2,1200,"3639 W 69th Street Chicago, IL 60629",219900.0
 1,1,900,"4250 N Marine Drive , 1404 Chicago, IL 60613",219000.0
-2,2,1510,"25 E Superior Street 1801 Chicago, IL 60611",750000.0
-2,1,950,"3150 N Sheffield Avenue 205 Chicago, IL 60657",349900.0
 4,3,2904,"3019 W CORNELIA Avenue Chicago, IL 60618",789000.0
 2,2,1400,"6829 N LAKEWOOD Avenue 3 Chicago, IL 60626",349900.0
 2,2,1300,"4717 N KENMORE Avenue GS Chicago, IL 60640",350000.0
@@ -338,6 +338,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1269,"3437 S Morgan Street 2E Chicago, IL 60608",379000.0
 2,2,1100,"1720 S Michigan Avenue 1608 Chicago, IL 60616",369000.0
 3,3,1975,"6416 W MCLEAN Avenue 6416 Chicago, IL 60707",350000.0
+2,1,950,"3150 N Sheffield Avenue 205 Chicago, IL 60657",349900.0
 4,2,1500,"9443 S Racine Avenue Chicago, IL 60620",338000.0
 4,2,1825,"8245 S Justine Street Chicago, IL 60620",329000.0
 1,1,841,"910 N Lake Shore Drive 1216 Chicago, IL 60611",315000.0
@@ -407,6 +408,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,3600,"2342 N Hamlin Avenue Chicago, IL 60647",979000.0
 4,4,3720,"3305 S Racine Avenue Chicago, IL 60608",899990.0
 3,2,1800,"849 N Franklin Street 618 Chicago, IL 60610",849000.0
+2,2,1510,"25 E Superior Street 1801 Chicago, IL 60611",750000.0
 3,2,1800,"1500 N Cleveland Avenue 4 Chicago, IL 60610",725000.0
 2,2,1361,"240 E Illinois Street 2206 Chicago, IL 60611",699000.0
 4,2,2287,"3445 W 114th Street Chicago, IL 60655",629000.0
@@ -917,5 +919,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1296,"7843 S Yates Boulevard Chicago, IL 60649",140000.0
 3,2,1240,"501 W 60th Place 3 Chicago, IL 60621",130999.0
 2,1,1090,"8737 S Wood Street Chicago, IL 60620",99000.0
-3,1,780,"7703 S Loomis Boulevard Chicago, IL 60620",89900.0
-4,2,1248,"11842 S STATE Street Chicago, IL 60628",75000.0
