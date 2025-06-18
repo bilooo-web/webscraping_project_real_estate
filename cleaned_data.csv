@@ -1,4 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
+1,1,800,"933 W Van Buren Street , 424 Chicago, IL 60607",299800.0
+1,1,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",649000.0
 2,2,1310,"3454 N Ashland Avenue , 4S Chicago, IL 60657",575000.0
 3,2,1368,"2130 W Highland Avenue Chicago, IL 60659",479000.0
 3,2,1200,"3639 W 69th Street Chicago, IL 60629",219900.0
@@ -919,5 +921,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1542,"1112 N Monitor Avenue Chicago, IL 60651",135000.0
 4,2,1095,"7649 S Dobson Avenue Chicago, IL 60619",94900.0
 5,2,1400,"114 W 108th Place Chicago, IL 60628",57900.0
-4,3,2388,"6205 W Grace Street Chicago, IL 60634",749900.0
-2,2,1250,"660 W Wayman Street , 701 Chicago, IL 60661",530000.0

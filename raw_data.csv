@@ -1,4 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"800
+sq.ft.","933 W Van Buren Street , 424 Chicago, IL 60607","$299,800"
+"1
+beds",1,"1,314
+sq.ft.","401 N Wabash Avenue , 39G Chicago, IL 60611","$649,000"
 "2
 beds",2,"1,310
 sq.ft.","3454 N Ashland Avenue , 4S Chicago, IL 60657","$575,000"
@@ -3017,9 +3023,3 @@ sq.ft.","7649 S Dobson Avenue Chicago, IL 60619","$94,900"
 "5
 beds",2,"1,400
 sq.ft.","114 W 108th Place Chicago, IL 60628","$57,900"
-"4
-beds",3,"2,388
-sq.ft.","6205 W Grace Street Chicago, IL 60634","$749,900"
-"2
-beds",2,"1,250
-sq.ft.","660 W Wayman Street , 701 Chicago, IL 60661","$530,000"
