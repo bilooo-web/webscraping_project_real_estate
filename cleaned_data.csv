@@ -1,7 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2,1310,"3454 N Ashland Avenue , 4S Chicago, IL 60657",575000.0
-3,2,1368,"2130 W Highland Avenue Chicago, IL 60659",479000.0
-3,2,1200,"3639 W 69th Street Chicago, IL 60629",219900.0
 1,1,900,"4250 N Marine Drive , 1404 Chicago, IL 60613",219000.0
 4,3,2904,"3019 W CORNELIA Avenue Chicago, IL 60618",789000.0
 2,2,1400,"6829 N LAKEWOOD Avenue 3 Chicago, IL 60626",349900.0
@@ -919,3 +917,5 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1296,"7843 S Yates Boulevard Chicago, IL 60649",140000.0
 3,2,1240,"501 W 60th Place 3 Chicago, IL 60621",130999.0
 2,1,1090,"8737 S Wood Street Chicago, IL 60620",99000.0
+3,1,780,"7703 S Loomis Boulevard Chicago, IL 60620",89900.0
+4,2,1248,"11842 S STATE Street Chicago, IL 60628",75000.0
