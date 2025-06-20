@@ -1,22 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",2,"929
+sq.ft.","6035 S Archer Avenue , 2S Chicago, IL 60638","$185,000"
 "1
 beds",1,"800
 sq.ft.","933 W Van Buren Street , 424 Chicago, IL 60607","$299,800"
-"1
-beds",1,"1,314
-sq.ft.","401 N Wabash Avenue , 39G Chicago, IL 60611","$649,000"
-"2
-beds",2,"1,310
-sq.ft.","3454 N Ashland Avenue , 4S Chicago, IL 60657","$575,000"
-"3
-beds",2,"1,368
-sq.ft.","2130 W Highland Avenue Chicago, IL 60659","$479,000"
-"3
-beds",2,"1,200
-sq.ft.","3639 W 69th Street Chicago, IL 60629","$219,900"
-"1
-beds",1,"900
-sq.ft.","4250 N Marine Drive , 1404 Chicago, IL 60613","$219,000"
 "3
 beds",2,"1,121
 sq.ft.","2743 W 83rd Street Chicago, IL 60652","$375,000"
@@ -323,6 +311,21 @@ sq.ft.","4800 S Chicago Beach Drive 702S Chicago, IL 60615","$145,000"
 "4
 beds",2,"1,594
 sq.ft.","7618 S Drexel Avenue Chicago, IL 60619","$140,000"
+"1
+beds",1,"1,314
+sq.ft.","401 N Wabash Avenue , 39G Chicago, IL 60611","$649,000"
+"2
+beds",2,"1,310
+sq.ft.","3454 N Ashland Avenue , 4S Chicago, IL 60657","$575,000"
+"3
+beds",2,"1,368
+sq.ft.","2130 W Highland Avenue Chicago, IL 60659","$479,000"
+"3
+beds",2,"1,200
+sq.ft.","3639 W 69th Street Chicago, IL 60629","$219,900"
+"1
+beds",1,"900
+sq.ft.","4250 N Marine Drive , 1404 Chicago, IL 60613","$219,000"
 "5
 beds",4,"6,500
 sq.ft.","34 E BELLEVUE Place Chicago, IL 60611","$3,500,000"
@@ -3020,6 +3023,3 @@ sq.ft.","7649 S Dobson Avenue Chicago, IL 60619","$94,900"
 "5
 beds",2,"1,400
 sq.ft.","114 W 108th Place Chicago, IL 60628","$57,900"
-"4
-beds",3,"2,388
-sq.ft.","6205 W Grace Street Chicago, IL 60634","$749,900"
