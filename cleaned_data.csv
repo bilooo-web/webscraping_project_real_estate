@@ -1,4 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
+2,2,929,"6035 S Archer Avenue , 2S Chicago, IL 60638",185000.0
+1,1,842,"6157 N sheridan Road 9J Chicago, IL 60660",179900.0
 1,1,800,"933 W Van Buren Street , 424 Chicago, IL 60607",299800.0
 2,2,1200,"1322 S Prairie Avenue 406 Chicago, IL 60605",538900.0
 5,3,2400,"11173 S Hermosa Avenue Chicago, IL 60643",455500.0
@@ -920,5 +922,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1542,"1112 N Monitor Avenue Chicago, IL 60651",135000.0
 4,2,1095,"7649 S Dobson Avenue Chicago, IL 60619",94900.0
 5,2,1400,"114 W 108th Place Chicago, IL 60628",57900.0
-4,3,2388,"6205 W Grace Street Chicago, IL 60634",749900.0
-2,2,1250,"660 W Wayman Street , 701 Chicago, IL 60661",530000.0
