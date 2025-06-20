@@ -1,16 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"2
-beds",2,"929
-sq.ft.","6035 S Archer Avenue , 2S Chicago, IL 60638","$185,000"
 "1
 beds",1,"800
 sq.ft.","933 W Van Buren Street , 424 Chicago, IL 60607","$299,800"
-"3
-beds",2,"1,121
-sq.ft.","2743 W 83rd Street Chicago, IL 60652","$375,000"
-"5
-beds",2,"1,994
-sq.ft.","11125 S Fairfield Avenue Chicago, IL 60655","$299,999"
 "2
 beds",2,"1,200
 sq.ft.","1322 S Prairie Avenue 406 Chicago, IL 60605","$538,900"
@@ -83,6 +74,9 @@ sq.ft.","2231 N Lawndale Avenue Chicago, IL 60647","$825,000"
 "2
 beds",2,"1,500
 sq.ft.","5055 N California Avenue 1S Chicago, IL 60625","$425,000"
+"3
+beds",2,"1,121
+sq.ft.","2743 W 83rd Street Chicago, IL 60652","$375,000"
 "4
 beds",1,"1,362
 sq.ft.","Chicago, IL 60619","$159,000"
@@ -3023,3 +3017,9 @@ sq.ft.","7649 S Dobson Avenue Chicago, IL 60619","$94,900"
 "5
 beds",2,"1,400
 sq.ft.","114 W 108th Place Chicago, IL 60628","$57,900"
+"4
+beds",3,"2,388
+sq.ft.","6205 W Grace Street Chicago, IL 60634","$749,900"
+"2
+beds",2,"1,250
+sq.ft.","660 W Wayman Street , 701 Chicago, IL 60661","$530,000"
