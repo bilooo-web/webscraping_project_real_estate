@@ -1,12 +1,12 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2,929,"6035 S Archer Avenue , 2S Chicago, IL 60638",185000.0
 1,1,842,"6157 N sheridan Road 9J Chicago, IL 60660",179900.0
-1,1,800,"933 W Van Buren Street , 424 Chicago, IL 60607",299800.0
 2,2,1200,"1322 S Prairie Avenue 406 Chicago, IL 60605",538900.0
 3,2,2000,"608 N DAMEN Avenue Chicago, IL 60622",674900.0
 1,1,850,"2035 W Fargo Avenue 3 Chicago, IL 60645",176000.0
 4,3,2400,"11173 S Hermosa Avenue Chicago, IL 60643",455500.0
 3,2,2000,"3056 N Paulina Street Chicago, IL 60657",900000.0
+2,2,1310,"3454 N Ashland Avenue , 4S Chicago, IL 60657",575000.0
 4,3,2904,"3019 W CORNELIA Avenue Chicago, IL 60618",789000.0
 3,1,1200,"2118 W North Avenue BS Chicago, IL 60647",394999.0
 2,2,1400,"6829 N LAKEWOOD Avenue 3 Chicago, IL 60626",349900.0
@@ -275,7 +275,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,796,"4800 S Chicago Beach Drive 702S Chicago, IL 60615",145000.0
 4,2,1594,"7618 S Drexel Avenue Chicago, IL 60619",140000.0
 1,1,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",649000.0
-2,2,1310,"3454 N Ashland Avenue , 4S Chicago, IL 60657",575000.0
 3,2,1368,"2130 W Highland Avenue Chicago, IL 60659",479000.0
 3,2,1200,"3639 W 69th Street Chicago, IL 60629",219900.0
 1,1,900,"4250 N Marine Drive , 1404 Chicago, IL 60613",219000.0
@@ -919,3 +918,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2297,"Chicago, IL 60645",699900.0
 2,2,1100,"2142 W Madison Street , 1 Chicago, IL 60612",275000.0
 4,3,2400,"456 E North Water Street H Chicago, IL 60611",949000.0
+3,2,1770,"4912 N Lincoln Avenue 501 Chicago, IL 60625",850000.0
