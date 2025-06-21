@@ -1,8 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
-3,2,1700,"2105 N 73rd Avenue Elmwood Park, IL 60707",369000.0
 2,2,929,"6035 S Archer Avenue , 2S Chicago, IL 60638",185000.0
 1,1,842,"6157 N sheridan Road 9J Chicago, IL 60660",179900.0
-3,2,2000,"608 N DAMEN Avenue Chicago, IL 60622",674900.0
 1,1,850,"2035 W Fargo Avenue 3 Chicago, IL 60645",176000.0
 4,3,2400,"11173 S Hermosa Avenue Chicago, IL 60643",455500.0
 3,2,2000,"3056 N Paulina Street Chicago, IL 60657",900000.0
@@ -26,6 +24,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,3100,"1415 W WALTON Street 3 Chicago, IL 60642",875000.0
 2,2,1550,"200 E DELAWARE Place 35F Chicago, IL 60611",795000.0
 3,2,2658,"3719 W SHAKESPEARE Avenue Chicago, IL 60647",705000.0
+3,2,2000,"608 N DAMEN Avenue Chicago, IL 60622",674900.0
 2,2,1420,"2511 W Moffat Street 501 Chicago, IL 60647",549000.0
 1,1,860,"400 E Randolph Street 3225 Chicago, IL 60601",399900.0
 1,1,965,"512 N Mcclurg Court 705 Chicago, IL 60611",325000.0
@@ -919,3 +918,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2297,"Chicago, IL 60645",699900.0
 2,2,1100,"2142 W Madison Street , 1 Chicago, IL 60612",275000.0
 4,3,2400,"456 E North Water Street H Chicago, IL 60611",949000.0
+3,2,1770,"4912 N Lincoln Avenue 501 Chicago, IL 60625",850000.0
