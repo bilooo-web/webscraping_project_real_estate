@@ -1,13 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"1,700
+sq.ft.","2105 N 73rd Avenue Elmwood Park, IL 60707","$369,000"
 "2
 beds",2,"929
 sq.ft.","6035 S Archer Avenue , 2S Chicago, IL 60638","$185,000"
 "1
 beds",1,"842
 sq.ft.","6157 N sheridan Road 9J Chicago, IL 60660","$179,900"
-"2
-beds",2,"1,200
-sq.ft.","1322 S Prairie Avenue 406 Chicago, IL 60605","$538,900"
 "3
 beds",2,"2,000
 sq.ft.","608 N DAMEN Avenue Chicago, IL 60622","$674,900"
@@ -1289,6 +1289,9 @@ sq.ft.","4355 S Lake Park Avenue 2N Chicago, IL 60653","$560,000"
 "2
 beds",2,"1,450
 sq.ft.","530 N LAKE SHORE Drive 2408 Chicago, IL 60611","$540,000"
+"2
+beds",2,"1,200
+sq.ft.","1322 S Prairie Avenue 406 Chicago, IL 60605","$538,900"
 "4
 beds",3,"2,700
 sq.ft.","5400 S Hyde Park Boulevard 10C Chicago, IL 60615","$519,000"
@@ -3020,6 +3023,3 @@ sq.ft.","1827 N Larrabee Street 4 Chicago, IL 60614","$1,250,000"
 "4
 beds",3,"2,400
 sq.ft.","456 E North Water Street H Chicago, IL 60611","$949,000"
-"3
-beds",2,"1,770
-sq.ft.","4912 N Lincoln Avenue 501 Chicago, IL 60625","$850,000"

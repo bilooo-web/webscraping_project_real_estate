@@ -1,7 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2,1700,"2105 N 73rd Avenue Elmwood Park, IL 60707",369000.0
 2,2,929,"6035 S Archer Avenue , 2S Chicago, IL 60638",185000.0
 1,1,842,"6157 N sheridan Road 9J Chicago, IL 60660",179900.0
-2,2,1200,"1322 S Prairie Avenue 406 Chicago, IL 60605",538900.0
 3,2,2000,"608 N DAMEN Avenue Chicago, IL 60622",674900.0
 1,1,850,"2035 W Fargo Avenue 3 Chicago, IL 60645",176000.0
 4,3,2400,"11173 S Hermosa Avenue Chicago, IL 60643",455500.0
@@ -385,6 +385,7 @@ bedrooms,bathrooms,square_footage,address,price
 6,3,3841,"4365 W Leland Avenue Chicago, IL 60630",579555.0
 3,3,2600,"4355 S Lake Park Avenue 2N Chicago, IL 60653",560000.0
 2,2,1450,"530 N LAKE SHORE Drive 2408 Chicago, IL 60611",540000.0
+2,2,1200,"1322 S Prairie Avenue 406 Chicago, IL 60605",538900.0
 4,3,2700,"5400 S Hyde Park Boulevard 10C Chicago, IL 60615",519000.0
 2,3,3585,"11844 S Oakley Avenue Chicago, IL 60643",499900.0
 2,2,1200,"500 W Superior Street 1202 Chicago, IL 60654",499000.0
@@ -918,4 +919,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2297,"Chicago, IL 60645",699900.0
 2,2,1100,"2142 W Madison Street , 1 Chicago, IL 60612",275000.0
 4,3,2400,"456 E North Water Street H Chicago, IL 60611",949000.0
-3,2,1770,"4912 N Lincoln Avenue 501 Chicago, IL 60625",850000.0
