@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,3,2946,"5733 S Neenah Avenue Chicago, IL 60638",725000.0
 3,2,1700,"2105 N 73rd Avenue Elmwood Park, IL 60707",369000.0
 1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",255000.0
 4,3,2400,"11173 S Hermosa Avenue Chicago, IL 60643",455500.0
@@ -99,6 +100,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1500,"506 W Oakdale Avenue 1 Chicago, IL 60657",499900.0
 4,3,2914,"9556 S Winchester Avenue Chicago, IL 60643",989000.0
 1,1,900,"4250 N Marine Drive 1104 Chicago, IL 60613",167000.0
+3,2,3000,"2012 W Charleston Street Chicago, IL 60647",1100000.0
 3,2,2395,"2038 N Honore Street Chicago, IL 60614",1050000.0
 5,2,4210,"1419 W Birchwood Avenue Chicago, IL 60626",890000.0
 2,2,950,"3909 W 71st Street Chicago, IL 60629",293000.0
@@ -613,6 +615,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1200,"2700 N Wayne Avenue 2N Chicago, IL 60614",750000.0
 1,1,800,"401 E Ontario Street 1008 Chicago, IL 60611",290000.0
 2,1,900,"7321 W Fullerton Avenue 10 Elmwood Park, IL 60707",178900.0
+5,3,4148,"6013 N Kildare Avenue Chicago, IL 60646",1100000.0
 5,3,2982,"6319 N Whipple Street Chicago, IL 60659",659000.0
 2,2,1080,"5642 W Dakin Street Chicago, IL 60634",479900.0
 2,1,1015,"230 W DIVISION Street 1208 Chicago, IL 60610",390000.0
@@ -923,4 +926,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1025,"3110 N Sheridan Road 1205 Chicago, IL 60657",325000.0
 3,1,1500,"2321 W Birchwood Avenue Chicago, IL 60645",325000.0
 1,1,900,"1629 S Prairie Avenue 1610 Chicago, IL 60616",320000.0
-2,2,1000,"1138 W Pratt Boulevard 2N Chicago, IL 60626",320000.0
