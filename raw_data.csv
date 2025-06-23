@@ -1,7 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"2
-beds",2,"2,391
-sq.ft.","11402 S Calumet Avenue Chicago, IL 60628","$224,900"
 "3
 beds",3,"2,946
 sq.ft.","5733 S Neenah Avenue Chicago, IL 60638","$725,000"
@@ -3023,3 +3020,6 @@ sq.ft.","2314 N Lincoln Park West 11s Chicago, IL 60614","$1,395,000"
 "4
 beds",3,"3,100
 sq.ft.","344 W Goethe Avenue Chicago, IL 60610","$1,339,000"
+"3
+beds",2,"2,000
+sq.ft.","1827 N Larrabee Street 4 Chicago, IL 60614","$1,250,000"
