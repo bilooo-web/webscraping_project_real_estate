@@ -1,7 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2,2391,"11402 S Calumet Avenue Chicago, IL 60628",224900.0
-2,2,1200,"10342 S Eberhart Avenue Chicago, IL 60628",239900.0
-2,2,1700,"1215 W Gunnison Street 202 Chicago, IL 60640",499999.0
 4,2,2800,"1515 E 85th Street Chicago, IL 60619",289900.0
 3,2,1477,"47 W 124th Street Chicago, IL 60628",174900.0
 4,2,1078,"5341 S Aberdeen Street Chicago, IL 60609",204900.0
@@ -12,6 +10,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,1902,"5029 W Superior Street Chicago, IL 60644",392000.0
 2,2,1200,"1322 S Prairie Avenue 406 Chicago, IL 60605",538900.0
 3,2,3300,"909 W Village Court Chicago, IL 60608",925000.0
+2,2,1700,"1215 W Gunnison Street 202 Chicago, IL 60640",499999.0
 2,2,1225,"330 W GRAND Avenue 2106 Chicago, IL 60654",435000.0
 2,1,1331,"900 W AINSLIE Street A Chicago, IL 60640",399000.0
 1,1,905,"843 W Adams Street 402 Chicago, IL 60607",350000.0
@@ -354,6 +353,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,960,"Chicago, IL 60628",249900.0
 2,2,1800,"1900 W 83rd Street 0 Chicago, IL 60620",249900.0
 2,2,1000,"4857 N Drake Avenue G Chicago, IL 60625",240000.0
+2,2,1200,"10342 S Eberhart Avenue Chicago, IL 60628",239900.0
 4,2,1800,"8127 S Blackstone Avenue Chicago, IL 60619",229900.0
 5,1,1835,"8136 S Manistee Avenue Chicago, IL 60617",215000.0
 1,1,900,"4250 N Marine Drive 1013 Chicago, IL 60613",210000.0
@@ -363,6 +363,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1389,"14425 S Emerald Avenue Riverdale, IL 60827",85000.0
 2,1,1080,"10100 S Parnell Avenue Chicago, IL 60628",80000.0
 1,1,700,"7337 S South Shore Drive 708 Chicago, IL 60649",72000.0
+3,2,1800,"3110 N 78th Avenue Elmwood Park, IL 60707",370000.0
 1,1,707,"1919 S Michigan Avenue , 412 Chicago, IL 60616",249000.0
 4,4,2360,"195 N Harbor Drive 801-809 Chicago, IL 60601",995000.0
 2,2,1538,"118 E Erie Street 14B Chicago, IL 60611",875000.0

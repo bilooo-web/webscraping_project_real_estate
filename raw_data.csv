@@ -2,12 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",2,"2,391
 sq.ft.","11402 S Calumet Avenue Chicago, IL 60628","$224,900"
-"2
-beds",2,"1,200
-sq.ft.","10342 S Eberhart Avenue Chicago, IL 60628","$239,900"
-"2
-beds",2,"1,700
-sq.ft.","1215 W Gunnison Street 202 Chicago, IL 60640","$499,999"
 "4
 beds",2,"2,800
 sq.ft.","1515 E 85th Street Chicago, IL 60619","$289,900"
@@ -38,6 +32,9 @@ sq.ft.","1322 S Prairie Avenue 406 Chicago, IL 60605","$538,900"
 "3
 beds",2,"3,300
 sq.ft.","909 W Village Court Chicago, IL 60608","$925,000"
+"2
+beds",2,"1,700
+sq.ft.","1215 W Gunnison Street 202 Chicago, IL 60640","$499,999"
 "2
 beds",2,"1,225
 sq.ft.","330 W GRAND Avenue 2106 Chicago, IL 60654","$435,000"
@@ -1178,6 +1175,9 @@ sq.ft.","1900 W 83rd Street 0 Chicago, IL 60620","$249,900"
 "2
 beds",2,"1,000
 sq.ft.","4857 N Drake Avenue G Chicago, IL 60625","$240,000"
+"2
+beds",2,"1,200
+sq.ft.","10342 S Eberhart Avenue Chicago, IL 60628","$239,900"
 "4
 beds",2,"1,800
 sq.ft.","8127 S Blackstone Avenue Chicago, IL 60619","$229,900"
@@ -1205,6 +1205,9 @@ sq.ft.","10100 S Parnell Avenue Chicago, IL 60628","$80,000"
 "1
 beds",1,"700
 sq.ft.","7337 S South Shore Drive 708 Chicago, IL 60649","$72,000"
+"3
+beds",2,"1,800
+sq.ft.","3110 N 78th Avenue Elmwood Park, IL 60707","$370,000"
 "1
 beds",1,"707
 sq.ft.","1919 S Michigan Avenue , 412 Chicago, IL 60616","$249,000"
@@ -3020,6 +3023,3 @@ sq.ft.","7925 S Ridgeland Avenue Chicago, IL 60617","$119,900"
 "3
 beds",2,"1,580
 sq.ft.","6801 S Crandon Avenue 1 Chicago, IL 60649","$99,900"
-"4
-beds",3,"2,850
-sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,075,000"
