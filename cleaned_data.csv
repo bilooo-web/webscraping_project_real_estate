@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+2,2,1700,"7033 N Kedzie Avenue , 1706 Chicago, IL 60645",195000.0
 2,2,2391,"11402 S Calumet Avenue Chicago, IL 60628",224900.0
 4,2,2800,"1515 E 85th Street Chicago, IL 60619",289900.0
 2,1,850,"5457 W Edmunds Street 1A Chicago, IL 60630",209000.0
@@ -920,4 +921,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,3000,"3645 W Wrightwood Avenue Chicago, IL 60647",799900.0
 3,2,3000,"39 E Schiller Street 1E Chicago, IL 60610",725000.0
 3,2,1650,"3443 N Lincoln Avenue 4A Chicago, IL 60657",699000.0
-2,2,1650,"1529 W Chestnut Street 102 Chicago, IL 60642",675000.0
