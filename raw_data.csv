@@ -1,4 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"800
+sq.ft.","1000 N Lake Shore Drive , 1604 Chicago, IL 60611","$222,500"
+"1
+beds",1,"900
+sq.ft.","6960 N Bell Avenue , 407 Chicago, IL 60645","$195,000"
 "2
 beds",2,"1,700
 sq.ft.","7033 N Kedzie Avenue , 1706 Chicago, IL 60645","$195,000"
@@ -3017,9 +3023,3 @@ sq.ft.","4439 N Saint Louis Avenue Chicago, IL 60625","$879,000"
 "3
 beds",3,"3,000
 sq.ft.","3645 W Wrightwood Avenue Chicago, IL 60647","$799,900"
-"3
-beds",2,"3,000
-sq.ft.","39 E Schiller Street 1E Chicago, IL 60610","$725,000"
-"3
-beds",2,"1,650
-sq.ft.","3443 N Lincoln Avenue 4A Chicago, IL 60657","$699,000"
