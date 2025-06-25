@@ -2,7 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"1000 N Lake Shore Drive , 1604 Chicago, IL 60611",222500.0
 1,1,900,"6960 N Bell Avenue , 407 Chicago, IL 60645",195000.0
 2,2,1700,"7033 N Kedzie Avenue , 1706 Chicago, IL 60645",195000.0
-4,2,2800,"1515 E 85th Street Chicago, IL 60619",289900.0
 2,1,850,"5457 W Edmunds Street 1A Chicago, IL 60630",209000.0
 3,2,1639,"2639 N Sheffield Avenue 2 Chicago, IL 60614",750000.0
 3,2,2350,"1448 W Chestnut Street 3 Chicago, IL 60642",874900.0
@@ -458,6 +457,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,853,"1250 S Michigan Avenue 703 Chicago, IL 60605",299900.0
 2,2,1200,"1217 W Hood Avenue G Chicago, IL 60660",299900.0
 4,2,1530,"8105 S Sawyer Avenue Chicago, IL 60652",295000.0
+4,2,2800,"1515 E 85th Street Chicago, IL 60619",289900.0
 1,1,756,"100 E Walton Street 38H Chicago, IL 60611",285000.0
 1,1,775,"1636 N Wells Street 1907 Chicago, IL 60614",280000.0
 3,2,1900,"6833 N Kedzie Avenue 816 Chicago, IL 60645",274900.0
