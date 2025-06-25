@@ -2,6 +2,12 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "1
 beds",1,"800
 sq.ft.","1000 N Lake Shore Drive , 1604 Chicago, IL 60611","$222,500"
+"2
+beds",1,"1,350
+sq.ft.","1812 S State Street , 28 Chicago, IL 60616","$350,000"
+"2
+beds",3,"2,000
+sq.ft.","353 E Eastgate Place Chicago, IL 60616","$479,000"
 "1
 beds",1,"900
 sq.ft.","6960 N Bell Avenue , 407 Chicago, IL 60645","$195,000"
@@ -11,6 +17,9 @@ sq.ft.","7033 N Kedzie Avenue , 1706 Chicago, IL 60645","$195,000"
 "2
 beds",1,"850
 sq.ft.","5457 W Edmunds Street 1A Chicago, IL 60630","$209,000"
+"2
+beds",1,"1,200
+sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$440,000"
 "2
 beds",1,"1,331
 sq.ft.","900 W AINSLIE Street A Chicago, IL 60640","$399,000"
@@ -1192,7 +1201,7 @@ beds",1,"825
 sq.ft.","3001 S Michigan Avenue 909 Chicago, IL 60616","$130,000"
 "1
 beds",1,"1,314
-sq.ft.","401 N Wabash Avenue , 39G Chicago, IL 60611","$649,000"
+sq.ft.","401 N Wabash Avenue , 39G Chicago, IL 60611","$620,000"
 "2
 beds",2,"1,310
 sq.ft.","3454 N Ashland Avenue , 4S Chicago, IL 60657","$575,000"
@@ -3014,12 +3023,3 @@ sq.ft.","8412 S Michigan Avenue Chicago, IL 60619","$359,900"
 "3
 beds",2,"1,008
 sq.ft.","4531 S Lawler Avenue Chicago, IL 60638","$329,000"
-"1
-beds",1,"700
-sq.ft.","2336 N Commonwealth Avenue 108 Chicago, IL 60614","$225,000"
-"3
-beds",1,"1,200
-sq.ft.","9823 S Ingleside Avenue Chicago, IL 60628","$210,000"
-"2
-beds",1,"800
-sq.ft.","4755 N Malden Street GS Chicago, IL 60640","$200,000"

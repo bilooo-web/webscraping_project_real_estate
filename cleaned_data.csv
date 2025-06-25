@@ -1,8 +1,11 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,800,"1000 N Lake Shore Drive , 1604 Chicago, IL 60611",222500.0
+2,1,1350,"1812 S State Street , 28 Chicago, IL 60616",350000.0
+2,3,2000,"353 E Eastgate Place Chicago, IL 60616",479000.0
 1,1,900,"6960 N Bell Avenue , 407 Chicago, IL 60645",195000.0
 2,2,1700,"7033 N Kedzie Avenue , 1706 Chicago, IL 60645",195000.0
 2,1,850,"5457 W Edmunds Street 1A Chicago, IL 60630",209000.0
+2,1,1200,"757 N Orleans Street , 1104 Chicago, IL 60654",440000.0
 2,1,1331,"900 W AINSLIE Street A Chicago, IL 60640",399000.0
 3,2,1639,"2639 N Sheffield Avenue 2 Chicago, IL 60614",750000.0
 3,2,1589,"8414 S King Drive Chicago, IL 60619",299900.0
@@ -351,7 +354,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,796,"4800 S Chicago Beach Drive 702S Chicago, IL 60615",145000.0
 4,2,1594,"7618 S Drexel Avenue Chicago, IL 60619",140000.0
 1,1,825,"3001 S Michigan Avenue 909 Chicago, IL 60616",130000.0
-1,1,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",649000.0
+1,1,1314,"401 N Wabash Avenue , 39G Chicago, IL 60611",620000.0
 2,2,1310,"3454 N Ashland Avenue , 4S Chicago, IL 60657",575000.0
 3,2,1368,"2130 W Highland Avenue Chicago, IL 60659",479000.0
 3,2,1200,"3639 W 69th Street Chicago, IL 60629",219900.0
@@ -911,6 +914,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,3500,"8431 S Crandon Avenue Chicago, IL 60617",379900.0
 4,3,2500,"8412 S Michigan Avenue Chicago, IL 60619",359900.0
 3,2,1008,"4531 S Lawler Avenue Chicago, IL 60638",329000.0
-1,1,700,"2336 N Commonwealth Avenue 108 Chicago, IL 60614",225000.0
-3,1,1200,"9823 S Ingleside Avenue Chicago, IL 60628",210000.0
-2,1,800,"4755 N Malden Street GS Chicago, IL 60640",200000.0
