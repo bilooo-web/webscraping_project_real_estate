@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,800,"1000 N Lake Shore Drive , 1604 Chicago, IL 60611",222500.0
-2,1,1350,"1812 S State Street , 28 Chicago, IL 60616",350000.0
 2,3,2000,"353 E Eastgate Place Chicago, IL 60616",479000.0
 1,1,900,"6960 N Bell Avenue , 407 Chicago, IL 60645",195000.0
 2,2,1700,"7033 N Kedzie Avenue , 1706 Chicago, IL 60645",195000.0
@@ -52,6 +51,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,4,1444,"5748 W Erie Street Chicago, IL 60644",499000.0
 2,2,1200,"1322 S Prairie Avenue 406 Chicago, IL 60605",538900.0
 4,2,1530,"8105 S Sawyer Avenue Chicago, IL 60652",285000.0
+2,1,1350,"1812 S State Street , 28 Chicago, IL 60616",350000.0
 3,2,1200,"3721 W Ferdinand Street Chicago, IL 60624",292000.0
 4,2,1688,"8207 S Laflin Street Chicago, IL 60620",325000.0
 1,1,725,"300 N State Street 3235 Chicago, IL 60654",325000.0

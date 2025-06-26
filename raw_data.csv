@@ -3,9 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",1,"800
 sq.ft.","1000 N Lake Shore Drive , 1604 Chicago, IL 60611","$222,500"
 "2
-beds",1,"1,350
-sq.ft.","1812 S State Street , 28 Chicago, IL 60616","$350,000"
-"2
 beds",3,"2,000
 sq.ft.","353 E Eastgate Place Chicago, IL 60616","$479,000"
 "1
@@ -185,6 +182,9 @@ sq.ft.","8105 S Sawyer Avenue Chicago, IL 60652","$285,000"
 "4
 beds",4,"3,659
 sq.ft.","1340 W Chestnut Street 303 Chicago, IL 60642","$2,000,000"
+"2
+beds",1,"1,350
+sq.ft.","1812 S State Street , 28 Chicago, IL 60616","$350,000"
 "3
 beds",2,"1,200
 sq.ft.","3721 W Ferdinand Street Chicago, IL 60624","$292,000"
