@@ -2,7 +2,7 @@ import pandas as pd
 import re
 
 # Load raw data
-df = pd.read_csv("webscraping_project_real_estate/raw_data.csv")
+df = pd.read_csv("raw_data.csv")
 
 # Normalize column names to match `scraper.py`
 df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
@@ -30,5 +30,5 @@ df = df[(df['price'] >= Q1 - 1.5 * IQR) & (df['price'] <= Q3 + 1.5 * IQR)]
 df.drop_duplicates(inplace=True)
 
 # Save cleaned data
-df.to_csv("webscraping_project_real_estate/cleaned_data.csv", index=False)
+df.to_csv("cleaned_data.csv", index=False)
 print("Data cleaning complete. Cleaned data saved to cleaned_data.csv.")

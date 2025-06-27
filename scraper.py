@@ -32,7 +32,7 @@ base_url = "https://www.century21.com/real-estate/chicago-il/LCILCHICAGO/?beds=1
 all_data = []
 
 # Loop through pages
-for offset in range(0, 240, 24):
+for offset in range(0, 1000, 24):
     url = base_url if offset == 0 else f"{base_url}&s={offset}"
     print(f"Scraping page with offset: {offset}")
 
@@ -95,8 +95,7 @@ for offset in range(0, 240, 24):
 df = pd.DataFrame(all_data)
 
 # Save raw data
-os.makedirs("webscraping_project_real_estate", exist_ok=True)
-df.to_csv("webscraping_project_real_estate/raw_data.csv", index=False)
+df.to_csv("raw_data.csv", index=False)
 print(f"Scraping complete. Saved {len(df)} listings to raw_data.csv")
 
 driver.quit()
