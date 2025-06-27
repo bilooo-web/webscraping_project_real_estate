@@ -101,6 +101,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1545,"501 N Clinton Street 502 Chicago, IL 60654",550000.0
 3,2,1350,"1538 W 21st Street 1 Chicago, IL 60608",375000.0
 5,4,1444,"5748 W Erie Street Chicago, IL 60644",499000.0
+1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",255000.0
 3,1,1696,"5325 W Quincey Street Chicago, IL 60644",299000.0
 1,1,800,"1660 N LaSalle Street 2307 Chicago, IL 60614",300000.0
 2,2,1400,"1723 W North Avenue 4 Chicago, IL 60622",615000.0
@@ -341,7 +342,6 @@ bedrooms,bathrooms,square_footage,address,price
 5,1,2600,"6548 S Normal Boulevard Chicago, IL 60621",105000.0
 3,2,1217,"9028 S Carpenter Street Chicago, IL 60620",95500.0
 3,2,1700,"2105 N 73rd Avenue Elmwood Park, IL 60707",369000.0
-1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",255000.0
 3,2,1614,"1548 W Ardmore Avenue 4D Chicago, IL 60660",899000.0
 4,3,2574,"2432 W Ohio Street Chicago, IL 60612",799000.0
 3,3,2136,"3245 S Aberdeen Street Chicago, IL 60608",750000.0
