@@ -1,8 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
-1,1,800,"1000 N Lake Shore Drive , 1604 Chicago, IL 60611",222500.0
+2,2,2416,"4828 W Berwyn Avenue Chicago, IL 60630",675000.0
 2,3,2000,"353 E Eastgate Place Chicago, IL 60616",479000.0
-1,1,900,"6960 N Bell Avenue , 407 Chicago, IL 60645",195000.0
-2,2,1700,"7033 N Kedzie Avenue , 1706 Chicago, IL 60645",195000.0
 2,1,1200,"757 N Orleans Street , 1104 Chicago, IL 60654",440000.0
 2,1,1331,"900 W AINSLIE Street A Chicago, IL 60640",399000.0
 3,2,1639,"2639 N Sheffield Avenue 2 Chicago, IL 60614",750000.0
@@ -25,6 +23,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,804,"1636 N Wells Street 3007 Chicago, IL 60614",314900.0
 2,1,950,"3950 N Lake Shore Drive 1511 Chicago, IL 60613",260000.0
 1,1,835,"5415 N Sheridan Road 3004 Chicago, IL 60640",255000.0
+1,1,800,"1000 N Lake Shore Drive , 1604 Chicago, IL 60611",222500.0
 2,2,1700,"1215 W Gunnison Street 202 Chicago, IL 60640",499999.0
 1,1,900,"4250 N Marine Drive 1104 Chicago, IL 60613",167000.0
 4,3,2204,"5502 S HYDE PARK Boulevard 2 Chicago, IL 60637",445000.0
@@ -161,6 +160,8 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,798,"2046 W 69th Place Chicago, IL 60636",105000.0
 4,2,1252,"13041 S Eberhart Avenue Chicago, IL 60827",105000.0
 3,2,1098,"7002 S Hermitage Avenue Chicago, IL 60636",80000.0
+1,1,900,"6960 N Bell Avenue , 407 Chicago, IL 60645",195000.0
+2,2,1700,"7033 N Kedzie Avenue , 1706 Chicago, IL 60645",195000.0
 1,2,2230,"1040 N Lake Shore Drive 26B Chicago, IL 60611",1045000.0
 3,3,2200,"2047 N Leavitt Street 2N Chicago, IL 60647",949500.0
 4,3,3160,"5426 N Bernard Street Chicago, IL 60625",819900.0
@@ -912,4 +913,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2035,"1242 N Lake Shore Drive 4N Chicago, IL 60610",995000.0
 2,2,2200,"505 N Lake Shore Drive 2206-2207 Chicago, IL 60611",995000.0
 3,3,1900,"367 W Locust Street 202 Chicago, IL 60610",899000.0
-4,3,3870,"4343 N Richmond Avenue 1S Chicago, IL 60618",899000.0
