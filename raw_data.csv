@@ -1,16 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
-beds",2,"2,416
-sq.ft.","4828 W Berwyn Avenue Chicago, IL 60630","$675,000"
-"2
 beds",3,"2,000
 sq.ft.","353 E Eastgate Place Chicago, IL 60616","$479,000"
-"2
-beds",1,"1,200
-sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$440,000"
-"2
-beds",1,"1,331
-sq.ft.","900 W AINSLIE Street A Chicago, IL 60640","$399,000"
 "3
 beds",4,"4,150
 sq.ft.","1928 W George Street Chicago, IL 60657","$2,029,000"
@@ -68,6 +59,9 @@ sq.ft.","4720 N Kenneth Avenue Chicago, IL 60630","$829,900"
 "3
 beds",3,"2,333
 sq.ft.","21 E Huron Street 3704 Chicago, IL 60611","$1,600,000"
+"2
+beds",1,"1,200
+sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$440,000"
 "2
 beds",2,"1,250
 sq.ft.","1250 N Dearborn Street 8B Chicago, IL 60610","$529,000"
@@ -686,6 +680,9 @@ sq.ft.","909 W Village Court Chicago, IL 60608","$925,000"
 "2
 beds",2,"1,225
 sq.ft.","330 W GRAND Avenue 2106 Chicago, IL 60654","$435,000"
+"2
+beds",1,"1,331
+sq.ft.","900 W AINSLIE Street A Chicago, IL 60640","$399,000"
 "3
 beds",3,"1,800
 sq.ft.","1636 N 75th Avenue Elmwood Park, IL 60707","$384,900"
@@ -3023,3 +3020,6 @@ sq.ft.","505 N Lake Shore Drive 2206-2207 Chicago, IL 60611","$995,000"
 "3
 beds",3,"1,900
 sq.ft.","367 W Locust Street 202 Chicago, IL 60610","$899,000"
+"4
+beds",3,"3,870
+sq.ft.","4343 N Richmond Avenue 1S Chicago, IL 60618","$899,000"
