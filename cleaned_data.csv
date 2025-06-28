@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2,2416,"4828 W Berwyn Avenue Chicago, IL 60630",675000.0
-3,2,2562,"2559 N Saint Louis Avenue Chicago, IL 60647",895000.0
 3,2,2350,"1448 W Chestnut Street 3 Chicago, IL 60642",874900.0
 4,2,1078,"5341 S Aberdeen Street Chicago, IL 60609",204900.0
 6,3,2800,"1659 N Francisco Avenue Chicago, IL 60647",750000.0
@@ -64,6 +63,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1025,"7904 W North Avenue 605E Elmwood Park, IL 60707",198000.0
 4,3,2407,"5605 S NORDICA Avenue Chicago, IL 60638",649000.0
 2,2,1250,"5415 N SHERIDAN Road 901 Chicago, IL 60640",349900.0
+3,2,2562,"2559 N Saint Louis Avenue Chicago, IL 60647",895000.0
 2,1,1000,"6455 N Bell Avenue 2 Chicago, IL 60645",190000.0
 3,3,2500,"3124 S Benson Street 6 Chicago, IL 60608",709900.0
 3,3,2100,"8317 S Constance Avenue Chicago, IL 60617",282500.0

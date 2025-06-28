@@ -3,9 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",2,"2,416
 sq.ft.","4828 W Berwyn Avenue Chicago, IL 60630","$675,000"
 "3
-beds",2,"2,562
-sq.ft.","2559 N Saint Louis Avenue Chicago, IL 60647","$895,000"
-"3
 beds",2,"2,350
 sq.ft.","1448 W Chestnut Street 3 Chicago, IL 60642","$874,900"
 "4
@@ -248,6 +245,9 @@ sq.ft.","5605 S NORDICA Avenue Chicago, IL 60638","$649,000"
 "2
 beds",2,"1,250
 sq.ft.","5415 N SHERIDAN Road 901 Chicago, IL 60640","$349,900"
+"3
+beds",2,"2,562
+sq.ft.","2559 N Saint Louis Avenue Chicago, IL 60647","$895,000"
 "2
 beds",1,"1,000
 sq.ft.","6455 N Bell Avenue 2 Chicago, IL 60645","$190,000"
