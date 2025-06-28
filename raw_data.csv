@@ -1,4 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"4
+beds",2,"1,720
+sq.ft.","5820 W 26th Street Cicero, IL 60804","$195,000"
+"3
+beds",1,"1,236
+sq.ft.","14221 S Dearborn Street Riverdale, IL 60827","$185,400"
 "2
 beds",2,"2,416
 sq.ft.","4828 W Berwyn Avenue Chicago, IL 60630","$675,000"
@@ -3017,9 +3023,3 @@ sq.ft.","645 N Kingsbury Street 1906 Chicago, IL 60610","$395,000"
 "1
 beds",1,"900
 sq.ft.","333 N Jefferson Street 307 Chicago, IL 60661","$389,000"
-"3
-beds",3,"1,882
-sq.ft.","1937 S Christiana Avenue Chicago, IL 60623","$364,500"
-"2
-beds",2,"1,233
-sq.ft.","1530 S State Street 525 Chicago, IL 60605","$359,000"

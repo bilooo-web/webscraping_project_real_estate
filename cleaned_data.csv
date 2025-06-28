@@ -1,4 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
+4,2,1720,"5820 W 26th Street Cicero, IL 60804",195000.0
+3,1,1236,"14221 S Dearborn Street Riverdale, IL 60827",185400.0
 2,2,2416,"4828 W Berwyn Avenue Chicago, IL 60630",675000.0
 3,2,2350,"1448 W Chestnut Street 3 Chicago, IL 60642",874900.0
 3,3,1374,"1718 N Clybourn Avenue 1 Chicago, IL 60614",690000.0
@@ -910,5 +912,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1205,"200 N Dearborn Street 2406 Chicago, IL 60601",399000.0
 2,1,1032,"645 N Kingsbury Street 1906 Chicago, IL 60610",395000.0
 1,1,900,"333 N Jefferson Street 307 Chicago, IL 60661",389000.0
-3,3,1882,"1937 S Christiana Avenue Chicago, IL 60623",364500.0
-2,2,1233,"1530 S State Street 525 Chicago, IL 60605",359000.0
