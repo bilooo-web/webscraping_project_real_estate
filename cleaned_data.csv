@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 4,2,1720,"5820 W 26th Street Cicero, IL 60804",195000.0
 3,1,1236,"14221 S Dearborn Street Riverdale, IL 60827",185400.0
-3,1,1696,"5325 W Quincey Street Chicago, IL 60644",299000.0
 4,3,3810,"940 N Karlov Avenue Chicago, IL 60651",579900.0
 2,2,1300,"2545 N CLARK Street 2 Chicago, IL 60614",499900.0
 1,1,850,"5455 N Sheridan Road , 3611 Chicago, IL 60640",209900.0
@@ -169,6 +168,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,2,1968,"5145 S Troy Street Chicago, IL 60632",325000.0
 2,2,1347,"500 S Clinton Street 743 Chicago, IL 60607",299034.0
 4,2,1120,"11642 S Elizabeth Street Chicago, IL 60643",299000.0
+3,1,1696,"5325 W Quincey Street Chicago, IL 60644",299000.0
 2,1,1500,"4518 S Woodlawn Avenue 4518 Chicago, IL 60653",290000.0
 3,2,1020,"11517 S Ashland Avenue Chicago, IL 60643",265000.0
 2,1,950,"3950 N Lake Shore Drive 1511 Chicago, IL 60613",260000.0
