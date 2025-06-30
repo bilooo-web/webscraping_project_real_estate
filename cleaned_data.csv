@@ -1,9 +1,16 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2,1080,"4441 N Orange Avenue Norridge, IL 60706",429000.0
 4,2,1720,"5820 W 26th Street Cicero, IL 60804",195000.0
 3,1,1236,"14221 S Dearborn Street Riverdale, IL 60827",185400.0
+2,2,1225,"222 N Columbus Drive 809 Chicago, IL 60601",399000.0
 4,2,1725,"4741 S Woodlawn Avenue Chicago, IL 60615",400000.0
 4,2,1078,"5341 S Aberdeen Street Chicago, IL 60609",204900.0
+3,2,1200,"3721 W Ferdinand Street Chicago, IL 60624",292000.0
 3,2,1350,"1538 W 21st Street 1 Chicago, IL 60608",375000.0
+3,2,1514,"1111 W 14TH Place 328 Chicago, IL 60608",580000.0
+1,1,1136,"450 E Waterside Drive 1810 Chicago, IL 60601",530000.0
+3,3,2495,"2734 N 72nd Court Elmwood Park, IL 60707",300000.0
+1,1,850,"6959 N Ridge Boulevard N 1C Chicago, IL 60645",169900.0
 3,3,1200,"5205 S Nashville Avenue Chicago, IL 60638",449900.0
 3,2,1575,"12236 S Hamlin Avenue Alsip, IL 60803",309900.0
 5,2,1564,"13115 S Escanaba Avenue Chicago, IL 60633",275000.0
@@ -137,7 +144,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,1000,"6929 S Loomis Boulevard Chicago, IL 60636",259900.0
 1,1,835,"5415 N Sheridan Road 3004 Chicago, IL 60640",255000.0
 4,1,1108,"10327 S Calumet Avenue Chicago, IL 60628",229900.0
-3,2,3125,"10447-10449 S Avenue N Chicago, IL 60617",229000.0
+3,2,2029,"10447-10449 S Avenue N Chicago, IL 60617",229000.0
 4,1,1200,"11409 S Throop Street Chicago, IL 60643",220000.0
 1,1,700,"2336 N Commonwealth Avenue 108 Chicago, IL 60614",215000.0
 4,2,2200,"7621 S Eberhart Avenue Chicago, IL 60619",215000.0
@@ -198,6 +205,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"1000 N Lake Shore Drive , 1604 Chicago, IL 60611",222500.0
 1,1,900,"6960 N Bell Avenue , 407 Chicago, IL 60645",195000.0
 2,2,1700,"7033 N Kedzie Avenue , 1706 Chicago, IL 60645",195000.0
+1,2,2230,"1040 N Lake Shore Drive 26B Chicago, IL 60611",1045000.0
 3,3,2200,"2047 N Leavitt Street 2N Chicago, IL 60647",949500.0
 4,3,3160,"5426 N Bernard Street Chicago, IL 60625",819900.0
 3,2,1639,"2639 N Sheffield Avenue 2 Chicago, IL 60614",750000.0
@@ -297,7 +305,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,770,"880 N Lake Shore Drive 19A Chicago, IL 60611",315000.0
 2,1,1700,"5555 S Everett Avenue C14 Chicago, IL 60637",309999.0
 2,1,850,"1071 W 15th Street 209 Chicago, IL 60608",299900.0
-3,2,1200,"3721 W Ferdinand Street Chicago, IL 60624",292000.0
 2,2,1200,"9240 S Aberdeen Street Chicago, IL 60620",289900.0
 3,1,1040,"4506 W 77th Place Chicago, IL 60652",279900.0
 1,1,840,"3550 N Lake Shore Drive 224 Chicago, IL 60657",279000.0
@@ -667,7 +674,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2117,"1211 S Prairie Avenue 1106 Chicago, IL 60605",975000.0
 5,3,3600,"4932 S Martin Luther King Drive Chicago, IL 60653",949000.0
 4,3,3200,"4218 N CALIFORNIA Avenue Chicago, IL 60618",850000.0
-4,3,3516,"4130 N Mango Avenue Chicago, IL 60634",850000.0
 3,2,2650,"874 N Marshfield Avenue 1 Chicago, IL 60622",849900.0
 2,2,1624,"200 E Delaware Place 18F Chicago, IL 60611",755000.0
 3,2,1750,"1420 W Belmont Avenue 2 Chicago, IL 60657",699900.0
@@ -840,7 +846,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,778,"7234 W North Avenue 1608 Elmwood Park, IL 60707",127500.0
 1,1,796,"4800 S Chicago Beach Drive 910S Chicago, IL 60615",120000.0
 4,2,1530,"54 E 137th Place Riverdale, IL 60827",69900.0
-3,2,1040,"8225 S Wentworth Avenue Chicago, IL 60620",287000.0
+3,2,1040,"8225 S Wentworth Avenue Chicago, IL 60620",284000.0
 2,1,1250,"7202 W Wrightwood Avenue , 2S Elmwood Park, IL 60707",199900.0
 2,2,1251,"211 N Harbor Drive 1404 Chicago, IL 60601",995000.0
 4,3,2914,"9556 S Winchester Avenue Chicago, IL 60643",989000.0
@@ -910,9 +916,3 @@ bedrooms,bathrooms,square_footage,address,price
 5,2,2972,"1318 N Menard Avenue Chicago, IL 60651",374900.0
 2,2,1150,"3201 W Leland Avenue 205 Chicago, IL 60625",365000.0
 4,2,1700,"5936 S Keeler Avenue Chicago, IL 60629",349999.0
-2,2,1000,"2744 W Haddon Avenue 2 Chicago, IL 60622",346999.0
-3,3,2200,"8837 S THROOP Street Chicago, IL 60620",345000.0
-2,2,1000,"1529 S State Street 11B Chicago, IL 60605",339000.0
-3,2,1093,"3801 S Lombard Avenue Cicero, IL 60804",319900.0
-2,2,1260,"740 S Federal Street 301 Chicago, IL 60605",315000.0
-1,1,750,"100 E Walton Street 22H Chicago, IL 60611",310000.0

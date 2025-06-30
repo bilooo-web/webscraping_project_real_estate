@@ -1,10 +1,16 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"1,080
+sq.ft.","4441 N Orange Avenue Norridge, IL 60706","$429,000"
 "4
 beds",2,"1,720
 sq.ft.","5820 W 26th Street Cicero, IL 60804","$195,000"
 "3
 beds",1,"1,236
 sq.ft.","14221 S Dearborn Street Riverdale, IL 60827","$185,400"
+"2
+beds",2,"1,225
+sq.ft.","222 N Columbus Drive 809 Chicago, IL 60601","$399,000"
 "4
 beds",2,"1,725
 sq.ft.","4741 S Woodlawn Avenue Chicago, IL 60615","$400,000"
@@ -12,8 +18,26 @@ sq.ft.","4741 S Woodlawn Avenue Chicago, IL 60615","$400,000"
 beds",2,"1,078
 sq.ft.","5341 S Aberdeen Street Chicago, IL 60609","$204,900"
 "3
+beds",2,"1,200
+sq.ft.","3721 W Ferdinand Street Chicago, IL 60624","$292,000"
+"3
 beds",2,"1,350
 sq.ft.","1538 W 21st Street 1 Chicago, IL 60608","$375,000"
+"4
+beds",4,"4,700
+sq.ft.","2138 W Caton Street Chicago, IL 60647","$2,495,000"
+"3
+beds",2,"1,514
+sq.ft.","1111 W 14TH Place 328 Chicago, IL 60608","$580,000"
+"1
+beds",1,"1,136
+sq.ft.","450 E Waterside Drive 1810 Chicago, IL 60601","$530,000"
+"3
+beds",3,"2,495
+sq.ft.","2734 N 72nd Court Elmwood Park, IL 60707","$300,000"
+"1
+beds",1,"850
+sq.ft.","6959 N Ridge Boulevard N 1C Chicago, IL 60645","$169,900"
 "3
 beds",3,"1,200
 sq.ft.","5205 S Nashville Avenue Chicago, IL 60638","$449,900"
@@ -456,7 +480,7 @@ sq.ft.","5415 N Sheridan Road 3004 Chicago, IL 60640","$255,000"
 beds",1,"1,108
 sq.ft.","10327 S Calumet Avenue Chicago, IL 60628","$229,900"
 "3
-beds",2,"3,125
+beds",2,"2,029
 sq.ft.","10447-10449 S Avenue N Chicago, IL 60617","$229,000"
 "4
 beds",1,"1,200
@@ -971,9 +995,6 @@ sq.ft.","5555 S Everett Avenue C14 Chicago, IL 60637","$309,999"
 "2
 beds",1,"850
 sq.ft.","1071 W 15th Street 209 Chicago, IL 60608","$299,900"
-"3
-beds",2,"1,200
-sq.ft.","3721 W Ferdinand Street Chicago, IL 60624","$292,000"
 "2
 beds",2,"1,200
 sq.ft.","9240 S Aberdeen Street Chicago, IL 60620","$289,900"
@@ -2210,9 +2231,6 @@ sq.ft.","4932 S Martin Luther King Drive Chicago, IL 60653","$949,000"
 "4
 beds",3,"3,200
 sq.ft.","4218 N CALIFORNIA Avenue Chicago, IL 60618","$850,000"
-"4
-beds",3,"3,516
-sq.ft.","4130 N Mango Avenue Chicago, IL 60634","$850,000"
 "3
 beds",2,"2,650
 sq.ft.","874 N Marshfield Avenue 1 Chicago, IL 60622","$849,900"
@@ -2767,7 +2785,7 @@ beds",2,"1,530
 sq.ft.","54 E 137th Place Riverdale, IL 60827","$69,900"
 "3
 beds",2,"1,040
-sq.ft.","8225 S Wentworth Avenue Chicago, IL 60620","$287,000"
+sq.ft.","8225 S Wentworth Avenue Chicago, IL 60620","$284,000"
 "2
 beds",1,"1,250
 sq.ft.","7202 W Wrightwood Avenue , 2S Elmwood Park, IL 60707","$199,900"
@@ -3005,21 +3023,3 @@ sq.ft.","3201 W Leland Avenue 205 Chicago, IL 60625","$365,000"
 "4
 beds",2,"1,700
 sq.ft.","5936 S Keeler Avenue Chicago, IL 60629","$349,999"
-"2
-beds",2,"1,000
-sq.ft.","2744 W Haddon Avenue 2 Chicago, IL 60622","$346,999"
-"3
-beds",3,"2,200
-sq.ft.","8837 S THROOP Street Chicago, IL 60620","$345,000"
-"2
-beds",2,"1,000
-sq.ft.","1529 S State Street 11B Chicago, IL 60605","$339,000"
-"3
-beds",2,"1,093
-sq.ft.","3801 S Lombard Avenue Cicero, IL 60804","$319,900"
-"2
-beds",2,"1,260
-sq.ft.","740 S Federal Street 301 Chicago, IL 60605","$315,000"
-"1
-beds",1,"750
-sq.ft.","100 E Walton Street 22H Chicago, IL 60611","$310,000"
