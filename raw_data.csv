@@ -1,7 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"3
-beds",2,"1,080
-sq.ft.","4441 N Orange Avenue Norridge, IL 60706","$429,000"
 "4
 beds",2,"1,720
 sq.ft.","5820 W 26th Street Cicero, IL 60804","$195,000"
@@ -3023,3 +3020,6 @@ sq.ft.","3801 S Lombard Avenue Cicero, IL 60804","$319,900"
 "2
 beds",2,"1,260
 sq.ft.","740 S Federal Street 301 Chicago, IL 60605","$315,000"
+"1
+beds",1,"750
+sq.ft.","100 E Walton Street 22H Chicago, IL 60611","$310,000"
