@@ -1,11 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
-beds",2,"1,179
-sq.ft.","3818 W 107th Street Chicago, IL 60655","$349,900"
-"1
-beds",1,"845
-sq.ft.","1200 W Monroe Street , 516 Chicago, IL 60607","$310,000"
-"2
 beds",2,"1,225
 sq.ft.","222 N Columbus Drive 809 Chicago, IL 60601","$399,000"
 "4
@@ -3023,3 +3017,9 @@ sq.ft.","2814 W 83rd Street Chicago, IL 60652","$389,900"
 "5
 beds",2,"2,972
 sq.ft.","1318 N Menard Avenue Chicago, IL 60651","$374,900"
+"2
+beds",2,"1,150
+sq.ft.","3201 W Leland Avenue 205 Chicago, IL 60625","$365,000"
+"4
+beds",2,"1,700
+sq.ft.","5936 S Keeler Avenue Chicago, IL 60629","$349,999"
