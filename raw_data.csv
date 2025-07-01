@@ -1,13 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"3
-beds",2,"1,080
-sq.ft.","4441 N Orange Avenue Norridge, IL 60706","$429,000"
-"4
-beds",2,"1,720
-sq.ft.","5820 W 26th Street Cicero, IL 60804","$195,000"
-"3
-beds",1,"1,236
-sq.ft.","14221 S Dearborn Street Riverdale, IL 60827","$185,400"
+"2
+beds",2,"1,179
+sq.ft.","3818 W 107th Street Chicago, IL 60655","$349,900"
+"1
+beds",1,"845
+sq.ft.","1200 W Monroe Street , 516 Chicago, IL 60607","$310,000"
 "2
 beds",2,"1,225
 sq.ft.","222 N Columbus Drive 809 Chicago, IL 60601","$399,000"
@@ -59,6 +56,15 @@ sq.ft.","11531 S Stewart Avenue Chicago, IL 60628","$185,900"
 "4
 beds",1,"1,197
 sq.ft.","414 N Avers Avenue Chicago, IL 60624","$169,900"
+"3
+beds",2,"1,080
+sq.ft.","4441 N Orange Avenue Norridge, IL 60706","$429,000"
+"4
+beds",2,"1,720
+sq.ft.","5820 W 26th Street Cicero, IL 60804","$195,000"
+"3
+beds",1,"1,236
+sq.ft.","14221 S Dearborn Street Riverdale, IL 60827","$185,400"
 "6
 beds",4,"4,100
 sq.ft.","2203 W huron Avenue Chicago, IL 60622","$1,949,000"
@@ -3017,9 +3023,3 @@ sq.ft.","2814 W 83rd Street Chicago, IL 60652","$389,900"
 "5
 beds",2,"2,972
 sq.ft.","1318 N Menard Avenue Chicago, IL 60651","$374,900"
-"2
-beds",2,"1,150
-sq.ft.","3201 W Leland Avenue 205 Chicago, IL 60625","$365,000"
-"4
-beds",2,"1,700
-sq.ft.","5936 S Keeler Avenue Chicago, IL 60629","$349,999"
