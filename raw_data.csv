@@ -1,5 +1,11 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
+beds",2,"1,200
+sq.ft.","1101 S State Street , 2104 Chicago, IL 60605","$399,000"
+"2
+beds",2,"1,000
+sq.ft.","6257 S Newland Avenue , 3S Chicago, IL 60638","$199,900"
+"2
 beds",2,"1,179
 sq.ft.","3818 W 107th Street Chicago, IL 60655","$349,900"
 "1
@@ -2254,7 +2260,7 @@ beds",1,"1,000
 sq.ft.","8540 S Rhodes Avenue Chicago, IL 60619","$58,000"
 "4
 beds",2,"1,709
-sq.ft.","2058 W Washington Boulevard Chicago, IL 60612","$625,000"
+sq.ft.","2058 W Washington Boulevard Chicago, IL 60612","$610,000"
 "1
 beds",1,"848
 sq.ft.","222 N Columbus Drive , 912 Chicago, IL 60601","$285,000"
@@ -3017,9 +3023,3 @@ sq.ft.","635 W Sheridan Road 3 Chicago, IL 60613","$1,025,000"
 "4
 beds",2,"3,000
 sq.ft.","1255 N Sandburg Terrace 2912 Chicago, IL 60610","$999,000"
-"3
-beds",4,"4,600
-sq.ft.","3004 S Canal Street Chicago, IL 60616","$850,000"
-"3
-beds",2,"1,880
-sq.ft.","33 W ONTARIO Street 51B Chicago, IL 60654","$765,000"
