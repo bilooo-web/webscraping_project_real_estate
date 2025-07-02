@@ -11,6 +11,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1725,"4741 S Woodlawn Avenue Chicago, IL 60615",400000.0
 2,1,950,"3950 N Lake Shore Drive 1511 Chicago, IL 60613",260000.0
 4,2,1078,"5341 S Aberdeen Street Chicago, IL 60609",204900.0
+1,1,800,"1000 N Lake Shore Drive , 1604 Chicago, IL 60611",222500.0
 3,2,1200,"3721 W Ferdinand Street Chicago, IL 60624",292000.0
 3,2,1600,"14115 S Wabash Avenue Riverdale, IL 60827",250000.0
 5,3,2571,"4517 N Austin Avenue Chicago, IL 60630",530000.0
@@ -257,7 +258,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,798,"2046 W 69th Place Chicago, IL 60636",105000.0
 4,2,1252,"13041 S Eberhart Avenue Chicago, IL 60827",105000.0
 3,2,1098,"7002 S Hermitage Avenue Chicago, IL 60636",80000.0
-1,1,800,"1000 N Lake Shore Drive , 1604 Chicago, IL 60611",222500.0
 2,2,1700,"7033 N Kedzie Avenue , 1706 Chicago, IL 60645",195000.0
 1,1,900,"6960 N Bell Avenue , 407 Chicago, IL 60645",185000.0
 1,2,2230,"1040 N Lake Shore Drive 26B Chicago, IL 60611",998000.0
