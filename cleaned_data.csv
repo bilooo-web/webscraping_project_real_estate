@@ -1,6 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-2,2,1200,"1101 S State Street , 2104 Chicago, IL 60605",399000.0
-2,2,1000,"6257 S Newland Avenue , 3S Chicago, IL 60638",199900.0
 2,2,1179,"3818 W 107th Street Chicago, IL 60655",349900.0
 1,1,845,"1200 W Monroe Street , 516 Chicago, IL 60607",310000.0
 2,2,1225,"222 N Columbus Drive 809 Chicago, IL 60601",399000.0
@@ -686,7 +684,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1008,"1017 N Avers Avenue Chicago, IL 60651",74700.0
 2,1,1200,"7759 S Kingston Avenue 1S Chicago, IL 60649",64900.0
 3,1,1000,"8540 S Rhodes Avenue Chicago, IL 60619",58000.0
-4,2,1709,"2058 W Washington Boulevard Chicago, IL 60612",610000.0
+4,2,1709,"2058 W Washington Boulevard Chicago, IL 60612",625000.0
 1,1,848,"222 N Columbus Drive , 912 Chicago, IL 60601",285000.0
 3,3,2117,"1211 S Prairie Avenue 1106 Chicago, IL 60605",975000.0
 5,3,3600,"4932 S Martin Luther King Drive Chicago, IL 60653",949000.0
@@ -912,3 +910,5 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"5052 N Marine Drive D1 Chicago, IL 60640",139995.0
 3,2,2500,"635 W Sheridan Road 3 Chicago, IL 60613",1025000.0
 4,2,3000,"1255 N Sandburg Terrace 2912 Chicago, IL 60610",999000.0
+3,4,4600,"3004 S Canal Street Chicago, IL 60616",850000.0
+3,2,1880,"33 W ONTARIO Street 51B Chicago, IL 60654",765000.0
