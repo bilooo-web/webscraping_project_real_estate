@@ -2,6 +2,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1200,"1101 S State Street , 2104 Chicago, IL 60605",399000
 3,1,1128,"6558 W 60th Place Chicago, IL 60638",389900
 2,2,1000,"6257 S Newland Avenue , 3S Chicago, IL 60638",199900
+3,2,1500,"1333 N Burling Street , B Chicago, IL 60610",549000
 3,2,2100,"1801 W DIVERSEY Parkway 36 Chicago, IL 60614",599995
 3,3,2100,"8317 S Constance Avenue Chicago, IL 60617",272000
 4,1,1800,"850 N Lorel Avenue Chicago, IL 60651",265000
@@ -919,4 +920,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1162,"3743 E 112th Street Chicago, IL 60617",284900
 1,1,696,"235 W VAN BUREN Street 4206 Chicago, IL 60607",275000
 1,1,820,"200 N Dearborn Street 2608 Chicago, IL 60601",265000
-3,1,1040,"7830 S Kolmar Avenue Chicago, IL 60652",255000
