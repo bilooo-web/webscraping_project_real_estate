@@ -2,8 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1200,"1101 S State Street , 2104 Chicago, IL 60605",399000.0
 3,1,1128,"6558 W 60th Place Chicago, IL 60638",389900.0
 2,2,1000,"6257 S Newland Avenue , 3S Chicago, IL 60638",199900.0
-2,2,1179,"3818 W 107th Street Chicago, IL 60655",349900.0
-1,1,845,"1200 W Monroe Street , 516 Chicago, IL 60607",310000.0
 3,2,2100,"1801 W DIVERSEY Parkway 36 Chicago, IL 60614",599995.0
 2,2,1225,"222 N Columbus Drive 809 Chicago, IL 60601",399000.0
 2,2,1297,"5050 S East End Avenue 7D Chicago, IL 60615",125000.0
@@ -61,6 +59,8 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1465,"14310 S Wentworth Avenue Riverdale, IL 60827",150000.0
 2,2,1200,"7000 S East End Avenue 303 Chicago, IL 60649",148500.0
 4,2,1877,"6936 S Aberdeen Street Chicago, IL 60621",100000.0
+2,2,1179,"3818 W 107th Street Chicago, IL 60655",349900.0
+1,1,845,"1200 W Monroe Street , 516 Chicago, IL 60607",310000.0
 3,2,1514,"1111 W 14TH Place 328 Chicago, IL 60608",580000.0
 1,1,1136,"450 E Waterside Drive 1810 Chicago, IL 60601",530000.0
 3,3,2495,"2734 N 72nd Court Elmwood Park, IL 60707",300000.0
