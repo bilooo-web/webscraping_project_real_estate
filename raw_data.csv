@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",1,"1,260
 sq.ft.","6203 N Oakley Street 3 Chicago, IL 60659","$229,777"
-"3
-beds",3,"2,100
-sq.ft.","8317 S Constance Avenue Chicago, IL 60617","$272,000"
 "4
 beds",1,"1,800
 sq.ft.","850 N Lorel Avenue Chicago, IL 60651","$265,000"
@@ -35,6 +32,9 @@ sq.ft.","5415 N SHERIDAN Road 901 Chicago, IL 60640","$339,000"
 "2
 beds",2,"1,200
 sq.ft.","9240 S Aberdeen Street Chicago, IL 60620","$289,900"
+"3
+beds",3,"2,100
+sq.ft.","8317 S Constance Avenue Chicago, IL 60617","$272,000"
 "5
 beds",3,"3,900
 sq.ft.","3300 S Giles Avenue Chicago, IL 60616","$1,149,000"
