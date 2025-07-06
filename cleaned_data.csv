@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+4,3,3500,"5151 W Fletcher Street Chicago, IL 60641",649900
 4,1,1800,"850 N Lorel Avenue Chicago, IL 60651",265000
 2,1,950,"3950 N Lake Shore Drive 1511 Chicago, IL 60613",260000
 2,2,1200,"824 W Sunnyside Avenue G Chicago, IL 60640",275000
@@ -34,13 +35,13 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2100,"8317 S Constance Avenue Chicago, IL 60617",272000
 2,2,1244,"1400 W Monroe Street 4A Chicago, IL 60607",770000
 2,2,1100,"6301 N Sheridan Road 14E Chicago, IL 60660",235000
+3,2,1500,"1333 N Burling Street , B Chicago, IL 60610",549000
 3,2,1350,"1538 W 21st Street 1 Chicago, IL 60608",375000
 2,2,1200,"1645 W Ogden Avenue 516 Chicago, IL 60612",339000
 2,1,1250,"899 S Plymouth Court 1703 Chicago, IL 60605",317000
 2,2,1500,"3252 S Prairie Avenue 2S Chicago, IL 60616",220000
 2,2,1200,"4537 S Drexel Boulevard 101 Chicago, IL 60653",250000
 5,3,2982,"6319 N Whipple Street Chicago, IL 60659",659000
-4,3,3500,"5151 W Fletcher Street Chicago, IL 60641",649900
 4,3,1692,"5414 W Haddon Avenue Chicago, IL 60651",449900
 4,3,3200,"7217 S Talman Avenue Chicago, IL 60629",357000
 3,2,1500,"8858 S CALUMET Avenue Chicago, IL 60619",309500
@@ -926,4 +927,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,1975,"6416 W MCLEAN Avenue 6416 Chicago, IL 60707",350000
 2,1,950,"3150 N Sheffield Avenue 205 Chicago, IL 60657",349900
 4,2,1500,"9443 S Racine Avenue Chicago, IL 60620",333000
-1,1,841,"910 N Lake Shore Drive 1216 Chicago, IL 60611",315000

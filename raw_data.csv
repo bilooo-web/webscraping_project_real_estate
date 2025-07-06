@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "4
+beds",3,"3,500
+sq.ft.","5151 W Fletcher Street Chicago, IL 60641","$649,900"
+"4
 beds",1,"1,800
 sq.ft.","850 N Lorel Avenue Chicago, IL 60651","$265,000"
 "2
@@ -108,6 +111,9 @@ sq.ft.","1400 W Monroe Street 4A Chicago, IL 60607","$770,000"
 beds",2,"1,100
 sq.ft.","6301 N Sheridan Road 14E Chicago, IL 60660","$235,000"
 "3
+beds",2,"1,500
+sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$549,000"
+"3
 beds",2,"1,350
 sq.ft.","1538 W 21st Street 1 Chicago, IL 60608","$375,000"
 "2
@@ -125,9 +131,6 @@ sq.ft.","4537 S Drexel Boulevard 101 Chicago, IL 60653","$250,000"
 "5
 beds",3,"2,982
 sq.ft.","6319 N Whipple Street Chicago, IL 60659","$659,000"
-"4
-beds",3,"3,500
-sq.ft.","5151 W Fletcher Street Chicago, IL 60641","$649,900"
 "4
 beds",3,"1,692
 sq.ft.","5414 W Haddon Avenue Chicago, IL 60651","$449,900"
@@ -3020,6 +3023,3 @@ sq.ft.","3150 N Sheffield Avenue 205 Chicago, IL 60657","$349,900"
 "4
 beds",2,"1,500
 sq.ft.","9443 S Racine Avenue Chicago, IL 60620","$333,000"
-"1
-beds",1,"841
-sq.ft.","910 N Lake Shore Drive 1216 Chicago, IL 60611","$315,000"
