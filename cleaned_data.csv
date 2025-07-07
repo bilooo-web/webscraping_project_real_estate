@@ -2,7 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,3500,"5151 W Fletcher Street Chicago, IL 60641",649900
 4,1,1800,"850 N Lorel Avenue Chicago, IL 60651",265000
 2,1,950,"3950 N Lake Shore Drive 1511 Chicago, IL 60613",260000
-2,2,1200,"824 W Sunnyside Avenue G Chicago, IL 60640",275000
 2,2,1640,"3237 W Sunnyside Avenue 1E Chicago, IL 60625",389900
 3,1,1200,"17 E 100th Place Chicago, IL 60628",219000
 2,2,1450,"3938 N SOUTHPORT Avenue G Chicago, IL 60613",449900
@@ -75,6 +74,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1364,"3341 W 62nd Street Chicago, IL 60629",299900
 3,1,1400,"5048 W Superior Street Chicago, IL 60644",289900
 5,2,1530,"7417 S Saint Lawrence Avenue Chicago, IL 60619",280000
+2,2,1200,"824 W Sunnyside Avenue G Chicago, IL 60640",275000
 2,2,1100,"2545 N 72nd Court 4 Elmwood Park, IL 60707",265000
 3,1,1300,"11551 S Justine Street Chicago, IL 60643",260000
 3,2,1138,"1747 E 92nd Place Chicago, IL 60617",255000
