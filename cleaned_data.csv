@@ -1,6 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-4,3,3500,"5151 W Fletcher Street Chicago, IL 60641",649900
-3,2,1500,"1333 N Burling Street , B Chicago, IL 60610",549000
 3,2,1350,"1538 W 21st Street 1 Chicago, IL 60608",375000
 2,2,1200,"1645 W Ogden Avenue 516 Chicago, IL 60612",339000
 2,1,1250,"899 S Plymouth Court 1703 Chicago, IL 60605",317000
@@ -23,6 +21,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"3110 N Sheridan Road 1802 Chicago, IL 60657",225000
 2,1,1028,"817 E 53rd Street 3 Chicago, IL 60615",175000
 3,2,1062,"8616 S Justine Street Chicago, IL 60620",149900
+4,3,3500,"5151 W Fletcher Street Chicago, IL 60641",649900
 3,3,3800,"517 E 43rd Street Chicago, IL 60653",869900
 2,2,1776,"1311 W Pratt Boulevard 2 Chicago, IL 60626",350000
 3,2,1800,"8432 S Yates Boulevard Chicago, IL 60617",339000
@@ -927,3 +926,4 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1500,"9443 S Racine Avenue Chicago, IL 60620",333000
 1,1,841,"910 N Lake Shore Drive 1216 Chicago, IL 60611",315000
 1,1,1000,"1250 S INDIANA Avenue 304 Chicago, IL 60605",289995
+3,1,988,"8069 S Kolmar Avenue Chicago, IL 60652",275000

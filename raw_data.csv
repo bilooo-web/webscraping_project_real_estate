@@ -1,10 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"4
-beds",3,"3,500
-sq.ft.","5151 W Fletcher Street Chicago, IL 60641","$649,900"
-"3
-beds",2,"1,500
-sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$549,000"
 "5
 beds",3,"3,415
 sq.ft.","1333 E Madison Park Chicago, IL 60615","$1,375,000"
@@ -77,6 +71,9 @@ sq.ft.","817 E 53rd Street 3 Chicago, IL 60615","$175,000"
 "3
 beds",2,"1,062
 sq.ft.","8616 S Justine Street Chicago, IL 60620","$149,900"
+"4
+beds",3,"3,500
+sq.ft.","5151 W Fletcher Street Chicago, IL 60641","$649,900"
 "3
 beds",3,"3,800
 sq.ft.","517 E 43rd Street Chicago, IL 60653","$869,900"
@@ -3023,3 +3020,6 @@ sq.ft.","910 N Lake Shore Drive 1216 Chicago, IL 60611","$315,000"
 "1
 beds",1,"1,000
 sq.ft.","1250 S INDIANA Avenue 304 Chicago, IL 60605","$289,995"
+"3
+beds",1,"988
+sq.ft.","8069 S Kolmar Avenue Chicago, IL 60652","$275,000"
