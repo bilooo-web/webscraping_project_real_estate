@@ -7,6 +7,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1144,"11025 S Millard Avenue Chicago, IL 60655",369900
 2,2,1500,"3252 S Prairie Avenue 2S Chicago, IL 60616",220000
 3,2,1072,"519 W 125th Place Chicago, IL 60628",265000
+2,1,1260,"6203 N Oakley Street 3 Chicago, IL 60659",229777
 2,2,1200,"4537 S Drexel Boulevard 101 Chicago, IL 60653",250000
 2,1,1108,"534 W Eugenie Street Chicago, IL 60614",550000
 3,2,2445,"331 E 17th Street Chicago, IL 60616",749000
@@ -67,7 +68,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1253,"12416 S Carpenter Street Calumet Park, IL 60827",139900
 3,1,1088,"613 E 107TH Street Chicago, IL 60628",100000
 2,1,952,"255 W 71st Street Chicago, IL 60621",99500
-2,1,1260,"6203 N Oakley Street 3 Chicago, IL 60659",229777
 4,3,3000,"6233 S Greenwood Avenue Chicago, IL 60637",865000
 3,2,1600,"2140 W Armitage Avenue 3W Chicago, IL 60647",674999
 3,3,2800,"4914 S Washington Park Court Chicago, IL 60615",595000
