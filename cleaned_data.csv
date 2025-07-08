@@ -1,5 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 2,3,2000,"353 E Eastgate Place Chicago, IL 60616",479000
+3,2,1009,"9130 S Greenwood Avenue Chicago, IL 60619",329900
 3,2,1350,"1538 W 21st Street 1 Chicago, IL 60608",375000
 2,2,1200,"1645 W Ogden Avenue 516 Chicago, IL 60612",339000
 2,1,850,"5457 W Edmunds Street 1A Chicago, IL 60630",204000
@@ -73,7 +74,6 @@ bedrooms,bathrooms,square_footage,address,price
 5,2,2972,"1318 N Menard Avenue Chicago, IL 60651",349900
 2,2,1050,"1845 S Michigan Avenue 701 Chicago, IL 60616",349000
 1,1,800,"401 E ONTARIO Street 2804 Chicago, IL 60611",330000
-3,2,1009,"9130 S Greenwood Avenue Chicago, IL 60619",329900
 2,1,900,"1464 S Michigan Avenue 509 Chicago, IL 60605",325000
 2,1,1038,"811 W 15th Place 709 Chicago, IL 60608",325000
 3,2,1650,"8051 S Paxton Avenue Chicago, IL 60617",319900
@@ -778,7 +778,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1400,"11737 S Kedvale Avenue Alsip, IL 60803",335000
 2,2,950,"3909 W 71st Street Chicago, IL 60629",293000
 4,1,1165,"7704 S Homan Avenue Chicago, IL 60652",115000
-2,2,1467,"7801 W Summerdale Avenue Chicago, IL 60656",350000
 3,2,2400,"1304 N Hoyne Avenue 1 Chicago, IL 60622",970000
 4,2,1200,"2416 W BELDEN Avenue Chicago, IL 60647",599000
 2,2,1100,"1201 W Wrightwood Avenue 22 Chicago, IL 60614",595000
@@ -918,3 +917,4 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,960,"5423 S Rutherford Avenue Chicago, IL 60638",315000
 1,1,915,"726 W SHERIDAN Road 3S Chicago, IL 60613",299900
 4,2,1800,"119 W 110th Street Chicago, IL 60628",299000
+1,1,750,"1 E Scott Street 1910 Chicago, IL 60610",295000

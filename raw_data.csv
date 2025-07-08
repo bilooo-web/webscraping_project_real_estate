@@ -2,6 +2,9 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",3,"2,000
 sq.ft.","353 E Eastgate Place Chicago, IL 60616","$479,000"
+"3
+beds",2,"1,009
+sq.ft.","9130 S Greenwood Avenue Chicago, IL 60619","$329,900"
 "4
 beds",2,"3,000
 sq.ft.","1469 W Byron Street 2 Chicago, IL 60613","$1,750,000"
@@ -275,9 +278,6 @@ sq.ft.","1845 S Michigan Avenue 701 Chicago, IL 60616","$349,000"
 "1
 beds",1,"800
 sq.ft.","401 E ONTARIO Street 2804 Chicago, IL 60611","$330,000"
-"3
-beds",2,"1,009
-sq.ft.","9130 S Greenwood Avenue Chicago, IL 60619","$329,900"
 "2
 beds",1,"900
 sq.ft.","1464 S Michigan Avenue 509 Chicago, IL 60605","$325,000"
@@ -2576,9 +2576,6 @@ sq.ft.","3909 W 71st Street Chicago, IL 60629","$293,000"
 "4
 beds",1,"1,165
 sq.ft.","7704 S Homan Avenue Chicago, IL 60652","$115,000"
-"2
-beds",2,"1,467
-sq.ft.","7801 W Summerdale Avenue Chicago, IL 60656","$350,000"
 "4
 beds",3,"4,000
 sq.ft.","3903 N Drake Avenue Chicago, IL 60618","$1,299,000"
@@ -3023,3 +3020,6 @@ sq.ft.","726 W SHERIDAN Road 3S Chicago, IL 60613","$299,900"
 "4
 beds",2,"1,800
 sq.ft.","119 W 110th Street Chicago, IL 60628","$299,000"
+"1
+beds",1,"750
+sq.ft.","1 E Scott Street 1910 Chicago, IL 60610","$295,000"
