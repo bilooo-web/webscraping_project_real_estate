@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",3,"2,000
 sq.ft.","353 E Eastgate Place Chicago, IL 60616","$479,000"
-"3
-beds",2,"1,009
-sq.ft.","9130 S Greenwood Avenue Chicago, IL 60619","$329,900"
 "4
 beds",2,"3,000
 sq.ft.","1469 W Byron Street 2 Chicago, IL 60613","$1,750,000"
@@ -833,6 +830,9 @@ sq.ft.","7000 S East End Avenue 303 Chicago, IL 60649","$148,500"
 "4
 beds",2,"1,877
 sq.ft.","6936 S Aberdeen Street Chicago, IL 60621","$100,000"
+"3
+beds",3,"1,750
+sq.ft.","2837 W Coyle Avenue Chicago, IL 60645","$779,000"
 "2
 beds",2,"1,179
 sq.ft.","3818 W 107th Street Chicago, IL 60655","$349,900"

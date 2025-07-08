@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 2,3,2000,"353 E Eastgate Place Chicago, IL 60616",479000
-3,2,1009,"9130 S Greenwood Avenue Chicago, IL 60619",329900
 3,2,1350,"1538 W 21st Street 1 Chicago, IL 60608",375000
 2,2,1200,"1645 W Ogden Avenue 516 Chicago, IL 60612",339000
 2,1,850,"5457 W Edmunds Street 1A Chicago, IL 60630",204000
@@ -251,6 +250,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1184,"8042 S Bennett Avenue Chicago, IL 60617",149900
 2,2,1200,"7000 S East End Avenue 303 Chicago, IL 60649",148500
 4,2,1877,"6936 S Aberdeen Street Chicago, IL 60621",100000
+3,3,1750,"2837 W Coyle Avenue Chicago, IL 60645",779000
 2,2,1179,"3818 W 107th Street Chicago, IL 60655",349900
 1,1,845,"1200 W Monroe Street , 516 Chicago, IL 60607",310000
 3,2,1514,"1111 W 14TH Place 328 Chicago, IL 60608",580000
