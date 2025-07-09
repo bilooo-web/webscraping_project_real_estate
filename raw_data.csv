@@ -1,8 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
-beds",2,"1,384
-sq.ft.","1310 N Ritchie Court , 26B Chicago, IL 60610","$650,000"
-"2
 beds",3,"2,000
 sq.ft.","353 E Eastgate Place Chicago, IL 60616","$479,000"
 "5
@@ -20,9 +17,6 @@ sq.ft.","1928 W George Street Chicago, IL 60657","$2,029,000"
 "2
 beds",1,"850
 sq.ft.","5457 W Edmunds Street 1A Chicago, IL 60630","$204,000"
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$379,900"
 "3
 beds",2,"2,600
 sq.ft.","2856 W 84th Place Chicago, IL 60652","$320,000"
@@ -68,9 +62,6 @@ sq.ft.","1850 N Maud Avenue Chicago, IL 60614","$1,599,000"
 "2
 beds",1,"1,260
 sq.ft.","6203 N Oakley Street 3 Chicago, IL 60659","$229,777"
-"1
-beds",1,"725
-sq.ft.","1464 S Michigan Avenue , 1108 Chicago, IL 60605","$255,000"
 "1
 beds",1,"950
 sq.ft.","4170 N Marine Drive 24G Chicago, IL 60613","$278,500"
@@ -1838,6 +1829,9 @@ sq.ft.","9028 S Carpenter Street Chicago, IL 60620","$95,500"
 "3
 beds",2,"1,700
 sq.ft.","2105 N 73rd Avenue Elmwood Park, IL 60707","$369,000"
+"1
+beds",1,"725
+sq.ft.","1464 S Michigan Avenue , 1108 Chicago, IL 60605","$255,000"
 "3
 beds",3,"4,200
 sq.ft.","2128 N WINCHESTER Avenue Chicago, IL 60614","$1,350,000"
@@ -3023,3 +3017,9 @@ sq.ft.","5423 S Rutherford Avenue Chicago, IL 60638","$315,000"
 "1
 beds",1,"915
 sq.ft.","726 W SHERIDAN Road 3S Chicago, IL 60613","$299,900"
+"4
+beds",2,"1,800
+sq.ft.","119 W 110th Street Chicago, IL 60628","$299,000"
+"1
+beds",1,"750
+sq.ft.","1 E Scott Street 1910 Chicago, IL 60610","$295,000"

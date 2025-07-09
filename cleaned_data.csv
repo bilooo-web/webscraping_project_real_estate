@@ -1,10 +1,8 @@
 bedrooms,bathrooms,square_footage,address,price
-2,2,1384,"1310 N Ritchie Court , 26B Chicago, IL 60610",650000
 2,3,2000,"353 E Eastgate Place Chicago, IL 60616",479000
 3,2,1350,"1538 W 21st Street 1 Chicago, IL 60608",375000
 2,2,1200,"1645 W Ogden Avenue 516 Chicago, IL 60612",339000
 2,1,850,"5457 W Edmunds Street 1A Chicago, IL 60630",204000
-3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",379900
 3,2,2600,"2856 W 84th Place Chicago, IL 60652",320000
 2,1,882,"4503 N Ashland Avenue 2N Chicago, IL 60640",250000
 2,1,1250,"899 S Plymouth Court 1703 Chicago, IL 60605",317000
@@ -17,7 +15,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1072,"519 W 125th Place Chicago, IL 60628",265000
 2,2,1325,"2605 S Indiana Avenue 402 Chicago, IL 60616",168900
 2,1,1260,"6203 N Oakley Street 3 Chicago, IL 60659",229777
-1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",255000
 1,1,950,"4170 N Marine Drive 24G Chicago, IL 60613",278500
 2,2,1200,"4537 S Drexel Boulevard 101 Chicago, IL 60653",250000
 2,1,1108,"534 W Eugenie Street Chicago, IL 60614",550000
@@ -561,6 +558,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,1,2600,"6548 S Normal Boulevard Chicago, IL 60621",105000
 3,2,1217,"9028 S Carpenter Street Chicago, IL 60620",95500
 3,2,1700,"2105 N 73rd Avenue Elmwood Park, IL 60707",369000
+1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",255000
 3,2,1614,"1548 W Ardmore Avenue 4D Chicago, IL 60660",899000
 3,2,2562,"2559 N Saint Louis Avenue Chicago, IL 60647",895000
 4,3,2574,"2432 W Ohio Street Chicago, IL 60612",799000
@@ -918,3 +916,5 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,937,"5424 S Austin Avenue Chicago, IL 60638",345000
 2,1,960,"5423 S Rutherford Avenue Chicago, IL 60638",315000
 1,1,915,"726 W SHERIDAN Road 3S Chicago, IL 60613",299900
+4,2,1800,"119 W 110th Street Chicago, IL 60628",299000
+1,1,750,"1 E Scott Street 1910 Chicago, IL 60610",295000
