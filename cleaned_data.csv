@@ -505,7 +505,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,850,"346 E 41st Street 2 Chicago, IL 60653",109900
 3,1,798,"2046 W 69th Place Chicago, IL 60636",105000
 4,2,1252,"13041 S Eberhart Avenue Chicago, IL 60827",105000
-1,1,800,"1000 N Lake Shore Drive , 1604 Chicago, IL 60611",222500
 2,2,1700,"7033 N Kedzie Avenue , 1706 Chicago, IL 60645",195000
 1,1,900,"6960 N Bell Avenue , 407 Chicago, IL 60645",185000
 3,3,2200,"2047 N Leavitt Street 2N Chicago, IL 60647",949500
@@ -915,3 +914,4 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1530,"8105 S Sawyer Avenue Chicago, IL 60652",282000
 1,1,775,"1636 N Wells Street 1907 Chicago, IL 60614",280000
 3,2,1900,"6833 N Kedzie Avenue 816 Chicago, IL 60645",274900
+3,2,1058,"5407 S Justine Street Chicago, IL 60609",269000
