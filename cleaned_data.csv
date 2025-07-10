@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+4,3,1950,"2318 S Central Park Avenue , 101 Chicago, IL 60623",285000
 2,1,1200,"757 N Orleans Street , 1104 Chicago, IL 60654",440000
 2,2,1384,"1310 N Ritchie Court , 26B Chicago, IL 60610",650000
 2,2,1350,"1931 N Campbell Avenue 2S Chicago, IL 60647",485000
@@ -904,4 +905,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2000,"6833 N Kedzie Avenue 716 Chicago, IL 60645",287000
 4,3,1469,"8346 S Baltimore Avenue Chicago, IL 60617",277700
 2,2,600,"5716 W 64th Place Chicago, IL 60638",275000
-1,1,765,"10 E Ontario Street 2806 Chicago, IL 60611",250000
