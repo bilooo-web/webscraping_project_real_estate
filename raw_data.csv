@@ -1,16 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
+beds",1,"1,200
+sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$440,000"
+"2
 beds",2,"1,384
 sq.ft.","1310 N Ritchie Court , 26B Chicago, IL 60610","$650,000"
-"2
-beds",3,"2,000
-sq.ft.","353 E Eastgate Place Chicago, IL 60616","$479,000"
 "3
 beds",2,"1,350
 sq.ft.","1538 W 21st Street 1 Chicago, IL 60608","$375,000"
-"5
-beds",3,"3,415
-sq.ft.","1333 E Madison Park Chicago, IL 60615","$1,375,000"
 "2
 beds",2,"1,200
 sq.ft.","1645 W Ogden Avenue 516 Chicago, IL 60612","$339,000"
@@ -30,11 +27,17 @@ sq.ft.","3740 N Whipple Street Chicago, IL 60618","$525,000"
 beds",2,"1,750
 sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$379,900"
 "3
+beds",1,"731
+sq.ft.","11534 S Peoria Street Chicago, IL 60643","$115,000"
+"3
 beds",2,"2,600
 sq.ft.","2856 W 84th Place Chicago, IL 60652","$320,000"
 "2
 beds",1,"882
 sq.ft.","4503 N Ashland Avenue 2N Chicago, IL 60640","$250,000"
+"1
+beds",1,"725
+sq.ft.","1464 S Michigan Avenue , 1108 Chicago, IL 60605","$255,000"
 "4
 beds",3,"4,200
 sq.ft.","3834 N Lakewood Avenue Chicago, IL 60613","$1,999,000"
@@ -132,9 +135,6 @@ sq.ft.","3900 N Keeler Avenue Chicago, IL 60641","$850,000"
 beds",3,"2,100
 sq.ft.","8317 S Constance Avenue Chicago, IL 60617","$272,000"
 "1
-beds",1,"725
-sq.ft.","1464 S Michigan Avenue , 1108 Chicago, IL 60605","$255,000"
-"1
 beds",1,"950
 sq.ft.","4170 N Marine Drive 24G Chicago, IL 60613","$278,500"
 "2
@@ -203,6 +203,9 @@ sq.ft.","1331 W Granville Avenue Chicago, IL 60660","$1,150,000"
 "5
 beds",3,"3,600
 sq.ft.","4932 S Martin Luther King Drive Chicago, IL 60653","$949,000"
+"5
+beds",3,"3,415
+sq.ft.","1333 E Madison Park Chicago, IL 60615","$1,375,000"
 "3
 beds",2,"1,020
 sq.ft.","11517 S Ashland Avenue Chicago, IL 60643","$265,000"
@@ -602,6 +605,9 @@ sq.ft.","10535 S Hale Avenue 1E Chicago, IL 60643","$95,000"
 "3
 beds",2,"1,098
 sq.ft.","7002 S Hermitage Avenue Chicago, IL 60636","$75,000"
+"2
+beds",3,"2,000
+sq.ft.","353 E Eastgate Place Chicago, IL 60616","$479,000"
 "3
 beds",2,"2,445
 sq.ft.","331 E 17th Street Chicago, IL 60616","$749,000"
@@ -3017,9 +3023,3 @@ sq.ft.","8105 S Sawyer Avenue Chicago, IL 60652","$282,000"
 "1
 beds",1,"775
 sq.ft.","1636 N Wells Street 1907 Chicago, IL 60614","$280,000"
-"3
-beds",2,"1,900
-sq.ft.","6833 N Kedzie Avenue 816 Chicago, IL 60645","$274,900"
-"3
-beds",2,"1,058
-sq.ft.","5407 S Justine Street Chicago, IL 60609","$269,000"
