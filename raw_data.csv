@@ -1,16 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"4
-beds",3,"1,950
-sq.ft.","2318 S Central Park Avenue , 101 Chicago, IL 60623","$285,000"
 "2
 beds",1,"1,200
 sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$440,000"
-"2
-beds",2,"1,384
-sq.ft.","1310 N Ritchie Court , 26B Chicago, IL 60610","$650,000"
-"3
-beds",4,"4,150
-sq.ft.","1928 W George Street Chicago, IL 60657","$2,029,000"
+"4
+beds",3,"1,950
+sq.ft.","2318 S Central Park Avenue , 101 Chicago, IL 60623","$285,000"
 "2
 beds",2,"1,350
 sq.ft.","1931 N Campbell Avenue 2S Chicago, IL 60647","$485,000"
@@ -224,6 +218,9 @@ sq.ft.","2025 S Indiana Avenue 503 Chicago, IL 60616","$419,000"
 "3
 beds",2,"2,200
 sq.ft.","919 N LARRABEE Street 3N Chicago, IL 60610","$1,050,000"
+"3
+beds",4,"4,150
+sq.ft.","1928 W George Street Chicago, IL 60657","$2,029,000"
 "6
 beds",5,"6,300
 sq.ft.","2730 N HARTLAND Court Chicago, IL 60614","$2,799,500"
@@ -620,6 +617,9 @@ sq.ft.","14233 S WALLACE Avenue Riverdale, IL 60827","$140,000"
 "2
 beds",2,"1,000
 sq.ft.","2012 W 111th Street 3S Chicago, IL 60643","$129,900"
+"2
+beds",2,"1,384
+sq.ft.","1310 N Ritchie Court , 26B Chicago, IL 60610","$650,000"
 "3
 beds",3,"3,693
 sq.ft.","9 W Walton Street 1702 Chicago, IL 60610","$4,790,000"

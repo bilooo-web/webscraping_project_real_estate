@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
-4,3,1950,"2318 S Central Park Avenue , 101 Chicago, IL 60623",285000
 2,1,1200,"757 N Orleans Street , 1104 Chicago, IL 60654",440000
-2,2,1384,"1310 N Ritchie Court , 26B Chicago, IL 60610",650000
+4,3,1950,"2318 S Central Park Avenue , 101 Chicago, IL 60623",285000
 2,2,1350,"1931 N Campbell Avenue 2S Chicago, IL 60647",485000
 2,1,850,"5457 W Edmunds Street 1A Chicago, IL 60630",204000
 3,2,2500,"3740 N Whipple Street Chicago, IL 60618",525000
@@ -166,6 +165,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1140,"7655 S Clyde Avenue Chicago, IL 60649",149000
 3,1,1071,"14233 S WALLACE Avenue Riverdale, IL 60827",140000
 2,2,1000,"2012 W 111th Street 3S Chicago, IL 60643",129900
+2,2,1384,"1310 N Ritchie Court , 26B Chicago, IL 60610",650000
 1,2,2230,"1040 N Lake Shore Drive 26B Chicago, IL 60611",998000
 4,2,3000,"1255 N Sandburg Terrace 2912 Chicago, IL 60610",970000
 2,2,2100,"1560 N Sandburg Terrace 4301-4303 Chicago, IL 60610",869000
