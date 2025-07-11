@@ -3,8 +3,11 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",1,"1,200
 sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$440,000"
 "4
-beds",3,"1,950
+beds",3,"2,062
 sq.ft.","2318 S Central Park Avenue , 101 Chicago, IL 60623","$285,000"
+"2
+beds",1,"1,000
+sq.ft.","20 N State Street , 1012 Chicago, IL 60602","$315,000"
 "2
 beds",1,"850
 sq.ft.","5457 W Edmunds Street 1A Chicago, IL 60630","$204,000"
@@ -3020,6 +3023,3 @@ sq.ft.","10447 S OAKLEY Avenue Chicago, IL 60643","$525,000"
 "2
 beds",1,"1,140
 sq.ft.","150 W Superior Street 1103 Chicago, IL 60654","$410,000"
-"3
-beds",2,"2,600
-sq.ft.","3800 W 82nd Street Chicago, IL 60652","$399,999"
