@@ -1,13 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"2
-beds",1,"1,200
-sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$440,000"
 "4
 beds",3,"1,950
 sq.ft.","2318 S Central Park Avenue , 101 Chicago, IL 60623","$285,000"
 "2
-beds",2,"1,350
-sq.ft.","1931 N Campbell Avenue 2S Chicago, IL 60647","$485,000"
+beds",1,"1,200
+sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$440,000"
 "2
 beds",1,"850
 sq.ft.","5457 W Edmunds Street 1A Chicago, IL 60630","$204,000"
@@ -242,6 +239,9 @@ sq.ft.","1255 N SANDBURG Terrace 1211E Chicago, IL 60610","$369,900"
 "6
 beds",3,"3,200
 sq.ft.","3900 N Keeler Avenue Chicago, IL 60641","$850,000"
+"2
+beds",2,"1,350
+sq.ft.","1931 N Campbell Avenue 2S Chicago, IL 60647","$485,000"
 "2
 beds",2,"1,070
 sq.ft.","1901 S CALUMET Avenue 2712 Chicago, IL 60616","$415,000"
