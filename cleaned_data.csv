@@ -1,8 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 4,3,2062,"2318 S Central Park Avenue , 101 Chicago, IL 60623",285000
 2,1,1000,"20 N State Street , 1012 Chicago, IL 60602",315000
-3,2,2500,"3740 N Whipple Street Chicago, IL 60618",525000
-2,2,1300,"1475 W Winona Street 2 Chicago, IL 60640",499000
 3,2,2100,"1355 W WASHINGTON Boulevard 4D Chicago, IL 60607",715000
 1,1,900,"550 N St. Clair Street 1702 Chicago, IL 60611",389777
 3,2,2000,"3056 N Paulina Street Chicago, IL 60657",900000
@@ -65,6 +63,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,2700,"5406 N Mulligan Avenue Chicago, IL 60630",590000
 3,2,2130,"6037 N Nagle Avenue Chicago, IL 60646",550000
 3,2,2125,"8024 W Charmaine Road Norridge, IL 60706",519000
+2,2,1300,"1475 W Winona Street 2 Chicago, IL 60640",499000
 2,1,1642,"13235 S Vernon Avenue Chicago, IL 60827",165000
 3,1,1424,"2626 E MARTHA Place Burnham, IL 60633",159900
 3,2,1995,"1125 W Newport Avenue E Chicago, IL 60657",689000
@@ -73,6 +72,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1329,"3021 W Armitage Avenue 201 Chicago, IL 60647",450000
 4,3,3035,"1250 S Michigan Avenue 2802 Chicago, IL 60605",1075000
 3,2,2000,"1261 N Paulina Avenue 6 Chicago, IL 60622",700000
+3,2,2500,"3740 N Whipple Street Chicago, IL 60618",525000
 2,2,1350,"1740 N MAPLEWOOD Avenue 218 Chicago, IL 60647",485000
 2,3,1300,"7004 W School Street Chicago, IL 60634",480000
 1,1,873,"600 N Fairbanks Court 2304 Chicago, IL 60611",424000
