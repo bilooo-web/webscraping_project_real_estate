@@ -1,16 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"2
-beds",1,"1,200
-sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$440,000"
 "4
 beds",3,"2,062
 sq.ft.","2318 S Central Park Avenue , 101 Chicago, IL 60623","$285,000"
 "2
 beds",1,"1,000
 sq.ft.","20 N State Street , 1012 Chicago, IL 60602","$315,000"
-"2
-beds",1,"850
-sq.ft.","5457 W Edmunds Street 1A Chicago, IL 60630","$204,000"
 "3
 beds",2,"2,500
 sq.ft.","3740 N Whipple Street Chicago, IL 60618","$525,000"
@@ -35,6 +29,9 @@ sq.ft.","11534 S Peoria Street Chicago, IL 60643","$115,000"
 "2
 beds",2,"1,650
 sq.ft.","1443 W Wrightwood Avenue B Chicago, IL 60614","$625,000"
+"2
+beds",1,"1,200
+sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$440,000"
 "2
 beds",2,"2,160
 sq.ft.","1035 W Huron Street 402 Chicago, IL 60642","$599,000"
@@ -338,6 +335,9 @@ sq.ft.","1931 N Campbell Avenue 2S Chicago, IL 60647","$485,000"
 "2
 beds",2,"1,070
 sq.ft.","1901 S CALUMET Avenue 2712 Chicago, IL 60616","$415,000"
+"2
+beds",1,"850
+sq.ft.","5457 W Edmunds Street 1A Chicago, IL 60630","$204,000"
 "5
 beds",2,"2,243
 sq.ft.","64 E 102ND Place Chicago, IL 60628","$299,900"
