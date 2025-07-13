@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+2,1,1100,"6021 N Damen Avenue , 202 Chicago, IL 60659",215000
 8,3,3837,"5019 N Kostner Avenue Chicago, IL 60630",670000
 2,1,1000,"20 N State Street , 1012 Chicago, IL 60602",315000
 2,1,1200,"757 N Orleans Street , 1104 Chicago, IL 60654",440000
@@ -915,4 +916,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1000,"7238 W Clarence Avenue Chicago, IL 60631",394900
 5,3,3180,"8629 S Union Avenue Chicago, IL 60620",390000
 4,2,1107,"5941 W Waveland Avenue Chicago, IL 60634",374900
-2,2,1056,"4330 N Neva Avenue 411 Norridge, IL 60706",340000
