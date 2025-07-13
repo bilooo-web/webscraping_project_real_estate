@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",1,"1,000
 sq.ft.","20 N State Street , 1012 Chicago, IL 60602","$315,000"
-"3
-beds",1,"2,200
-sq.ft.","6023 W 64th Street Chicago, IL 60638","$356,000"
 "2
 beds",1,"1,200
 sq.ft.","757 N Orleans Street , 1104 Chicago, IL 60654","$440,000"
@@ -389,6 +386,9 @@ sq.ft.","11517 S Ashland Avenue Chicago, IL 60643","$265,000"
 "4
 beds",3,"1,692
 sq.ft.","5414 W Haddon Avenue Chicago, IL 60651","$449,900"
+"3
+beds",1,"2,200
+sq.ft.","6023 W 64th Street Chicago, IL 60638","$356,000"
 "3
 beds",3,"3,800
 sq.ft.","840 N LAKE SHORE Drive 2001 Chicago, IL 60611","$2,495,000"
