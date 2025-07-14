@@ -6,7 +6,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1200,"1322 S Prairie Avenue 406 Chicago, IL 60605",538900
 4,2,1078,"5341 S Aberdeen Street Chicago, IL 60609",189900
 2,1,1250,"899 S Plymouth Court 1703 Chicago, IL 60605",317000
-3,2,1500,"1333 N Burling Street , B Chicago, IL 60610",549000
 3,2,1500,"4170 W Cornelia Avenue Chicago, IL 60641",475000
 3,2,1831,"4606 S Woodlawn Avenue Chicago, IL 60653",465000
 3,2,1268,"5116 N New England Avenue Chicago, IL 60656",459000
@@ -908,3 +907,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1200,"3639 W 69th Street Chicago, IL 60629",249000
 1,1,900,"4250 N Marine Drive , 1404 Chicago, IL 60613",219000
 5,3,3200,"6336 S Kimbark Avenue Chicago, IL 60637",920000
+3,2,1900,"1711 W DIVISION Street 303 Chicago, IL 60622",849500
