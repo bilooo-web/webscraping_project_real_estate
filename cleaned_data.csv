@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",289900
 3,2,1296,"7851 W Oakleaf Avenue Elmwood Park, IL 60707",415000
 2,2,1422,"14510 S Union Avenue Riverdale, IL 60827",75000
 4,2,1550,"8815 S Albany Avenue Evergreen Park, IL 60805",325000
@@ -912,4 +913,3 @@ bedrooms,bathrooms,square_footage,address,price
 5,2,2349,"2910 N 76TH Court Elmwood Park, IL 60707",399900
 2,2,1151,"3200 N Lake Shore Drive 1910 Chicago, IL 60657",399000
 5,1,1479,"5143 N Monitor Avenue Chicago, IL 60630",397000
-3,2,1000,"7238 W Clarence Avenue Chicago, IL 60631",394900

@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"900
+sq.ft.","41 E 8th Street , 1404 Chicago, IL 60605","$289,900"
 "3
 beds",2,"1,296
 sq.ft.","7851 W Oakleaf Avenue Elmwood Park, IL 60707","$415,000"
@@ -3020,6 +3023,3 @@ sq.ft.","3200 N Lake Shore Drive 1910 Chicago, IL 60657","$399,000"
 "5
 beds",1,"1,479
 sq.ft.","5143 N Monitor Avenue Chicago, IL 60630","$397,000"
-"3
-beds",2,"1,000
-sq.ft.","7238 W Clarence Avenue Chicago, IL 60631","$394,900"
