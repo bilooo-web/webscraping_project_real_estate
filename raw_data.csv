@@ -1,10 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"1,296
+sq.ft.","7851 W Oakleaf Avenue Elmwood Park, IL 60707","$415,000"
+"2
+beds",2,"1,422
+sq.ft.","14510 S Union Avenue Riverdale, IL 60827","$75,000"
 "2
 beds",1,"1,100
 sq.ft.","6021 N Damen Avenue , 202 Chicago, IL 60659","$215,000"
-"8
-beds",3,"3,837
-sq.ft.","5019 N Kostner Avenue Chicago, IL 60630","$670,000"
 "3
 beds",2,"939
 sq.ft.","3609 S Leavitt Street Chicago, IL 60609","$339,900"
@@ -86,6 +89,9 @@ sq.ft.","9748 S Drexel Avenue Chicago, IL 60628","$99,999"
 "4
 beds",2,"1,100
 sq.ft.","11536 S La Salle Street Chicago, IL 60628","$40,000"
+"8
+beds",3,"3,837
+sq.ft.","5019 N Kostner Avenue Chicago, IL 60630","$670,000"
 "4
 beds",6,"7,600
 sq.ft.","1540 N Dearborn Parkway Chicago, IL 60610","$5,495,000"
@@ -1876,7 +1882,7 @@ beds",1,"1,402
 sq.ft.","12014 S Princeton Avenue Chicago, IL 60628","$39,900"
 "2
 beds",2,"2,416
-sq.ft.","4828 W Berwyn Avenue Chicago, IL 60630","$675,000"
+sq.ft.","4828 W Berwyn Avenue Chicago, IL 60630","$649,500"
 "6
 beds",6,"7,120
 sq.ft.","4717 N Paulina Street Chicago, IL 60640","$3,195,000"
@@ -3017,9 +3023,3 @@ sq.ft.","1156 W Ohio Street 4E Chicago, IL 60642","$1,320,000"
 "4
 beds",3,"2,295
 sq.ft.","1340 W Chestnut Street 204 Chicago, IL 60642","$1,200,000"
-"5
-beds",3,"3,200
-sq.ft.","6336 S Kimbark Avenue Chicago, IL 60637","$920,000"
-"3
-beds",2,"1,900
-sq.ft.","1711 W DIVISION Street 303 Chicago, IL 60622","$849,500"
