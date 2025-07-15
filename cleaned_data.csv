@@ -1,6 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-3,2,1296,"7851 W Oakleaf Avenue Elmwood Park, IL 60707",415000
-2,2,1422,"14510 S Union Avenue Riverdale, IL 60827",75000
 2,1,1100,"6021 N Damen Avenue , 202 Chicago, IL 60659",215000
 3,2,939,"3609 S Leavitt Street Chicago, IL 60609",339900
 3,1,2200,"6023 W 64th Street Chicago, IL 60638",356000
@@ -572,7 +570,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,1000,"9650 S Brennan Avenue Chicago, IL 60617",120000
 4,1,1300,"1868 S Kildare Avenue Chicago, IL 60623",79900
 4,1,1402,"12014 S Princeton Avenue Chicago, IL 60628",39900
-2,2,2416,"4828 W Berwyn Avenue Chicago, IL 60630",649500
+2,2,2416,"4828 W Berwyn Avenue Chicago, IL 60630",675000
 4,4,3600,"5206 W Newport Avenue Chicago, IL 60641",785000
 3,3,2688,"5443 S Rutherford Avenue Chicago, IL 60638",624900
 2,2,1700,"4736 N Lincoln Avenue 4 Chicago, IL 60625",599900
@@ -909,3 +907,5 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1368,"2130 W Highland Avenue Chicago, IL 60659",479000
 3,2,1200,"3639 W 69th Street Chicago, IL 60629",249000
 1,1,900,"4250 N Marine Drive , 1404 Chicago, IL 60613",219000
+5,3,3200,"6336 S Kimbark Avenue Chicago, IL 60637",920000
+3,2,1900,"1711 W DIVISION Street 303 Chicago, IL 60622",849500
