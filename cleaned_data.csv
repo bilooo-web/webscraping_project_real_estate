@@ -9,6 +9,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1500,"1325 N Artesian Avenue 2 Chicago, IL 60622",725000
 3,1,769,"12216 S Carpenter Street Chicago, IL 60643",200000
 2,2,1327,"1550 N Lake Shore Drive 2A Chicago, IL 60610",499000
+4,3,2062,"2318 S Central Park Avenue , 101 Chicago, IL 60623",285000
 3,2,1500,"937 W Wrightwood Avenue C Chicago, IL 60614",599000
 3,2,2250,"4250 N Whipple Street Chicago, IL 60618",875000
 3,1,1200,"17 E 100th Place Chicago, IL 60628",199000
@@ -180,7 +181,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1008,"1017 N Avers Avenue Chicago, IL 60651",69700
 5,2,1350,"5747 S La Salle Street Chicago, IL 60621",66900
 4,2,1530,"54 E 137th Place Riverdale, IL 60827",59900
-4,3,2062,"2318 S Central Park Avenue , 101 Chicago, IL 60623",285000
 3,2,1900,"2444 N Seminary Avenue 4 Chicago, IL 60614",999000
 2,2,1384,"211 N Harbor Drive 306 Chicago, IL 60601",950000
 4,2,2777,"6723 N Greenview Avenue Chicago, IL 60626",899500
