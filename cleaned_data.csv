@@ -2,7 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",289900
 3,2,1296,"7851 W Oakleaf Avenue Elmwood Park, IL 60707",415000
 2,2,1422,"14510 S Union Avenue Riverdale, IL 60827",75000
-3,2,939,"3609 S Leavitt Street Chicago, IL 60609",339900
 2,2,2212,"542 W Brompton Avenue 1S Chicago, IL 60657",660000
 3,1,2200,"6023 W 64th Street Chicago, IL 60638",356000
 3,2,1500,"1325 N Artesian Avenue 2 Chicago, IL 60622",725000
@@ -212,6 +211,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1200,"2749 N Spaulding Avenue GN Chicago, IL 60647",369000
 3,2,1458,"7438 N Hermitage Avenue 1E Chicago, IL 60626",349000
 3,1,1732,"8800 S Bennett Avenue Chicago, IL 60617",340000
+3,2,939,"3609 S Leavitt Street Chicago, IL 60609",339900
 3,1,1144,"11340 S Drake Avenue Chicago, IL 60655",329000
 1,1,596,"2233 W Shakespeare Avenue 1F Chicago, IL 60647",249900
 1,1,795,"10 E Ontario Street 2304 Chicago, IL 60611",249900
