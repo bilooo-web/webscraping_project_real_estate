@@ -2,8 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",289900
 3,2,1296,"7851 W Oakleaf Avenue Elmwood Park, IL 60707",415000
 2,2,1422,"14510 S Union Avenue Riverdale, IL 60827",75000
-4,2,1550,"8815 S Albany Avenue Evergreen Park, IL 60805",325000
-2,1,1100,"6021 N Damen Avenue , 202 Chicago, IL 60659",215000
 3,2,939,"3609 S Leavitt Street Chicago, IL 60609",339900
 2,2,2212,"542 W Brompton Avenue 1S Chicago, IL 60657",660000
 3,1,2200,"6023 W 64th Street Chicago, IL 60638",356000
@@ -66,6 +64,8 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,1100,"824 E Hyde Park Boulevard 1 Chicago, IL 60615",99900
 2,2,1200,"2031 W Evergreen Avenue 1W Chicago, IL 60622",425000
 2,2,1519,"6033 N SHERIDAN Road 27C Chicago, IL 60660",329900
+4,2,1550,"8815 S Albany Avenue Evergreen Park, IL 60805",325000
+2,1,1100,"6021 N Damen Avenue , 202 Chicago, IL 60659",215000
 4,2,2800,"5408 N Natchez Street Chicago, IL 60656",688888
 3,2,1500,"4170 W Cornelia Avenue Chicago, IL 60641",475000
 3,2,1831,"4606 S Woodlawn Avenue Chicago, IL 60653",465000
