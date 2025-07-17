@@ -1,4 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"2,400
+sq.ft.","450 N Racine Avenue , 2 Chicago, IL 60642","$1,200,000"
+"1
+beds",1,"950
+sq.ft.","1151 W Washington Boulevard , 122 Chicago, IL 60607","$379,900"
 "4
 beds",3,"2,850
 sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,075,000"
@@ -3017,9 +3023,3 @@ sq.ft.","4624 W Montana Street Chicago, IL 60639","$419,900"
 "2
 beds",2,"1,400
 sq.ft.","110 E Delaware Place 701 Chicago, IL 60611","$414,500"
-"3
-beds",2,"1,198
-sq.ft.","5518 S Melvina Avenue Chicago, IL 60638","$400,000"
-"2
-beds",2,"1,260
-sq.ft.","1250 S Michigan Avenue 1110 Chicago, IL 60605","$399,999"
