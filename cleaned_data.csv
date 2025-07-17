@@ -1,8 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
+4,3,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1075000.0
 2,2,1210,"1629 S Prairie Avenue , 1503 Chicago, IL 60616",489000.0
 1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",289900.0
-3,2,1296,"7851 W Oakleaf Avenue Elmwood Park, IL 60707",415000.0
-2,2,1422,"14510 S Union Avenue Riverdale, IL 60827",75000.0
 2,2,2212,"542 W Brompton Avenue 1S Chicago, IL 60657",660000.0
 3,1,2200,"6023 W 64th Street Chicago, IL 60638",356000.0
 3,2,2015,"369 W Superior Street A Chicago, IL 60654",825000.0
@@ -33,6 +32,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1525,"10338 S State Street Chicago, IL 60628",229900.0
 4,2,1078,"5341 S Aberdeen Street Chicago, IL 60609",189900.0
 2,1,1250,"899 S Plymouth Court 1703 Chicago, IL 60605",317000.0
+1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",249900.0
 3,2,2000,"2058 N Western Avenue 301 Chicago, IL 60647",574000.0
 3,1,1696,"5325 W Quincey Street Chicago, IL 60644",299000.0
 2,2,1786,"55 E Erie Avenue 1504 Chicago, IL 60611",799500.0
@@ -116,6 +116,8 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,778,"7234 W North Avenue 1608 Elmwood Park, IL 60707",120000.0
 1,1,1100,"824 E Hyde Park Boulevard 1 Chicago, IL 60615",99900.0
 2,1,880,"352 W 116th Street Chicago, IL 60628",68500.0
+3,2,1296,"7851 W Oakleaf Avenue Elmwood Park, IL 60707",415000.0
+2,2,1422,"14510 S Union Avenue Riverdale, IL 60827",75000.0
 2,2,1153,"770 W GLADYS Avenue 606 Chicago, IL 60661",425000.0
 2,2,1200,"2031 W Evergreen Avenue 1W Chicago, IL 60622",425000.0
 2,2,1519,"6033 N SHERIDAN Road 27C Chicago, IL 60660",329900.0
@@ -835,7 +837,6 @@ bedrooms,bathrooms,square_footage,address,price
 5,1,2600,"6548 S Normal Boulevard Chicago, IL 60621",105000.0
 3,2,1217,"9028 S Carpenter Street Chicago, IL 60620",95500.0
 3,2,1700,"2105 N 73rd Avenue Elmwood Park, IL 60707",369000.0
-1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",255000.0
 3,2,1614,"1548 W Ardmore Avenue 4D Chicago, IL 60660",899000.0
 4,3,2574,"2432 W Ohio Street Chicago, IL 60612",799000.0
 3,3,2136,"3245 S Aberdeen Street Chicago, IL 60608",750000.0
@@ -911,4 +912,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1056,"3219 N Pioneer Avenue Chicago, IL 60634",434900.0
 2,2,1416,"1530 S State Street 14O Chicago, IL 60605",409000.0
 1,1,860,"400 E Randolph Street 3225 Chicago, IL 60601",399900.0
-4,1,1600,"6211 N Harlem Avenue Chicago, IL 60631",399900.0
