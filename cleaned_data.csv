@@ -1,9 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
-4,3,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1075000.0
 2,2,1210,"1629 S Prairie Avenue , 1503 Chicago, IL 60616",489000.0
 1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",289900.0
-2,2,2212,"542 W Brompton Avenue 1S Chicago, IL 60657",660000.0
-3,1,2200,"6023 W 64th Street Chicago, IL 60638",356000.0
 3,2,2015,"369 W Superior Street A Chicago, IL 60654",825000.0
 3,2,2000,"3056 N Paulina Street Chicago, IL 60657",900000.0
 1,1,900,"5511 N Winthrop Avenue 1W Chicago, IL 60640",199900.0
@@ -21,6 +18,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1200,"1645 W Ogden Avenue 516 Chicago, IL 60612",339000.0
 2,2,1750,"1122 N Dearborn Street 16H Chicago, IL 60610",750000.0
 1,1,800,"4702 N Campbell Avenue 2 Chicago, IL 60625",240000.0
+2,2,2212,"542 W Brompton Avenue 1S Chicago, IL 60657",660000.0
 3,3,2300,"1325 N Artesian Avenue 3 Chicago, IL 60622",1100000.0
 2,2,1369,"155 N HARBOR Drive 2011 Chicago, IL 60601",575000.0
 2,2,1290,"233 E 13th Street 601 Chicago, IL 60605",470000.0
@@ -32,7 +30,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1525,"10338 S State Street Chicago, IL 60628",229900.0
 4,2,1078,"5341 S Aberdeen Street Chicago, IL 60609",189900.0
 2,1,1250,"899 S Plymouth Court 1703 Chicago, IL 60605",317000.0
-1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",249900.0
 3,2,2000,"2058 N Western Avenue 301 Chicago, IL 60647",574000.0
 3,1,1696,"5325 W Quincey Street Chicago, IL 60644",299000.0
 2,2,1786,"55 E Erie Avenue 1504 Chicago, IL 60611",799500.0
@@ -205,6 +202,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1374,"4044 N Overhill Avenue Norridge, IL 60706",399000.0
 2,1,1100,"330 W Grand Avenue 904 Chicago, IL 60654",374900.0
 3,3,1312,"8623 S Prairie Avenue Chicago, IL 60619",369900.0
+3,1,2200,"6023 W 64th Street Chicago, IL 60638",356000.0
 3,2,1297,"3832 N Nora Avenue Chicago, IL 60634",350000.0
 3,2,1195,"2946 W 102nd Street Evergreen Park, IL 60805",349900.0
 3,2,1800,"7944 S Whipple Street Chicago, IL 60652",349900.0
@@ -837,6 +835,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,1,2600,"6548 S Normal Boulevard Chicago, IL 60621",105000.0
 3,2,1217,"9028 S Carpenter Street Chicago, IL 60620",95500.0
 3,2,1700,"2105 N 73rd Avenue Elmwood Park, IL 60707",369000.0
+1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",255000.0
 3,2,1614,"1548 W Ardmore Avenue 4D Chicago, IL 60660",899000.0
 4,3,2574,"2432 W Ohio Street Chicago, IL 60612",799000.0
 3,3,2136,"3245 S Aberdeen Street Chicago, IL 60608",750000.0
@@ -912,3 +911,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1056,"3219 N Pioneer Avenue Chicago, IL 60634",434900.0
 2,2,1416,"1530 S State Street 14O Chicago, IL 60605",409000.0
 1,1,860,"400 E Randolph Street 3225 Chicago, IL 60601",399900.0
+4,1,1600,"6211 N Harlem Avenue Chicago, IL 60631",399900.0
