@@ -2,7 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,950,"1151 W Washington Boulevard , 122 Chicago, IL 60607",379900.0
 4,3,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1075000.0
 2,2,1210,"1629 S Prairie Avenue , 1503 Chicago, IL 60616",489000.0
-1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",289900.0
 3,2,2015,"369 W Superior Street A Chicago, IL 60654",825000.0
 3,2,2000,"3056 N Paulina Street Chicago, IL 60657",900000.0
 3,2,2200,"215 W Illinois Street 5C Chicago, IL 60654",699900.0
@@ -68,6 +67,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,2200,"6023 W 64th Street Chicago, IL 60638",356000.0
 1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",249900.0
 3,2,939,"3609 S Leavitt Street Chicago, IL 60609",339900.0
+3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",379900.0
 3,2,2000,"2058 N Western Avenue 301 Chicago, IL 60647",574000.0
 1,1,873,"600 N Fairbanks Court 2304 Chicago, IL 60611",424000.0
 3,1,1696,"5325 W Quincey Street Chicago, IL 60644",299000.0
@@ -147,6 +147,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,784,"6700 S South Shore Drive 10G Chicago, IL 60649",135000.0
 2,1,1056,"6410 S Mozart Street Chicago, IL 60629",134900.0
 3,1,880,"12219 S Throop Street Chicago, IL 60643",99999.0
+1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",289900.0
 3,2,2175,"950 N Michigan Avenue 4502 Chicago, IL 60611",999000.0
 4,4,3000,"1300 N Lake Shore Drive 8BC Chicago, IL 60610",899900.0
 2,2,1850,"1212 N Lake Shore Drive 12CN Chicago, IL 60610",885000.0
@@ -908,4 +909,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1350,"1503 S State Street 606 Chicago, IL 60605",425000.0
 2,3,2400,"5639 W Cornelia Avenue Chicago, IL 60634",425000.0
 4,2,976,"4624 W Montana Street Chicago, IL 60639",419900.0
-2,2,1400,"110 E Delaware Place 701 Chicago, IL 60611",414500.0
