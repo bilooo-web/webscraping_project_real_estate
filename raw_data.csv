@@ -1,19 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"3
-beds",2,"2,400
-sq.ft.","450 N Racine Avenue , 2 Chicago, IL 60642","$1,200,000"
-"1
-beds",1,"950
-sq.ft.","1151 W Washington Boulevard , 122 Chicago, IL 60607","$379,900"
 "2
 beds",2,"1,200
 sq.ft.","7930 W Grand Avenue , 2E Elmwood Park, IL 60707","$249,900"
-"4
-beds",3,"2,850
-sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,075,000"
-"2
-beds",2,"1,210
-sq.ft.","1629 S Prairie Avenue , 1503 Chicago, IL 60616","$489,000"
 "1
 beds",1,"832
 sq.ft.","655 W IRVING PARK Road 5506 Chicago, IL 60613","$250,000"
@@ -104,6 +92,12 @@ sq.ft.","737 W Washington Boulevard 3306 Chicago, IL 60661","$445,000"
 "2
 beds",2,"1,339
 sq.ft.","5360 N Lowell Avenue 502 Chicago, IL 60630","$365,000"
+"3
+beds",2,"2,400
+sq.ft.","450 N Racine Avenue , 2 Chicago, IL 60642","$1,200,000"
+"1
+beds",1,"950
+sq.ft.","1151 W Washington Boulevard , 122 Chicago, IL 60607","$379,900"
 "3
 beds",2,"3,200
 sq.ft.","358 W Huron Street B Chicago, IL 60654","$1,349,000"
@@ -746,6 +740,12 @@ sq.ft.","1960 W Hood Avenue 2C Chicago, IL 60660","$98,000"
 "2
 beds",1,"1,106
 sq.ft.","7814 S Drexel Avenue Chicago, IL 60619","$68,400"
+"4
+beds",3,"2,850
+sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,075,000"
+"2
+beds",2,"1,210
+sq.ft.","1629 S Prairie Avenue , 1503 Chicago, IL 60616","$489,000"
 "7
 beds",5,"6,300
 sq.ft.","545 W Grant Place Chicago, IL 60614","$4,100,000"

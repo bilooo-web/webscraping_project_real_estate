@@ -1,8 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
-1,1,950,"1151 W Washington Boulevard , 122 Chicago, IL 60607",379900.0
 2,2,1200,"7930 W Grand Avenue , 2E Elmwood Park, IL 60707",249900.0
-4,3,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1075000.0
-2,2,1210,"1629 S Prairie Avenue , 1503 Chicago, IL 60616",489000.0
 1,1,832,"655 W IRVING PARK Road 5506 Chicago, IL 60613",250000.0
 1,1,900,"5511 N Winthrop Avenue 1W Chicago, IL 60640",199900.0
 3,2,2125,"8024 W Charmaine Road Norridge, IL 60706",519000.0
@@ -30,6 +27,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1250,"4322 S FORRESTVILLE Avenue 3 Chicago, IL 60653",264900.0
 1,1,1040,"737 W Washington Boulevard 3306 Chicago, IL 60661",445000.0
 2,2,1339,"5360 N Lowell Avenue 502 Chicago, IL 60630",365000.0
+1,1,950,"1151 W Washington Boulevard , 122 Chicago, IL 60607",379900.0
 3,2,2015,"369 W Superior Street A Chicago, IL 60654",825000.0
 2,2,1700,"925 N Wolcott Avenue 103 Chicago, IL 60622",699000.0
 3,2,1600,"5224 N New England Avenue Chicago, IL 60656",550000.0
@@ -215,6 +213,8 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,968,"2102 S Christiana Avenue Chicago, IL 60623",102500.0
 2,1,950,"1960 W Hood Avenue 2C Chicago, IL 60660",98000.0
 2,1,1106,"7814 S Drexel Avenue Chicago, IL 60619",68400.0
+4,3,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1075000.0
+2,2,1210,"1629 S Prairie Avenue , 1503 Chicago, IL 60616",489000.0
 2,2,1384,"211 N Harbor Drive 1506 Chicago, IL 60601",1055000.0
 2,2,1700,"1222 W Lill Avenue Chicago, IL 60614",1050000.0
 2,2,1885,"21 E HURON Street 1106 Chicago, IL 60611",965000.0
