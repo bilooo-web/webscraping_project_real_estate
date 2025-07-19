@@ -2,12 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",2,"1,200
 sq.ft.","7930 W Grand Avenue , 2E Elmwood Park, IL 60707","$249,900"
-"1
-beds",1,"832
-sq.ft.","655 W IRVING PARK Road 5506 Chicago, IL 60613","$250,000"
-"1
-beds",1,"900
-sq.ft.","5511 N Winthrop Avenue 1W Chicago, IL 60640","$199,900"
 "3
 beds",2,"2,125
 sq.ft.","8024 W Charmaine Road Norridge, IL 60706","$519,000"
@@ -110,6 +104,9 @@ sq.ft.","925 N Wolcott Avenue 103 Chicago, IL 60622","$699,000"
 "3
 beds",2,"1,600
 sq.ft.","5224 N New England Avenue Chicago, IL 60656","$550,000"
+"1
+beds",1,"900
+sq.ft.","5511 N Winthrop Avenue 1W Chicago, IL 60640","$199,900"
 "3
 beds",4,"3,720
 sq.ft.","2438 W Berteau Avenue Chicago, IL 60618","$1,645,000"
@@ -200,6 +197,9 @@ sq.ft.","4869 N KENMORE Avenue G Chicago, IL 60640","$299,900"
 "1
 beds",1,"700
 sq.ft.","222 N Columbus Drive 2204 Chicago, IL 60601","$277,900"
+"1
+beds",1,"832
+sq.ft.","655 W IRVING PARK Road 5506 Chicago, IL 60613","$250,000"
 "1
 beds",1,"652
 sq.ft.","4970 N Marine Drive 1024 Chicago, IL 60640","$145,000"

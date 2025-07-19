@@ -1,7 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2,1200,"7930 W Grand Avenue , 2E Elmwood Park, IL 60707",249900.0
-1,1,832,"655 W IRVING PARK Road 5506 Chicago, IL 60613",250000.0
-1,1,900,"5511 N Winthrop Avenue 1W Chicago, IL 60640",199900.0
 3,2,2125,"8024 W Charmaine Road Norridge, IL 60706",519000.0
 3,1,769,"12216 S Carpenter Street Chicago, IL 60643",200000.0
 4,2,2100,"6236 W Cornelia Avenue Chicago, IL 60634",539900.0
@@ -31,6 +29,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2015,"369 W Superior Street A Chicago, IL 60654",825000.0
 2,2,1700,"925 N Wolcott Avenue 103 Chicago, IL 60622",699000.0
 3,2,1600,"5224 N New England Avenue Chicago, IL 60656",550000.0
+1,1,900,"5511 N Winthrop Avenue 1W Chicago, IL 60640",199900.0
 3,2,1500,"937 W Wrightwood Avenue C Chicago, IL 60614",599000.0
 1,1,920,"700 W Cornelia Avenue 3E Chicago, IL 60657",349900.0
 3,2,2250,"4250 N Whipple Street Chicago, IL 60618",875000.0
@@ -55,6 +54,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1774,"1327 W Washington Boulevard 5B Chicago, IL 60607",799900.0
 2,2,1100,"4869 N KENMORE Avenue G Chicago, IL 60640",299900.0
 1,1,700,"222 N Columbus Drive 2204 Chicago, IL 60601",277900.0
+1,1,832,"655 W IRVING PARK Road 5506 Chicago, IL 60613",250000.0
 1,1,652,"4970 N Marine Drive 1024 Chicago, IL 60640",145000.0
 1,1,800,"4702 N Campbell Avenue 2 Chicago, IL 60625",240000.0
 1,1,840,"5455 N Sheridan Road 1008 Chicago, IL 60640",170000.0
