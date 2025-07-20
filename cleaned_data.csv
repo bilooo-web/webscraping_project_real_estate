@@ -1,12 +1,11 @@
 bedrooms,bathrooms,square_footage,address,price
 3,1,1185,"5220 S Natoma Avenue Chicago, IL 60638",299900.0
 2,2,1200,"7930 W Grand Avenue , 2E Elmwood Park, IL 60707",249900.0
-3,3,2300,"2754 N Paulina Street Chicago, IL 60614",824999.0
-3,1,2200,"6023 W 64th Street Chicago, IL 60638",356000.0
 3,2,1056,"3219 N Pioneer Avenue Chicago, IL 60634",424900.0
 3,2,2000,"3056 N Paulina Street Chicago, IL 60657",900000.0
 1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",249900.0
 3,2,2100,"843 N California Avenue 4 Chicago, IL 60622",639000.0
+3,3,2300,"2754 N Paulina Street Chicago, IL 60614",824999.0
 3,2,1500,"937 W Wrightwood Avenue C Chicago, IL 60614",599000.0
 3,2,939,"3609 S Leavitt Street Chicago, IL 60609",339900.0
 5,2,2243,"64 E 102ND Place Chicago, IL 60628",299900.0
@@ -362,6 +361,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1374,"4044 N Overhill Avenue Norridge, IL 60706",399000.0
 2,1,1100,"330 W Grand Avenue 904 Chicago, IL 60654",374900.0
 3,3,1312,"8623 S Prairie Avenue Chicago, IL 60619",369900.0
+3,1,2200,"6023 W 64th Street Chicago, IL 60638",356000.0
 3,2,1297,"3832 N Nora Avenue Chicago, IL 60634",350000.0
 3,2,1195,"2946 W 102nd Street Evergreen Park, IL 60805",349900.0
 3,2,1800,"7944 S Whipple Street Chicago, IL 60652",349900.0
