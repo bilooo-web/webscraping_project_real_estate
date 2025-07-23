@@ -20,6 +20,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,2811,"2441 N Clybourn Avenue 1 Chicago, IL 60614",1100000.0
 1,1,980,"1325 N State Parkway 17C Chicago, IL 60610",385000.0
 2,2,1687,"3951 N Hermitage Avenue C Chicago, IL 60613",672000.0
+4,3,2062,"2318 S Central Park Avenue , 101 Chicago, IL 60623",285000.0
 2,2,1308,"1601 W School Street 504 Chicago, IL 60657",535000.0
 3,2,1766,"4836 N Damen Avenue PH Chicago, IL 60625",825000.0
 2,2,1100,"801 S Plymouth Court 602 Chicago, IL 60605",299900.0
@@ -473,7 +474,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1008,"1017 N Avers Avenue Chicago, IL 60651",69700.0
 5,2,1350,"5747 S La Salle Street Chicago, IL 60621",59900.0
 4,2,1530,"54 E 137th Place Riverdale, IL 60827",59900.0
-4,3,2062,"2318 S Central Park Avenue , 101 Chicago, IL 60623",285000.0
 4,3,3200,"1644 N Washtenaw Avenue Chicago, IL 60647",1100000.0
 3,2,1900,"2444 N Seminary Avenue 4 Chicago, IL 60614",999000.0
 2,2,1384,"211 N Harbor Drive 306 Chicago, IL 60601",950000.0
