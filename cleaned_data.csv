@@ -1,4 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
+4,2,2225,"4130 N Oketo Avenue Norridge, IL 60706",410000.0
+3,3,1229,"6625 N Whipple Street Chicago, IL 60645",450000.0
 2,2,1200,"4231 N Kedzie Avenue 3E Chicago, IL 60618",360000.0
 3,2,1500,"1333 N Burling Street , B Chicago, IL 60610",549000.0
 2,1,1100,"661 W Division Street B Chicago, IL 60610",375000.0
@@ -914,5 +916,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2499,"8610 S Aberdeen Street Chicago, IL 60620",312000.0
 3,1,960,"5622 S Parkside Avenue Chicago, IL 60638",300000.0
 2,1,950,"4747 N Artesian Avenue 3S Chicago, IL 60625",299900.0
-3,2,1850,"6121 N Hoyne Avenue 1S Chicago, IL 60659",290000.0
-3,2,2100,"601 E 32nd Street 210 Chicago, IL 60616",275000.0
