@@ -1,8 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$369,900"
-"3
 beds",2,"1,800
 sq.ft.","4518 S King Drive 2A Chicago, IL 60653","$380,000"
 "2
@@ -20,6 +17,9 @@ sq.ft.","6901 S Oglesby Avenue 6C Chicago, IL 60649","$160,000"
 "2
 beds",2,"1,056
 sq.ft.","5308 S Keeler Avenue Chicago, IL 60632","$299,000"
+"1
+beds",1,"725
+sq.ft.","1464 S Michigan Avenue , 1108 Chicago, IL 60605","$249,900"
 "3
 beds",2,"2,400
 sq.ft.","450 N Racine Avenue , 2 Chicago, IL 60642","$1,200,000"
@@ -437,6 +437,9 @@ sq.ft.","8443 S STATE Street Chicago, IL 60619","$90,000"
 "2
 beds",1,"1,037
 sq.ft.","4808 S DREXEL Boulevard N Chicago, IL 60615","$75,000"
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$369,900"
 "3
 beds",4,"2,583
 sq.ft.","4544 N Oriole Avenue Norridge, IL 60706","$750,000"
@@ -3020,6 +3023,3 @@ sq.ft.","6121 N Hoyne Avenue 1S Chicago, IL 60659","$290,000"
 "3
 beds",2,"2,100
 sq.ft.","601 E 32nd Street 210 Chicago, IL 60616","$275,000"
-"3
-beds",2,"1,800
-sq.ft.","9139 S Colfax Avenue Chicago, IL 60617","$244,900"
