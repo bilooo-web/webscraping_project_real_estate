@@ -1,7 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"3
-beds",2,"1,800
-sq.ft.","4518 S King Drive 2A Chicago, IL 60653","$380,000"
 "2
 beds",2,"1,200
 sq.ft.","4231 N Kedzie Avenue 3E Chicago, IL 60618","$360,000"
@@ -17,9 +14,6 @@ sq.ft.","6901 S Oglesby Avenue 6C Chicago, IL 60649","$160,000"
 "2
 beds",2,"1,056
 sq.ft.","5308 S Keeler Avenue Chicago, IL 60632","$299,000"
-"1
-beds",1,"725
-sq.ft.","1464 S Michigan Avenue , 1108 Chicago, IL 60605","$249,900"
 "3
 beds",2,"2,400
 sq.ft.","450 N Racine Avenue , 2 Chicago, IL 60642","$1,200,000"
@@ -176,6 +170,9 @@ sq.ft.","234 W Polk Street 2409 Chicago, IL 60607","$670,000"
 "1
 beds",1,"740
 sq.ft.","234 W Polk Street 2506 Chicago, IL 60607","$500,000"
+"3
+beds",2,"1,800
+sq.ft.","4518 S King Drive 2A Chicago, IL 60653","$380,000"
 "2
 beds",3,"2,944
 sq.ft.","1123 W 19th Street Chicago, IL 60608","$724,999"
@@ -3023,3 +3020,6 @@ sq.ft.","6121 N Hoyne Avenue 1S Chicago, IL 60659","$290,000"
 "3
 beds",2,"2,100
 sq.ft.","601 E 32nd Street 210 Chicago, IL 60616","$275,000"
+"3
+beds",2,"1,800
+sq.ft.","9139 S Colfax Avenue Chicago, IL 60617","$244,900"

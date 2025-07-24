@@ -1,11 +1,9 @@
 bedrooms,bathrooms,square_footage,address,price
-3,2,1800,"4518 S King Drive 2A Chicago, IL 60653",380000.0
 2,2,1200,"4231 N Kedzie Avenue 3E Chicago, IL 60618",360000.0
 3,2,1500,"1333 N Burling Street , B Chicago, IL 60610",549000.0
 2,1,1100,"661 W Division Street B Chicago, IL 60610",375000.0
 3,3,3200,"6901 S Oglesby Avenue 6C Chicago, IL 60649",160000.0
 2,2,1056,"5308 S Keeler Avenue Chicago, IL 60632",299000.0
-1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",249900.0
 4,3,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1075000.0
 3,3,3000,"4720 N Kenneth Avenue Chicago, IL 60630",829900.0
 3,3,2366,"1313 W Carmen Avenue 1N Chicago, IL 60640",799900.0
@@ -46,6 +44,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,935,"234 W Polk Street 2608 Chicago, IL 60607",550000.0
 2,2,1223,"234 W Polk Street 2409 Chicago, IL 60607",670000.0
 1,1,740,"234 W Polk Street 2506 Chicago, IL 60607",500000.0
+3,2,1800,"4518 S King Drive 2A Chicago, IL 60653",380000.0
 2,3,2944,"1123 W 19th Street Chicago, IL 60608",724999.0
 2,1,958,"3413 S 56th Court Cicero, IL 60804",325000.0
 2,2,1092,"8723 S Hermitage Avenue Chicago, IL 60620",149000.0
@@ -916,3 +915,4 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,950,"4747 N Artesian Avenue 3S Chicago, IL 60625",299900.0
 3,2,1850,"6121 N Hoyne Avenue 1S Chicago, IL 60659",290000.0
 3,2,2100,"601 E 32nd Street 210 Chicago, IL 60616",275000.0
+3,2,1800,"9139 S Colfax Avenue Chicago, IL 60617",244900.0
