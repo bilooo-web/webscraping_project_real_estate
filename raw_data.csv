@@ -1,16 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "4
-beds",3,"3,450
-sq.ft.","5151 W Fletcher Street Chicago, IL 60641","$620,000"
-"4
 beds",2,"2,225
 sq.ft.","4130 N Oketo Avenue Norridge, IL 60706","$410,000"
 "3
 beds",3,"1,229
 sq.ft.","6625 N Whipple Street Chicago, IL 60645","$450,000"
-"2
-beds",2,"1,200
-sq.ft.","4231 N Kedzie Avenue 3E Chicago, IL 60618","$360,000"
 "2
 beds",1,"1,100
 sq.ft.","661 W Division Street B Chicago, IL 60610","$375,000"
@@ -539,6 +533,9 @@ sq.ft.","7558 S Damen Avenue Chicago, IL 60620","$385,000"
 "3
 beds",1,"1,200
 sq.ft.","5741 S Neenah Avenue Chicago, IL 60638","$380,000"
+"2
+beds",2,"1,200
+sq.ft.","4231 N Kedzie Avenue 3E Chicago, IL 60618","$360,000"
 "3
 beds",1,"1,192
 sq.ft.","2879 S Throop Street Chicago, IL 60608","$345,000"
@@ -3023,3 +3020,6 @@ sq.ft.","5622 S Parkside Avenue Chicago, IL 60638","$300,000"
 "2
 beds",1,"950
 sq.ft.","4747 N Artesian Avenue 3S Chicago, IL 60625","$299,900"
+"3
+beds",2,"1,850
+sq.ft.","6121 N Hoyne Avenue 1S Chicago, IL 60659","$290,000"
