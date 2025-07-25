@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",1,"850
+sq.ft.","2937 S Keeley Street , 1 Chicago, IL 60608","$215,000"
 "4
 beds",3,"3,450
 sq.ft.","5151 W Fletcher Street Chicago, IL 60641","$620,000"
@@ -353,6 +356,9 @@ sq.ft.","401 N Aberdeen Street 2N Chicago, IL 60642","$1,850,000"
 "2
 beds",2,"2,200
 sq.ft.","2013 W Evergreen Avenue 1 Chicago, IL 60622","$579,500"
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$369,900"
 "2
 beds",2,"1,310
 sq.ft.","234 W Polk Street 2501 Chicago, IL 60607","$710,000"
@@ -932,9 +938,6 @@ sq.ft.","5337 S Ellis Avenue 1C Chicago, IL 60615","$99,500"
 "2
 beds",1,"1,037
 sq.ft.","4808 S DREXEL Boulevard N Chicago, IL 60615","$75,000"
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$369,900"
 "3
 beds",4,"2,583
 sq.ft.","4544 N Oriole Avenue Norridge, IL 60706","$750,000"
@@ -3020,6 +3023,3 @@ sq.ft.","7659 S Rhodes Avenue Chicago, IL 60619","$185,000"
 "4
 beds",1,"1,088
 sq.ft.","12509 S Justine Street Calumet Park, IL 60827","$139,000"
-"5
-beds",2,"1,470
-sq.ft.","10920 S Wabash Avenue Chicago, IL 60628","$100,000"

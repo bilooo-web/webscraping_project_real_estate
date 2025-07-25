@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+2,1,850,"2937 S Keeley Street , 1 Chicago, IL 60608",215000.0
 4,3,3450,"5151 W Fletcher Street Chicago, IL 60641",620000.0
 4,2,2225,"4130 N Oketo Avenue Norridge, IL 60706",410000.0
 2,2,1700,"7033 N Kedzie Avenue , 1704 Chicago, IL 60645",189500.0
@@ -95,6 +96,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1875,"360 E RANDOLPH Street 2903 Chicago, IL 60601",1085000.0
 2,2,1350,"1610 W Grand Avenue 2A Chicago, IL 60622",498000.0
 2,2,2200,"2013 W Evergreen Avenue 1 Chicago, IL 60622",579500.0
+3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",369900.0
 2,2,1310,"234 W Polk Street 2501 Chicago, IL 60607",710000.0
 3,2,1800,"849 N Franklin Street 618 Chicago, IL 60610",829000.0
 5,2,2243,"64 E 102ND Place Chicago, IL 60628",299900.0
@@ -263,7 +265,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1750,"1755 E 55th Street 503 Chicago, IL 60615",119500.0
 1,1,1000,"5337 S Ellis Avenue 1C Chicago, IL 60615",99500.0
 2,1,1037,"4808 S DREXEL Boulevard N Chicago, IL 60615",75000.0
-3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",369900.0
 3,4,2583,"4544 N Oriole Avenue Norridge, IL 60706",750000.0
 4,2,2652,"7248 N Hamilton Avenue Chicago, IL 60645",649000.0
 4,3,2407,"5605 S NORDICA Avenue Chicago, IL 60638",625000.0
@@ -911,4 +912,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1500,"6833 N Kedzie Avenue 406 Chicago, IL 60645",204900.0
 2,2,980,"7659 S Rhodes Avenue Chicago, IL 60619",185000.0
 4,1,1088,"12509 S Justine Street Calumet Park, IL 60827",139000.0
-5,2,1470,"10920 S Wabash Avenue Chicago, IL 60628",100000.0
