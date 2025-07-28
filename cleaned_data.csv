@@ -479,7 +479,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,618,"4113 W Cullom Avenue 1C Chicago, IL 60641",149900.0
 1,1,778,"7234 W North Avenue 1608 Elmwood Park, IL 60707",120000.0
 2,1,880,"352 W 116th Street Chicago, IL 60628",68500.0
-3,2,1296,"7851 W Oakleaf Avenue Elmwood Park, IL 60707",415000.0
 2,2,1422,"14510 S Union Avenue Riverdale, IL 60827",75000.0
 2,2,1387,"100 E 14th Street 2510 Chicago, IL 60605",595000.0
 2,2,1153,"770 W GLADYS Avenue 606 Chicago, IL 60661",425000.0
@@ -751,7 +750,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1080,"9221 S Normal Avenue Chicago, IL 60620",100000.0
 1,1,800,"10535 S Hale Avenue 1E Chicago, IL 60643",95000.0
 3,2,1098,"7002 S Hermitage Avenue Chicago, IL 60636",75000.0
-2,3,2000,"353 E Eastgate Place Chicago, IL 60616",479000.0
+2,3,2000,"353 E Eastgate Place Chicago, IL 60616",469000.0
 4,3,2348,"6240 S Kolmar Avenue Chicago, IL 60629",499900.0
 3,1,1200,"2955 N LOTUS Avenue Chicago, IL 60641",335000.0
 4,2,1450,"10200 S Union Avenue Chicago, IL 60628",299900.0
@@ -918,3 +917,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,3720,"11814 S Parnell Avenue Chicago, IL 60628",230400.0
 2,2,1500,"6833 N Kedzie Avenue 406 Chicago, IL 60645",204900.0
 2,2,980,"7659 S Rhodes Avenue Chicago, IL 60619",185000.0
+4,1,1088,"12509 S Justine Street Calumet Park, IL 60827",139000.0
