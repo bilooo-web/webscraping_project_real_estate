@@ -1,8 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",2,"2,300
-sq.ft.","3267 S Hamilton Avenue Chicago, IL 60608","$579,000"
-"3
 beds",2,"1,500
 sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$539,000"
 "3
@@ -3023,3 +3020,6 @@ sq.ft.","6833 N Kedzie Avenue 406 Chicago, IL 60645","$204,900"
 "2
 beds",2,"980
 sq.ft.","7659 S Rhodes Avenue Chicago, IL 60619","$185,000"
+"4
+beds",1,"1,088
+sq.ft.","12509 S Justine Street Calumet Park, IL 60827","$139,000"

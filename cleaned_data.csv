@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-3,2,2300,"3267 S Hamilton Avenue Chicago, IL 60608",579000.0
 3,2,1500,"1333 N Burling Street , B Chicago, IL 60610",539000.0
 3,2,1040,"8225 S Wentworth Avenue Chicago, IL 60620",264000.0
 2,2,1200,"4231 N Kedzie Avenue 3E Chicago, IL 60618",360000.0
@@ -918,3 +917,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,3720,"11814 S Parnell Avenue Chicago, IL 60628",230400.0
 2,2,1500,"6833 N Kedzie Avenue 406 Chicago, IL 60645",204900.0
 2,2,980,"7659 S Rhodes Avenue Chicago, IL 60619",185000.0
+4,1,1088,"12509 S Justine Street Calumet Park, IL 60827",139000.0
