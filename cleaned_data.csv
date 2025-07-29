@@ -1,7 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2,2300,"3267 S Hamilton Avenue Chicago, IL 60608",579000.0
 3,2,1500,"1333 N Burling Street , B Chicago, IL 60610",539000.0
 3,2,1040,"8225 S Wentworth Avenue Chicago, IL 60620",264000.0
-2,1,850,"2840 W Glenlake Street , 3D Chicago, IL 60659",205000.0
 2,2,1200,"4231 N Kedzie Avenue 3E Chicago, IL 60618",360000.0
 2,1,1400,"5636 S Prairie Avenue 3S Chicago, IL 60637",195000.0
 3,1,944,"8853 S Halsted Street Chicago, IL 60620",198950.0
@@ -27,6 +27,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1100,"5652 W 63rd Street 2W Chicago, IL 60638",250000.0
 3,2,2160,"55 E 75th Street Chicago, IL 60619",249900.0
 1,1,650,"3638 N Pine Grove Avenue G2 Chicago, IL 60613",219000.0
+2,1,850,"2840 W Glenlake Street , 3D Chicago, IL 60659",205000.0
 3,4,2815,"324 E 17th Street Chicago, IL 60616",879000.0
 3,2,1633,"3161 N Halsted Street 202 Chicago, IL 60657",799000.0
 3,2,1564,"1523 N Western Avenue 3B Chicago, IL 60622",699000.0
@@ -917,4 +918,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,3720,"11814 S Parnell Avenue Chicago, IL 60628",230400.0
 2,2,1500,"6833 N Kedzie Avenue 406 Chicago, IL 60645",204900.0
 2,2,980,"7659 S Rhodes Avenue Chicago, IL 60619",185000.0
-4,1,1088,"12509 S Justine Street Calumet Park, IL 60827",139000.0
