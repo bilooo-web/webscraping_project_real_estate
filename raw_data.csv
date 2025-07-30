@@ -1,13 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"800
+sq.ft.","4800 S Chicago Beach Drive , 2405S Chicago, IL 60615","$149,900"
 "3
 beds",2,"2,300
 sq.ft.","3267 S Hamilton Avenue Chicago, IL 60608","$579,000"
-"3
-beds",2,"1,500
-sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$539,000"
-"3
-beds",2,"1,040
-sq.ft.","8225 S Wentworth Avenue Chicago, IL 60620","$264,000"
 "2
 beds",2,"1,200
 sq.ft.","4231 N Kedzie Avenue 3E Chicago, IL 60618","$360,000"
@@ -197,6 +194,12 @@ sq.ft.","11531 S Stewart Avenue Chicago, IL 60628","$176,500"
 "3
 beds",1,"1,088
 sq.ft.","4924 S Lorel Avenue Chicago, IL 60638","$149,900"
+"3
+beds",2,"1,500
+sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$539,000"
+"3
+beds",2,"1,040
+sq.ft.","8225 S Wentworth Avenue Chicago, IL 60620","$264,000"
 "4
 beds",3,"2,400
 sq.ft.","3863 N Milwaukee Avenue Chicago, IL 60641","$595,500"
@@ -3020,6 +3023,3 @@ sq.ft.","860 W Blackhawk Street 805 Chicago, IL 60642","$400,000"
 "3
 beds",3,"2,495
 sq.ft.","2734 N 72nd Court Elmwood Park, IL 60707","$300,000"
-"1
-beds",1,"850
-sq.ft.","6959 N Ridge Boulevard 1C Chicago, IL 60645","$169,900"
