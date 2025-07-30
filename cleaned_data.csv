@@ -27,6 +27,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1881,"5114 S Kenwood Avenue PHB Chicago, IL 60615",1000000.0
 2,2,1300,"130 S CANAL Street 217 Chicago, IL 60606",439000.0
 1,1,920,"700 W Cornelia Avenue 3E Chicago, IL 60657",340000.0
+4,3,2062,"2318 S Central Park Avenue , 101 Chicago, IL 60623",275000.0
 2,2,1600,"13228 S Rhodes Avenue Chicago, IL 60827",248999.0
 1,1,915,"1629 S Prairie Avenue 2507 Chicago, IL 60616",349000.0
 3,2,951,"7326 S Claremont Avenue Chicago, IL 60636",99900.0
@@ -677,7 +678,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1008,"1017 N Avers Avenue Chicago, IL 60651",69700.0
 5,2,1350,"5747 S La Salle Street Chicago, IL 60621",59900.0
 4,2,1530,"54 E 137th Place Riverdale, IL 60827",59900.0
-4,3,2062,"2318 S Central Park Avenue , 101 Chicago, IL 60623",285000.0
 4,3,3200,"1644 N Washtenaw Avenue Chicago, IL 60647",1100000.0
 2,2,1384,"211 N Harbor Drive 306 Chicago, IL 60601",950000.0
 2,2,1201,"211 N Harbor Drive 1901 Chicago, IL 60601",865000.0
