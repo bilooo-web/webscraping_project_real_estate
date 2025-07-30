@@ -1,7 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"1
-beds",1,"800
-sq.ft.","4800 S Chicago Beach Drive , 2405S Chicago, IL 60615","$149,900"
 "3
 beds",2,"2,300
 sq.ft.","3267 S Hamilton Avenue Chicago, IL 60608","$579,000"
@@ -3023,3 +3020,6 @@ sq.ft.","860 W Blackhawk Street 805 Chicago, IL 60642","$400,000"
 "3
 beds",3,"2,495
 sq.ft.","2734 N 72nd Court Elmwood Park, IL 60707","$300,000"
+"1
+beds",1,"850
+sq.ft.","6959 N Ridge Boulevard 1C Chicago, IL 60645","$169,900"
