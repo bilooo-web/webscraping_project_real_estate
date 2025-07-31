@@ -52,6 +52,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2160,"323 S Racine Avenue 6B Chicago, IL 60607",1125000.0
 3,2,1914,"2923 N Southport Avenue 3 Chicago, IL 60657",999000.0
 3,2,1921,"1513 W Highland Avenue Chicago, IL 60660",760000.0
+3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",369900.0
 2,2,1387,"100 E 14th Street 2510 Chicago, IL 60605",595000.0
 2,2,1300,"817 W Washington Boulevard 503 Chicago, IL 60607",659000.0
 2,2,958,"565 W Quincy Street 609 Chicago, IL 60661",400000.0
@@ -69,6 +70,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1750,"1122 N Dearborn Street 16H Chicago, IL 60610",750000.0
 3,1,1300,"4207 W Jobev Lane Alsip, IL 60803",325000.0
 1,1,1400,"720 S Dearborn Street 204 Chicago, IL 60605",399000.0
+2,1,850,"2937 S Keeley Street , 1 Chicago, IL 60608",215000.0
 5,3,2571,"4517 N Austin Avenue Chicago, IL 60630",475000.0
 3,1,988,"5314 S Harding Avenue Chicago, IL 60632",329900.0
 3,2,1913,"6120 W 65th Street 5 Chicago, IL 60638",329900.0
@@ -213,7 +215,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1150,"5421 S Wood Street Chicago, IL 60609",134900.0
 3,2,1120,"513 E 87th Street Chicago, IL 60619",124900.0
 6,3,1968,"11941 S La Salle Street Chicago, IL 60628",99000.0
-2,1,850,"2937 S Keeley Street , 1 Chicago, IL 60608",215000.0
 3,2,2575,"161 E Chicago Avenue 38A Chicago, IL 60611",1125000.0
 4,3,2914,"9556 S Winchester Avenue Chicago, IL 60643",927000.0
 3,2,2000,"2558 W Bloomingdale Avenue Chicago, IL 60647",725000.0
@@ -388,7 +389,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,1000,"5337 S Ellis Avenue 1C Chicago, IL 60615",99500.0
 4,1,1029,"8443 S STATE Street Chicago, IL 60619",90000.0
 2,1,1037,"4808 S DREXEL Boulevard N Chicago, IL 60615",75000.0
-3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",369900.0
 3,4,2583,"4544 N Oriole Avenue Norridge, IL 60706",750000.0
 4,2,2652,"7248 N Hamilton Avenue Chicago, IL 60645",649000.0
 4,3,2407,"5605 S NORDICA Avenue Chicago, IL 60638",625000.0
