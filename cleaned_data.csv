@@ -1,6 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2,2000,"7061 N Kedzie Avenue , 1008 Chicago, IL 60645",249900.0
 1,1,800,"4800 S Chicago Beach Drive , 2405S Chicago, IL 60615",149900.0
-3,2,2300,"3267 S Hamilton Avenue Chicago, IL 60608",579000.0
 2,2,1200,"4231 N Kedzie Avenue 3E Chicago, IL 60618",360000.0
 1,1,800,"1707 N Crilly Court 1E Chicago, IL 60614",335000.0
 2,1,1400,"5636 S Prairie Avenue 3S Chicago, IL 60637",195000.0
@@ -22,7 +22,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1700,"925 N Wolcott Avenue 103 Chicago, IL 60622",699000.0
 5,2,2243,"64 E 102ND Place Chicago, IL 60628",299900.0
 3,3,1374,"1718 N Clybourn Avenue 1 Chicago, IL 60614",675000.0
-3,2,1898,"5114 S Kenwood Avenue PHA Chicago, IL 60615",1100000.0
 3,2,1881,"5114 S Kenwood Avenue 3B Chicago, IL 60615",900000.0
 3,2,1881,"5114 S Kenwood Avenue PHB Chicago, IL 60615",1000000.0
 2,2,1300,"130 S CANAL Street 217 Chicago, IL 60606",439000.0
@@ -110,6 +109,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1280,"5252 W Ferdinand Street Chicago, IL 60644",150000.0
 2,1,1000,"14535 S Parnell Avenue Riverdale, IL 60827",74900.0
 3,1,1202,"13819 S State Street Riverdale, IL 60827",74900.0
+3,2,2300,"3267 S Hamilton Avenue Chicago, IL 60608",579000.0
 3,3,2899,"10511 S Hamlin Avenue Chicago, IL 60655",489000.0
 4,2,1653,"2718 N 76TH Avenue Elmwood Park, IL 60707",349900.0
 3,2,1559,"1321 S Kildare Avenue Chicago, IL 60623",290500.0
@@ -586,7 +586,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1740,"9748 S Drexel Avenue Chicago, IL 60628",99999.0
 4,2,1100,"11536 S La Salle Street Chicago, IL 60628",40000.0
 8,3,3837,"5019 N Kostner Avenue Chicago, IL 60630",670000.0
-4,3,2413,"1915 N Albany Avenue Chicago, IL 60647",1099000.0
 3,3,2035,"1242 N Lake Shore Drive 4N Chicago, IL 60610",925000.0
 3,3,2600,"4848 N Seeley Avenue Chicago, IL 60625",925000.0
 3,2,2400,"1431 N Artesian Avenue 1 Chicago, IL 60622",674900.0
@@ -678,7 +677,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1008,"1017 N Avers Avenue Chicago, IL 60651",69700.0
 5,2,1350,"5747 S La Salle Street Chicago, IL 60621",59900.0
 4,2,1530,"54 E 137th Place Riverdale, IL 60827",59900.0
-4,3,3200,"1644 N Washtenaw Avenue Chicago, IL 60647",1100000.0
 2,2,1384,"211 N Harbor Drive 306 Chicago, IL 60601",950000.0
 2,2,1201,"211 N Harbor Drive 1901 Chicago, IL 60601",865000.0
 4,3,3000,"4316 W Summerdale Avenue Chicago, IL 60630",865000.0
@@ -714,7 +712,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,750,"5100 N Marine Drive 16E Chicago, IL 60640",149500.0
 4,1,1194,"8717 S Bishop Street Chicago, IL 60620",89000.0
 2,1,1200,"757 N Orleans Street , 1104 Chicago, IL 60654",440000.0
-4,3,4500,"2912 N Commonwealth Avenue 10CD Chicago, IL 60657",1100000.0
 4,3,3035,"1250 S Michigan Avenue 2802 Chicago, IL 60605",1075000.0
 4,3,2200,"2405 W Iowa Street 405 Chicago, IL 60622",940000.0
 5,3,3400,"6848 N Oriole Avenue Chicago, IL 60631",875000.0
@@ -922,4 +919,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1356,"10727 S State Street Chicago, IL 60628",249999.0
 4,3,1764,"7930 S Anthony Avenue Chicago, IL 60619",225000.0
 2,1,1450,"7230 S Avers Avenue Chicago, IL 60629",224900.0
-2,2,1063,"6252 S Mason Avenue 3B Chicago, IL 60638",219500.0
