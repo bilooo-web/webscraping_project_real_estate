@@ -1,13 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"3
-beds",2,"2,000
-sq.ft.","7061 N Kedzie Avenue , 1008 Chicago, IL 60645","$249,900"
 "1
 beds",1,"800
 sq.ft.","4800 S Chicago Beach Drive , 2405S Chicago, IL 60615","$149,900"
-"2
-beds",2,"1,200
-sq.ft.","4231 N Kedzie Avenue 3E Chicago, IL 60618","$360,000"
 "1
 beds",1,"800
 sq.ft.","1707 N Crilly Court 1E Chicago, IL 60614","$335,000"
@@ -1217,6 +1211,9 @@ sq.ft.","7558 S Damen Avenue Chicago, IL 60620","$385,000"
 "3
 beds",1,"1,200
 sq.ft.","5741 S Neenah Avenue Chicago, IL 60638","$380,000"
+"2
+beds",2,"1,200
+sq.ft.","4231 N Kedzie Avenue 3E Chicago, IL 60618","$360,000"
 "2
 beds",2,"1,000
 sq.ft.","2434 W 47th Place Chicago, IL 60632","$325,000"
@@ -3023,3 +3020,6 @@ sq.ft.","7930 S Anthony Avenue Chicago, IL 60619","$225,000"
 "2
 beds",1,"1,450
 sq.ft.","7230 S Avers Avenue Chicago, IL 60629","$224,900"
+"2
+beds",2,"1,063
+sq.ft.","6252 S Mason Avenue 3B Chicago, IL 60638","$219,500"
