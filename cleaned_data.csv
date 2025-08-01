@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2,1450,"4250 N Marine Drive , 801 Chicago, IL 60613",339000.0
 3,2,2000,"7061 N Kedzie Avenue , 1008 Chicago, IL 60645",249900.0
-1,1,800,"4800 S Chicago Beach Drive , 2405S Chicago, IL 60615",149900.0
 1,1,800,"1707 N Crilly Court 1E Chicago, IL 60614",335000.0
 2,1,1400,"5636 S Prairie Avenue 3S Chicago, IL 60637",195000.0
 1,1,750,"2740 N Pine Grove Avenue 14G Chicago, IL 60614",269000.0
@@ -75,6 +74,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,988,"5314 S Harding Avenue Chicago, IL 60632",329900.0
 3,2,1913,"6120 W 65th Street 5 Chicago, IL 60638",329900.0
 2,2,1600,"13228 S Rhodes Avenue Chicago, IL 60827",248999.0
+1,1,800,"4800 S Chicago Beach Drive , 2405S Chicago, IL 60615",149900.0
 1,1,900,"550 N St. Clair Street 1702 Chicago, IL 60611",374900.0
 3,2,2130,"6037 N Nagle Avenue Chicago, IL 60646",550000.0
 2,2,1070,"1901 S CALUMET Avenue 2712 Chicago, IL 60616",415000.0
