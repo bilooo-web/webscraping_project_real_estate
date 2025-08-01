@@ -1,8 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2,1450,"4250 N Marine Drive , 801 Chicago, IL 60613",339000.0
 3,2,2000,"7061 N Kedzie Avenue , 1008 Chicago, IL 60645",249900.0
-1,1,800,"1707 N Crilly Court 1E Chicago, IL 60614",335000.0
-2,1,1400,"5636 S Prairie Avenue 3S Chicago, IL 60637",195000.0
 1,1,750,"2740 N Pine Grove Avenue 14G Chicago, IL 60614",269000.0
 4,3,2200,"5532 W Roscoe Street Chicago, IL 60641",575000.0
 3,1,944,"8853 S Halsted Street Chicago, IL 60620",198995.0
@@ -74,8 +72,8 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,988,"5314 S Harding Avenue Chicago, IL 60632",329900.0
 3,2,1913,"6120 W 65th Street 5 Chicago, IL 60638",329900.0
 2,2,1600,"13228 S Rhodes Avenue Chicago, IL 60827",248999.0
-1,1,800,"4800 S Chicago Beach Drive , 2405S Chicago, IL 60615",149900.0
 1,1,900,"550 N St. Clair Street 1702 Chicago, IL 60611",374900.0
+2,1,1400,"5636 S Prairie Avenue 3S Chicago, IL 60637",195000.0
 3,2,2130,"6037 N Nagle Avenue Chicago, IL 60646",550000.0
 2,2,1070,"1901 S CALUMET Avenue 2712 Chicago, IL 60616",415000.0
 2,2,1092,"8723 S Hermitage Avenue Chicago, IL 60620",149000.0
@@ -130,6 +128,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"4704 N Kasson Avenue 3 Chicago, IL 60630",175000.0
 3,1,1607,"1353 W 96th Street Chicago, IL 60643",115000.0
 2,1,800,"7337 S South Shore Drive 904 Chicago, IL 60649",74000.0
+1,1,800,"4800 S Chicago Beach Drive , 2405S Chicago, IL 60615",149900.0
 3,2,4800,"957 W HURON Street 2 Chicago, IL 60642",1129500.0
 2,2,1408,"211 N Harbor Drive 1803 Chicago, IL 60601",900000.0
 4,3,2907,"743 W 15th Street Chicago, IL 60607",819500.0
@@ -284,6 +283,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1105,"833 W 15th Place 606W Chicago, IL 60608",365000.0
 3,2,2000,"1633 W Estes Avenue 1E Chicago, IL 60626",355000.0
 4,3,3200,"7217 S Talman Avenue Chicago, IL 60629",349900.0
+1,1,800,"1707 N Crilly Court 1E Chicago, IL 60614",335000.0
 1,1,1150,"1601 S Indiana Avenue 108 Chicago, IL 60616",329990.0
 1,1,800,"600 N Dearborn Street 1306 Chicago, IL 60654",300000.0
 2,1,950,"3001 W Logan Boulevard 1 Chicago, IL 60647",300000.0
