@@ -1,16 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"1,350
+sq.ft.","910 N Lake Shore Drive , 1620 Chicago, IL 60611","$649,000"
 "1
 beds",1,"890
 sq.ft.","405 N Wabash Avenue , 2814 Chicago, IL 60611","$270,000"
-"2
-beds",2,"1,450
-sq.ft.","4250 N Marine Drive , 801 Chicago, IL 60613","$339,000"
-"3
-beds",2,"2,000
-sq.ft.","7061 N Kedzie Avenue , 1008 Chicago, IL 60645","$249,900"
-"1
-beds",1,"750
-sq.ft.","2740 N Pine Grove Avenue 14G Chicago, IL 60614","$269,000"
 "2
 beds",2,"1,398
 sq.ft.","2461 W Foster Avenue 2E Chicago, IL 60625","$409,000"
@@ -209,6 +203,9 @@ sq.ft.","9756 S Eggleston Avenue Chicago, IL 60628","$299,900"
 "2
 beds",1,"800
 sq.ft.","7463 N Seeley Avenue 1 Chicago, IL 60645","$214,900"
+"1
+beds",1,"750
+sq.ft.","2740 N Pine Grove Avenue 14G Chicago, IL 60614","$269,000"
 "1
 beds",1,"915
 sq.ft.","1629 S Prairie Avenue 2507 Chicago, IL 60616","$349,000"
@@ -620,6 +617,12 @@ sq.ft.","14411 S Parnell Avenue Riverdale, IL 60827","$134,900"
 "3
 beds",1,"801
 sq.ft.","8533 S Rhodes Avenue Chicago, IL 60619","$101,900"
+"2
+beds",2,"1,450
+sq.ft.","4250 N Marine Drive , 801 Chicago, IL 60613","$339,000"
+"3
+beds",2,"2,000
+sq.ft.","7061 N Kedzie Avenue , 1008 Chicago, IL 60645","$249,900"
 "4
 beds",4,"3,950
 sq.ft.","435 N Michigan Avenue 1105 Chicago, IL 60611","$3,900,000"
@@ -3020,6 +3023,3 @@ sq.ft.","1219 W Lunt Avenue 1B Chicago, IL 60626","$215,000"
 "3
 beds",1,"1,091
 sq.ft.","14240 S Manistee Avenue Burnham, IL 60633","$212,000"
-"3
-beds",1,"1,490
-sq.ft.","7226 S Rhodes Avenue Chicago, IL 60619","$209,000"
