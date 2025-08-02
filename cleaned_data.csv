@@ -1,11 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
-3,2,1350,"910 N Lake Shore Drive , 1620 Chicago, IL 60611",649000.0
 1,1,890,"405 N Wabash Avenue , 2814 Chicago, IL 60611",270000.0
-2,2,1398,"2461 W Foster Avenue 2E Chicago, IL 60625",409000.0
-4,3,2200,"5532 W Roscoe Street Chicago, IL 60641",575000.0
-3,1,944,"8853 S Halsted Street Chicago, IL 60620",198995.0
-3,2,1008,"12604 S Yale Avenue Chicago, IL 60628",214000.0
-2,2,1500,"1031 W Monroe Street 4 Chicago, IL 60607",799900.0
 3,2,2000,"3056 N Paulina Street Chicago, IL 60657",900000.0
 2,1,1176,"1727 S Indiana Avenue 302 Chicago, IL 60616",399000.0
 1,1,700,"6300 N Sheridan Road 406 Chicago, IL 60660",175000.0
@@ -17,6 +11,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1244,"1400 W Monroe Street 4A Chicago, IL 60607",770000.0
 3,2,1550,"956 N NOBLE Street 2S Chicago, IL 60622",645000.0
 3,2,1553,"211 N Harbor Drive 409 Chicago, IL 60601",939900.0
+2,2,1500,"1031 W Monroe Street 4 Chicago, IL 60607",799900.0
 3,2,1350,"1538 W 21st Street 2A Chicago, IL 60608",425000.0
 1,1,1100,"1601 W School Street 514 Chicago, IL 60657",340000.0
 3,3,2112,"1405 S Plymouth Court Chicago, IL 60605",775000.0
@@ -32,6 +27,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1653,"2718 N 76TH Avenue Elmwood Park, IL 60707",349900.0
 2,2,1200,"1122 W Catalpa Avenue 703 Chicago, IL 60640",359786.0
 2,3,2400,"1428 N Mohawk Street A Chicago, IL 60610",699000.0
+3,1,944,"8853 S Halsted Street Chicago, IL 60620",198995.0
 3,2,1800,"4518 S King Drive 2A Chicago, IL 60653",380000.0
 2,2,1140,"195 N Harbor Drive 209 Chicago, IL 60601",380000.0
 3,1,1192,"2879 S Throop Street Chicago, IL 60608",345000.0
@@ -52,6 +48,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2200,"1916 N Maud Avenue A Chicago, IL 60614",999900.0
 4,3,2232,"2840 N Lincoln Avenue D Chicago, IL 60657",899990.0
 3,2,2200,"1013 W WEBSTER Avenue W 5 Chicago, IL 60614",799900.0
+2,2,1398,"2461 W Foster Avenue 2E Chicago, IL 60625",409000.0
 3,2,1132,"7248 S Spaulding Avenue Chicago, IL 60629",310000.0
 3,2,2000,"1707 S Jefferson Street 1 Chicago, IL 60616",615000.0
 2,2,1600,"919 N Willard Court 1N Chicago, IL 60642",499000.0
@@ -89,6 +86,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1750,"1122 N Dearborn Street 16H Chicago, IL 60610",750000.0
 4,3,2781,"400 S Green Street 305 Chicago, IL 60607",899000.0
 2,2,1100,"3901 N TROY Street 2 Chicago, IL 60618",299999.0
+4,3,2200,"5532 W Roscoe Street Chicago, IL 60641",575000.0
 2,2,1343,"680 N Green Street 402 Chicago, IL 60642",449900.0
 3,2,2406,"60 W Erie Street 502 Chicago, IL 60654",825000.0
 3,1,1300,"4207 W Jobev Lane Alsip, IL 60803",325000.0
@@ -102,12 +100,12 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,988,"5314 S Harding Avenue Chicago, IL 60632",329900.0
 3,2,1913,"6120 W 65th Street 5 Chicago, IL 60638",329900.0
 2,2,1600,"13228 S Rhodes Avenue Chicago, IL 60827",248999.0
+1,1,800,"4800 S Chicago Beach Drive , 2405S Chicago, IL 60615",149900.0
 1,1,900,"550 N St. Clair Street 1702 Chicago, IL 60611",374900.0
 2,1,1400,"5636 S Prairie Avenue 3S Chicago, IL 60637",195000.0
 3,2,2130,"6037 N Nagle Avenue Chicago, IL 60646",550000.0
 2,2,1070,"1901 S CALUMET Avenue 2712 Chicago, IL 60616",415000.0
 2,2,1092,"8723 S Hermitage Avenue Chicago, IL 60620",149000.0
-1,1,800,"4800 S Chicago Beach Drive , 2405S Chicago, IL 60615",149900.0
 4,3,3534,"7229 W Lunt Avenue Chicago, IL 60631",599000.0
 2,2,1400,"2224 N Orchard Street 2N Chicago, IL 60614",845000.0
 1,1,900,"5056 N MARINE Drive 7B Chicago, IL 60640",162900.0
@@ -377,6 +375,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1142,"4638 W Orchard View Court Alsip, IL 60803",229000.0
 3,2,2029,"10447-10449 S Avenue N Chicago, IL 60617",224000.0
 2,1,1280,"7353 S Hoyne Avenue Chicago, IL 60636",215000.0
+3,2,1008,"12604 S Yale Avenue Chicago, IL 60628",214000.0
 2,1,700,"1240 S 57th Court Cicero, IL 60804",199999.0
 2,1,1000,"8749 W SUMMERDALE Avenue 1C Chicago, IL 60656",199900.0
 2,1,700,"4836 W Henderson Street 2B Chicago, IL 60641",175000.0
@@ -919,3 +918,4 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"33 E Cedar Street 6B Chicago, IL 60611",220000.0
 2,1,1000,"1219 W Lunt Avenue 1B Chicago, IL 60626",215000.0
 3,1,1091,"14240 S Manistee Avenue Burnham, IL 60633",212000.0
+3,1,1490,"7226 S Rhodes Avenue Chicago, IL 60619",209000.0
