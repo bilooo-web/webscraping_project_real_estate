@@ -1,5 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 2,1,1377,"6030 N Winchester Avenue , C Chicago, IL 60660",359000.0
+3,2,1500,"6558 N Washtenaw Avenue , 2 Chicago, IL 60645",315000.0
 3,2,1350,"910 N Lake Shore Drive , 1620 Chicago, IL 60611",649000.0
 3,2,1280,"8409 S Brandon Avenue Chicago, IL 60617",249000.0
 1,1,890,"405 N Wabash Avenue , 2814 Chicago, IL 60611",270000.0
@@ -924,4 +925,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,2500,"4721 S Woodlawn Avenue E Chicago, IL 60615",605000.0
 5,3,2257,"2913 N Nordica Avenue Chicago, IL 60634",585000.0
 2,2,1520,"1122 N Dearborn Street 7A Chicago, IL 60610",575000.0
-4,3,2646,"6442 S INGLESIDE Avenue Chicago, IL 60637",549900.0

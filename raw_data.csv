@@ -3,6 +3,9 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",1,"1,377
 sq.ft.","6030 N Winchester Avenue , C Chicago, IL 60660","$359,000"
 "3
+beds",2,"1,500
+sq.ft.","6558 N Washtenaw Avenue , 2 Chicago, IL 60645","$315,000"
+"3
 beds",2,"1,350
 sq.ft.","910 N Lake Shore Drive , 1620 Chicago, IL 60611","$649,000"
 "3
@@ -3020,6 +3023,3 @@ sq.ft.","2913 N Nordica Avenue Chicago, IL 60634","$585,000"
 "2
 beds",2,"1,520
 sq.ft.","1122 N Dearborn Street 7A Chicago, IL 60610","$575,000"
-"4
-beds",3,"2,646
-sq.ft.","6442 S INGLESIDE Avenue Chicago, IL 60637","$549,900"
