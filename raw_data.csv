@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",2,"1,450
+sq.ft.","1000 W Adams Street , 201 Chicago, IL 60607","$759,900"
+"3
 beds",2,"1,500
 sq.ft.","6558 N Washtenaw Avenue , 2 Chicago, IL 60645","$315,000"
 "2
@@ -17,6 +20,9 @@ sq.ft.","4231 N Kedzie Avenue 3E Chicago, IL 60618","$360,000"
 "4
 beds",3,"1,700
 sq.ft.","6142 W 60TH Street Chicago, IL 60638","$474,900"
+"4
+beds",3,"2,062
+sq.ft.","2318 S Central Park Avenue , 101 Chicago, IL 60623","$275,000"
 "2
 beds",2,"1,600
 sq.ft.","13228 S Rhodes Avenue Chicago, IL 60827","$248,999"
@@ -2296,7 +2302,7 @@ beds",1,"880
 sq.ft.","352 W 116th Street Chicago, IL 60628","$68,500"
 "2
 beds",2,"1,422
-sq.ft.","14510 S Union Avenue Riverdale, IL 60827","$75,000"
+sq.ft.","14510 S Union Avenue Riverdale, IL 60827","$68,000"
 "2
 beds",2,"1,387
 sq.ft.","100 E 14th Street 2510 Chicago, IL 60605","$595,000"
@@ -2630,9 +2636,6 @@ sq.ft.","5747 S La Salle Street Chicago, IL 60621","$59,900"
 "4
 beds",2,"1,530
 sq.ft.","54 E 137th Place Riverdale, IL 60827","$59,900"
-"4
-beds",3,"2,062
-sq.ft.","2318 S Central Park Avenue , 101 Chicago, IL 60623","$275,000"
 "4
 beds",4,"3,547
 sq.ft.","363 E Wacker Drive 2503 Chicago, IL 60601","$2,750,000"
@@ -3020,6 +3023,3 @@ sq.ft.","7732 W Sunset Drive Elmwood Park, IL 60707","$405,000"
 "5
 beds",2,"2,350
 sq.ft.","2947 N 77th Court Elmwood Park, IL 60707","$405,000"
-"3
-beds",2,"2,363
-sq.ft.","2552 W 117th Place Chicago, IL 60655","$400,000"
