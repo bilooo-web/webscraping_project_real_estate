@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2,1500,"6558 N Washtenaw Avenue , 2 Chicago, IL 60645",315000.0
-1,1,700,"6300 N Sheridan Road 406 Chicago, IL 60660",175000.0
 2,2,1669,"65 E Monroe Street 4623 Chicago, IL 60603",825000.0
 3,2,1350,"1538 W 21st Street 2A Chicago, IL 60608",425000.0
 3,2,1350,"1538 W 21st Street 1 Chicago, IL 60608",375000.0
@@ -105,6 +104,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,700,"1122 N Clark Street 3304 Chicago, IL 60610",225000.0
 4,2,1768,"6448 S Oakley Avenue Chicago, IL 60636",205000.0
 1,1,750,"3425 W Berteau Avenue 2 Chicago, IL 60618",184900.0
+1,1,700,"6300 N Sheridan Road 406 Chicago, IL 60660",175000.0
 3,1,2100,"7750 S Crandon Avenue Chicago, IL 60649",175000.0
 3,1,1356,"341 W 109th Street Chicago, IL 60628",155000.0
 1,1,618,"4113 W Cullom Avenue 1C Chicago, IL 60641",149900.0
