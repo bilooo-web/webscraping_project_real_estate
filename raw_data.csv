@@ -2,9 +2,12 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
 beds",2,"1,450
 sq.ft.","1000 W Adams Street , 201 Chicago, IL 60607","$759,900"
-"3
-beds",2,"1,500
-sq.ft.","6558 N Washtenaw Avenue , 2 Chicago, IL 60645","$315,000"
+"4
+beds",1,"2,200
+sq.ft.","7422 S Coles Avenue E Chicago, IL 60649","$350,000"
+"4
+beds",3,"2,850
+sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,075,000"
 "2
 beds",2,"1,669
 sq.ft.","65 E Monroe Street 4623 Chicago, IL 60603","$825,000"
@@ -113,6 +116,9 @@ sq.ft.","11821 S Harvard Avenue Chicago, IL 60628","$44,900"
 "3
 beds",1,"945
 sq.ft.","13749 S Wabash Avenue Riverdale, IL 60827","$36,999"
+"3
+beds",2,"1,500
+sq.ft.","6558 N Washtenaw Avenue , 2 Chicago, IL 60645","$315,000"
 "3
 beds",2,"1,638
 sq.ft.","211 N Harbor Drive 1502 Chicago, IL 60601","$1,475,000"
@@ -2045,12 +2051,6 @@ sq.ft.","1960 W Hood Avenue 2C Chicago, IL 60660","$98,000"
 "3
 beds",2,"2,400
 sq.ft.","450 N Racine Avenue , 2 Chicago, IL 60642","$1,200,000"
-"4
-beds",3,"2,850
-sq.ft.","1146 W Hubbard Street , 1E Chicago, IL 60642","$1,075,000"
-"2
-beds",2,"1,210
-sq.ft.","1629 S Prairie Avenue , 1503 Chicago, IL 60616","$489,000"
 "1
 beds",1,"950
 sq.ft.","1151 W Washington Boulevard , 122 Chicago, IL 60607","$379,900"
