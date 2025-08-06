@@ -1,8 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",3,"1,229
-sq.ft.","6625 N Whipple Street Chicago, IL 60645","$450,000"
-"3
 beds",2,"1,450
 sq.ft.","1000 W Adams Street , 201 Chicago, IL 60607","$759,900"
 "4
@@ -212,6 +209,9 @@ sq.ft.","1000 N Lake Shore Plaza 9B Chicago, IL 60611","$875,000"
 "3
 beds",3,"3,300
 sq.ft.","5116 S Rutherford Avenue Chicago, IL 60638","$700,000"
+"3
+beds",3,"1,229
+sq.ft.","6625 N Whipple Street Chicago, IL 60645","$450,000"
 "2
 beds",2,"1,250
 sq.ft.","1250 N Dearborn Street 10B Chicago, IL 60610","$450,000"
