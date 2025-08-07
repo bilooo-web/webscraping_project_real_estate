@@ -1,6 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-3,2,1450,"1000 W Adams Street , 201 Chicago, IL 60607",759900.0
-4,1,2200,"7422 S Coles Avenue E Chicago, IL 60649",350000.0
 3,2,2322,"1030 W WRIGHTWOOD Avenue B Chicago, IL 60614",995000.0
 3,4,2815,"324 E 17th Street Chicago, IL 60616",879000.0
 3,2,2400,"3457 N Racine Avenue 1 Chicago, IL 60657",725000.0
@@ -123,6 +121,8 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,900,"11401 S Whipple Street Alsip, IL 60803",135000.0
 4,2,1000,"10049 S Indiana Avenue Chicago, IL 60628",99900.0
 3,1,1121,"57 E 92nd Street Chicago, IL 60619",98000.0
+3,2,1450,"1000 W Adams Street , 201 Chicago, IL 60607",759900.0
+4,1,2200,"7422 S Coles Avenue E Chicago, IL 60649",350000.0
 1,1,1000,"111 E Chestnut Street 44J Chicago, IL 60611",445000.0
 3,2,2288,"2134 E 91st Street Chicago, IL 60617",339500.0
 4,2,1421,"45 E 101st Place Chicago, IL 60628",239900.0
@@ -805,7 +805,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1300,"7617 S Eggleston Avenue Chicago, IL 60620",139900.0
 3,1,1740,"9748 S Drexel Avenue Chicago, IL 60628",99999.0
 4,2,1100,"11536 S La Salle Street Chicago, IL 60628",40000.0
-8,3,3837,"5019 N Kostner Avenue Chicago, IL 60630",670000.0
+8,3,3837,"5019 N Kostner Avenue Chicago, IL 60630",669900.0
 3,3,2600,"4848 N Seeley Avenue Chicago, IL 60625",925000.0
 3,2,2400,"1431 N Artesian Avenue 1 Chicago, IL 60622",674900.0
 5,3,2982,"6319 N Whipple Street Chicago, IL 60659",629900.0

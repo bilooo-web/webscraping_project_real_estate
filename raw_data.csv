@@ -1,11 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",2,"1,450
-sq.ft.","1000 W Adams Street , 201 Chicago, IL 60607","$759,900"
-"4
-beds",1,"2,200
-sq.ft.","7422 S Coles Avenue E Chicago, IL 60649","$350,000"
-"3
 beds",2,"2,322
 sq.ft.","1030 W WRIGHTWOOD Avenue B Chicago, IL 60614","$995,000"
 "3
@@ -434,6 +428,12 @@ sq.ft.","10049 S Indiana Avenue Chicago, IL 60628","$99,900"
 "3
 beds",1,"1,121
 sq.ft.","57 E 92nd Street Chicago, IL 60619","$98,000"
+"3
+beds",2,"1,450
+sq.ft.","1000 W Adams Street , 201 Chicago, IL 60607","$759,900"
+"4
+beds",1,"2,200
+sq.ft.","7422 S Coles Avenue E Chicago, IL 60649","$350,000"
 "5
 beds",3,"3,415
 sq.ft.","1333 E Madison Park Chicago, IL 60615","$1,350,000"
@@ -2656,7 +2656,7 @@ beds",2,"1,100
 sq.ft.","11536 S La Salle Street Chicago, IL 60628","$40,000"
 "8
 beds",3,"3,837
-sq.ft.","5019 N Kostner Avenue Chicago, IL 60630","$670,000"
+sq.ft.","5019 N Kostner Avenue Chicago, IL 60630","$669,900"
 "4
 beds",6,"7,600
 sq.ft.","1540 N Dearborn Parkway Chicago, IL 60610","$5,495,000"
