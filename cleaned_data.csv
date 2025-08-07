@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2,1450,"1000 W Adams Street , 201 Chicago, IL 60607",759900.0
 4,1,2200,"7422 S Coles Avenue E Chicago, IL 60649",350000.0
-4,3,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1075000.0
 3,2,2322,"1030 W WRIGHTWOOD Avenue B Chicago, IL 60614",995000.0
 3,4,2815,"324 E 17th Street Chicago, IL 60616",879000.0
 3,2,2400,"3457 N Racine Avenue 1 Chicago, IL 60657",725000.0
@@ -715,6 +714,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,652,"4970 N Marine Drive 1024 Chicago, IL 60640",145000.0
 3,1,968,"2102 S Christiana Avenue Chicago, IL 60623",102500.0
 2,1,950,"1960 W Hood Avenue 2C Chicago, IL 60660",98000.0
+4,3,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1075000.0
 1,1,950,"1151 W Washington Boulevard , 122 Chicago, IL 60607",379900.0
 2,2,1384,"211 N Harbor Drive 1506 Chicago, IL 60601",1055000.0
 2,2,1700,"1222 W Lill Avenue Chicago, IL 60614",1050000.0
