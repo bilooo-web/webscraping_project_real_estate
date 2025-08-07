@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",1,"1,124
+sq.ft.","6220 S Mcvicker Avenue Chicago, IL 60638","$349,900"
+"3
 beds",2,"2,400
 sq.ft.","3457 N Racine Avenue 1 Chicago, IL 60657","$725,000"
 "2
@@ -3020,6 +3023,3 @@ sq.ft.","411 W 116th Street Chicago, IL 60628","$249,900"
 "2
 beds",1,"975
 sq.ft.","1637 W Pratt Boulevard 2W Chicago, IL 60626","$244,900"
-"2
-beds",2,"1,190
-sq.ft.","2323 W Pershing Road 409 Chicago, IL 60609","$239,900"
