@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+4,2,2000,"2334 W Polk Street , 2 Chicago, IL 60612",499100.0
 3,1,1124,"6220 S Mcvicker Avenue Chicago, IL 60638",349900.0
 3,2,2400,"3457 N Racine Avenue 1 Chicago, IL 60657",725000.0
 2,2,1300,"130 S CANAL Street 217 Chicago, IL 60606",439000.0
@@ -917,4 +918,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1231,"3820 W 117th Street Alsip, IL 60803",264000.0
 3,1,1178,"3408 W MARQUETTE Road Chicago, IL 60629",260000.0
 3,1,1910,"411 W 116th Street Chicago, IL 60628",249900.0
-2,1,975,"1637 W Pratt Boulevard 2W Chicago, IL 60626",244900.0
