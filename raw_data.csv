@@ -6,12 +6,6 @@ sq.ft.","2334 W Polk Street , 2 Chicago, IL 60612","$499,100"
 beds",1,"1,124
 sq.ft.","6220 S Mcvicker Avenue Chicago, IL 60638","$349,900"
 "3
-beds",2,"1,163
-sq.ft.","5435 S Oak Park Avenue Chicago, IL 60638","$325,000"
-"3
-beds",2,"1,020
-sq.ft.","11517 S Ashland Avenue Chicago, IL 60643","$259,900"
-"3
 beds",2,"2,000
 sq.ft.","1633 W Estes Avenue 1E Chicago, IL 60626","$355,000"
 "5
@@ -89,6 +83,9 @@ sq.ft.","330 W DIVERSEY Parkway 1508 Chicago, IL 60657","$400,000"
 "2
 beds",2,"1,210
 sq.ft.","1841 S Calumet Avenue 1302 Chicago, IL 60616","$399,000"
+"3
+beds",2,"1,163
+sq.ft.","5435 S Oak Park Avenue Chicago, IL 60638","$325,000"
 "2
 beds",1,"1,200
 sq.ft.","6000 N Cicero Avenue 410 Chicago, IL 60646","$325,000"
@@ -665,6 +662,9 @@ sq.ft.","5116 S Rutherford Avenue Chicago, IL 60638","$700,000"
 "3
 beds",2,"1,080
 sq.ft.","4425 N Canfield Avenue Norridge, IL 60706","$469,000"
+"3
+beds",3,"1,229
+sq.ft.","6625 N Whipple Street Chicago, IL 60645","$450,000"
 "2
 beds",2,"1,250
 sq.ft.","1250 N Dearborn Street 10B Chicago, IL 60610","$450,000"
@@ -779,9 +779,6 @@ sq.ft.","1017 N Avers Avenue Chicago, IL 60651","$69,700"
 "4
 beds",1,"950
 sq.ft.","1342 W 108th Place Chicago, IL 60643","$31,900"
-"3
-beds",3,"1,229
-sq.ft.","6625 N Whipple Street Chicago, IL 60645","$450,000"
 "3
 beds",3,"5,500
 sq.ft.","159 E Walton Place 22A Chicago, IL 60611","$5,900,000"
@@ -1436,6 +1433,9 @@ sq.ft.","2740 N Pine Grove Avenue 14G Chicago, IL 60614","$269,000"
 "2
 beds",1,"820
 sq.ft.","2543 S Wallace Street 11 Chicago, IL 60616","$260,000"
+"3
+beds",2,"1,020
+sq.ft.","11517 S Ashland Avenue Chicago, IL 60643","$259,900"
 "2
 beds",2,"1,800
 sq.ft.","1900 W 83rd Street Chicago, IL 60620","$249,900"
