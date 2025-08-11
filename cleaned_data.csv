@@ -499,7 +499,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1100,"5652 W 63rd Street 2W Chicago, IL 60638",250000.0
 3,2,2160,"55 E 75th Street Chicago, IL 60619",249900.0
 1,1,650,"3638 N Pine Grove Avenue G2 Chicago, IL 60613",199999.0
-2,1,850,"2840 W Glenlake Street , 3D Chicago, IL 60659",205000.0
 3,4,2815,"324 E 17th Street Chicago, IL 60616",879000.0
 3,2,1564,"1523 N Western Avenue 3B Chicago, IL 60622",699000.0
 4,3,2600,"2127 W Walton Street 1 Chicago, IL 60622",689900.0
@@ -913,3 +912,4 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,1500,"10911 S Longwood Drive 2 Chicago, IL 60643",195000.0
 1,1,900,"2317 N Neva Avenue 106A Chicago, IL 60707",159900.0
 4,2,1300,"7617 S Eggleston Avenue Chicago, IL 60620",124900.0
+3,1,1740,"9748 S Drexel Avenue Chicago, IL 60628",99999.0
