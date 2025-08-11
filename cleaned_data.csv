@@ -5,6 +5,12 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1000,"109 N Kostner Avenue 106 Chicago, IL 60624",139999.0
 1,1,850,"345 N La Salle Drive 702 Chicago, IL 60654",310000.0
 1,1,825,"3716 N HOYNE Avenue 1 Chicago, IL 60618",245000.0
+2,2,1650,"1443 W Wrightwood Avenue B Chicago, IL 60614",599000.0
+2,2,1300,"1610 W Grand Avenue 2C Chicago, IL 60622",499000.0
+3,3,2050,"1700 E 56th Street 3609-3610 Chicago, IL 60637",460000.0
+2,2,1036,"1111 W 15TH Street 228 Chicago, IL 60608",379900.0
+4,2,1800,"2620 E 91st Street Chicago, IL 60617",309000.0
+3,2,2124,"9329 S Wentworth Avenue Chicago, IL 60620",75900.0
 2,2,1074,"1847 N Kedzie Avenue 1N Chicago, IL 60647",399900.0
 4,2,1320,"3721 W Sunnyside Avenue Chicago, IL 60625",374900.0
 2,2,1198,"6446 S Whipple Street Chicago, IL 60629",325000.0
@@ -55,6 +61,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1000,"6106 S Ingleside Avenue 2 Chicago, IL 60637",195000.0
 3,1,1144,"Chicago, IL 60619",195000.0
 1,1,675,"6400 N Sacramento Avenue 205 Chicago, IL 60645",165000.0
+5,2,1232,"8448 S Essex Avenue Chicago, IL 60617",164900.0
 2,1,900,"3914 W 63rd Street 3B Chicago, IL 60629",145000.0
 3,2,1192,"644 W Englewood Avenue Chicago, IL 60621",130000.0
 4,3,3621,"4530 N St Louis Avenue Chicago, IL 60625",889900.0
@@ -186,7 +193,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1200,"8134 S King Drive Chicago, IL 60619",235000.0
 4,2,792,"6505 S Hamilton Avenue Chicago, IL 60636",230000.0
 2,1,1000,"4050 W Cullerton Street Chicago, IL 60623",229000.0
-3,1,1100,"8816 S Jeffery Boulevard Chicago, IL 60617",224900.0
+2,1,1100,"8816 S Jeffery Boulevard Chicago, IL 60617",224900.0
 1,1,750,"88 W Schiller Street 906 Chicago, IL 60610",215000.0
 1,1,836,"633 S Plymouth Court 1009 Chicago, IL 60605",215000.0
 2,1,1200,"8735 S Sacramento Avenue Evergreen Park, IL 60805",189000.0
@@ -543,7 +550,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1800,"853 W CARMEN Avenue 2D Chicago, IL 60640",345000.0
 1,1,864,"330 N Jefferson Street 1002 Chicago, IL 60661",344000.0
 4,2,5230,"4221 W 77th Place Chicago, IL 60652",329900.0
-4,2,1800,"2620 E 91st Street Chicago, IL 60617",319999.0
 4,2,2996,"6739 S Rockwell Street Chicago, IL 60629",299900.0
 3,2,1124,"7922 S Fairfield Avenue Chicago, IL 60652",295000.0
 2,2,962,"3627 W 121st Place Alsip, IL 60803",279000.0
@@ -584,7 +590,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1200,"2749 N Spaulding Avenue GN Chicago, IL 60647",364000.0
 3,2,2000,"1633 W Estes Avenue 1E Chicago, IL 60626",355000.0
 4,3,3200,"7217 S Talman Avenue Chicago, IL 60629",349900.0
-1,1,800,"1707 N Crilly Court 1E Chicago, IL 60614",335000.0
 1,1,1150,"1601 S Indiana Avenue 108 Chicago, IL 60616",329990.0
 1,1,800,"600 N Dearborn Street 1306 Chicago, IL 60654",300000.0
 2,1,950,"3001 W Logan Boulevard 1 Chicago, IL 60647",300000.0
@@ -616,7 +621,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1687,"3951 N Hermitage Avenue C Chicago, IL 60613",672000.0
 3,2,1600,"860 N LAKE SHORE Drive 8L Chicago, IL 60611",639999.0
 4,3,2300,"1732 N Nordica Avenue Chicago, IL 60707",635000.0
-2,2,1650,"1443 W Wrightwood Avenue B Chicago, IL 60614",610000.0
 2,2,2200,"2013 W Evergreen Avenue 1 Chicago, IL 60622",579500.0
 2,2,1630,"520 S State Street 1722 Chicago, IL 60605",519000.0
 3,2,1732,"5110 N Newland Avenue Chicago, IL 60656",440000.0
@@ -764,7 +768,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1854,"8307 W Balmoral Avenue Chicago, IL 60656",438000.0
 3,2,1268,"5116 N New England Avenue Chicago, IL 60656",424900.0
 3,2,1300,"1616 N Major Avenue Chicago, IL 60639",419900.0
-2,2,1036,"1111 W 15TH Street 228 Chicago, IL 60608",379900.0
 3,2,1692,"8801 S Merrill Avenue Chicago, IL 60617",378000.0
 2,2,1400,"6829 N LAKEWOOD Avenue 3 Chicago, IL 60626",349900.0
 1,1,726,"300 N State Street 2410 Chicago, IL 60654",328000.0
@@ -910,6 +913,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,1500,"10911 S Longwood Drive 2 Chicago, IL 60643",195000.0
 1,1,900,"2317 N Neva Avenue 106A Chicago, IL 60707",159900.0
 4,2,1300,"7617 S Eggleston Avenue Chicago, IL 60620",124900.0
-3,1,1740,"9748 S Drexel Avenue Chicago, IL 60628",99999.0
-4,2,1100,"11536 S La Salle Street Chicago, IL 60628",40000.0
-8,3,3837,"5019 N Kostner Avenue Chicago, IL 60630",669900.0
