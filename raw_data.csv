@@ -1,13 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$350,000"
 "2
 beds",1,"1,260
 sq.ft.","6203 N Oakley Street #3 Chicago, IL 60659","$227,777"
 "2
 beds",2,"1,306
 sq.ft.","125 E 13th Street , 1113 Chicago, IL 60605","$429,900"
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$350,000"
 "4
 beds",2,"1,360
 sq.ft.","4451 S Princeton Avenue Chicago, IL 60609","$249,900"
@@ -35,6 +35,9 @@ sq.ft.","1000 W Adams Street , 201 Chicago, IL 60607","$759,900"
 "1
 beds",1,"850
 sq.ft.","345 N La Salle Drive 702 Chicago, IL 60654","$310,000"
+"4
+beds",3,"2,062
+sq.ft.","2318 S Central Park Avenue , 101 Chicago, IL 60623","$265,000"
 "2
 beds",2,"1,160
 sq.ft.","849 N Franklin Street 722 Chicago, IL 60610","$440,000"
@@ -500,9 +503,6 @@ sq.ft.","2330 N Harlem Avenue 2D Elmwood Park, IL 60707","$145,000"
 "3
 beds",1,"804
 sq.ft.","8421 S Escanaba Avenue Chicago, IL 60617","$45,999"
-"4
-beds",2,"2,000
-sq.ft.","2334 W Polk Street , 2 Chicago, IL 60612","$499,100"
 "3
 beds",1,"1,124
 sq.ft.","6220 S Mcvicker Avenue Chicago, IL 60638","$349,900"
@@ -2147,9 +2147,6 @@ sq.ft.","6836 S Crandon Avenue 3 Chicago, IL 60649","$42,500"
 "2
 beds",1,"1,206
 sq.ft.","3054 N Kedzie Avenue 1F Chicago, IL 60618",Price On Request
-"3
-beds",3,"1,229
-sq.ft.","6625 N Whipple Street Chicago, IL 60645","$450,000"
 "4
 beds",3,"5,200
 sq.ft.","65 E Goethe Street 4N Chicago, IL 60610","$4,495,000"
@@ -3023,3 +3020,6 @@ sq.ft.","5217 S Green Street Chicago, IL 60609","$269,000"
 "2
 beds",1,"960
 sq.ft.","3740 S 58th Avenue Cicero, IL 60804","$265,000"
+"2
+beds",1,"1,200
+sq.ft.","5201 S Blackstone Avenue 3E Chicago, IL 60615","$240,000"
