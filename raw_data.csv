@@ -2,6 +2,9 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",1,"1,260
 sq.ft.","6203 N Oakley Street #3 Chicago, IL 60659","$227,777"
+"2
+beds",2,"1,306
+sq.ft.","125 E 13th Street , 1113 Chicago, IL 60605","$429,900"
 "3
 beds",2,"1,750
 sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$350,000"
@@ -26,6 +29,9 @@ sq.ft.","3056 N Paulina Street Chicago, IL 60657","$849,000"
 "5
 beds",4,"1,444
 sq.ft.","5748 W Erie Street Chicago, IL 60644","$445,000"
+"3
+beds",2,"1,450
+sq.ft.","1000 W Adams Street , 201 Chicago, IL 60607","$759,900"
 "1
 beds",1,"850
 sq.ft.","345 N La Salle Drive 702 Chicago, IL 60654","$310,000"
@@ -941,9 +947,6 @@ sq.ft.","10049 S Indiana Avenue Chicago, IL 60628","$99,900"
 "3
 beds",1,"1,121
 sq.ft.","57 E 92nd Street Chicago, IL 60619","$98,000"
-"3
-beds",2,"1,450
-sq.ft.","1000 W Adams Street , 201 Chicago, IL 60607","$759,900"
 "4
 beds",1,"2,200
 sq.ft.","7422 S Coles Avenue E Chicago, IL 60649","$350,000"
@@ -3020,6 +3023,3 @@ sq.ft.","5217 S Green Street Chicago, IL 60609","$269,000"
 "2
 beds",1,"960
 sq.ft.","3740 S 58th Avenue Cicero, IL 60804","$265,000"
-"2
-beds",1,"1,200
-sq.ft.","5201 S Blackstone Avenue 3E Chicago, IL 60615","$240,000"
