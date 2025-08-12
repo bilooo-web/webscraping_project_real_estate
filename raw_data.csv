@@ -2,9 +2,15 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",1,"1,260
 sq.ft.","6203 N Oakley Street #3 Chicago, IL 60659","$227,777"
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$350,000"
 "4
-beds",2,"1,456
-sq.ft.","8633 S Hermitage Avenue Chicago, IL 60620","$329,000"
+beds",2,"1,360
+sq.ft.","4451 S Princeton Avenue Chicago, IL 60609","$249,900"
+"4
+beds",2,"1,400
+sq.ft.","1040 W 103rd Street Chicago, IL 60643","$180,000"
 "3
 beds",2,"2,800
 sq.ft.","501 N Kingsbury Street G Chicago, IL 60654","$1,100,000"
@@ -71,6 +77,9 @@ sq.ft.","3021 S Michigan Avenue 204 Chicago, IL 60616","$125,000"
 "4
 beds",3,"2,000
 sq.ft.","7935 S Coles Avenue Chicago, IL 60617","$50,000"
+"4
+beds",2,"1,456
+sq.ft.","8633 S Hermitage Avenue Chicago, IL 60620","$329,000"
 "2
 beds",2,"1,750
 sq.ft.","940 W Glenlake Avenue 19C Chicago, IL 60660","$799,000"
@@ -2276,9 +2285,6 @@ sq.ft.","8443 S STATE Street Chicago, IL 60619","$90,000"
 "2
 beds",1,"1,037
 sq.ft.","4808 S DREXEL Boulevard N Chicago, IL 60615","$75,000"
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$369,900"
 "4
 beds",2,"2,652
 sq.ft.","7248 N Hamilton Avenue Chicago, IL 60645","$649,000"
@@ -3017,9 +3023,3 @@ sq.ft.","10911 S Longwood Drive 2 Chicago, IL 60643","$195,000"
 "1
 beds",1,"900
 sq.ft.","2317 N Neva Avenue 106A Chicago, IL 60707","$159,900"
-"4
-beds",2,"1,300
-sq.ft.","7617 S Eggleston Avenue Chicago, IL 60620","$124,900"
-"3
-beds",1,"1,740
-sq.ft.","9748 S Drexel Avenue Chicago, IL 60628","$99,999"

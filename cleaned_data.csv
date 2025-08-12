@@ -1,6 +1,8 @@
 bedrooms,bathrooms,square_footage,address,price
 2,1,1260,"6203 N Oakley Street #3 Chicago, IL 60659",227777.0
-4,2,1456,"8633 S Hermitage Avenue Chicago, IL 60620",329000.0
+3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",350000.0
+4,2,1360,"4451 S Princeton Avenue Chicago, IL 60609",249900.0
+4,2,1400,"1040 W 103rd Street Chicago, IL 60643",180000.0
 2,2,1240,"1645 W Ogden Avenue 516 Chicago, IL 60612",337000.0
 2,1,1000,"109 N Kostner Avenue 106 Chicago, IL 60624",139999.0
 1,1,850,"345 N La Salle Drive 702 Chicago, IL 60654",310000.0
@@ -21,6 +23,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1800,"12643 S Harvard Avenue Chicago, IL 60628",147700.0
 1,1,700,"3021 S Michigan Avenue 204 Chicago, IL 60616",125000.0
 4,3,2000,"7935 S Coles Avenue Chicago, IL 60617",50000.0
+4,2,1456,"8633 S Hermitage Avenue Chicago, IL 60620",329000.0
 2,2,1750,"940 W Glenlake Avenue 19C Chicago, IL 60660",799000.0
 3,2,2400,"522 N Western Avenue 201 Chicago, IL 60612",799000.0
 3,3,2500,"2243 N GREENVIEW Avenue D Chicago, IL 60614",795000.0
@@ -690,7 +693,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,1000,"5337 S Ellis Avenue 1C Chicago, IL 60615",99500.0
 4,1,1029,"8443 S STATE Street Chicago, IL 60619",90000.0
 2,1,1037,"4808 S DREXEL Boulevard N Chicago, IL 60615",75000.0
-3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",369900.0
 4,2,2652,"7248 N Hamilton Avenue Chicago, IL 60645",649000.0
 4,3,2407,"5605 S NORDICA Avenue Chicago, IL 60638",625000.0
 2,2,1700,"8805 S Carpenter Street Chicago, IL 60620",265000.0
@@ -911,5 +913,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1650,"8035 S Kolmar Avenue Chicago, IL 60652",275000.0
 4,3,1500,"10911 S Longwood Drive 2 Chicago, IL 60643",195000.0
 1,1,900,"2317 N Neva Avenue 106A Chicago, IL 60707",159900.0
-4,2,1300,"7617 S Eggleston Avenue Chicago, IL 60620",124900.0
-3,1,1740,"9748 S Drexel Avenue Chicago, IL 60628",99999.0
