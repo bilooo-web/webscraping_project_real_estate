@@ -3,9 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",2,"1,750
 sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$350,000"
 "2
-beds",1,"1,260
-sq.ft.","6203 N Oakley Street #3 Chicago, IL 60659","$227,777"
-"2
 beds",2,"1,306
 sq.ft.","125 E 13th Street , 1113 Chicago, IL 60605","$429,900"
 "4
@@ -14,9 +11,6 @@ sq.ft.","4451 S Princeton Avenue Chicago, IL 60609","$249,900"
 "4
 beds",2,"1,400
 sq.ft.","1040 W 103rd Street Chicago, IL 60643","$180,000"
-"3
-beds",2,"2,800
-sq.ft.","501 N Kingsbury Street G Chicago, IL 60654","$1,100,000"
 "2
 beds",2,"1,240
 sq.ft.","1645 W Ogden Avenue 516 Chicago, IL 60612","$337,000"
@@ -65,6 +59,9 @@ sq.ft.","4717 N KENMORE Avenue GS Chicago, IL 60640","$339,000"
 "2
 beds",2,"1,200
 sq.ft.","1322 S Prairie Avenue 406 Chicago, IL 60605","$533,900"
+"2
+beds",1,"1,260
+sq.ft.","6203 N Oakley Street #3 Chicago, IL 60659","$227,777"
 "4
 beds",4,"3,400
 sq.ft.","4956 S Champlain Avenue 1S Chicago, IL 60615","$389,000"
@@ -3023,3 +3020,6 @@ sq.ft.","3740 S 58th Avenue Cicero, IL 60804","$265,000"
 "2
 beds",1,"1,200
 sq.ft.","5201 S Blackstone Avenue 3E Chicago, IL 60615","$240,000"
+"4
+beds",2,"1,969
+sq.ft.","7535 S Vernon Avenue Chicago, IL 60619","$234,999"

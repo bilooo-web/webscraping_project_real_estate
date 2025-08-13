@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",350000.0
-2,1,1260,"6203 N Oakley Street #3 Chicago, IL 60659",227777.0
 2,2,1306,"125 E 13th Street , 1113 Chicago, IL 60605",429900.0
 4,2,1360,"4451 S Princeton Avenue Chicago, IL 60609",249900.0
 4,2,1400,"1040 W 103rd Street Chicago, IL 60643",180000.0
@@ -19,6 +18,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,915,"1629 S Prairie Avenue 2507 Chicago, IL 60616",349000.0
 2,2,1008,"4717 N KENMORE Avenue GS Chicago, IL 60640",339000.0
 2,2,1200,"1322 S Prairie Avenue 406 Chicago, IL 60605",533900.0
+2,1,1260,"6203 N Oakley Street #3 Chicago, IL 60659",227777.0
 4,4,3400,"4956 S Champlain Avenue 1S Chicago, IL 60615",389000.0
 4,1,1600,"6211 N Harlem Avenue Chicago, IL 60631",399900.0
 4,3,2935,"2834 N RIVERWALK Drive Chicago, IL 60618",950000.0
@@ -256,7 +256,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1008,"1017 N Avers Avenue Chicago, IL 60651",69700.0
 4,1,950,"1342 W 108th Place Chicago, IL 60643",31900.0
 3,3,1229,"6625 N Whipple Street Chicago, IL 60645",450000.0
-5,4,3408,"7100 N SIOUX Avenue Chicago, IL 60646",999000.0
 4,2,3000,"680 N LAKE SHORE Drive 321 Chicago, IL 60611",774500.0
 3,3,2100,"2636 W EVERGREEN Avenue 1 Chicago, IL 60622",715000.0
 1,1,1324,"401 N Wabash Avenue 76G Chicago, IL 60611",690000.0
@@ -316,7 +315,6 @@ bedrooms,bathrooms,square_footage,address,price
 5,2,1382,"11821 S Harvard Avenue Chicago, IL 60628",44900.0
 3,1,945,"13749 S Wabash Avenue Riverdale, IL 60827",36999.0
 3,2,1500,"6558 N Washtenaw Avenue , 2 Chicago, IL 60645",299500.0
-3,2,2322,"1030 W WRIGHTWOOD Avenue B Chicago, IL 60614",995000.0
 2,2,2100,"680 N Lake Shore Drive 1322 Chicago, IL 60611",824999.0
 4,2,2767,"5727 S Meade Avenue Chicago, IL 60638",688000.0
 3,2,1500,"2307 W Foster Avenue 2 Chicago, IL 60625",685000.0
@@ -359,7 +357,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1350,"910 N Lake Shore Drive , 1620 Chicago, IL 60611",649000.0
 2,1,1377,"6030 N Winchester Avenue , C Chicago, IL 60660",359000.0
 3,2,1280,"8409 S Brandon Avenue Chicago, IL 60617",249000.0
-3,2,2200,"1916 N Maud Avenue A Chicago, IL 60614",999900.0
 3,2,1553,"211 N Harbor Drive 409 Chicago, IL 60601",939900.0
 4,3,2781,"400 S Green Street 305 Chicago, IL 60607",899000.0
 3,2,2406,"60 W Erie Street 502 Chicago, IL 60654",825000.0
@@ -447,7 +444,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,801,"8533 S Rhodes Avenue Chicago, IL 60619",101900.0
 2,2,1450,"4250 N Marine Drive , 801 Chicago, IL 60613",339000.0
 3,2,2000,"7061 N Kedzie Avenue , 1008 Chicago, IL 60645",249900.0
-3,2,1900,"2444 N Seminary Avenue 4 Chicago, IL 60614",999000.0
 3,3,2327,"1739 N Whipple Street 2 Chicago, IL 60647",899000.0
 5,3,3600,"4932 S Martin Luther King Drive Chicago, IL 60653",899000.0
 3,2,2350,"1448 W Chestnut Street 3 Chicago, IL 60642",849000.0
@@ -617,8 +613,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,3450,"5151 W Fletcher Street Chicago, IL 60641",620000.0
 4,2,2225,"4130 N Oketo Avenue Norridge, IL 60706",410000.0
 2,2,1700,"7033 N Kedzie Avenue , 1704 Chicago, IL 60645",189500.0
-3,2,1914,"2923 N Southport Avenue 3 Chicago, IL 60657",999000.0
-2,2,1384,"211 N Harbor Drive 906 Chicago, IL 60601",995000.0
 2,2,2267,"2216 N Lincoln Avenue 3B Chicago, IL 60614",980000.0
 3,3,2200,"2029 W Rice Street 1 Chicago, IL 60622",750000.0
 2,2,1630,"65 E Monroe Street 4521 Chicago, IL 60603",729000.0
@@ -898,7 +892,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1056,"6410 S Mozart Street Chicago, IL 60629",134900.0
 3,1,880,"12219 S Throop Street Chicago, IL 60643",99999.0
 1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",289900.0
-3,2,2175,"950 N Michigan Avenue 4502 Chicago, IL 60611",999000.0
 4,4,3000,"1300 N Lake Shore Drive 8BC Chicago, IL 60610",899900.0
 2,2,1850,"1212 N Lake Shore Drive 12CN Chicago, IL 60610",885000.0
 4,3,3160,"5426 N Bernard Street Chicago, IL 60625",799900.0
@@ -921,3 +914,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1400,"5217 S Green Street Chicago, IL 60609",269000.0
 2,1,960,"3740 S 58th Avenue Cicero, IL 60804",265000.0
 2,1,1200,"5201 S Blackstone Avenue 3E Chicago, IL 60615",240000.0
+4,2,1969,"7535 S Vernon Avenue Chicago, IL 60619",234999.0
