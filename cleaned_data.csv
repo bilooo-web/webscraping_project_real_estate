@@ -1,5 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",350000.0
+3,2,1539,"8152 S Luella Ave Chicago, IL 60617",225000.0
 2,2,1306,"125 E 13th Street , 1113 Chicago, IL 60605",429900.0
 4,2,1360,"4451 S Princeton Avenue Chicago, IL 60609",249900.0
 4,2,1400,"1040 W 103rd Street Chicago, IL 60643",180000.0
@@ -911,4 +912,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,4,1800,"37 N Lotus Avenue Chicago, IL 60644",449900.0
 1,1,941,"100 E WALTON Street 38D Chicago, IL 60611",349000.0
 1,1,750,"440 N Mcclurg Court 417 Chicago, IL 60611",285000.0
-3,1,1080,"3631 W 86th Place Chicago, IL 60652",275000.0
