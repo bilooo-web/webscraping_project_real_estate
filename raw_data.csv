@@ -1,22 +1,16 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$350,000"
 "1
 beds",1,"1,100
 sq.ft.","1632 S Indiana Avenue , 108 Chicago, IL 60616","$329,995"
+"2
+beds",2,"4,125
+sq.ft.","9809 S Union Avenue S Chicago, IL 60628","$282,000"
 "3
 beds",2,"1,539
 sq.ft.","8152 S Luella Ave Chicago, IL 60617","$225,000"
 "2
 beds",2,"1,306
 sq.ft.","125 E 13th Street , 1113 Chicago, IL 60605","$429,900"
-"4
-beds",2,"1,360
-sq.ft.","4451 S Princeton Avenue Chicago, IL 60609","$249,900"
-"4
-beds",2,"1,400
-sq.ft.","1040 W 103rd Street Chicago, IL 60643","$180,000"
 "3
 beds",2,"2,000
 sq.ft.","3056 N Paulina Street Chicago, IL 60657","$849,000"
@@ -44,6 +38,9 @@ sq.ft.","345 N La Salle Drive 702 Chicago, IL 60654","$310,000"
 "4
 beds",3,"2,062
 sq.ft.","2318 S Central Park Avenue , 101 Chicago, IL 60623","$265,000"
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$350,000"
 "3
 beds",2,"1,350
 sq.ft.","1538 W 21st Street 2A Chicago, IL 60608","$425,000"
@@ -359,6 +356,12 @@ sq.ft.","6627 S Saint Lawrence Avenue Chicago, IL 60637","$54,900"
 "4
 beds",2,"1,750
 sq.ft.","6941 S Normal Boulevard Chicago, IL 60621","$30,000"
+"4
+beds",2,"1,360
+sq.ft.","4451 S Princeton Avenue Chicago, IL 60609","$249,900"
+"4
+beds",2,"1,400
+sq.ft.","1040 W 103rd Street Chicago, IL 60643","$180,000"
 "2
 beds",2,"1,650
 sq.ft.","1443 W Wrightwood Avenue B Chicago, IL 60614","$599,000"
@@ -3020,6 +3023,3 @@ sq.ft.","2515 W Harrison Street 1 Chicago, IL 60612","$450,000"
 "4
 beds",4,"1,800
 sq.ft.","37 N Lotus Avenue Chicago, IL 60644","$449,900"
-"1
-beds",1,"941
-sq.ft.","100 E WALTON Street 38D Chicago, IL 60611","$349,000"
