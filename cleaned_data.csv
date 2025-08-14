@@ -1,9 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,1100,"1632 S Indiana Avenue , 108 Chicago, IL 60616",329995.0
-2,2,4125,"9809 S Union Avenue S Chicago, IL 60628",282000.0
 3,2,1539,"8152 S Luella Ave Chicago, IL 60617",225000.0
 2,2,1306,"125 E 13th Street , 1113 Chicago, IL 60605",429900.0
-3,2,2000,"3056 N Paulina Street Chicago, IL 60657",849000.0
 2,2,1600,"5733 N Sheridan Road 27C Chicago, IL 60660",475000.0
 5,4,1444,"5748 W Erie Street Chicago, IL 60644",445000.0
 2,2,1750,"1750 W Division Street 301 Chicago, IL 60622",649500.0
@@ -912,3 +910,5 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1300,"1632 S Indiana Avenue 502 Chicago, IL 60616",454999.0
 3,3,2320,"2515 W Harrison Street 1 Chicago, IL 60612",450000.0
 4,4,1800,"37 N Lotus Avenue Chicago, IL 60644",449900.0
+1,1,941,"100 E WALTON Street 38D Chicago, IL 60611",349000.0
+1,1,750,"440 N Mcclurg Court 417 Chicago, IL 60611",285000.0
