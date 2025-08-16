@@ -3,7 +3,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1120,"4211 W 47th Street Chicago, IL 60632",369000.0
 3,2,1113,"5202 S Talman Street Chicago, IL 60632",259000.0
 4,2,1800,"3343 N Narragansett Avenue Chicago, IL 60634",575000.0
-3,2,1450,"1000 W Adams Street , 201 Chicago, IL 60607",759900.0
 1,1,850,"345 N La Salle Drive 702 Chicago, IL 60654",310000.0
 4,3,2062,"2318 S Central Park Avenue , 101 Chicago, IL 60623",265000.0
 2,2,1300,"330 N Jefferson Street 1901 Chicago, IL 60661",550000.0
@@ -539,6 +538,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1911,"7331 S Clyde Avenue Chicago, IL 60649",120000.0
 4,2,1000,"10049 S Indiana Avenue Chicago, IL 60628",99900.0
 3,1,1121,"57 E 92nd Street Chicago, IL 60619",98000.0
+3,2,1450,"1000 W Adams Street , 201 Chicago, IL 60607",759900.0
 4,1,2200,"7422 S Coles Avenue E Chicago, IL 60649",350000.0
 1,1,1000,"111 E Chestnut Street 44J Chicago, IL 60611",445000.0
 3,2,2288,"2134 E 91st Street Chicago, IL 60617",335000.0
