@@ -1,16 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"1
-beds",1,"1,407
-sq.ft.","22 N Morgan Street , 211 Chicago, IL 60607","$525,000"
 "3
 beds",2,"1,120
 sq.ft.","4211 W 47th Street Chicago, IL 60632","$369,000"
 "3
 beds",2,"1,113
 sq.ft.","5202 S Talman Street Chicago, IL 60632","$259,000"
-"3
-beds",2,"1,900
-sq.ft.","11543 S Kildare Avenue Alsip, IL 60803","$369,000"
 "5
 beds",4,"1,444
 sq.ft.","5748 W Erie Street Chicago, IL 60644","$445,000"
@@ -383,6 +377,9 @@ sq.ft.","2224 N Orchard Street 2N Chicago, IL 60614","$845,000"
 "4
 beds",2,"2,965
 sq.ft.","2341 W Roscoe Street 1E Chicago, IL 60618","$999,999"
+"3
+beds",2,"1,900
+sq.ft.","11543 S Kildare Avenue Alsip, IL 60803","$369,000"
 "3
 beds",1,"1,296
 sq.ft.","3231 N Osage Avenue Chicago, IL 60634","$469,000"
@@ -3023,3 +3020,6 @@ sq.ft.","8443 S STATE Street Chicago, IL 60619","$90,000"
 "4
 beds",2,"2,652
 sq.ft.","7248 N Hamilton Avenue Chicago, IL 60645","$649,000"
+"4
+beds",3,"2,407
+sq.ft.","5605 S NORDICA Avenue Chicago, IL 60638","$625,000"
