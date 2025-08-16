@@ -1,22 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "1
-beds",1,"1,100
-sq.ft.","1632 S Indiana Avenue , 108 Chicago, IL 60616","$329,995"
+beds",1,"1,407
+sq.ft.","22 N Morgan Street , 211 Chicago, IL 60607","$525,000"
 "3
 beds",2,"1,120
 sq.ft.","4211 W 47th Street Chicago, IL 60632","$369,000"
 "3
 beds",2,"1,113
 sq.ft.","5202 S Talman Street Chicago, IL 60632","$259,000"
-"2
-beds",2,"4,125
-sq.ft.","9809 S Union Avenue S Chicago, IL 60628","$282,000"
-"3
-beds",2,"1,539
-sq.ft.","8152 S Luella Ave Chicago, IL 60617","$225,000"
-"5
-beds",3,"3,415
-sq.ft.","1333 E Madison Park Chicago, IL 60615","$1,350,000"
 "3
 beds",2,"1,900
 sq.ft.","11543 S Kildare Avenue Alsip, IL 60803","$369,000"
@@ -83,6 +74,9 @@ sq.ft.","9944 S Prospect Avenue Chicago, IL 60643","$410,000"
 "1
 beds",1,"925
 sq.ft.","600 N Dearborn Street 1102 Chicago, IL 60610","$350,000"
+"1
+beds",1,"1,100
+sq.ft.","1632 S Indiana Avenue , 108 Chicago, IL 60616","$329,995"
 "4
 beds",3,"3,000
 sq.ft.","4538 S Oakenwald Avenue 1 Chicago, IL 60653","$695,000"
@@ -356,6 +350,9 @@ sq.ft.","3844 N Ashland Avenue 21 Chicago, IL 60613","$589,000"
 "3
 beds",2,"2,900
 sq.ft.","680 N Lake Shore Drive 1306 Chicago, IL 60611","$1,475,000"
+"5
+beds",3,"3,415
+sq.ft.","1333 E Madison Park Chicago, IL 60615","$1,350,000"
 "4
 beds",1,"1,938
 sq.ft.","9242 S Constance Avenue Chicago, IL 60617","$339,000"
@@ -626,6 +623,12 @@ sq.ft.","54 E 137th Place Riverdale, IL 60827","$49,900"
 "5
 beds",2,"1,600
 sq.ft.","116 E 118th Place Chicago, IL 60628","$45,000"
+"2
+beds",2,"4,125
+sq.ft.","9809 S Union Avenue S Chicago, IL 60628","$282,000"
+"3
+beds",2,"1,539
+sq.ft.","8152 S Luella Ave Chicago, IL 60617","$225,000"
 "3
 beds",3,"3,200
 sq.ft.","21 E Huron Street 4301 Chicago, IL 60611","$2,000,000"
@@ -3020,6 +3023,3 @@ sq.ft.","8443 S STATE Street Chicago, IL 60619","$90,000"
 "4
 beds",2,"2,652
 sq.ft.","7248 N Hamilton Avenue Chicago, IL 60645","$649,000"
-"4
-beds",3,"2,407
-sq.ft.","5605 S NORDICA Avenue Chicago, IL 60638","$625,000"
