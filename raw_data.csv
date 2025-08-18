@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "5
+beds",3,"3,954
+sq.ft.","6500 S Yale Avenue Chicago, IL 60621","$113,000"
+"5
 beds",3,"3,415
 sq.ft.","1333 E Madison Park Chicago, IL 60615","$1,350,000"
 "2
@@ -3020,6 +3023,3 @@ sq.ft.","5146 S Narragansett Avenue Chicago, IL 60638","$289,000"
 "1
 beds",1,"923
 sq.ft.","1111 S Wabash Avenue 1305 Chicago, IL 60605","$285,000"
-"1
-beds",1,"677
-sq.ft.","1720 S Michigan Avenue 1804 Chicago, IL 60616","$250,000"
