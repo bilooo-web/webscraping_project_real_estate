@@ -1,11 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,1407,"22 N Morgan Street , 211 Chicago, IL 60607",525000.0
 4,2,1800,"3343 N Narragansett Avenue Chicago, IL 60634",575000.0
-2,2,1300,"330 N Jefferson Street 1901 Chicago, IL 60661",550000.0
-3,1,1100,"5754 W Lawrence Avenue 1A Chicago, IL 60630",254000.0
-3,2,2585,"1478 S PRAIRIE Avenue E Chicago, IL 60605",895000.0
 3,1,1231,"3820 W 117th Street Alsip, IL 60803",264000.0
-3,2,1350,"222 E Pearson Street 2101 Chicago, IL 60611",440000.0
 2,2,1100,"1354 W Estes Avenue 2S Chicago, IL 60626",269000.0
 2,2,1416,"1530 S State Street 14O Chicago, IL 60605",409000.0
 3,3,2400,"8623 S Prairie Avenue Chicago, IL 60619",355900.0
@@ -126,6 +122,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1232,"1330 W Monroe Street 210 Chicago, IL 60607",499999.0
 1,1,980,"175 E Delaware Place 4914 Chicago, IL 60611",449900.0
 2,1,1350,"7215 W Farwell Avenue Chicago, IL 60631",449000.0
+3,2,1350,"222 E Pearson Street 2101 Chicago, IL 60611",440000.0
 3,2,1200,"1247 N Rockwell Street 3 Chicago, IL 60622",425000.0
 4,2,2530,"5025 W Superior Street Chicago, IL 60644",419900.0
 2,2,1500,"5300 N Lincoln Avenue 3E Chicago, IL 60625",405000.0
@@ -164,6 +161,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,3580,"5305 N Virginia Avenue Chicago, IL 60625",800000.0
 3,3,2400,"1511 N MOHAWK Street 1 Chicago, IL 60610",799000.0
 2,2,1191,"400 N Clinton Street 704 Chicago, IL 60654",550000.0
+2,2,1300,"330 N Jefferson Street 1901 Chicago, IL 60661",550000.0
 2,2,1335,"130 N Garland Court 1806 Chicago, IL 60602",490000.0
 2,2,1225,"195 N Harbor Drive 4305 Chicago, IL 60601",465000.0
 2,2,1400,"2438 N Clybourn Avenue 2 Chicago, IL 60614",439900.0
@@ -220,6 +218,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1758,"3510 N Oketo Avenue Chicago, IL 60634",278000.0
 3,1,1234,"10201 S California Avenue Chicago, IL 60655",259900.0
 2,1,1000,"420 S CLINTON Street 607 Chicago, IL 60607",254900.0
+3,1,1100,"5754 W Lawrence Avenue 1A Chicago, IL 60630",254000.0
 3,2,1163,"14116 S Hoxie Avenue Burnham, IL 60633",229999.0
 2,1,1000,"4976 N MILWAUKEE Avenue 201 Chicago, IL 60630",219900.0
 2,2,1031,"1832 S Central Avenue Cicero, IL 60804",199832.0
@@ -237,6 +236,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1306,"125 E 13th Street , 1113 Chicago, IL 60605",429900.0
 6,4,3600,"5830 N Lincoln Avenue 1E Chicago, IL 60659",975000.0
 3,3,4000,"3500 N Lake Shore Drive 7C Chicago, IL 60657",939900.0
+3,2,2585,"1478 S PRAIRIE Avenue E Chicago, IL 60605",895000.0
 3,2,1900,"1711 W DIVISION Street 303 Chicago, IL 60622",849500.0
 2,2,1323,"234 W Polk Street 3806 Chicago, IL 60607",830000.0
 2,2,1850,"363 W Superior Street A Chicago, IL 60654",765000.0
@@ -918,3 +918,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1268,"234 W Polk Street 2702 Chicago, IL 60607",750000.0
 1,1,1278,"159 E WALTON Place 6B Chicago, IL 60611",699999.0
 4,2,1806,"7316 S South Shore Drive Chicago, IL 60649",695000.0
+6,2,2836,"3013 N Oriole Avenue Chicago, IL 60707",624900.0
+3,2,1182,"7420 N Octavia Avenue Chicago, IL 60631",480000.0
+4,2,1800,"3857 W 107th Place Chicago, IL 60655",468880.0
