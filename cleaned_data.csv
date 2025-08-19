@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+2,1,1300,"5501 N California Avenue #1N Chicago, IL 60625",249900.0
 5,3,3954,"6500 S Yale Avenue Chicago, IL 60621",113000.0
 2,1,1000,"109 N Kostner Avenue 106 Chicago, IL 60624",139999.0
 3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",459900.0
@@ -918,4 +919,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,2133,"2958 W 103rd Street Chicago, IL 60655",299900.0
 2,1,1400,"405 W Briar Place CG Chicago, IL 60657",289900.0
 3,2,2000,"5146 S Narragansett Avenue Chicago, IL 60638",289000.0
-1,1,923,"1111 S Wabash Avenue 1305 Chicago, IL 60605",285000.0
