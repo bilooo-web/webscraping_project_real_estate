@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"1,500
+sq.ft.","35 S Racine Avenue , 5SW Chicago, IL 60607","$725,000"
 "2
 beds",1,"1,300
 sq.ft.","5501 N California Avenue #1N Chicago, IL 60625","$249,900"
@@ -92,6 +95,9 @@ sq.ft.","636 N Racine Avenue 2N Chicago, IL 60642","$500,000"
 "4
 beds",2,"1,052
 sq.ft.","6646 W 63rd Place Chicago, IL 60638","$369,900"
+"2
+beds",2,"1,225
+sq.ft.","222 N Columbus Drive , 2808 Chicago, IL 60601","$460,000"
 "3
 beds",2,"1,898
 sq.ft.","5114 S Kenwood Avenue PHA Chicago, IL 60615","$1,100,000"
@@ -2840,9 +2846,6 @@ sq.ft.","5151 W Fletcher Street Chicago, IL 60641","$620,000"
 "4
 beds",2,"2,225
 sq.ft.","4130 N Oketo Avenue Norridge, IL 60706","$410,000"
-"2
-beds",2,"1,700
-sq.ft.","7033 N Kedzie Avenue , 1704 Chicago, IL 60645","$189,500"
 "4
 beds",4,"9,542
 sq.ft.","1211 S Prairie Avenue 5400 Chicago, IL 60605","$3,995,000"
@@ -3020,6 +3023,3 @@ sq.ft.","2235 W Oakdale Avenue 4-D Chicago, IL 60618","$1,200,000"
 "3
 beds",3,"2,086
 sq.ft.","755 W MELROSE Street Chicago, IL 60657","$809,000"
-"3
-beds",3,"2,366
-sq.ft.","1313 W Carmen Avenue 1N Chicago, IL 60640","$799,900"

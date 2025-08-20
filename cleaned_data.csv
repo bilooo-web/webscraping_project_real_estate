@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2,1500,"35 S Racine Avenue , 5SW Chicago, IL 60607",725000.0
 2,1,1300,"5501 N California Avenue #1N Chicago, IL 60625",249900.0
 1,1,1200,"7344 N Ridge Boulevard , 5C Chicago, IL 60645",159900.0
 4,3,2037,"6544 W Devon Avenue Chicago, IL 60631",749000.0
@@ -26,6 +27,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1350,"130 S CANAL Street 717 Chicago, IL 60606",449500.0
 3,2,1400,"636 N Racine Avenue 2N Chicago, IL 60642",500000.0
 4,2,1052,"6646 W 63rd Place Chicago, IL 60638",369900.0
+2,2,1225,"222 N Columbus Drive , 2808 Chicago, IL 60601",460000.0
 3,2,1881,"5114 S Kenwood Avenue 3B Chicago, IL 60615",900000.0
 3,2,1881,"5114 S Kenwood Avenue PHB Chicago, IL 60615",1000000.0
 2,2,1750,"1755 E 55th Street 503 Chicago, IL 60615",119500.0
@@ -875,7 +877,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"5148 S King Drive B3 Chicago, IL 60615",85000.0
 4,3,3450,"5151 W Fletcher Street Chicago, IL 60641",620000.0
 4,2,2225,"4130 N Oketo Avenue Norridge, IL 60706",410000.0
-2,2,1700,"7033 N Kedzie Avenue , 1704 Chicago, IL 60645",189500.0
 3,2,1914,"2923 N Southport Avenue 3 Chicago, IL 60657",999000.0
 2,2,1384,"211 N Harbor Drive 906 Chicago, IL 60601",995000.0
 2,2,2267,"2216 N Lincoln Avenue 3B Chicago, IL 60614",980000.0
@@ -922,4 +923,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1250,"6833 S BISHOP Street Chicago, IL 60636",74900.0
 3,1,1150,"6836 S Crandon Avenue 3 Chicago, IL 60649",42500.0
 3,3,2086,"755 W MELROSE Street Chicago, IL 60657",809000.0
-3,3,2366,"1313 W Carmen Avenue 1N Chicago, IL 60640",799900.0
