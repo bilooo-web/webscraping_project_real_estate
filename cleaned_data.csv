@@ -1,10 +1,9 @@
 bedrooms,bathrooms,square_footage,address,price
 2,1,1300,"5501 N California Avenue #1N Chicago, IL 60625",249900.0
-1,1,1200,"7344 N Ridge Boulevard , 5C Chicago, IL 60645",159900.0
 4,3,2037,"6544 W Devon Avenue Chicago, IL 60631",749000.0
+1,1,1200,"7344 N Ridge Boulevard , 5C Chicago, IL 60645",159900.0
 6,2,2586,"2643 W Pratt Avenue Chicago, IL 60645",679000.0
 5,3,3954,"6500 S Yale Avenue Chicago, IL 60621",113000.0
-2,1,1000,"109 N Kostner Avenue 106 Chicago, IL 60624",139999.0
 3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",459900.0
 3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
 3,2,1900,"11543 S Kildare Avenue Alsip, IL 60803",359000.0
@@ -923,3 +922,5 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,790,"123 S GREEN Street 710B Chicago, IL 60607",339900.0
 2,2,1300,"1415 N Dearborn Street 11B Chicago, IL 60610",335000.0
 3,2,1288,"1016 S Racine Avenue 201 Chicago, IL 60607",325000.0
+1,1,833,"2800 N Lake Shore Drive 1314 Chicago, IL 60657",310000.0
+3,2,1213,"2907 W 86th Street Chicago, IL 60652",300000.0

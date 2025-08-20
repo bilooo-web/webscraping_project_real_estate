@@ -2,24 +2,18 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",1,"1,300
 sq.ft.","5501 N California Avenue #1N Chicago, IL 60625","$249,900"
-"1
-beds",1,"1,200
-sq.ft.","7344 N Ridge Boulevard , 5C Chicago, IL 60645","$159,900"
-"2
-beds",2,"2,366
-sq.ft.","118 E Erie Street , 15A Chicago, IL 60611","$1,350,000"
 "4
 beds",3,"2,037
 sq.ft.","6544 W Devon Avenue Chicago, IL 60631","$749,000"
+"1
+beds",1,"1,200
+sq.ft.","7344 N Ridge Boulevard , 5C Chicago, IL 60645","$159,900"
 "6
 beds",2,"2,586
 sq.ft.","2643 W Pratt Avenue Chicago, IL 60645","$679,000"
 "5
 beds",3,"3,954
 sq.ft.","6500 S Yale Avenue Chicago, IL 60621","$113,000"
-"2
-beds",1,"1,000
-sq.ft.","109 N Kostner Avenue 106 Chicago, IL 60624","$139,999"
 "3
 beds",2,"1,300
 sq.ft.","1538 W 21st Street 3A Chicago, IL 60608","$459,900"
@@ -3023,3 +3017,9 @@ sq.ft.","1415 N Dearborn Street 11B Chicago, IL 60610","$335,000"
 "3
 beds",2,"1,288
 sq.ft.","1016 S Racine Avenue 201 Chicago, IL 60607","$325,000"
+"1
+beds",1,"833
+sq.ft.","2800 N Lake Shore Drive 1314 Chicago, IL 60657","$310,000"
+"3
+beds",2,"1,213
+sq.ft.","2907 W 86th Street Chicago, IL 60652","$300,000"
