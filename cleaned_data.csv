@@ -1,10 +1,13 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2,1500,"35 S Racine Avenue , 5SW Chicago, IL 60607",725000.0
 1,1,1200,"7344 N Ridge Boulevard , 5C Chicago, IL 60645",159900.0
+6,3,3389,"5706 N New Hampshire Avenue Chicago, IL 60631",799000.0
+2,2,1024,"7964 S Tripp Avenue Chicago, IL 60652",359900.0
 4,3,2037,"6544 W Devon Avenue Chicago, IL 60631",749000.0
 3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",459900.0
 3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
 3,2,1900,"11543 S Kildare Avenue Alsip, IL 60803",359000.0
+3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",350000.0
 2,2,1000,"600 N Dearborn Street 1804 Chicago, IL 60654",375000.0
 3,2,1500,"4706 S Saint Lawrence Avenue 2W Chicago, IL 60615",430000.0
 4,3,2400,"3863 N Milwaukee Avenue Chicago, IL 60641",549500.0
@@ -26,8 +29,8 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1400,"636 N Racine Avenue 2N Chicago, IL 60642",500000.0
 4,2,1052,"6646 W 63rd Place Chicago, IL 60638",369900.0
 2,2,1225,"222 N Columbus Drive , 2808 Chicago, IL 60601",460000.0
+4,3,2062,"2318 S Central Park Avenue , 101 Chicago, IL 60623",265000.0
 3,2,1881,"5114 S Kenwood Avenue 3B Chicago, IL 60615",900000.0
-3,2,1881,"5114 S Kenwood Avenue PHB Chicago, IL 60615",1000000.0
 2,2,1750,"1755 E 55th Street 503 Chicago, IL 60615",119500.0
 5,4,4182,"6429 S California Avenue Chicago, IL 60629",429000.0
 3,2,1902,"4316 N Sayre Avenue Norridge, IL 60706",435000.0
@@ -148,7 +151,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,700,"6700 S South Shore Drive 2E Chicago, IL 60649",98900.0
 2,1,1008,"5811 S Bishop Street Chicago, IL 60636",59900.0
 1,1,1407,"22 N Morgan Street , 211 Chicago, IL 60607",525000.0
-4,2,2965,"2341 W Roscoe Street 1E Chicago, IL 60618",999999.0
 4,3,2914,"9556 S Winchester Avenue Chicago, IL 60643",927900.0
 2,2,1883,"550 W Fulton Street 602 Chicago, IL 60661",749000.0
 2,2,1300,"2248 N Racine Avenue 3 Chicago, IL 60614",720000.0
@@ -320,7 +322,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1858,"11940 S YALE Avenue Chicago, IL 60628",69900.0
 3,1,1308,"6627 S Saint Lawrence Avenue Chicago, IL 60637",54900.0
 4,2,1750,"6941 S Normal Boulevard Chicago, IL 60621",30000.0
-3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",350000.0
 4,2,1360,"4451 S Princeton Avenue Chicago, IL 60609",249900.0
 4,2,1400,"1040 W 103rd Street Chicago, IL 60643",180000.0
 2,2,1650,"1443 W Wrightwood Avenue B Chicago, IL 60614",599000.0
@@ -530,7 +531,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1008,"1017 N Avers Avenue Chicago, IL 60651",69700.0
 3,1,950,"1342 W 108th Place Chicago, IL 60643",30400.0
 3,3,1229,"6625 N Whipple Street Chicago, IL 60645",450000.0
-5,4,3408,"7100 N SIOUX Avenue Chicago, IL 60646",999000.0
 4,2,3000,"680 N LAKE SHORE Drive 321 Chicago, IL 60611",774500.0
 3,3,2100,"2636 W EVERGREEN Avenue 1 Chicago, IL 60622",715000.0
 1,1,1324,"401 N Wabash Avenue 76G Chicago, IL 60611",690000.0
@@ -626,7 +626,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1350,"910 N Lake Shore Drive , 1620 Chicago, IL 60611",649000.0
 2,1,1377,"6030 N Winchester Avenue , C Chicago, IL 60660",359000.0
 3,2,1280,"8409 S Brandon Avenue Chicago, IL 60617",244900.0
-3,2,2200,"1916 N Maud Avenue A Chicago, IL 60614",999900.0
 3,2,1553,"211 N Harbor Drive 409 Chicago, IL 60601",939900.0
 4,3,2781,"400 S Green Street 305 Chicago, IL 60607",899000.0
 3,2,2406,"60 W Erie Street 502 Chicago, IL 60654",825000.0
@@ -711,7 +710,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,801,"8533 S Rhodes Avenue Chicago, IL 60619",101900.0
 2,2,1450,"4250 N Marine Drive , 801 Chicago, IL 60613",339000.0
 3,2,2000,"7061 N Kedzie Avenue , 1008 Chicago, IL 60645",249900.0
-3,2,1900,"2444 N Seminary Avenue 4 Chicago, IL 60614",999000.0
 3,3,2327,"1739 N Whipple Street 2 Chicago, IL 60647",899000.0
 5,3,3600,"4932 S Martin Luther King Drive Chicago, IL 60653",899000.0
 3,2,2350,"1448 W Chestnut Street 3 Chicago, IL 60642",849000.0
@@ -877,7 +875,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"5148 S King Drive B3 Chicago, IL 60615",85000.0
 4,3,3450,"5151 W Fletcher Street Chicago, IL 60641",620000.0
 4,2,2225,"4130 N Oketo Avenue Norridge, IL 60706",410000.0
-3,2,1914,"2923 N Southport Avenue 3 Chicago, IL 60657",999000.0
 2,2,1384,"211 N Harbor Drive 906 Chicago, IL 60601",995000.0
 2,2,2267,"2216 N Lincoln Avenue 3B Chicago, IL 60614",980000.0
 5,4,4752,"8021 W Rascher Avenue Norwood Park Township, IL 60656",795000.0
@@ -922,4 +919,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,740,"941 W 116th Place Chicago, IL 60643",75000.0
 3,2,1250,"6833 S BISHOP Street Chicago, IL 60636",74900.0
 3,1,1150,"6836 S Crandon Avenue 3 Chicago, IL 60649",42500.0
-3,3,2086,"755 W MELROSE Street Chicago, IL 60657",809000.0
