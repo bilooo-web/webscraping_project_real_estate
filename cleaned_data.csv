@@ -101,6 +101,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,900,"4523.5 S Drexel Boulevard 2W Chicago, IL 60653",132000.0
 1,1,1000,"5337 S Ellis Avenue 1C Chicago, IL 60615",99500.0
 6,2,2586,"2643 W Pratt Avenue Chicago, IL 60645",679000.0
+7,4,1980,"2115 E 72nd Pl Chicago, IL 60623",135000.0
 5,3,3954,"6500 S Yale Avenue Chicago, IL 60621",113000.0
 1,1,625,"234 W Polk Street 2611 Chicago, IL 60607",459900.0
 2,2,1350,"6 N Michigan Avenue 801 Chicago, IL 60602",450000.0
@@ -586,7 +587,6 @@ bedrooms,bathrooms,square_footage,address,price
 5,2,1382,"11821 S Harvard Avenue Chicago, IL 60628",44900.0
 3,1,945,"13749 S Wabash Avenue Riverdale, IL 60827",36999.0
 3,2,1500,"6558 N Washtenaw Avenue , 2 Chicago, IL 60645",299500.0
-3,2,2322,"1030 W WRIGHTWOOD Avenue B Chicago, IL 60614",995000.0
 2,2,2100,"680 N Lake Shore Drive 1322 Chicago, IL 60611",824999.0
 4,2,2767,"5727 S Meade Avenue Chicago, IL 60638",688000.0
 3,2,1500,"2307 W Foster Avenue 2 Chicago, IL 60625",685000.0
@@ -875,7 +875,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"5148 S King Drive B3 Chicago, IL 60615",85000.0
 4,3,3450,"5151 W Fletcher Street Chicago, IL 60641",620000.0
 4,2,2225,"4130 N Oketo Avenue Norridge, IL 60706",410000.0
-2,2,1384,"211 N Harbor Drive 906 Chicago, IL 60601",995000.0
 2,2,2267,"2216 N Lincoln Avenue 3B Chicago, IL 60614",980000.0
 5,4,4752,"8021 W Rascher Avenue Norwood Park Township, IL 60656",795000.0
 3,3,2200,"2029 W Rice Street 1 Chicago, IL 60622",750000.0
