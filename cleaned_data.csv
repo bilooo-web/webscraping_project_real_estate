@@ -5,7 +5,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",459900.0
 3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
 3,2,1900,"11543 S Kildare Avenue Alsip, IL 60803",359000.0
-3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",350000.0
 2,2,1000,"600 N Dearborn Street 1804 Chicago, IL 60654",375000.0
 3,2,1500,"4706 S Saint Lawrence Avenue 2W Chicago, IL 60615",430000.0
 4,3,2400,"3863 N Milwaukee Avenue Chicago, IL 60641",549500.0
@@ -27,7 +26,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1400,"636 N Racine Avenue 2N Chicago, IL 60642",500000.0
 4,2,1052,"6646 W 63rd Place Chicago, IL 60638",369900.0
 2,2,1225,"222 N Columbus Drive , 2808 Chicago, IL 60601",460000.0
-4,3,2062,"2318 S Central Park Avenue , 101 Chicago, IL 60623",265000.0
 3,2,1881,"5114 S Kenwood Avenue 3B Chicago, IL 60615",900000.0
 3,2,1881,"5114 S Kenwood Avenue PHB Chicago, IL 60615",1000000.0
 2,2,1750,"1755 E 55th Street 503 Chicago, IL 60615",119500.0
@@ -322,6 +320,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1858,"11940 S YALE Avenue Chicago, IL 60628",69900.0
 3,1,1308,"6627 S Saint Lawrence Avenue Chicago, IL 60637",54900.0
 4,2,1750,"6941 S Normal Boulevard Chicago, IL 60621",30000.0
+3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",350000.0
 4,2,1360,"4451 S Princeton Avenue Chicago, IL 60609",249900.0
 4,2,1400,"1040 W 103rd Street Chicago, IL 60643",180000.0
 2,2,1650,"1443 W Wrightwood Avenue B Chicago, IL 60614",599000.0
@@ -923,3 +922,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,740,"941 W 116th Place Chicago, IL 60643",75000.0
 3,2,1250,"6833 S BISHOP Street Chicago, IL 60636",74900.0
 3,1,1150,"6836 S Crandon Avenue 3 Chicago, IL 60649",42500.0
+3,3,2086,"755 W MELROSE Street Chicago, IL 60657",809000.0
