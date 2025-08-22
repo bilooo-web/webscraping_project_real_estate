@@ -1,37 +1,22 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"1
-beds",1,"725
-sq.ft.","1464 S Michigan Avenue , 1108 Chicago, IL 60605","$249,900"
 "3
 beds",2,"1,500
 sq.ft.","35 S Racine Avenue , 5SW Chicago, IL 60607","$725,000"
-"2
-beds",2,"1,000
-sq.ft.","5659 S Oak Park Avenue Chicago, IL 60638","$389,900"
 "6
 beds",3,"3,389
 sq.ft.","5706 N New Hampshire Avenue Chicago, IL 60631","$799,000"
 "2
 beds",2,"1,024
 sq.ft.","7964 S Tripp Avenue Chicago, IL 60652","$359,900"
-"3
-beds",2,"1,300
-sq.ft.","1538 W 21st Street 3A Chicago, IL 60608","$459,900"
-"3
-beds",2,"1,300
-sq.ft.","1538 W 21st Street 1A Chicago, IL 60608","$359,900"
-"3
-beds",2,"1,900
-sq.ft.","11543 S Kildare Avenue Alsip, IL 60803","$359,000"
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$350,000"
 "2
 beds",2,"1,000
 sq.ft.","600 N Dearborn Street 1804 Chicago, IL 60654","$375,000"
 "3
 beds",2,"1,500
 sq.ft.","4706 S Saint Lawrence Avenue 2W Chicago, IL 60615","$430,000"
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$350,000"
 "4
 beds",3,"2,400
 sq.ft.","3863 N Milwaukee Avenue Chicago, IL 60641","$549,500"
@@ -47,6 +32,12 @@ sq.ft.","5501 N California Avenue #1N Chicago, IL 60625","$249,900"
 "5
 beds",4,"2,875
 sq.ft.","7440 S Oglesby Avenue Chicago, IL 60649","$649,000"
+"3
+beds",2,"1,300
+sq.ft.","1538 W 21st Street 3A Chicago, IL 60608","$459,900"
+"3
+beds",2,"1,300
+sq.ft.","1538 W 21st Street 1A Chicago, IL 60608","$359,900"
 "2
 beds",1,"1,200
 sq.ft.","2323 W Pershing Road 401 Chicago, IL 60609","$234,900"
@@ -95,12 +86,12 @@ sq.ft.","636 N Racine Avenue 2N Chicago, IL 60642","$500,000"
 "4
 beds",2,"1,052
 sq.ft.","6646 W 63rd Place Chicago, IL 60638","$369,900"
+"3
+beds",2,"1,900
+sq.ft.","11543 S Kildare Avenue Alsip, IL 60803","$359,000"
 "2
 beds",2,"1,225
 sq.ft.","222 N Columbus Drive , 2808 Chicago, IL 60601","$460,000"
-"4
-beds",3,"2,062
-sq.ft.","2318 S Central Park Avenue , 101 Chicago, IL 60623","$265,000"
 "3
 beds",2,"1,898
 sq.ft.","5114 S Kenwood Avenue PHA Chicago, IL 60615","$1,100,000"
@@ -110,6 +101,9 @@ sq.ft.","5114 S Kenwood Avenue 3B Chicago, IL 60615","$900,000"
 "3
 beds",2,"1,881
 sq.ft.","5114 S Kenwood Avenue PHB Chicago, IL 60615","$1,000,000"
+"4
+beds",3,"2,062
+sq.ft.","2318 S Central Park Avenue , 101 Chicago, IL 60623","$265,000"
 "1
 beds",1,"1,200
 sq.ft.","7344 N Ridge Boulevard , 5C Chicago, IL 60645","$159,900"
@@ -353,7 +347,7 @@ sq.ft.","4523.5 S Drexel Boulevard 2W Chicago, IL 60653","$132,000"
 "1
 beds",1,"1,000
 sq.ft.","5337 S Ellis Avenue 1C Chicago, IL 60615","$99,500"
-"3
+"6
 beds",2,"2,586
 sq.ft.","2643 W Pratt Avenue Chicago, IL 60645","$679,000"
 "7
@@ -2589,7 +2583,7 @@ sq.ft.","4924 S Lorel Avenue Chicago, IL 60638","$149,900"
 beds",1,"1,100
 sq.ft.","6655 S Wabash Avenue Chicago, IL 60637","$94,900"
 "3
-beds",2,"1,400
+beds",2,"1,500
 sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$519,000"
 "3
 beds",2,"1,040
@@ -3023,3 +3017,9 @@ sq.ft.","3054 N Kedzie Avenue 1F Chicago, IL 60618",Price On Request
 "4
 beds",3,"5,200
 sq.ft.","65 E Goethe Street 4N Chicago, IL 60610","$4,495,000"
+"5
+beds",3,"4,036
+sq.ft.","42 E Schiller Street Chicago, IL 60610","$2,595,000"
+"5
+beds",3,"4,000
+sq.ft.","518 N Oakley Boulevard Chicago, IL 60612","$1,949,000"

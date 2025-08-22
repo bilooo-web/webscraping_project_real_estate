@@ -1,20 +1,17 @@
 bedrooms,bathrooms,square_footage,address,price
-1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",249900.0
 3,2,1500,"35 S Racine Avenue , 5SW Chicago, IL 60607",725000.0
-2,2,1000,"5659 S Oak Park Avenue Chicago, IL 60638",389900.0
 6,3,3389,"5706 N New Hampshire Avenue Chicago, IL 60631",799000.0
 2,2,1024,"7964 S Tripp Avenue Chicago, IL 60652",359900.0
-3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",459900.0
-3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
-3,2,1900,"11543 S Kildare Avenue Alsip, IL 60803",359000.0
-3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",350000.0
 2,2,1000,"600 N Dearborn Street 1804 Chicago, IL 60654",375000.0
 3,2,1500,"4706 S Saint Lawrence Avenue 2W Chicago, IL 60615",430000.0
+3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",350000.0
 4,3,2400,"3863 N Milwaukee Avenue Chicago, IL 60641",549500.0
 3,2,1500,"2634 W Haddon Avenue Chicago, IL 60622",749000.0
 3,1,1073,"4854 S Latrobe Avenue Chicago, IL 60638",289000.0
 2,1,1300,"5501 N California Avenue #1N Chicago, IL 60625",249900.0
 5,4,2875,"7440 S Oglesby Avenue Chicago, IL 60649",649000.0
+3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",459900.0
+3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
 2,1,1200,"2323 W Pershing Road 401 Chicago, IL 60609",234900.0
 2,2,1100,"33 W Delaware Place 21A Chicago, IL 60610",399000.0
 3,2,1876,"8432 S Yates Boulevard Chicago, IL 60617",327999.0
@@ -28,9 +25,10 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1350,"130 S CANAL Street 717 Chicago, IL 60606",449500.0
 3,2,1400,"636 N Racine Avenue 2N Chicago, IL 60642",500000.0
 4,2,1052,"6646 W 63rd Place Chicago, IL 60638",369900.0
+3,2,1900,"11543 S Kildare Avenue Alsip, IL 60803",359000.0
 2,2,1225,"222 N Columbus Drive , 2808 Chicago, IL 60601",460000.0
-4,3,2062,"2318 S Central Park Avenue , 101 Chicago, IL 60623",265000.0
 3,2,1881,"5114 S Kenwood Avenue 3B Chicago, IL 60615",900000.0
+4,3,2062,"2318 S Central Park Avenue , 101 Chicago, IL 60623",265000.0
 1,1,1200,"7344 N Ridge Boulevard , 5C Chicago, IL 60645",159900.0
 2,2,1750,"1755 E 55th Street 503 Chicago, IL 60615",119500.0
 5,4,4182,"6429 S California Avenue Chicago, IL 60629",429000.0
@@ -102,7 +100,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,992,"323 W 108th Street Chicago, IL 60628",139999.0
 1,1,900,"4523.5 S Drexel Boulevard 2W Chicago, IL 60653",132000.0
 1,1,1000,"5337 S Ellis Avenue 1C Chicago, IL 60615",99500.0
-3,2,2586,"2643 W Pratt Avenue Chicago, IL 60645",679000.0
+6,2,2586,"2643 W Pratt Avenue Chicago, IL 60645",679000.0
 7,4,1980,"2115 E 72nd Pl Chicago, IL 60623",135000.0
 5,3,3954,"6500 S Yale Avenue Chicago, IL 60621",113000.0
 1,1,625,"234 W Polk Street 2611 Chicago, IL 60607",459900.0
@@ -792,7 +790,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1103,"11531 S Stewart Avenue Chicago, IL 60628",176500.0
 3,1,1088,"4924 S Lorel Avenue Chicago, IL 60638",149900.0
 2,1,1100,"6655 S Wabash Avenue Chicago, IL 60637",94900.0
-3,2,1400,"1333 N Burling Street , B Chicago, IL 60610",519000.0
+3,2,1500,"1333 N Burling Street , B Chicago, IL 60610",519000.0
 3,2,1040,"8225 S Wentworth Avenue Chicago, IL 60620",249900.0
 2,1,1099,"1235 N Dearborn Street CH Chicago, IL 60610",530000.0
 2,2,1100,"2400 N Lakeview Avenue 1706 Chicago, IL 60614",424900.0
