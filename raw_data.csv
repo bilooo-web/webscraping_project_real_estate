@@ -1,22 +1,19 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"725
+sq.ft.","1464 S Michigan Avenue , 1108 Chicago, IL 60605","$249,900"
 "3
 beds",2,"1,500
 sq.ft.","35 S Racine Avenue , 5SW Chicago, IL 60607","$725,000"
-"1
-beds",1,"1,200
-sq.ft.","7344 N Ridge Boulevard , 5C Chicago, IL 60645","$159,900"
+"2
+beds",2,"1,000
+sq.ft.","5659 S Oak Park Avenue Chicago, IL 60638","$389,900"
 "6
 beds",3,"3,389
 sq.ft.","5706 N New Hampshire Avenue Chicago, IL 60631","$799,000"
 "2
 beds",2,"1,024
 sq.ft.","7964 S Tripp Avenue Chicago, IL 60652","$359,900"
-"2
-beds",2,"2,366
-sq.ft.","118 E Erie Street , 15A Chicago, IL 60611","$1,350,000"
-"4
-beds",3,"2,037
-sq.ft.","6544 W Devon Avenue Chicago, IL 60631","$749,000"
 "3
 beds",2,"1,300
 sq.ft.","1538 W 21st Street 3A Chicago, IL 60608","$459,900"
@@ -113,6 +110,9 @@ sq.ft.","5114 S Kenwood Avenue 3B Chicago, IL 60615","$900,000"
 "3
 beds",2,"1,881
 sq.ft.","5114 S Kenwood Avenue PHB Chicago, IL 60615","$1,000,000"
+"1
+beds",1,"1,200
+sq.ft.","7344 N Ridge Boulevard , 5C Chicago, IL 60645","$159,900"
 "2
 beds",2,"1,750
 sq.ft.","1755 E 55th Street 503 Chicago, IL 60615","$119,500"
@@ -263,6 +263,12 @@ sq.ft.","4250 S Cottage Grove Avenue 2S Chicago, IL 60653","$110,000"
 "4
 beds",2,"1,025
 sq.ft.","6733 S Throop Street Chicago, IL 60636",Price On Request
+"2
+beds",2,"2,366
+sq.ft.","118 E Erie Street , 15A Chicago, IL 60611","$1,350,000"
+"4
+beds",3,"2,037
+sq.ft.","6544 W Devon Avenue Chicago, IL 60631","$749,000"
 "3
 beds",2,"3,200
 sq.ft.","1942 N Sedgwick Street PH Chicago, IL 60614","$2,850,000"
@@ -347,7 +353,7 @@ sq.ft.","4523.5 S Drexel Boulevard 2W Chicago, IL 60653","$132,000"
 "1
 beds",1,"1,000
 sq.ft.","5337 S Ellis Avenue 1C Chicago, IL 60615","$99,500"
-"6
+"3
 beds",2,"2,586
 sq.ft.","2643 W Pratt Avenue Chicago, IL 60645","$679,000"
 "7
@@ -2583,7 +2589,7 @@ sq.ft.","4924 S Lorel Avenue Chicago, IL 60638","$149,900"
 beds",1,"1,100
 sq.ft.","6655 S Wabash Avenue Chicago, IL 60637","$94,900"
 "3
-beds",2,"1,500
+beds",2,"1,400
 sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$519,000"
 "3
 beds",2,"1,040
@@ -3017,9 +3023,3 @@ sq.ft.","3054 N Kedzie Avenue 1F Chicago, IL 60618",Price On Request
 "4
 beds",3,"5,200
 sq.ft.","65 E Goethe Street 4N Chicago, IL 60610","$4,495,000"
-"5
-beds",3,"4,036
-sq.ft.","42 E Schiller Street Chicago, IL 60610","$2,595,000"
-"5
-beds",3,"4,000
-sq.ft.","518 N Oakley Boulevard Chicago, IL 60612","$1,949,000"
