@@ -1,6 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",249900.0
 3,2,1500,"35 S Racine Avenue , 5SW Chicago, IL 60607",725000.0
+3,1,960,"2321 S 81st Place Chicago, IL 60620",249900.0
 2,2,1000,"5659 S Oak Park Avenue Chicago, IL 60638",389900.0
 3,1,1200,"5050 S Lavergne Avenue Chicago, IL 60638",275000.0
 6,3,3389,"5706 N New Hampshire Avenue Chicago, IL 60631",799000.0
@@ -43,6 +44,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1200,"2323 W Pershing Road 401 Chicago, IL 60609",234900.0
 2,2,1191,"400 N Clinton Street 704 Chicago, IL 60654",550000.0
 1,1,925,"600 N Dearborn Street 1102 Chicago, IL 60610",350000.0
+1,1,1100,"1632 S Indiana Avenue , 108 Chicago, IL 60616",329995.0
 4,2,1720,"2614 N St Louis Avenue Chicago, IL 60647",775000.0
 2,2,1100,"33 W Delaware Place 21A Chicago, IL 60610",399000.0
 1,1,1100,"124 W Polk Street 605 Chicago, IL 60605",265000.0
@@ -396,7 +398,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1434,"6532 S Eberhart Avenue Chicago, IL 60637",94900.0
 4,2,1530,"54 E 137th Place Riverdale, IL 60827",49900.0
 5,2,1600,"116 E 118th Place Chicago, IL 60628",45000.0
-1,1,1100,"1632 S Indiana Avenue , 108 Chicago, IL 60616",329995.0
 2,2,4125,"9809 S Union Avenue S Chicago, IL 60628",282000.0
 3,2,1539,"8152 S Luella Ave Chicago, IL 60617",225000.0
 4,2,3000,"2651 W Augusta Boulevard 1 Chicago, IL 60622",899949.0
@@ -921,4 +922,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1200,"3039 N Troy Street 2W Chicago, IL 60618",300000.0
 3,2,1248,"3132 W 101st Place Evergreen Park, IL 60805",299500.0
 2,1,850,"1720 S Michigan Avenue 2609 Chicago, IL 60616",299000.0
-3,1,1130,"3112 W Whipple Drive Merrionette Park, IL 60803",275000.0
