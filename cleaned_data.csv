@@ -3,7 +3,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,960,"2321 S 81st Place Chicago, IL 60620",249900.0
 2,2,1000,"5659 S Oak Park Avenue Chicago, IL 60638",389900.0
 3,1,1200,"5050 S Lavergne Avenue Chicago, IL 60638",275000.0
-4,3,2650,"5218 N Liano Avenue Chicago, IL 60630",799000.0
 3,2,1145,"5653 N Newcastle Avenue Chicago, IL 60631",549000.0
 3,2,2000,"1633 W Estes Avenue 1E Chicago, IL 60626",355000.0
 4,3,2420,"4505 N Harding Avenue Chicago, IL 60625",635000.0
@@ -79,6 +78,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2000,"550 W Wellington Avenue 3E Chicago, IL 60657",875000.0
 2,2,1850,"1439 S MICHIGAN Avenue 103 Chicago, IL 60605",563500.0
 2,2,1350,"130 S CANAL Street 717 Chicago, IL 60606",449500.0
+4,3,2650,"5218 N Liano Avenue Chicago, IL 60630",799000.0
 5,2,1658,"2701 97th Street Evergreen Park, IL 60805",374900.0
 1,1,800,"1727 S Indiana Avenue 225 Chicago, IL 60616",259000.0
 2,1,1100,"4944 N Kimball Avenue 3W Chicago, IL 60625",244900.0
