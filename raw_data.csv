@@ -3,9 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",1,"725
 sq.ft.","1464 S Michigan Avenue , 1108 Chicago, IL 60605","$249,900"
 "3
-beds",2,"1,500
-sq.ft.","35 S Racine Avenue , 5SW Chicago, IL 60607","$725,000"
-"3
 beds",1,"960
 sq.ft.","2321 S 81st Place Chicago, IL 60620","$249,900"
 "2
@@ -14,18 +11,12 @@ sq.ft.","5659 S Oak Park Avenue Chicago, IL 60638","$389,900"
 "3
 beds",1,"1,200
 sq.ft.","5050 S Lavergne Avenue Chicago, IL 60638","$275,000"
-"6
-beds",3,"3,389
-sq.ft.","5706 N New Hampshire Avenue Chicago, IL 60631","$799,000"
-"2
-beds",2,"1,024
-sq.ft.","7964 S Tripp Avenue Chicago, IL 60652","$359,900"
-"3
-beds",2,"1,145
-sq.ft.","5653 N Newcastle Avenue Chicago, IL 60631","$549,000"
 "4
 beds",3,"2,650
 sq.ft.","5218 N Liano Avenue Chicago, IL 60630","$799,000"
+"3
+beds",2,"1,145
+sq.ft.","5653 N Newcastle Avenue Chicago, IL 60631","$549,000"
 "3
 beds",2,"2,000
 sq.ft.","1633 W Estes Avenue 1E Chicago, IL 60626","$355,000"
@@ -38,6 +29,9 @@ sq.ft.","125 E 13th Street 808 Chicago, IL 60605","$590,000"
 "4
 beds",2,"2,530
 sq.ft.","5025 W Superior Street Chicago, IL 60644","$419,900"
+"3
+beds",2,"1,500
+sq.ft.","35 S Racine Avenue , 5SW Chicago, IL 60607","$725,000"
 "2
 beds",2,"1,300
 sq.ft.","1610 W Grand Avenue 2C Chicago, IL 60622","$495,000"
@@ -725,6 +719,12 @@ sq.ft.","5107 S Ingleside Avenue 3 Chicago, IL 60615","$132,800"
 "3
 beds",3,"1,219
 sq.ft.","6619 S Aberdeen Street Chicago, IL 60621","$64,900"
+"6
+beds",3,"3,389
+sq.ft.","5706 N New Hampshire Avenue Chicago, IL 60631","$799,000"
+"2
+beds",2,"1,024
+sq.ft.","7964 S Tripp Avenue Chicago, IL 60652","$359,900"
 "3
 beds",4,"3,400
 sq.ft.","1433 N Oakley Boulevard Chicago, IL 60622","$1,350,000"

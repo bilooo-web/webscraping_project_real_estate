@@ -1,17 +1,15 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",249900.0
-3,2,1500,"35 S Racine Avenue , 5SW Chicago, IL 60607",725000.0
 3,1,960,"2321 S 81st Place Chicago, IL 60620",249900.0
 2,2,1000,"5659 S Oak Park Avenue Chicago, IL 60638",389900.0
 3,1,1200,"5050 S Lavergne Avenue Chicago, IL 60638",275000.0
-6,3,3389,"5706 N New Hampshire Avenue Chicago, IL 60631",799000.0
-2,2,1024,"7964 S Tripp Avenue Chicago, IL 60652",359900.0
-3,2,1145,"5653 N Newcastle Avenue Chicago, IL 60631",549000.0
 4,3,2650,"5218 N Liano Avenue Chicago, IL 60630",799000.0
+3,2,1145,"5653 N Newcastle Avenue Chicago, IL 60631",549000.0
 3,2,2000,"1633 W Estes Avenue 1E Chicago, IL 60626",355000.0
 4,3,2420,"4505 N Harding Avenue Chicago, IL 60625",635000.0
 2,2,1485,"125 E 13th Street 808 Chicago, IL 60605",590000.0
 4,2,2530,"5025 W Superior Street Chicago, IL 60644",419900.0
+3,2,1500,"35 S Racine Avenue , 5SW Chicago, IL 60607",725000.0
 2,2,1300,"1610 W Grand Avenue 2C Chicago, IL 60622",495000.0
 2,1,950,"1224 W Van Buren Street 317 Chicago, IL 60607",294000.0
 2,2,1000,"600 N Dearborn Street 1804 Chicago, IL 60654",375000.0
@@ -209,6 +207,8 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2548,"37 W 114th Street Chicago, IL 60628",135000.0
 1,1,900,"5107 S Ingleside Avenue 3 Chicago, IL 60615",132800.0
 3,3,1219,"6619 S Aberdeen Street Chicago, IL 60621",64900.0
+6,3,3389,"5706 N New Hampshire Avenue Chicago, IL 60631",799000.0
+2,2,1024,"7964 S Tripp Avenue Chicago, IL 60652",359900.0
 4,3,2550,"932 N Monticello Avenue Chicago, IL 60651",669900.0
 3,2,2000,"2253 W Coulter Street 4 Chicago, IL 60608",599000.0
 2,2,1300,"1616 W Montrose Avenue 2E Chicago, IL 60613",499900.0
