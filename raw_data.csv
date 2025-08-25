@@ -1,5 +1,11 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",3,"2,100
+sq.ft.","323 W Schiller Street , 1W Chicago, IL 60610","$599,900"
+"4
+beds",3,"1,800
+sq.ft.","6008 W Dakin Street W Chicago, IL 60634","$429,000"
+"3
 beds",1,"1,208
 sq.ft.","8228 S LaSalle Street Chicago, IL 60620","$250,000"
 "1
@@ -3017,9 +3023,3 @@ sq.ft.","14535 S Parnell Avenue Riverdale, IL 60827","$74,900"
 "3
 beds",1,"1,202
 sq.ft.","13819 S State Street Riverdale, IL 60827","$74,900"
-"3
-beds",2,"2,300
-sq.ft.","3267 S Hamilton Avenue Chicago, IL 60608","$579,000"
-"3
-beds",3,"2,899
-sq.ft.","10511 S Hamlin Avenue Chicago, IL 60655","$489,000"
