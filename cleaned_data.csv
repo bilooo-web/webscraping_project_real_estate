@@ -1,5 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2,2586,"2643 W Pratt Avenue Chicago, IL 60645",649500.0
 3,3,2100,"323 W Schiller Street , 1W Chicago, IL 60610",599900.0
+3,1,1167,"8243 S Wabash Avenue Chicago, IL 60619",150000.0
 4,3,1800,"6008 W Dakin Street W Chicago, IL 60634",429000.0
 3,1,1208,"8228 S LaSalle Street Chicago, IL 60620",250000.0
 1,1,820,"405 N Wabash Avenue 1410 Chicago, IL 60611",319500.0
@@ -63,7 +65,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1323,"7042 S Vernon Avenue Chicago, IL 60637",110000.0
 5,2,1837,"7118 S Morgan Street Chicago, IL 60621",109900.0
 1,1,700,"7337 S South Shore Drive 708 Chicago, IL 60649",72000.0
-3,1,960,"2321 S 81st Place Chicago, IL 60620",249900.0
+3,1,960,"2321 W 81st Place Chicago, IL 60620",249900.0
 3,2,1800,"505 N Lake Shore Drive 5202 Chicago, IL 60611",799995.0
 3,3,2200,"911 W Roscoe Street 1 Chicago, IL 60657",799000.0
 4,3,2650,"5218 N Liano Avenue Chicago, IL 60630",799000.0
@@ -916,5 +918,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1243,"9716 S Union Avenue Chicago, IL 60628",170000.0
 1,1,680,"2323 W Pershing Road 333 Chicago, IL 60609",169000.0
 4,1,1280,"5252 W Ferdinand Street Chicago, IL 60644",150000.0
-2,1,1000,"14535 S Parnell Avenue Riverdale, IL 60827",74900.0
-3,1,1202,"13819 S State Street Riverdale, IL 60827",74900.0

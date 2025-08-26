@@ -1,7 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",2,"2,586
+sq.ft.","2643 W Pratt Avenue Chicago, IL 60645","$649,500"
+"3
 beds",3,"2,100
 sq.ft.","323 W Schiller Street , 1W Chicago, IL 60610","$599,900"
+"3
+beds",1,"1,167
+sq.ft.","8243 S Wabash Avenue Chicago, IL 60619","$150,000"
 "4
 beds",3,"1,800
 sq.ft.","6008 W Dakin Street W Chicago, IL 60634","$429,000"
@@ -214,7 +220,7 @@ beds",1,"700
 sq.ft.","7337 S South Shore Drive 708 Chicago, IL 60649","$72,000"
 "3
 beds",1,"960
-sq.ft.","2321 S 81st Place Chicago, IL 60620","$249,900"
+sq.ft.","2321 W 81st Place Chicago, IL 60620","$249,900"
 "6
 beds",4,"4,100
 sq.ft.","2203 W Huron Avenue Chicago, IL 60622","$1,949,000"
@@ -3017,9 +3023,3 @@ sq.ft.","2323 W Pershing Road 333 Chicago, IL 60609","$169,000"
 "4
 beds",1,"1,280
 sq.ft.","5252 W Ferdinand Street Chicago, IL 60644","$150,000"
-"2
-beds",1,"1,000
-sq.ft.","14535 S Parnell Avenue Riverdale, IL 60827","$74,900"
-"3
-beds",1,"1,202
-sq.ft.","13819 S State Street Riverdale, IL 60827","$74,900"
