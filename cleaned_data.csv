@@ -2,8 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2586,"2643 W Pratt Avenue Chicago, IL 60645",649500.0
 3,3,2100,"323 W Schiller Street , 1W Chicago, IL 60610",599900.0
 3,1,1167,"8243 S Wabash Avenue Chicago, IL 60619",150000.0
-4,3,1800,"6008 W Dakin Street W Chicago, IL 60634",429000.0
-3,1,1208,"8228 S LaSalle Street Chicago, IL 60620",250000.0
 3,2,1401,"6823 S Dorchester Avenue 2 Chicago, IL 60637",219000.0
 1,1,820,"405 N Wabash Avenue 1410 Chicago, IL 60611",319500.0
 3,2,1286,"4317 W Hirsch Street Chicago, IL 60651",334900.0
@@ -44,6 +42,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1380,"208 W Washington Street 1211 Chicago, IL 60606",365000.0
 1,1,723,"400 N La Salle Drive 2409 Chicago, IL 60654",299000.0
 2,2,1217,"9601 S Perry Avenue Chicago, IL 60628",159900.0
+4,3,1800,"6008 W Dakin Street W Chicago, IL 60634",429000.0
 3,2,1676,"6700 N Sioux Avenue Chicago, IL 60646",615000.0
 2,2,1100,"1830 W Huron Street 2 Chicago, IL 60622",489000.0
 2,2,1302,"21 W Chestnut Street 602 Chicago, IL 60610",449000.0
@@ -420,6 +419,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1800,"119 W 110th Street Chicago, IL 60628",279000.0
 3,1,1050,"4857 S Lorel Avenue Chicago, IL 60638",275000.0
 3,1,1258,"3243 W 112th Place Chicago, IL 60655",275000.0
+3,1,1208,"8228 S LaSalle Street Chicago, IL 60620",250000.0
 1,1,800,"1360 N Sandburg Terrace 1910 Chicago, IL 60610",249000.0
 2,2,1100,"7616 W Lawrence Avenue 3A Harwood Heights, IL 60706",233000.0
 3,1,1800,"3234 W Marquette Road Chicago, IL 60629",199900.0
