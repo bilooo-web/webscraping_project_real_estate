@@ -1,7 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
-3,2,2586,"2643 W Pratt Avenue Chicago, IL 60645",649500.0
-3,3,2100,"323 W Schiller Street , 1W Chicago, IL 60610",599900.0
-3,1,1167,"8243 S Wabash Avenue Chicago, IL 60619",150000.0
+1,1,1100,"1632 S Indiana Avenue , 108 Chicago, IL 60616",329995.0
 4,3,1421,"5235 S Washtenaw Avenue Chicago, IL 60632",299999.0
 3,2,1401,"6823 S Dorchester Avenue 2 Chicago, IL 60637",219000.0
 1,1,820,"405 N Wabash Avenue 1410 Chicago, IL 60611",319500.0
@@ -80,6 +78,9 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,850,"2038 W Jarvis Avenue 2D Chicago, IL 60645",127900.0
 4,1,1194,"8717 S Bishop Street Chicago, IL 60620",89000.0
 2,1,950,"9211 S Cottage Grove Avenue 9-C2 Chicago, IL 60619",67500.0
+3,2,2586,"2643 W Pratt Avenue Chicago, IL 60645",649500.0
+3,3,2100,"323 W Schiller Street , 1W Chicago, IL 60610",599900.0
+3,1,1167,"8243 S Wabash Avenue Chicago, IL 60619",150000.0
 4,2,1519,"2109 N 74th Avenue Elmwood Park, IL 60707",460000.0
 2,2,1380,"208 W Washington Street 1211 Chicago, IL 60606",365000.0
 1,1,723,"400 N La Salle Drive 2409 Chicago, IL 60654",299000.0
@@ -463,7 +464,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1434,"6532 S Eberhart Avenue Chicago, IL 60637",94900.0
 4,2,1530,"54 E 137th Place Riverdale, IL 60827",49900.0
 5,2,1600,"116 E 118th Place Chicago, IL 60628",45000.0
-1,1,1100,"1632 S Indiana Avenue , 108 Chicago, IL 60616",329995.0
 2,2,4125,"9809 S Union Avenue S Chicago, IL 60628",282000.0
 3,2,1539,"8152 S Luella Ave Chicago, IL 60617",225000.0
 4,2,3000,"2651 W Augusta Boulevard 1 Chicago, IL 60622",899949.0
@@ -795,7 +795,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1300,"7010 S Paulina Street Chicago, IL 60636",74900.0
 5,2,1382,"11821 S Harvard Avenue Chicago, IL 60628",44900.0
 3,1,945,"13749 S Wabash Avenue Riverdale, IL 60827",36999.0
-3,2,1500,"6558 N Washtenaw Avenue , 2 Chicago, IL 60645",299500.0
+3,2,1500,"6558 N Washtenaw Avenue , 2 Chicago, IL 60645",297000.0
 3,2,2322,"1030 W WRIGHTWOOD Avenue B Chicago, IL 60614",995000.0
 4,2,2767,"5727 S Meade Avenue Chicago, IL 60638",688000.0
 3,2,1500,"2307 W Foster Avenue 2 Chicago, IL 60625",685000.0
