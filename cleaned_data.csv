@@ -1,5 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,1100,"1632 S Indiana Avenue , 108 Chicago, IL 60616",329995.0
+2,2,1500,"701 W Jackson Boulevard , 102 Chicago, IL 60661",450000.0
+2,1,1870,"5725 S Monitor Avenue Chicago, IL 60638",329500.0
 3,3,2110,"6 S Laflin Street 910 Chicago, IL 60607",999000.0
 2,2,1100,"801 S Plymouth Court 602 Chicago, IL 60605",289900.0
 1,1,760,"1000 N Kingsbury Street 304 Chicago, IL 60610",325000.0
@@ -920,5 +922,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,2200,"5532 W Roscoe Street Chicago, IL 60641",575000.0
 3,3,2177,"200 E Pearson Street 2E Chicago, IL 60611",525000.0
 3,2,1227,"1464 W Carmen Avenue 3 Chicago, IL 60640",499000.0
-3,2,1600,"4730 S Champlain Avenue 3 Chicago, IL 60615",464000.0
-2,1,1530,"801 S Wells Street 710 Chicago, IL 60607",370000.0
