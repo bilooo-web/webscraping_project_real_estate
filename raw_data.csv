@@ -1,16 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"1
-beds",1,"1,100
-sq.ft.","1632 S Indiana Avenue , 108 Chicago, IL 60616","$329,995"
-"4
-beds",3,"1,421
-sq.ft.","5235 S Washtenaw Avenue Chicago, IL 60632","$299,999"
 "3
 beds",2,"1,401
 sq.ft.","6823 S Dorchester Avenue 2 Chicago, IL 60637","$219,000"
 "1
 beds",1,"820
 sq.ft.","405 N Wabash Avenue 1410 Chicago, IL 60611","$319,500"
+"4
+beds",3,"1,421
+sq.ft.","5235 S Washtenaw Avenue Chicago, IL 60632","$299,999"
 "3
 beds",2,"1,286
 sq.ft.","4317 W Hirsch Street Chicago, IL 60651","$334,900"
@@ -1544,6 +1541,9 @@ sq.ft.","54 E 137th Place Riverdale, IL 60827","$49,900"
 "5
 beds",2,"1,600
 sq.ft.","116 E 118th Place Chicago, IL 60628","$45,000"
+"1
+beds",1,"1,100
+sq.ft.","1632 S Indiana Avenue , 108 Chicago, IL 60616","$329,995"
 "2
 beds",2,"4,125
 sq.ft.","9809 S Union Avenue S Chicago, IL 60628","$282,000"
@@ -2614,7 +2614,7 @@ beds",1,"945
 sq.ft.","13749 S Wabash Avenue Riverdale, IL 60827","$36,999"
 "3
 beds",2,"1,500
-sq.ft.","6558 N Washtenaw Avenue , 2 Chicago, IL 60645","$297,000"
+sq.ft.","6558 N Washtenaw Avenue , 2 Chicago, IL 60645","$299,500"
 "3
 beds",2,"1,638
 sq.ft.","211 N Harbor Drive 1502 Chicago, IL 60601","$1,475,000"
