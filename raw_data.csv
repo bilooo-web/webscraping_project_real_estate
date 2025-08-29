@@ -2,18 +2,12 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "1
 beds",1,"1,100
 sq.ft.","1632 S Indiana Avenue , 108 Chicago, IL 60616","$329,995"
-"3
-beds",4,"4,000
-sq.ft.","1639 S Blue Island Avenue Chicago, IL 60608","$699,999"
 "2
 beds",2,"1,500
 sq.ft.","701 W Jackson Boulevard , 102 Chicago, IL 60661","$450,000"
 "2
 beds",1,"1,870
 sq.ft.","5725 S Monitor Avenue Chicago, IL 60638","$329,500"
-"3
-beds",3,"2,110
-sq.ft.","6 S Laflin Street 910 Chicago, IL 60607","$999,000"
 "2
 beds",2,"1,100
 sq.ft.","801 S Plymouth Court 602 Chicago, IL 60605","$289,900"
@@ -29,6 +23,9 @@ sq.ft.","405 N Wabash Avenue 1410 Chicago, IL 60611","$319,500"
 "4
 beds",3,"1,421
 sq.ft.","5235 S Washtenaw Avenue Chicago, IL 60632","$299,999"
+"3
+beds",3,"2,110
+sq.ft.","6 S Laflin Street 910 Chicago, IL 60607","$999,000"
 "3
 beds",2,"1,286
 sq.ft.","4317 W Hirsch Street Chicago, IL 60651","$334,900"
@@ -3023,3 +3020,6 @@ sq.ft.","5532 W Roscoe Street Chicago, IL 60641","$575,000"
 "3
 beds",3,"2,177
 sq.ft.","200 E Pearson Street 2E Chicago, IL 60611","$525,000"
+"3
+beds",2,"1,227
+sq.ft.","1464 W Carmen Avenue 3 Chicago, IL 60640","$499,000"

@@ -1,14 +1,13 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,1100,"1632 S Indiana Avenue , 108 Chicago, IL 60616",329995.0
-3,4,4000,"1639 S Blue Island Avenue Chicago, IL 60608",699999.0
 2,2,1500,"701 W Jackson Boulevard , 102 Chicago, IL 60661",450000.0
 2,1,1870,"5725 S Monitor Avenue Chicago, IL 60638",329500.0
-3,3,2110,"6 S Laflin Street 910 Chicago, IL 60607",999000.0
 2,2,1100,"801 S Plymouth Court 602 Chicago, IL 60605",289900.0
 1,1,760,"1000 N Kingsbury Street 304 Chicago, IL 60610",325000.0
 3,2,1401,"6823 S Dorchester Avenue 2 Chicago, IL 60637",219000.0
 1,1,820,"405 N Wabash Avenue 1410 Chicago, IL 60611",319500.0
 4,3,1421,"5235 S Washtenaw Avenue Chicago, IL 60632",299999.0
+3,3,2110,"6 S Laflin Street 910 Chicago, IL 60607",999000.0
 3,2,1286,"4317 W Hirsch Street Chicago, IL 60651",334900.0
 1,1,774,"3739 N Pulaski Road GN Chicago, IL 60641",179999.0
 1,1,900,"600 N Fairbanks Court 2403 Chicago, IL 60611",440000.0
@@ -922,3 +921,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1850,"401 E ONTARIO Street 4006 Chicago, IL 60611",590000.0
 4,3,2200,"5532 W Roscoe Street Chicago, IL 60641",575000.0
 3,3,2177,"200 E Pearson Street 2E Chicago, IL 60611",525000.0
+3,2,1227,"1464 W Carmen Avenue 3 Chicago, IL 60640",499000.0
