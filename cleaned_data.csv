@@ -1,17 +1,12 @@
 bedrooms,bathrooms,square_footage,address,price
-3,1,1040,"12901 S Carondolet Avenue Chicago, IL 60633",214900.0
 3,4,4000,"1639 S Blue Island Avenue Chicago, IL 60608",699999.0
 2,2,1500,"701 W Jackson Boulevard , 102 Chicago, IL 60661",450000.0
 2,1,1870,"5725 S Monitor Avenue Chicago, IL 60638",329500.0
 1,1,670,"1225 W Lunt Avenue , 2B Chicago, IL 60626",170000.0
-2,2,1100,"801 S Plymouth Court 602 Chicago, IL 60605",289900.0
-2,2,1400,"4641 N Magnolia Avenue 3S Chicago, IL 60640",545000.0
-1,1,760,"1000 N Kingsbury Street 304 Chicago, IL 60610",325000.0
-3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",459900.0
-3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
 3,2,1401,"6823 S Dorchester Avenue 2 Chicago, IL 60637",219000.0
 2,2,1300,"817 W Washington Boulevard 503 Chicago, IL 60607",650000.0
 1,1,820,"405 N Wabash Avenue 1410 Chicago, IL 60611",319500.0
+2,2,1400,"4641 N Magnolia Avenue 3S Chicago, IL 60640",545000.0
 4,3,1421,"5235 S Washtenaw Avenue Chicago, IL 60632",299999.0
 3,3,2110,"6 S Laflin Street 910 Chicago, IL 60607",999000.0
 2,2,1250,"3508 N Reta Avenue 201 Chicago, IL 60657",614990.0
@@ -63,6 +58,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1240,"1645 W Ogden Avenue 516 Chicago, IL 60612",327000.0
 2,2,1027,"2025 S Indiana Avenue 503 Chicago, IL 60616",414000.0
 4,3,2500,"4530 S Woodlawn Avenue 101 Chicago, IL 60653",505000.0
+1,1,760,"1000 N Kingsbury Street 304 Chicago, IL 60610",325000.0
 3,2,1825,"1914 N Sheffield Avenue 1 Chicago, IL 60614",699000.0
 4,1,969,"11326 S Homewood Avenue Chicago, IL 60643",195000.0
 3,2,1317,"9638 S Francisco Avenue Evergreen Park, IL 60805",399999.0
@@ -90,6 +86,8 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,2914,"9556 S Winchester Avenue Chicago, IL 60643",879900.0
 4,4,2769,"1726 W 106th Street Chicago, IL 60643",659900.0
 2,2,1070,"1901 S CALUMET Avenue 2712 Chicago, IL 60616",415000.0
+3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",459900.0
+3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
 3,3,2000,"400 E Ohio Street 3203 Chicago, IL 60611",749900.0
 2,2,1401,"3244 N Kilbourn Avenue 3 Chicago, IL 60641",384900.0
 3,3,3500,"10649 S Sawyer Avenue Chicago, IL 60655",815000.0
@@ -133,6 +131,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1733,"6416 S Karlov Avenue Chicago, IL 60629",350000.0
 2,1,1200,"5417 W Dakin Street Chicago, IL 60641",339900.0
 1,1,784,"2020 N Lincoln Park West Street 3H Chicago, IL 60614",315000.0
+2,2,1100,"801 S Plymouth Court 602 Chicago, IL 60605",289900.0
 3,2,1500,"5408 S Michigan Avenue 1S Chicago, IL 60615",280000.0
 3,3,1350,"8743 S Kingston Avenue Chicago, IL 60617",279900.0
 3,2,1040,"Chicago, IL 60643",274900.0
@@ -922,3 +921,4 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1400,"11532 S HARVARD Avenue Chicago, IL 60628",49900.0
 3,2,1350,"910 N Lake Shore Drive , 1620 Chicago, IL 60611",649000.0
 2,1,1377,"6030 N Winchester Avenue , C Chicago, IL 60660",359000.0
+3,2,1280,"8409 S Brandon Avenue Chicago, IL 60617",239900.0
