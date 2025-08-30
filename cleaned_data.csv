@@ -1,10 +1,9 @@
 bedrooms,bathrooms,square_footage,address,price
-1,1,1100,"1632 S Indiana Avenue , 108 Chicago, IL 60616",329995.0
+3,1,1040,"12901 S Carondolet Avenue Chicago, IL 60633",214900.0
 3,4,4000,"1639 S Blue Island Avenue Chicago, IL 60608",699999.0
 2,2,1500,"701 W Jackson Boulevard , 102 Chicago, IL 60661",450000.0
 2,1,1870,"5725 S Monitor Avenue Chicago, IL 60638",329500.0
 1,1,670,"1225 W Lunt Avenue , 2B Chicago, IL 60626",170000.0
-4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",525000.0
 2,2,1100,"801 S Plymouth Court 602 Chicago, IL 60605",289900.0
 2,2,1400,"4641 N Magnolia Avenue 3S Chicago, IL 60640",545000.0
 1,1,760,"1000 N Kingsbury Street 304 Chicago, IL 60610",325000.0
@@ -44,10 +43,12 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1758,"130 N Garland Court 3803 Chicago, IL 60602",999000.0
 3,2,1803,"505 N Mcclurg Court 1903 Chicago, IL 60611",900000.0
 1,1,809,"130 N Garland Court 2608 Chicago, IL 60602",344900.0
+1,1,1100,"1632 S Indiana Avenue , 108 Chicago, IL 60616",329995.0
 2,2,2020,"720 S Dearborn Street PH-1 Chicago, IL 60605",700000.0
 2,1,800,"3619 N Wilton Avenue 3 Chicago, IL 60613",434900.0
 3,2,2200,"1013 W WEBSTER Avenue 5 Chicago, IL 60614",799900.0
 4,3,3524,"6067 N OCONTO Avenue Chicago, IL 60631",799999.0
+4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",525000.0
 1,1,990,"1421 W Birchwood Avenue 3E Chicago, IL 60626",175000.0
 3,2,924,"2917 N Rutherford Avenue Chicago, IL 60634",299900.0
 3,2,1500,"1444 N Orleans Street 7A Chicago, IL 60610",590000.0
@@ -921,4 +922,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1400,"11532 S HARVARD Avenue Chicago, IL 60628",49900.0
 3,2,1350,"910 N Lake Shore Drive , 1620 Chicago, IL 60611",649000.0
 2,1,1377,"6030 N Winchester Avenue , C Chicago, IL 60660",359000.0
-3,2,1280,"8409 S Brandon Avenue Chicago, IL 60617",239900.0

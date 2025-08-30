@@ -1,7 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"1
-beds",1,"1,100
-sq.ft.","1632 S Indiana Avenue , 108 Chicago, IL 60616","$329,995"
+"3
+beds",1,"1,040
+sq.ft.","12901 S Carondolet Avenue Chicago, IL 60633","$214,900"
 "3
 beds",4,"4,000
 sq.ft.","1639 S Blue Island Avenue Chicago, IL 60608","$699,999"
@@ -14,9 +14,6 @@ sq.ft.","5725 S Monitor Avenue Chicago, IL 60638","$329,500"
 "1
 beds",1,"670
 sq.ft.","1225 W Lunt Avenue , 2B Chicago, IL 60626","$170,000"
-"4
-beds",4,"3,200
-sq.ft.","7650 S Cregier Avenue Chicago, IL 60649","$525,000"
 "2
 beds",2,"1,100
 sq.ft.","801 S Plymouth Court 602 Chicago, IL 60605","$289,900"
@@ -161,6 +158,9 @@ sq.ft.","505 N Mcclurg Court 1903 Chicago, IL 60611","$900,000"
 "1
 beds",1,"809
 sq.ft.","130 N Garland Court 2608 Chicago, IL 60602","$344,900"
+"1
+beds",1,"1,100
+sq.ft.","1632 S Indiana Avenue , 108 Chicago, IL 60616","$329,995"
 "2
 beds",2,"2,020
 sq.ft.","720 S Dearborn Street PH-1 Chicago, IL 60605","$700,000"
@@ -173,6 +173,9 @@ sq.ft.","1013 W WEBSTER Avenue 5 Chicago, IL 60614","$799,900"
 "4
 beds",3,"3,524
 sq.ft.","6067 N OCONTO Avenue Chicago, IL 60631","$799,999"
+"4
+beds",4,"3,200
+sq.ft.","7650 S Cregier Avenue Chicago, IL 60649","$525,000"
 "1
 beds",1,"990
 sq.ft.","1421 W Birchwood Avenue 3E Chicago, IL 60626","$175,000"
@@ -3020,6 +3023,3 @@ sq.ft.","910 N Lake Shore Drive , 1620 Chicago, IL 60611","$649,000"
 "2
 beds",1,"1,377
 sq.ft.","6030 N Winchester Avenue , C Chicago, IL 60660","$359,000"
-"3
-beds",2,"1,280
-sq.ft.","8409 S Brandon Avenue Chicago, IL 60617","$239,900"
