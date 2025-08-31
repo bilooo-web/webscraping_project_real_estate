@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2,1412,"13912 S Manistee Avenue Burnham, IL 60633",269000.0
 3,1,1040,"12901 S Carondolet Avenue Chicago, IL 60633",214900.0
-4,2,2500,"10009 S Spaulding Avenue Evergreen Park, IL 60805",429900.0
 3,2,1650,"5328 W George Street Chicago, IL 60641",433000.0
 4,3,2150,"4853 W Hutchinson Street Chicago, IL 60641",625000.0
 3,2,1500,"6620 N Ashland Avenue 1 Chicago, IL 60626",339000.0
@@ -14,6 +13,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1132,"1924 W DIVERSEY Parkway 3E Chicago, IL 60614",600000.0
 3,2,1416,"5043 S Artesian Avenue Chicago, IL 60632",160000.0
 4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",525000.0
+4,2,2500,"10009 S Spaulding Avenue Evergreen Park, IL 60805",429900.0
 3,2,1733,"6416 S Karlov Avenue Chicago, IL 60629",350000.0
 1,1,800,"921 N Campbell Avenue 4N Chicago, IL 60622",249000.0
 2,3,2944,"1123 W 19th Street Chicago, IL 60608",724999.0
