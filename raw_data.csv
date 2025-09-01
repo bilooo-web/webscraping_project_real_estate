@@ -1,8 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",2,"1,048
-sq.ft.","7709 S Champlain Avenue Chicago, IL 60619","$244,900"
-"3
 beds",3,"2,300
 sq.ft.","2754 N Paulina Street Chicago, IL 60614","$824,999"
 "3
@@ -3023,3 +3020,6 @@ sq.ft.","10211 S Artesian Avenue Chicago, IL 60655","$300,000"
 "4
 beds",2,"2,094
 sq.ft.","12136 S Wentworth Avenue Chicago, IL 60628","$299,900"
+"4
+beds",2,"1,825
+sq.ft.","8245 S Justine Street Chicago, IL 60620","$299,800"
