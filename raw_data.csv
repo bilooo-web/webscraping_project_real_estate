@@ -1,4 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"1,400
+sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$499,900"
+"2
+beds",2,"1,450
+sq.ft.","4250 N Marine Drive , 801 Chicago, IL 60613","$279,000"
 "4
 beds",2,"3,125
 sq.ft.","5742 S Marshfield Avenue Chicago, IL 60636","$156,500"
@@ -3017,9 +3023,3 @@ sq.ft.","13749 S Wabash Avenue Riverdale, IL 60827","$36,999"
 "3
 beds",2,"1,500
 sq.ft.","6558 N Washtenaw Avenue , 2 Chicago, IL 60645","$297,000"
-"3
-beds",2,"1,638
-sq.ft.","211 N Harbor Drive 1502 Chicago, IL 60601","$1,475,000"
-"3
-beds",2,"2,322
-sq.ft.","1030 W WRIGHTWOOD Avenue B Chicago, IL 60614","$995,000"
