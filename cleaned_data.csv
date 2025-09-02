@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-3,3,2300,"2754 N Paulina Street Chicago, IL 60614",824999.0
 3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",459900.0
 3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
 4,3,3500,"1015 E 43rd Street Chicago, IL 60653",799500.0
@@ -919,3 +918,4 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1411,"2310 S Canal Street 401 Chicago, IL 60616",390000.0
 2,2,1150,"2933 N Clybourn Avenue 204 Chicago, IL 60618",385000.0
 3,2,1146,"9805 S Utica Avenue Evergreen Park, IL 60805",350000.0
+4,1,1938,"9242 S Constance Avenue Chicago, IL 60617",339000.0

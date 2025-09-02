@@ -1,8 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",3,"2,300
-sq.ft.","2754 N Paulina Street Chicago, IL 60614","$824,999"
-"3
 beds",2,"3,485
 sq.ft.","1919 S Prairie Avenue 3 Chicago, IL 60616","$1,799,000"
 "3
@@ -3023,3 +3020,6 @@ sq.ft.","2933 N Clybourn Avenue 204 Chicago, IL 60618","$385,000"
 "3
 beds",2,"1,146
 sq.ft.","9805 S Utica Avenue Evergreen Park, IL 60805","$350,000"
+"4
+beds",1,"1,938
+sq.ft.","9242 S Constance Avenue Chicago, IL 60617","$339,000"
