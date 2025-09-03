@@ -6,6 +6,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,2400,"7943 S Bennett Avenue Chicago, IL 60617",359000.0
 2,2,1175,"1550 W Cornelia Avenue 403 Chicago, IL 60657",475000.0
 3,2,2000,"1813 S Clark Street K41 Chicago, IL 60616",499900.0
+1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",249900.0
 3,1,1104,"6206 S Nashville Avenue Chicago, IL 60638",320000.0
 2,2,1600,"5733 N Sheridan Road 27C Chicago, IL 60660",475000.0
 5,2,2243,"64 E 102ND Place Chicago, IL 60628",279900.0
@@ -427,7 +428,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,804,"8421 S Escanaba Avenue Chicago, IL 60617",38500.0
 2,2,1000,"5659 S Oak Park Avenue Chicago, IL 60638",389900.0
 3,1,1200,"5050 S Lavergne Avenue Chicago, IL 60638",275000.0
-1,1,725,"1464 S Michigan Avenue , 1108 Chicago, IL 60605",249900.0
 2,2,1384,"211 N Harbor Drive 906 Chicago, IL 60601",995000.0
 2,2,1251,"211 N Harbor Drive 1304 Chicago, IL 60601",990000.0
 3,2,2406,"60 W Erie Street 502 Chicago, IL 60654",799000.0
