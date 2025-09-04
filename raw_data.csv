@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"1,000
+sq.ft.","2615 S Emerald Avenue , 1F Chicago, IL 60616","$209,000"
 "4
 beds",3,"2,100
 sq.ft.","4343 S Ellis Ave Chicago, IL 60653","$725,000"
@@ -107,6 +110,9 @@ sq.ft.","1512 S Halsted Street Chicago, IL 60607","$599,000"
 "4
 beds",3,"2,400
 sq.ft.","11173 S Hermosa Avenue Chicago, IL 60643","$450,000"
+"1
+beds",1,"1,100
+sq.ft.","1632 S Indiana Avenue , 108 Chicago, IL 60616","$329,995"
 "4
 beds",3,"1,421
 sq.ft.","5235 S Washtenaw Avenue Chicago, IL 60632","$290,000"
@@ -1103,9 +1109,6 @@ sq.ft.","5624 S ELIZABETH Street Chicago, IL 60636","$50,000"
 "3
 beds",1,"748
 sq.ft.","106 W 114th Street Chicago, IL 60628","$49,900"
-"1
-beds",1,"1,100
-sq.ft.","1632 S Indiana Avenue , 108 Chicago, IL 60616","$329,995"
 "4
 beds",3,"2,563
 sq.ft.","917 W Altgeld Street 1 Chicago, IL 60614","$1,085,000"
@@ -3020,6 +3023,3 @@ sq.ft.","1419 N State Parkway 501 Chicago, IL 60610","$240,000"
 "2
 beds",1,"1,200
 sq.ft.","7611 W Altgeld Street 2N Elmwood Park, IL 60707","$234,900"
-"2
-beds",1,"1,200
-sq.ft.","6855 N Northwest Highway 2C Chicago, IL 60631","$219,900"

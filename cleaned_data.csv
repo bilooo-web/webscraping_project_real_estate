@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+1,1,1000,"2615 S Emerald Avenue , 1F Chicago, IL 60616",209000.0
 4,3,2100,"4343 S Ellis Ave Chicago, IL 60653",725000.0
 3,2,1400,"1333 N Burling Street , B Chicago, IL 60610",499900.0
 2,2,1450,"4250 N Marine Drive , 801 Chicago, IL 60613",279000.0
@@ -26,6 +27,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1500,"73 E Elm Street 4B Chicago, IL 60611",670000.0
 2,2,2100,"1512 S Halsted Street Chicago, IL 60607",599000.0
 4,3,2400,"11173 S Hermosa Avenue Chicago, IL 60643",450000.0
+1,1,1100,"1632 S Indiana Avenue , 108 Chicago, IL 60616",329995.0
 4,3,1421,"5235 S Washtenaw Avenue Chicago, IL 60632",290000.0
 4,3,3500,"1015 E 43rd Street Chicago, IL 60653",799500.0
 3,2,2000,"2413 W Fullerton Avenue 3 Chicago, IL 60647",665000.0
@@ -325,7 +327,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1144,"254 E 92nd Street 1 Chicago, IL 60619",119900.0
 4,1,1667,"5624 S ELIZABETH Street Chicago, IL 60636",50000.0
 3,1,748,"106 W 114th Street Chicago, IL 60628",49900.0
-1,1,1100,"1632 S Indiana Avenue , 108 Chicago, IL 60616",329995.0
 2,2,1251,"211 N Harbor Drive 1504 Chicago, IL 60601",1000000.0
 4,2,3000,"1255 N Sandburg Terrace 2912 Chicago, IL 60610",899999.0
 4,3,3888,"2123 N Austin Avenue Chicago, IL 60639",749000.0
@@ -913,4 +914,3 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,750,"1910 S State Street 227 Chicago, IL 60616",250000.0
 1,1,800,"1419 N State Parkway 501 Chicago, IL 60610",240000.0
 2,1,1200,"7611 W Altgeld Street 2N Elmwood Park, IL 60707",234900.0
-2,1,1200,"6855 N Northwest Highway 2C Chicago, IL 60631",219900.0
