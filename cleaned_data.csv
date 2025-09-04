@@ -1,7 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
+4,3,2100,"4343 S Ellis Ave Chicago, IL 60653",725000.0
 3,2,1400,"1333 N Burling Street , B Chicago, IL 60610",499900.0
 2,2,1450,"4250 N Marine Drive , 801 Chicago, IL 60613",279000.0
-4,2,3125,"5742 S Marshfield Avenue Chicago, IL 60636",156500.0
 3,4,2815,"324 E 17th Street Chicago, IL 60616",879000.0
 4,3,2400,"7943 S Bennett Avenue Chicago, IL 60617",359000.0
 2,2,1175,"1550 W Cornelia Avenue 403 Chicago, IL 60657",475000.0
@@ -106,6 +106,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1037,"827 E 48th Street C Chicago, IL 60615",215000.0
 3,3,1743,"6037 S Racine Avenue Chicago, IL 60636",150000.0
 3,1,1442,"7959 S Coles Avenue Chicago, IL 60617",102500.0
+4,2,3125,"5742 S Marshfield Avenue Chicago, IL 60636",156500.0
 4,3,3298,"Chicago, IL 60629",395000.0
 3,3,1424,"8738 S TROY Avenue Evergreen Park, IL 60805",389000.0
 3,2,1038,"11038 S Lawndale Avenue Chicago, IL 60655",379000.0
@@ -167,6 +168,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,814,"6325 N Sheridan Road 608 Chicago, IL 60660",174900.0
 3,2,1256,"8137 S Loomis Boulevard Chicago, IL 60620",160000.0
 3,2,1200,"508 E 87th Street Chicago, IL 60619",139900.0
+5,2,2712,"1320 N Homan Ave Chicago, IL 60651",299900.0
 3,2,1412,"13912 S Manistee Avenue Burnham, IL 60633",269000.0
 3,1,1040,"12901 S Carondolet Avenue Chicago, IL 60633",214900.0
 4,3,2914,"9556 S Winchester Avenue Chicago, IL 60643",879900.0
@@ -912,5 +914,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1080,"4425 N Canfield Avenue Norridge, IL 60706",469000.0
 2,1,1300,"1411 N WELLS Street 3W Chicago, IL 60610",450000.0
 2,2,1140,"195 N Harbor Drive 3009 Chicago, IL 60601",449991.0
-2,2,1312,"125 E 13th Street 1013 Chicago, IL 60605",445000.0
-2,2,1250,"1250 N Dearborn Street 10B Chicago, IL 60610",440000.0
