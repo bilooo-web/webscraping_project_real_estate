@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-4,3,2100,"4343 S Ellis Ave Chicago, IL 60653",725000.0
 3,2,1400,"1333 N Burling Street , B Chicago, IL 60610",499900.0
 2,2,1450,"4250 N Marine Drive , 801 Chicago, IL 60613",279000.0
 3,4,2815,"324 E 17th Street Chicago, IL 60616",879000.0
@@ -914,3 +913,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1080,"4425 N Canfield Avenue Norridge, IL 60706",469000.0
 2,1,1300,"1411 N WELLS Street 3W Chicago, IL 60610",450000.0
 2,2,1140,"195 N Harbor Drive 3009 Chicago, IL 60601",449991.0
+2,2,1312,"125 E 13th Street 1013 Chicago, IL 60605",445000.0
