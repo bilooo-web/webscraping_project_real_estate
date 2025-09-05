@@ -1,8 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,1000,"2615 S Emerald Avenue , 1F Chicago, IL 60616",209000.0
 4,3,2100,"4343 S Ellis Ave Chicago, IL 60653",725000.0
-3,2,1400,"1333 N Burling Street , B Chicago, IL 60610",499900.0
-2,2,1450,"4250 N Marine Drive , 801 Chicago, IL 60613",279000.0
 3,4,2815,"324 E 17th Street Chicago, IL 60616",879000.0
 4,2,2400,"7943 S Bennett Avenue Chicago, IL 60617",359000.0
 2,2,1175,"1550 W Cornelia Avenue 403 Chicago, IL 60657",475000.0
@@ -169,6 +167,8 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1300,"6953 S Loomis Boulevard Chicago, IL 60636",133000.0
 2,1,900,"10 W 140th Court Riverdale, IL 60827",90000.0
 3,1,1200,"10104 S Eggleston Avenue Chicago, IL 60628",79000.0
+3,2,1400,"1333 N Burling Street , B Chicago, IL 60610",499900.0
+2,2,1450,"4250 N Marine Drive , 801 Chicago, IL 60613",279000.0
 4,3,2000,"2147 W Adams Street 1N Chicago, IL 60612",650000.0
 2,2,1749,"6505 N Ponchartrain Boulevard Chicago, IL 60646",582000.0
 2,2,1500,"880 N Lake Shore Drive 25EF Chicago, IL 60611",515000.0
