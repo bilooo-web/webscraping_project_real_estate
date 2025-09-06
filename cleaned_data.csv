@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 4,2,1456,"8633 S Hermitage Avenue Chicago, IL 60620",299900.0
 1,1,1000,"2615 S Emerald Avenue , 1F Chicago, IL 60616",209000.0
-4,3,2100,"4343 S Ellis Ave Chicago, IL 60653",725000.0
 3,2,2000,"920 W Barry Avenue 5 Chicago, IL 60657",875000.0
 3,2,2500,"1555 W Fry Street 102 Chicago, IL 60642",879000.0
 4,2,2400,"7943 S Bennett Avenue Chicago, IL 60617",359000.0
@@ -14,6 +13,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1600,"5733 N Sheridan Road 27C Chicago, IL 60660",475000.0
 2,2,1400,"4641 N Magnolia Avenue 3S Chicago, IL 60640",545000.0
 3,2,1550,"211 N Harbor Drive 1609 Chicago, IL 60601",1050000.0
+3,2,1500,"35 S Racine Avenue , 5SW Chicago, IL 60607",725000.0
 2,2,1500,"3844 N Ashland Avenue 21 Chicago, IL 60613",575000.0
 5,2,2243,"64 E 102ND Place Chicago, IL 60628",279900.0
 6,3,1584,"3722 S Wabash Avenue Chicago, IL 60653",419000.0
@@ -257,6 +257,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1434,"6532 S Eberhart Avenue Chicago, IL 60637",79900.0
 2,2,651,"6431 S Racine Avenue Chicago, IL 60636",68000.0
 5,1,1000,"341 W 105th Place Chicago, IL 60628",59900.0
+4,3,2100,"4343 S Ellis Ave Chicago, IL 60653",725000.0
 1,1,1800,"840 N Lake Shore Drive 302 Chicago, IL 60611",975000.0
 4,3,2700,"2722 N Southport Avenue A Chicago, IL 60614",950000.0
 3,3,2082,"2 E Erie Street 1605 Chicago, IL 60611",825000.0
@@ -668,7 +669,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1200,"3158 W 88th Street W 103 Evergreen Park, IL 60805",91600.0
 3,3,1219,"6619 S Aberdeen Street Chicago, IL 60621",63900.0
 6,3,3389,"5706 N New Hampshire Avenue Chicago, IL 60631",799000.0
-3,2,1500,"35 S Racine Avenue , 5SW Chicago, IL 60607",725000.0
 2,2,1024,"7964 S Tripp Avenue Chicago, IL 60652",359900.0
 3,3,3320,"3721 W Wabansia Avenue Chicago, IL 60647",1050000.0
 3,2,2000,"550 W Wellington Avenue 3E Chicago, IL 60657",875000.0
