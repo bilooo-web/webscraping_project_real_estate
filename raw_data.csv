@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",1,"960
+sq.ft.","2321 W 81st Place Chicago, IL 60620","$245,000"
 "1
 beds",1,"900
 sq.ft.","41 E 8th Street , 1404 Chicago, IL 60605","$287,900"
@@ -3020,6 +3023,3 @@ sq.ft.","11543 S Kildare Avenue Alsip, IL 60803","$359,000"
 "2
 beds",1,"1,200
 sq.ft.","2675 W Grand Avenue 302 Chicago, IL 60612","$349,900"
-"4
-beds",2,"1,394
-sq.ft.","930 N Central Park Avenue Chicago, IL 60651","$319,900"

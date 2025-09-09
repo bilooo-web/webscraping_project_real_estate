@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,1,960,"2321 W 81st Place Chicago, IL 60620",245000.0
 1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",287900.0
 3,3,1800,"7825 S Ingleside Avenue Chicago, IL 60619",265000.0
 3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",449750.0
@@ -909,4 +910,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1100,"33 W Delaware Place 21A Chicago, IL 60610",399000.0
 3,2,1900,"11543 S Kildare Avenue Alsip, IL 60803",359000.0
 2,1,1200,"2675 W Grand Avenue 302 Chicago, IL 60612",349900.0
-4,2,1394,"930 N Central Park Avenue Chicago, IL 60651",319900.0
