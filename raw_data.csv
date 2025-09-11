@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",2,"1,604
+sq.ft.","6504 N Whipple Street Chicago, IL 60645","$489,000"
+"3
 beds",1,"960
 sq.ft.","2321 W 81st Place Chicago, IL 60620","$245,000"
 "3
@@ -3020,6 +3023,3 @@ sq.ft.","2031 W Hutchinson Street Chicago, IL 60618","$1,999,000"
 "4
 beds",3,"4,200
 sq.ft.","2149 W Huron Street Chicago, IL 60612","$1,399,000"
-"1
-beds",1,"1,440
-sq.ft.","435 N Michigan Avenue 416 Chicago, IL 60611","$1,260,000"
