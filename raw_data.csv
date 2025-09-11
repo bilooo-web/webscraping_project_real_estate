@@ -1,19 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",2,"1,604
-sq.ft.","6504 N Whipple Street Chicago, IL 60645","$489,000"
-"3
 beds",1,"960
 sq.ft.","2321 W 81st Place Chicago, IL 60620","$245,000"
-"3
-beds",3,"1,800
-sq.ft.","7825 S Ingleside Avenue Chicago, IL 60619","$265,000"
-"3
-beds",2,"1,300
-sq.ft.","1538 W 21st Street 3A Chicago, IL 60608","$449,750"
-"5
-beds",3,"2,000
-sq.ft.","15 E 118th Street Chicago, IL 60628","$219,000"
 "3
 beds",2,"1,400
 sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$499,900"
@@ -167,6 +155,9 @@ sq.ft.","4537 S Drexel Boulevard 706 Chicago, IL 60653","$230,000"
 "2
 beds",2,"1,150
 sq.ft.","2933 N Clybourn Avenue 204 Chicago, IL 60618","$385,000"
+"3
+beds",2,"1,300
+sq.ft.","1538 W 21st Street 3A Chicago, IL 60608","$449,750"
 "3
 beds",1,"1,250
 sq.ft.","9258 S Albany Avenue Evergreen Park, IL 60805","$325,000"
@@ -389,6 +380,9 @@ sq.ft.","5208 S Ingleside Avenue 3S Chicago, IL 60615","$265,000"
 "3
 beds",2,"1,864
 sq.ft.","62 E 144th Street Riverdale, IL 60827","$229,900"
+"5
+beds",3,"2,000
+sq.ft.","15 E 118th Street Chicago, IL 60628","$219,000"
 "2
 beds",1,"900
 sq.ft.","3950 N Lake Shore Drive 2209 Chicago, IL 60613","$216,900"
@@ -1238,6 +1232,9 @@ sq.ft.","474 N Lake Shore Drive 2904 Chicago, IL 60611","$272,900"
 "1
 beds",1,"900
 sq.ft.","405 N WABASH Avenue 2314 Chicago, IL 60611","$265,000"
+"3
+beds",3,"1,800
+sq.ft.","7825 S Ingleside Avenue Chicago, IL 60619","$265,000"
 "1
 beds",1,"800
 sq.ft.","401 E Ontario Street 1703 Chicago, IL 60611","$259,900"
@@ -3023,3 +3020,6 @@ sq.ft.","2031 W Hutchinson Street Chicago, IL 60618","$1,999,000"
 "4
 beds",3,"4,200
 sq.ft.","2149 W Huron Street Chicago, IL 60612","$1,399,000"
+"1
+beds",1,"1,440
+sq.ft.","435 N Michigan Avenue 416 Chicago, IL 60611","$1,260,000"
