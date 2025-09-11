@@ -2,6 +2,8 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,3000,"6547 S Langley Avenue Chicago, IL 60637",625800.0
 3,2,1604,"6504 N Whipple Street Chicago, IL 60645",489000.0
 3,1,960,"2321 W 81st Place Chicago, IL 60620",245000.0
+3,1,1470,"6142 S Honore St Chicago, IL 60636",225000.0
+4,3,916,"7726 S Langley Ave Chicago, IL 60619",99000.0
 3,2,1400,"1333 N Burling Street , B Chicago, IL 60610",499900.0
 3,3,2050,"1700 E 56th Street 3609-3610 Chicago, IL 60637",460000.0
 2,2,1556,"2161 N CALIFORNIA Avenue 105 Chicago, IL 60647",575000.0
@@ -901,5 +903,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,1902,"5029 W Superior Street Chicago, IL 60644",364000.0
 3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
 2,1,1100,"661 W Division Street B Chicago, IL 60610",350000.0
-3,2,2454,"8258 S Rhodes Avenue Chicago, IL 60619",340000.0
-3,2,1620,"9456 S Calumet Avenue Chicago, IL 60619",315000.0
