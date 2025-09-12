@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "4
+beds",3,"2,037
+sq.ft.","6544 W Devon Avenue Chicago, IL 60631","$689,000"
+"4
 beds",3,"3,000
 sq.ft.","6547 S Langley Avenue Chicago, IL 60637","$625,800"
 "3
@@ -3020,6 +3023,3 @@ sq.ft.","3348 W Le Moyne Street Chicago, IL 60651","$419,900"
 "4
 beds",2,"2,060
 sq.ft.","8943 S Richmond Avenue Evergreen Park, IL 60805","$349,900"
-"3
-beds",2,"850
-sq.ft.","6146 S KNOX Avenue Chicago, IL 60629","$339,900"
