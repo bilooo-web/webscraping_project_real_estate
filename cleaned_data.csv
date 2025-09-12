@@ -1,8 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 4,3,3000,"6547 S Langley Avenue Chicago, IL 60637",625800.0
 3,2,1604,"6504 N Whipple Street Chicago, IL 60645",489000.0
-3,3,2050,"1700 E 56th Street 3609-3610 Chicago, IL 60637",460000.0
-2,2,1556,"2161 N CALIFORNIA Avenue 105 Chicago, IL 60647",575000.0
 2,2,1162,"1620 W Huron Street 1 Chicago, IL 60622",490000.0
 2,2,1300,"1807 W Addison Street 2W Chicago, IL 60613",450000.0
 3,3,2874,"8358 S Sangamon Street Chicago, IL 60620",299999.0
@@ -26,6 +24,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,2700,"7339 S Evans Avenue Chicago, IL 60619",369900.0
 3,2,1729,"520 N HALSTED Street 410 Chicago, IL 60642",615000.0
 1,1,800,"125 S Green Street 209A Chicago, IL 60607",349000.0
+2,2,1556,"2161 N CALIFORNIA Avenue 105 Chicago, IL 60647",575000.0
 2,1,932,"8150 S Marquette Avenue Chicago, IL 60617",129900.0
 3,2,1450,"4856 S PRAIRIE Avenue 2 Chicago, IL 60615",284900.0
 2,2,1733,"1872 N Clybourn Avenue 603 Chicago, IL 60614",762000.0
@@ -903,3 +902,4 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,1902,"5029 W Superior Street Chicago, IL 60644",364000.0
 3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
 2,1,1100,"661 W Division Street B Chicago, IL 60610",350000.0
+3,2,2454,"8258 S Rhodes Avenue Chicago, IL 60619",340000.0
