@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "4
 beds",3,"2,037
 sq.ft.","6544 W Devon Avenue Chicago, IL 60631","$689,000"
-"4
-beds",4,"3,382
-sq.ft.","2046 N Hamlin Avenue Chicago, IL 60647","$700,000"
 "3
 beds",3,"3,320
 sq.ft.","3721 W Wabansia Avenue Chicago, IL 60647","$1,050,000"
@@ -317,6 +314,9 @@ sq.ft.","5415 N Sheridan Road 3405 Chicago, IL 60640","$224,900"
 "5
 beds",4,"9,200
 sq.ft.","1352 N La Salle Drive Chicago, IL 60610","$4,249,000"
+"4
+beds",4,"3,382
+sq.ft.","2046 N Hamlin Avenue Chicago, IL 60647","$700,000"
 "2
 beds",2,"1,400
 sq.ft.","550 W Fulton Street 301 Chicago, IL 60661","$600,000"

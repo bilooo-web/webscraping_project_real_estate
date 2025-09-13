@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 4,3,2037,"6544 W Devon Avenue Chicago, IL 60631",689000.0
-4,4,3382,"2046 N Hamlin Avenue Chicago, IL 60647",700000.0
 3,3,3320,"3721 W Wabansia Avenue Chicago, IL 60647",1050000.0
 3,2,1500,"4706 S Saint Lawrence Avenue 2W Chicago, IL 60615",430000.0
 2,2,1300,"1807 W Addison Street 2W Chicago, IL 60613",450000.0
@@ -88,6 +87,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1800,"5824 N Lincoln Avenue 3N Chicago, IL 60659",575000.0
 2,2,1339,"5360 N Lowell Avenue 502 Chicago, IL 60630",340000.0
 1,1,795,"5415 N Sheridan Road 3405 Chicago, IL 60640",224900.0
+4,4,3382,"2046 N Hamlin Avenue Chicago, IL 60647",700000.0
 2,2,1400,"550 W Fulton Street 301 Chicago, IL 60661",600000.0
 3,1,1350,"4744 N Kilbourn Avenue Chicago, IL 60630",374900.0
 3,2,2400,"2650 W Belden Avenue 207 Chicago, IL 60647",650000.0
