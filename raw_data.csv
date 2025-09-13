@@ -72,12 +72,6 @@ sq.ft.","1910 S Indiana Avenue 321 Chicago, IL 60616","$479,000"
 beds",1,"800
 sq.ft.","655 W Irving Park Road 5308 Chicago, IL 60613","$230,000"
 "2
-beds",2,"1,400
-sq.ft.","1910 S Indiana Avenue 321 Chicago, IL 60616","$479,000"
-"1
-beds",1,"800
-sq.ft.","655 W Irving Park Road 5308 Chicago, IL 60613","$230,000"
-"2
 beds",2,"2,271
 sq.ft.","2600 N Southport Avenue 409 Chicago, IL 60614","$1,250,000"
 "3
@@ -215,6 +209,12 @@ sq.ft.","510 W Roscoe Street 1 Chicago, IL 60657","$825,000"
 "2
 beds",1,"1,100
 sq.ft.","5459 S Ingleside Avenue 2S Chicago, IL 60615","$225,000"
+"3
+beds",2,"2,900
+sq.ft.","680 N Lake Shore Drive 1306 Chicago, IL 60611","$1,395,000"
+"4
+beds",2,"1,962
+sq.ft.","3700 S Normal Avenue Chicago, IL 60609","$695,000"
 "3
 beds",2,"1,729
 sq.ft.","520 N HALSTED Street 410 Chicago, IL 60642","$615,000"
@@ -431,12 +431,6 @@ sq.ft.","7450 W Addison Street Chicago, IL 60634","$299,900"
 "3
 beds",3,"1,745
 sq.ft.","5421 W Eddy Street Chicago, IL 60641","$375,000"
-"2
-beds",2,"800
-sq.ft.","7450 W Addison Street Chicago, IL 60634","$299,900"
-"3
-beds",3,"1,745
-sq.ft.","5421 W Eddy Street Chicago, IL 60641","$375,000"
 "4
 beds",2,"3,100
 sq.ft.","6212 N Avondale Avenue Chicago, IL 60631","$879,900"
@@ -503,6 +497,12 @@ sq.ft.","1448 W Chestnut Street 3 Chicago, IL 60642","$834,000"
 "3
 beds",4,"3,790
 sq.ft.","1719 W Foster Avenue Chicago, IL 60640","$1,449,000"
+"4
+beds",5,"6,500
+sq.ft.","1222 N Paulina Street Chicago, IL 60622","$4,000,000"
+"3
+beds",2,"1,500
+sq.ft.","6254 N NAGLE Avenue Chicago, IL 60646","$439,900"
 "3
 beds",1,"936
 sq.ft.","4858 W Strong Street Chicago, IL 60630","$450,000"

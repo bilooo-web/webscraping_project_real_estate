@@ -55,6 +55,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,3,2400,"1832 N Wilmot Avenue Chicago, IL 60647",989900.0
 4,3,3000,"510 W Roscoe Street 1 Chicago, IL 60657",825000.0
 2,1,1100,"5459 S Ingleside Avenue 2S Chicago, IL 60615",225000.0
+4,2,1962,"3700 S Normal Avenue Chicago, IL 60609",695000.0
 3,2,1729,"520 N HALSTED Street 410 Chicago, IL 60642",615000.0
 4,4,1500,"3105 N 77th Avenue Elmwood Park, IL 60707",499900.0
 1,1,800,"125 S Green Street 209A Chicago, IL 60607",349000.0
@@ -139,6 +140,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,2100,"1512 S Halsted Street Chicago, IL 60607",599000.0
 1,1,760,"1000 N Kingsbury Street 304 Chicago, IL 60610",325000.0
 3,2,2350,"1448 W Chestnut Street 3 Chicago, IL 60642",834000.0
+3,2,1500,"6254 N NAGLE Avenue Chicago, IL 60646",439900.0
 3,1,936,"4858 W Strong Street Chicago, IL 60630",450000.0
 2,1,1200,"73 E Elm Street 11D Chicago, IL 60611",475000.0
 2,2,1200,"1529 W Montana Street 2 Chicago, IL 60614",545000.0
