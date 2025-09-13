@@ -1,14 +1,12 @@
 bedrooms,bathrooms,square_footage,address,price
 4,3,2037,"6544 W Devon Avenue Chicago, IL 60631",689000.0
-4,3,3000,"6547 S Langley Avenue Chicago, IL 60637",625800.0
-3,2,1604,"6504 N Whipple Street Chicago, IL 60645",489000.0
-2,2,1162,"1620 W Huron Street 1 Chicago, IL 60622",490000.0
 4,4,3382,"2046 N Hamlin Avenue Chicago, IL 60647",700000.0
 3,3,3320,"3721 W Wabansia Avenue Chicago, IL 60647",1050000.0
 3,2,1500,"4706 S Saint Lawrence Avenue 2W Chicago, IL 60615",430000.0
 2,2,1300,"1807 W Addison Street 2W Chicago, IL 60613",450000.0
 3,3,3000,"2922 N Kilpatrick Avenue Chicago, IL 60641",594000.0
 2,1,750,"1658 W Farwell Avenue GC Chicago, IL 60626",165000.0
+2,2,1162,"1620 W Huron Street 1 Chicago, IL 60622",490000.0
 3,3,2874,"8358 S Sangamon Street Chicago, IL 60620",299999.0
 2,1,1057,"1255 S STATE Street 917 Chicago, IL 60605",319000.0
 2,2,1244,"1400 W Monroe Street 4A Chicago, IL 60607",750000.0
@@ -57,7 +55,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,3,2400,"1832 N Wilmot Avenue Chicago, IL 60647",989900.0
 4,3,3000,"510 W Roscoe Street 1 Chicago, IL 60657",825000.0
 2,1,1100,"5459 S Ingleside Avenue 2S Chicago, IL 60615",225000.0
-4,2,1962,"3700 S Normal Avenue Chicago, IL 60609",695000.0
 3,2,1729,"520 N HALSTED Street 410 Chicago, IL 60642",615000.0
 4,4,1500,"3105 N 77th Avenue Elmwood Park, IL 60707",499900.0
 1,1,800,"125 S Green Street 209A Chicago, IL 60607",349000.0
@@ -142,7 +139,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,2100,"1512 S Halsted Street Chicago, IL 60607",599000.0
 1,1,760,"1000 N Kingsbury Street 304 Chicago, IL 60610",325000.0
 3,2,2350,"1448 W Chestnut Street 3 Chicago, IL 60642",834000.0
-3,2,1500,"6254 N NAGLE Avenue Chicago, IL 60646",439900.0
 3,1,936,"4858 W Strong Street Chicago, IL 60630",450000.0
 2,1,1200,"73 E Elm Street 11D Chicago, IL 60611",475000.0
 2,2,1200,"1529 W Montana Street 2 Chicago, IL 60614",545000.0
@@ -225,6 +221,8 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1980,"10217 S Wallace Street Chicago, IL 60628",79999.0
 4,3,1300,"7619 S Saint Lawrence Avenue Chicago, IL 60619",69900.0
 2,1,1000,"7911 S ELLIS Avenue 2 Chicago, IL 60619",29000.0
+4,3,3000,"6547 S Langley Avenue Chicago, IL 60637",625800.0
+3,2,1604,"6504 N Whipple Street Chicago, IL 60645",489000.0
 3,2,1655,"1929 N Maud Avenue Chicago, IL 60614",995000.0
 5,3,3108,"3638 N ODELL Avenue Chicago, IL 60634",699000.0
 2,2,1700,"3806 N Ashland Avenue 3N Chicago, IL 60613",675000.0
