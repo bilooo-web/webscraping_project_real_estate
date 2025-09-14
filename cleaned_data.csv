@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+2,2,1353,"660 W Wayman Street , 501 Chicago, IL 60661",480000.0
 4,3,2037,"6544 W Devon Avenue Chicago, IL 60631",689000.0
 2,2,1100,"1529 S State Street , 18B Chicago, IL 60605",349000.0
 4,3,1176,"9431 S Vernon Avenue Chicago, IL 60619",292000.0
@@ -54,6 +55,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1140,"330 W DIVERSEY Parkway 1508 Chicago, IL 60657",389900.0
 3,2,2350,"1448 W Chestnut Street 3 Chicago, IL 60642",834000.0
 2,2,1100,"4537 S Drexel Boulevard 504 Chicago, IL 60653",245000.0
+3,2,1368,"2130 W Highland Avenue Chicago, IL 60659",399000.0
 3,2,1500,"6057 W Melrose Street Chicago, IL 60634",475000.0
 3,2,1500,"6254 N NAGLE Avenue Chicago, IL 60646",439900.0
 1,1,925,"600 N Dearborn Street 1102 Chicago, IL 60610",339000.0
@@ -89,7 +91,6 @@ bedrooms,bathrooms,square_footage,address,price
 5,3,2800,"11152 S Lawler Avenue Alsip, IL 60803",579000.0
 4,2,3100,"6637 W 64th Place Chicago, IL 60638",510000.0
 1,1,1050,"910 W Madison Street 602 Chicago, IL 60607",499900.0
-2,2,1353,"660 W Wayman Street 501 Chicago, IL 60661",480000.0
 3,2,2125,"8024 W Charmaine Road Norridge, IL 60706",419000.0
 2,2,1248,"2048 N Oak Park Avenue N Chicago, IL 60707",375000.0
 2,2,980,"1001 W 15th Street 342 Chicago, IL 60608",309900.0
@@ -912,4 +913,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,900,"6710 S Keating Avenue 103 Chicago, IL 60629",184000.0
 1,1,750,"6300 N Sheridan Road 710 Chicago, IL 60660",181000.0
 2,1,923,"5125 W Monroe Street Chicago, IL 60644",170000.0
-1,1,900,"5107 S Ingleside Avenue 3 Chicago, IL 60615",132800.0

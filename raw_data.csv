@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",2,"1,353
+sq.ft.","660 W Wayman Street , 501 Chicago, IL 60661","$480,000"
 "4
 beds",3,"2,037
 sq.ft.","6544 W Devon Avenue Chicago, IL 60631","$689,000"
@@ -189,6 +192,9 @@ sq.ft.","1448 W Chestnut Street 3 Chicago, IL 60642","$834,000"
 beds",2,"1,100
 sq.ft.","4537 S Drexel Boulevard 504 Chicago, IL 60653","$245,000"
 "3
+beds",2,"1,368
+sq.ft.","2130 W Highland Avenue Chicago, IL 60659","$399,000"
+"3
 beds",2,"1,500
 sq.ft.","6057 W Melrose Street Chicago, IL 60634","$475,000"
 "4
@@ -305,9 +311,6 @@ sq.ft.","6637 W 64th Place Chicago, IL 60638","$510,000"
 "1
 beds",1,"1,050
 sq.ft.","910 W Madison Street 602 Chicago, IL 60607","$499,900"
-"2
-beds",2,"1,353
-sq.ft.","660 W Wayman Street 501 Chicago, IL 60661","$480,000"
 "3
 beds",2,"2,125
 sq.ft.","8024 W Charmaine Road Norridge, IL 60706","$419,000"
@@ -3020,6 +3023,3 @@ sq.ft.","6300 N Sheridan Road 710 Chicago, IL 60660","$181,000"
 "2
 beds",1,"923
 sq.ft.","5125 W Monroe Street Chicago, IL 60644","$170,000"
-"1
-beds",1,"900
-sq.ft.","5107 S Ingleside Avenue 3 Chicago, IL 60615","$132,800"
