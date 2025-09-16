@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-3,1,1072,"1313 W 112th Street Chicago, IL 60643",187000.0
 3,1,1250,"9258 S Albany Avenue Evergreen Park, IL 60805",325000.0
 4,2,3100,"6637 W 64th Place Chicago, IL 60638",510000.0
 3,2,1800,"1434 W Pratt Boulevard 3E Chicago, IL 60626",360000.0
@@ -914,3 +913,4 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1986,"531 E 89th Place Chicago, IL 60619",299900.0
 1,1,1100,"900 S Wabash Avenue 404 Chicago, IL 60605",280000.0
 4,3,1613,"6135 S Massasoit Avenue Chicago, IL 60638",279914.0
+5,2,2243,"64 E 102ND Place Chicago, IL 60628",279900.0

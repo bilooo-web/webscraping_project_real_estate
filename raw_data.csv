@@ -1,8 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",1,"1,072
-sq.ft.","1313 W 112th Street Chicago, IL 60643","$187,000"
-"3
 beds",1,"1,250
 sq.ft.","9258 S Albany Avenue Evergreen Park, IL 60805","$325,000"
 "4
@@ -3023,3 +3020,6 @@ sq.ft.","900 S Wabash Avenue 404 Chicago, IL 60605","$280,000"
 "4
 beds",3,"1,613
 sq.ft.","6135 S Massasoit Avenue Chicago, IL 60638","$279,914"
+"5
+beds",2,"2,243
+sq.ft.","64 E 102ND Place Chicago, IL 60628","$279,900"
