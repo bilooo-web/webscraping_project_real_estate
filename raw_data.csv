@@ -1,7 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"2
-beds",2,"1,353
-sq.ft.","660 W Wayman Street , 501 Chicago, IL 60661","$480,000"
+"3
+beds",1,"1,072
+sq.ft.","1313 W 112th Street Chicago, IL 60643","$187,000"
 "3
 beds",1,"1,250
 sq.ft.","9258 S Albany Avenue Evergreen Park, IL 60805","$325,000"
@@ -65,6 +65,9 @@ sq.ft.","12014 S Wallace Street Chicago, IL 60628","$100,000"
 "1
 beds",1,"700
 sq.ft.","7337 S South Shore Drive 708 Chicago, IL 60649","$72,000"
+"2
+beds",2,"1,353
+sq.ft.","660 W Wayman Street , 501 Chicago, IL 60661","$480,000"
 "4
 beds",3,"3,300
 sq.ft.","3042 N Troy Street Chicago, IL 60618","$1,200,000"
@@ -3020,6 +3023,3 @@ sq.ft.","900 S Wabash Avenue 404 Chicago, IL 60605","$280,000"
 "4
 beds",3,"1,613
 sq.ft.","6135 S Massasoit Avenue Chicago, IL 60638","$279,914"
-"5
-beds",2,"2,243
-sq.ft.","64 E 102ND Place Chicago, IL 60628","$279,900"
