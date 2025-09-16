@@ -1,4 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
+3,3,1045,"4149 S Rockwell Street Chicago, IL 60632",428000.0
+3,1,1316,"7537 S Saint Lawrence Avenue Chicago, IL 60619",119000.0
 3,1,1072,"1313 W 112th Street Chicago, IL 60643",187000.0
 4,3,3500,"1015 E 43rd Street Chicago, IL 60653",765000.0
 3,1,1250,"9258 S Albany Avenue Evergreen Park, IL 60805",325000.0
@@ -495,6 +497,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,651,"6431 S Racine Avenue Chicago, IL 60636",68000.0
 5,1,1000,"341 W 105th Place Chicago, IL 60628",59900.0
 4,3,2100,"4343 S Ellis Ave Chicago, IL 60653",725000.0
+3,2,1400,"1333 N Burling Street , B Chicago, IL 60610",499900.0
 1,1,1800,"840 N Lake Shore Drive 302 Chicago, IL 60611",975000.0
 4,3,2700,"2722 N Southport Avenue A Chicago, IL 60614",950000.0
 3,3,2082,"2 E Erie Street 1605 Chicago, IL 60611",825000.0
@@ -561,7 +564,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1780,"1809 W 71st Street Chicago, IL 60636",124900.0
 2,1,1188,"715 E 91ST Place Chicago, IL 60619",85000.0
 3,1,1200,"10104 S Eggleston Avenue Chicago, IL 60628",79000.0
-3,2,1400,"1333 N Burling Street , B Chicago, IL 60610",499900.0
 2,2,1450,"4250 N Marine Drive , 801 Chicago, IL 60613",279000.0
 2,2,1500,"73 E Elm Street 4B Chicago, IL 60611",670000.0
 4,3,2000,"2147 W Adams Street 1N Chicago, IL 60612",650000.0
@@ -910,5 +912,3 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"1727 S Indiana Avenue 225 Chicago, IL 60616",259000.0
 3,1,1125,"3817 W 61st Place Chicago, IL 60629",251900.0
 2,1,1100,"3524 S Central Avenue Cicero, IL 60804",250000.0
-1,1,800,"33 W Delaware Place 8B Chicago, IL 60610",249900.0
-1,1,841,"910 N Lake Shore Drive 816 Chicago, IL 60611",244900.0

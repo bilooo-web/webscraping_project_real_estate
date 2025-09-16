@@ -1,5 +1,11 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",3,"1,045
+sq.ft.","4149 S Rockwell Street Chicago, IL 60632","$428,000"
+"3
+beds",1,"1,316
+sq.ft.","7537 S Saint Lawrence Avenue Chicago, IL 60619","$119,000"
+"3
 beds",1,"1,072
 sq.ft.","1313 W 112th Street Chicago, IL 60643","$187,000"
 "4
@@ -1655,6 +1661,9 @@ sq.ft.","3054 N Kedzie Avenue 1F Chicago, IL 60618",Price On Request
 "4
 beds",3,"2,100
 sq.ft.","4343 S Ellis Ave Chicago, IL 60653","$725,000"
+"3
+beds",2,"1,400
+sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$499,900"
 "6
 beds",6,"7,120
 sq.ft.","4717 N Paulina Street Chicago, IL 60640","$3,195,000"
@@ -1895,9 +1904,6 @@ sq.ft.","710 W 81st Place Chicago, IL 60620",Price On Request
 "3
 beds",1,"1,104
 sq.ft.","10006 S Eggleston Avenue Chicago, IL 60628",Price On Request
-"3
-beds",2,"1,400
-sq.ft.","1333 N Burling Street , B Chicago, IL 60610","$499,900"
 "2
 beds",2,"1,450
 sq.ft.","4250 N Marine Drive , 801 Chicago, IL 60613","$279,000"
@@ -3017,9 +3023,3 @@ sq.ft.","3817 W 61st Place Chicago, IL 60629","$251,900"
 "2
 beds",1,"1,100
 sq.ft.","3524 S Central Avenue Cicero, IL 60804","$250,000"
-"1
-beds",1,"800
-sq.ft.","33 W Delaware Place 8B Chicago, IL 60610","$249,900"
-"1
-beds",1,"841
-sq.ft.","910 N Lake Shore Drive 816 Chicago, IL 60611","$244,900"
