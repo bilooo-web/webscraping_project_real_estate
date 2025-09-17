@@ -2,7 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,1045,"4149 S Rockwell Street Chicago, IL 60632",428000.0
 3,1,1316,"7537 S Saint Lawrence Avenue Chicago, IL 60619",119000.0
 3,1,1072,"1313 W 112th Street Chicago, IL 60643",187000.0
-4,3,3500,"1015 E 43rd Street Chicago, IL 60653",765000.0
 3,1,1250,"9258 S Albany Avenue Evergreen Park, IL 60805",325000.0
 2,2,1498,"1111 S Wabash Avenue 3005 Chicago, IL 60605",450000.0
 4,3,3800,"4115 N Ridgeway Avenue Chicago, IL 60618",869000.0
@@ -757,6 +756,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1056,"8529 S Carpenter Street Chicago, IL 60620",65000.0
 2,2,1505,"118 E Erie Street 18B Chicago, IL 60611",950000.0
 2,2,1600,"111 E Chestnut Street 39K Chicago, IL 60611",875000.0
+4,3,3500,"1015 E 43rd Street Chicago, IL 60653",765000.0
 2,2,1250,"3508 N Reta Avenue 201 Chicago, IL 60657",614990.0
 3,2,1500,"1444 N Orleans Street 7A Chicago, IL 60610",590000.0
 2,2,1206,"659 W RANDOLPH Street 1720 Chicago, IL 60661",499999.0
