@@ -3,6 +3,9 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",3,"1,045
 sq.ft.","4149 S Rockwell Street Chicago, IL 60632","$428,000"
 "3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$339,900"
+"3
 beds",1,"1,316
 sq.ft.","7537 S Saint Lawrence Avenue Chicago, IL 60619","$119,000"
 "3
@@ -212,9 +215,6 @@ sq.ft.","1143 S Plymouth Court 407 Chicago, IL 60605","$389,000"
 "3
 beds",2,"1,324
 sq.ft.","9310 S Claremont Avenue Chicago, IL 60643","$385,000"
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive 4B Chicago, IL 60653","$339,900"
 "1
 beds",1,"1,050
 sq.ft.","550 N Kingsbury Street 312 Chicago, IL 60654","$325,000"
@@ -2088,9 +2088,6 @@ sq.ft.","710 W 81st Place Chicago, IL 60620",Price On Request
 beds",1,"1,104
 sq.ft.","10006 S Eggleston Avenue Chicago, IL 60628",Price On Request
 "2
-beds",2,"1,450
-sq.ft.","4250 N Marine Drive , 801 Chicago, IL 60613","$279,000"
-"2
 beds",2,"1,500
 sq.ft.","73 E Elm Street 4B Chicago, IL 60611","$670,000"
 "4
@@ -3023,3 +3020,6 @@ sq.ft.","5000 N Mobile Avenue Chicago, IL 60630","$400,000"
 "3
 beds",2,"1,105
 sq.ft.","3940 W 107th Street Chicago, IL 60655","$399,900"
+"2
+beds",2,"1,153
+sq.ft.","770 W GLADYS Avenue 606 Chicago, IL 60661","$399,900"

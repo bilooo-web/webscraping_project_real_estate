@@ -1,5 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 3,3,1045,"4149 S Rockwell Street Chicago, IL 60632",428000.0
+3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",339900.0
 3,1,1316,"7537 S Saint Lawrence Avenue Chicago, IL 60619",119000.0
 3,1,1072,"1313 W 112th Street Chicago, IL 60643",187000.0
 3,1,1070,"6316 S Laporte Avenue Chicago, IL 60638",275000.0
@@ -58,7 +59,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1800,"5824 N Lincoln Avenue GN Chicago, IL 60659",495000.0
 3,2,1550,"1143 S Plymouth Court 407 Chicago, IL 60605",389000.0
 3,2,1324,"9310 S Claremont Avenue Chicago, IL 60643",385000.0
-3,2,1750,"4520 S King Drive 4B Chicago, IL 60653",339900.0
 1,1,1050,"550 N Kingsbury Street 312 Chicago, IL 60654",325000.0
 2,1,825,"1070 W 15th Street 306 Chicago, IL 60608",309000.0
 3,2,1652,"10701 S NORMAL Avenue Chicago, IL 60628",299900.0
@@ -619,7 +619,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1780,"1809 W 71st Street Chicago, IL 60636",124900.0
 2,1,1188,"715 E 91ST Place Chicago, IL 60619",85000.0
 3,1,1200,"10104 S Eggleston Avenue Chicago, IL 60628",79000.0
-2,2,1450,"4250 N Marine Drive , 801 Chicago, IL 60613",279000.0
 2,2,1500,"73 E Elm Street 4B Chicago, IL 60611",670000.0
 4,3,2000,"2147 W Adams Street 1N Chicago, IL 60612",650000.0
 2,2,1749,"6505 N Ponchartrain Boulevard Chicago, IL 60646",582000.0
@@ -911,3 +910,4 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,1244,"4603 S Komensky Avenue Chicago, IL 60632",415000.0
 4,1,1332,"5000 N Mobile Avenue Chicago, IL 60630",400000.0
 3,2,1105,"3940 W 107th Street Chicago, IL 60655",399900.0
+2,2,1153,"770 W GLADYS Avenue 606 Chicago, IL 60661",399900.0
