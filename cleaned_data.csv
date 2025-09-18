@@ -1,8 +1,8 @@
 bedrooms,bathrooms,square_footage,address,price
 3,3,1045,"4149 S Rockwell Street Chicago, IL 60632",428000.0
 3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",339900.0
+2,2,1100,"6221 N Niagara Avenue , 105 Chicago, IL 60631",199900.0
 3,1,1316,"7537 S Saint Lawrence Avenue Chicago, IL 60619",119000.0
-3,1,1072,"1313 W 112th Street Chicago, IL 60643",187000.0
 3,1,1070,"6316 S Laporte Avenue Chicago, IL 60638",275000.0
 3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",448750.0
 3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
@@ -36,6 +36,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1300,"3300 N Lake Shore Drive 9D Chicago, IL 60657",374900.0
 2,2,1700,"1000 W Washington Boulevard 334 Chicago, IL 60607",899000.0
 1,1,700,"10 E Ontario Street 1806 Chicago, IL 60611",265000.0
+4,3,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1075000.0
 2,1,925,"1250 S Indiana Avenue 1011 Chicago, IL 60605",339900.0
 4,2,3100,"6637 W 64th Place Chicago, IL 60638",510000.0
 4,3,2780,"6020 N Landers Avenue Chicago, IL 60646",799000.0
@@ -104,6 +105,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,726,"7015 S Wood Street Chicago, IL 60636",140000.0
 2,2,1500,"9761 S Ingleside Avenue Chicago, IL 60628",125000.0
 1,1,1000,"5337 S Ellis Avenue 1C Chicago, IL 60615",94500.0
+3,1,1072,"1313 W 112th Street Chicago, IL 60643",187000.0
 3,2,1468,"4800 S Chicago Beach Drive 1701N Chicago, IL 60615",340000.0
 1,1,900,"3550 N Lake Shore Drive 622 Chicago, IL 60657",240000.0
 1,1,1000,"901 S Plymouth Court 1401 Chicago, IL 60605",230000.0
@@ -411,7 +413,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1310,"9432 S Bishop Street Chicago, IL 60620",119900.0
 3,1,700,"12007 S Prairie Avenue Chicago, IL 60628",99000.0
 4,2,1353,"10910 S Edbrooke Avenue Chicago, IL 60628",75000.0
-4,3,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1075000.0
 3,2,3055,"2864 N Riverwalk Drive Chicago, IL 60618",990000.0
 5,4,3000,"3123 W Chase Avenue Chicago, IL 60645",924500.0
 4,3,3600,"2342 N Hamlin Avenue Chicago, IL 60647",899000.0
@@ -910,4 +911,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,1244,"4603 S Komensky Avenue Chicago, IL 60632",415000.0
 4,1,1332,"5000 N Mobile Avenue Chicago, IL 60630",400000.0
 3,2,1105,"3940 W 107th Street Chicago, IL 60655",399900.0
-2,2,1153,"770 W GLADYS Avenue 606 Chicago, IL 60661",399900.0
