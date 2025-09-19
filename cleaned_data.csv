@@ -1,4 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
+3,1,1200,"5050 S Lavergne Avenue Chicago, IL 60638",269900.0
+1,1,800,"5415 N Sheridan Road , 502 Chicago, IL 60640",255000.0
+2,2,700,"6342 N Artesian Avenue , GC Chicago, IL 60659",118333.0
 3,3,1950,"4232 W BELMONT Avenue 5 Chicago, IL 60641",749000.0
 4,3,2240,"4232 W BELMONT Avenue 6 Chicago, IL 60641",849000.0
 4,3,2240,"4230 W BELMONT Avenue Chicago, IL 60641",885000.0
@@ -111,6 +114,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,925,"1250 S Indiana Avenue 1011 Chicago, IL 60605",339900.0
 4,2,3100,"6637 W 64th Place Chicago, IL 60638",510000.0
 4,3,2780,"6020 N Landers Avenue Chicago, IL 60646",799000.0
+4,3,2037,"6544 W Devon Avenue Chicago, IL 60631",689000.0
 5,2,2000,"5657 N Parkside Avenue Chicago, IL 60646",599000.0
 5,3,1900,"559 N Springfield Avenue Chicago, IL 60624",449000.0
 2,2,1470,"2307 N Greenview Avenue 3 Chicago, IL 60614",875000.0
@@ -326,7 +330,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1000,"6104 S Dorchester Avenue 3N Chicago, IL 60637",120000.0
 4,2,2489,"7936 S Laflin Street Chicago, IL 60620",101000.0
 4,2,870,"1228 E 85th Street Chicago, IL 60619",79900.0
-4,3,2037,"6544 W Devon Avenue Chicago, IL 60631",689000.0
 2,2,1100,"1529 S State Street , 18B Chicago, IL 60605",349000.0
 3,2,1700,"1035 N Hermitage Avenue 3PH Chicago, IL 60622",1049000.0
 2,3,2400,"1832 N Wilmot Avenue Chicago, IL 60647",989900.0
@@ -914,6 +917,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1400,"4641 N Magnolia Avenue 3S Chicago, IL 60640",545000.0
 4,3,2500,"4530 S Woodlawn Avenue 101 Chicago, IL 60653",505000.0
 3,2,1729,"8121 W Maple Avenue Norridge, IL 60706",480000.0
-2,2,1300,"155 N Harbor Drive 510 Chicago, IL 60601",467750.0
-4,3,1547,"3909 N Oriole Avenue Chicago, IL 60634",439000.0
-2,1,1247,"2161 N California Avenue 201 Chicago, IL 60647",425000.0
