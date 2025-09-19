@@ -1,11 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",1,"1,070
-sq.ft.","6316 S Laporte Avenue Chicago, IL 60638","$275,000"
-"3
-beds",2,"2,499
-sq.ft.","363 E Wacker Drive 2606 Chicago, IL 60601","$2,675,000"
-"3
 beds",2,"1,300
 sq.ft.","1538 W 21st Street 3A Chicago, IL 60608","$448,750"
 "3
@@ -146,6 +140,9 @@ sq.ft.","6211 N Harlem Avenue Chicago, IL 60631","$365,000"
 "3
 beds",2,"1,914
 sq.ft.","2923 N Southport Avenue 4 Chicago, IL 60657","$1,350,000"
+"3
+beds",1,"1,070
+sq.ft.","6316 S Laporte Avenue Chicago, IL 60638","$275,000"
 "3
 beds",3,"1,918
 sq.ft.","367 W Locust Street 506 Chicago, IL 60610","$875,000"
@@ -3023,3 +3020,6 @@ sq.ft.","5000 N Mobile Avenue Chicago, IL 60630","$400,000"
 "3
 beds",2,"1,105
 sq.ft.","3940 W 107th Street Chicago, IL 60655","$399,900"
+"2
+beds",2,"1,153
+sq.ft.","770 W GLADYS Avenue 606 Chicago, IL 60661","$399,900"

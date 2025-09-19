@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-3,1,1070,"6316 S Laporte Avenue Chicago, IL 60638",275000.0
 3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",448750.0
 3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
 2,2,1500,"2451 N Clybourn Avenue 16 Chicago, IL 60614",549000.0
@@ -41,6 +40,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1914,"2923 N Southport Avenue 3 Chicago, IL 60657",999000.0
 3,3,1736,"8855 S Wallace Street Chicago, IL 60620",250000.0
 4,1,1600,"6211 N Harlem Avenue Chicago, IL 60631",365000.0
+3,1,1070,"6316 S Laporte Avenue Chicago, IL 60638",275000.0
 3,3,1918,"367 W Locust Street 506 Chicago, IL 60610",875000.0
 3,3,1424,"8738 S TROY Avenue Evergreen Park, IL 60805",389000.0
 1,1,700,"2754 N Hampden Court 1003 Chicago, IL 60614",286000.0
@@ -911,3 +911,4 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,1244,"4603 S Komensky Avenue Chicago, IL 60632",415000.0
 4,1,1332,"5000 N Mobile Avenue Chicago, IL 60630",400000.0
 3,2,1105,"3940 W 107th Street Chicago, IL 60655",399900.0
+2,2,1153,"770 W GLADYS Avenue 606 Chicago, IL 60661",399900.0
