@@ -1,17 +1,15 @@
 bedrooms,bathrooms,square_footage,address,price
-3,3,1045,"4149 S Rockwell Street Chicago, IL 60632",428000.0
-2,2,1100,"6221 N Niagara Avenue , 105 Chicago, IL 60631",199900.0
-3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",339900.0
-3,1,1316,"7537 S Saint Lawrence Avenue Chicago, IL 60619",119000.0
 3,1,1070,"6316 S Laporte Avenue Chicago, IL 60638",275000.0
 3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",448750.0
 3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
 2,2,1500,"2451 N Clybourn Avenue 16 Chicago, IL 60614",549000.0
+3,3,1045,"4149 S Rockwell Street Chicago, IL 60632",428000.0
 3,1,1250,"9258 S Albany Avenue Evergreen Park, IL 60805",320000.0
 2,2,1498,"1111 S Wabash Avenue 3005 Chicago, IL 60605",450000.0
 3,2,1600,"1737 N Lawndale Avenue Chicago, IL 60647",675000.0
 4,3,2400,"3238 N Kilbourn Avenue 1 Chicago, IL 60641",480000.0
 2,2,1450,"4826 N Winthrop Avenue 2S Chicago, IL 60640",430000.0
+2,2,1100,"6221 N Niagara Avenue , 105 Chicago, IL 60631",199900.0
 2,2,1900,"203 S Sangamon Street 310 Chicago, IL 60607",899000.0
 4,3,3800,"4115 N Ridgeway Avenue Chicago, IL 60618",869000.0
 3,2,1700,"1363 N Mohawk Street 3 Chicago, IL 60610",729000.0
@@ -75,6 +73,8 @@ bedrooms,bathrooms,square_footage,address,price
 5,3,2000,"7114 S Mozart Street Chicago, IL 60629",199873.0
 3,1,1066,"12643 S Harvard Avenue Chicago, IL 60628",130000.0
 2,1,850,"346 E 41st Street 2 Chicago, IL 60653",109900.0
+3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",339900.0
+3,1,1316,"7537 S Saint Lawrence Avenue Chicago, IL 60619",119000.0
 2,2,1384,"211 N Harbor Drive 1606 Chicago, IL 60601",1060000.0
 3,3,2450,"1904 N Campbell Avenue C Chicago, IL 60647",899000.0
 2,2,1201,"211 N Harbor Drive 2301 Chicago, IL 60601",885000.0

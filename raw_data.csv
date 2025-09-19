@@ -1,17 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",3,"1,045
-sq.ft.","4149 S Rockwell Street Chicago, IL 60632","$428,000"
-"2
-beds",2,"1,100
-sq.ft.","6221 N Niagara Avenue , 105 Chicago, IL 60631","$199,900"
-"3
-beds",2,"1,750
-sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$339,900"
-"3
-beds",1,"1,316
-sq.ft.","7537 S Saint Lawrence Avenue Chicago, IL 60619","$119,000"
-"3
 beds",1,"1,070
 sq.ft.","6316 S Laporte Avenue Chicago, IL 60638","$275,000"
 "3
@@ -30,6 +18,9 @@ sq.ft.","3040 N Hoyne Avenue Chicago, IL 60618","$1,975,000"
 beds",2,"1,500
 sq.ft.","2451 N Clybourn Avenue 16 Chicago, IL 60614","$549,000"
 "3
+beds",3,"1,045
+sq.ft.","4149 S Rockwell Street Chicago, IL 60632","$428,000"
+"3
 beds",1,"1,250
 sq.ft.","9258 S Albany Avenue Evergreen Park, IL 60805","$320,000"
 "2
@@ -44,6 +35,9 @@ sq.ft.","3238 N Kilbourn Avenue 1 Chicago, IL 60641","$480,000"
 "2
 beds",2,"1,450
 sq.ft.","4826 N Winthrop Avenue 2S Chicago, IL 60640","$430,000"
+"2
+beds",2,"1,100
+sq.ft.","6221 N Niagara Avenue , 105 Chicago, IL 60631","$199,900"
 "2
 beds",2,"1,900
 sq.ft.","203 S Sangamon Street 310 Chicago, IL 60607","$899,000"
@@ -263,6 +257,12 @@ sq.ft.","12643 S Harvard Avenue Chicago, IL 60628","$130,000"
 "2
 beds",1,"850
 sq.ft.","346 E 41st Street 2 Chicago, IL 60653","$109,900"
+"3
+beds",2,"1,750
+sq.ft.","4520 S King Drive , 4B Chicago, IL 60653","$339,900"
+"3
+beds",1,"1,316
+sq.ft.","7537 S Saint Lawrence Avenue Chicago, IL 60619","$119,000"
 "3
 beds",2,"3,400
 sq.ft.","850 W Adams Street 7C Chicago, IL 60607","$2,100,000"
