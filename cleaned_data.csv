@@ -1,8 +1,11 @@
 bedrooms,bathrooms,square_footage,address,price
 3,1,1200,"5050 S Lavergne Avenue Chicago, IL 60638",269900.0
 1,1,800,"5415 N Sheridan Road , 502 Chicago, IL 60640",255000.0
+1,1,965,"777 N Michigan Avenue , 2108 Chicago, IL 60611",250000.0
 2,2,700,"6342 N Artesian Avenue , GC Chicago, IL 60659",118333.0
-3,3,1950,"4232 W BELMONT Avenue 5 Chicago, IL 60641",749000.0
+1,1,700,"6342 N Artesian Avenue , 1B Chicago, IL 60659",100000.0
+1,1,700,"6342 N Artesian Avenue , 2B Chicago, IL 60659",100000.0
+2,1,700,"6342 N Artesian Avenue , 3B Chicago, IL 60659",100000.0
 4,3,2240,"4232 W BELMONT Avenue 6 Chicago, IL 60641",849000.0
 4,3,2240,"4230 W BELMONT Avenue Chicago, IL 60641",885000.0
 3,3,1950,"4232 W BELMONT Avenue 2 Chicago, IL 60641",780000.0
@@ -72,6 +75,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1883,"1444 W Fargo Avenue 3W Chicago, IL 60626",350000.0
 2,1,1000,"3264 W Wrightwood Avenue 2 Chicago, IL 60647",319900.0
 2,2,1839,"882 N Hermitage Avenue 2F Chicago, IL 60622",525000.0
+3,3,1950,"4232 W BELMONT Avenue 5 Chicago, IL 60641",749000.0
 3,1,1100,"5754 W Lawrence Avenue 1A Chicago, IL 60630",249900.0
 4,2,2400,"1214 N ROCKWELL Street Chicago, IL 60622",825000.0
 3,2,2700,"4534 N Saint Louis Avenue Chicago, IL 60625",719000.0
@@ -913,7 +917,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2001,"990 N Lake Shore Drive 26A Chicago, IL 60611",800000.0
 4,3,3888,"2123 N Austin Avenue Chicago, IL 60639",749000.0
 2,2,1700,"360 W Illinois Street 9D Chicago, IL 60654",679000.0
-3,2,2000,"3929 N Oleander Avenue Chicago, IL 60634",585000.0
-2,2,1400,"4641 N Magnolia Avenue 3S Chicago, IL 60640",545000.0
-4,3,2500,"4530 S Woodlawn Avenue 101 Chicago, IL 60653",505000.0
-3,2,1729,"8121 W Maple Avenue Norridge, IL 60706",480000.0
