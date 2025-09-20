@@ -3,16 +3,9 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"5415 N Sheridan Road , 502 Chicago, IL 60640",255000.0
 1,1,965,"777 N Michigan Avenue , 2108 Chicago, IL 60611",250000.0
 2,2,700,"6342 N Artesian Avenue , GC Chicago, IL 60659",118333.0
-1,1,700,"6342 N Artesian Avenue , 1B Chicago, IL 60659",100000.0
 1,1,700,"6342 N Artesian Avenue , 2B Chicago, IL 60659",100000.0
+1,1,700,"6342 N Artesian Avenue , 1B Chicago, IL 60659",100000.0
 2,1,700,"6342 N Artesian Avenue , 3B Chicago, IL 60659",100000.0
-4,3,2240,"4232 W BELMONT Avenue 6 Chicago, IL 60641",849000.0
-4,3,2240,"4230 W BELMONT Avenue Chicago, IL 60641",885000.0
-3,3,1950,"4232 W BELMONT Avenue 2 Chicago, IL 60641",780000.0
-3,3,1950,"4206 W BELMONT Avenue Chicago, IL 60641",780000.0
-4,2,2230,"3919 N Oriole Avenue Chicago, IL 60634",510000.0
-3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",448750.0
-3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
 3,4,2815,"324 E 17th Street Chicago, IL 60616",879000.0
 2,2,1500,"2451 N Clybourn Avenue 16 Chicago, IL 60614",549000.0
 4,2,2016,"838 E 90th Street Chicago, IL 60619",305000.0
@@ -75,6 +68,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1883,"1444 W Fargo Avenue 3W Chicago, IL 60626",350000.0
 2,1,1000,"3264 W Wrightwood Avenue 2 Chicago, IL 60647",319900.0
 2,2,1839,"882 N Hermitage Avenue 2F Chicago, IL 60622",525000.0
+4,3,2240,"4232 W BELMONT Avenue 6 Chicago, IL 60641",849000.0
 3,3,1950,"4232 W BELMONT Avenue 5 Chicago, IL 60641",749000.0
 3,1,1100,"5754 W Lawrence Avenue 1A Chicago, IL 60630",249900.0
 4,2,2400,"1214 N ROCKWELL Street Chicago, IL 60622",825000.0
@@ -82,10 +76,14 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1200,"8544 W Rascher Avenue 3E Chicago, IL 60656",235000.0
 2,1,987,"6011 N Monitor Avenue Chicago, IL 60646",450000.0
 1,1,883,"1000 W Adams Street 523 Chicago, IL 60607",345000.0
+4,3,2240,"4230 W BELMONT Avenue Chicago, IL 60641",885000.0
+3,3,1950,"4232 W BELMONT Avenue 2 Chicago, IL 60641",780000.0
 2,2,1056,"1000 W LELAND Avenue 12G Chicago, IL 60640",399000.0
+3,3,1950,"4206 W BELMONT Avenue Chicago, IL 60641",780000.0
 4,2,1615,"2412 N Lorel Avenue Chicago, IL 60639",375000.0
 3,2,1310,"11010 S Union Avenue Chicago, IL 60628",329900.0
 3,2,2136,"3604 W 64th Street Chicago, IL 60629",375000.0
+4,2,2230,"3919 N Oriole Avenue Chicago, IL 60634",510000.0
 2,2,1000,"600 N Dearborn Street 1804 Chicago, IL 60654",359500.0
 1,1,795,"5415 N Sheridan Road 3405 Chicago, IL 60640",224900.0
 2,2,1499,"3180 N Lake Shore Drive 13C Chicago, IL 60657",474000.0
@@ -160,6 +158,8 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1485,"125 E 13th Street 808 Chicago, IL 60605",575000.0
 2,1,1286,"12521 S Central Park Avenue Alsip, IL 60803",239900.0
 2,2,1500,"3844 N Ashland Avenue 21 Chicago, IL 60613",575000.0
+3,2,1300,"1538 W 21st Street 3A Chicago, IL 60608",448750.0
+3,2,1300,"1538 W 21st Street 1A Chicago, IL 60608",359900.0
 3,3,2050,"1700 E 56th Street 3609-3610 Chicago, IL 60637",460000.0
 4,2,2450,"8053 S Kedzie Avenue S Chicago, IL 60652",369000.0
 2,2,1775,"180 E PEARSON Street 3703 Chicago, IL 60611",1099999.0

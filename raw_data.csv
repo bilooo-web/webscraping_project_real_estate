@@ -13,34 +13,13 @@ beds",2,"700
 sq.ft.","6342 N Artesian Avenue , GC Chicago, IL 60659","$118,333"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
 "2
 beds",1,"700
 sq.ft.","6342 N Artesian Avenue , 3B Chicago, IL 60659","$100,000"
-"4
-beds",3,"2,240
-sq.ft.","4232 W BELMONT Avenue 6 Chicago, IL 60641","$849,000"
-"4
-beds",3,"2,240
-sq.ft.","4230 W BELMONT Avenue Chicago, IL 60641","$885,000"
-"3
-beds",3,"1,950
-sq.ft.","4232 W BELMONT Avenue 2 Chicago, IL 60641","$780,000"
-"3
-beds",3,"1,950
-sq.ft.","4206 W BELMONT Avenue Chicago, IL 60641","$780,000"
-"4
-beds",2,"2,230
-sq.ft.","3919 N Oriole Avenue Chicago, IL 60634","$510,000"
-"3
-beds",2,"1,300
-sq.ft.","1538 W 21st Street 3A Chicago, IL 60608","$448,750"
-"3
-beds",2,"1,300
-sq.ft.","1538 W 21st Street 1A Chicago, IL 60608","$359,900"
 "3
 beds",4,"4,200
 sq.ft.","3040 N Hoyne Avenue Chicago, IL 60618","$1,975,000"
@@ -251,6 +230,9 @@ sq.ft.","3264 W Wrightwood Avenue 2 Chicago, IL 60647","$319,900"
 "2
 beds",2,"1,839
 sq.ft.","882 N Hermitage Avenue 2F Chicago, IL 60622","$525,000"
+"4
+beds",3,"2,240
+sq.ft.","4232 W BELMONT Avenue 6 Chicago, IL 60641","$849,000"
 "3
 beds",3,"1,950
 sq.ft.","4232 W BELMONT Avenue 5 Chicago, IL 60641","$749,000"
@@ -272,9 +254,18 @@ sq.ft.","6011 N Monitor Avenue Chicago, IL 60646","$450,000"
 "1
 beds",1,"883
 sq.ft.","1000 W Adams Street 523 Chicago, IL 60607","$345,000"
+"4
+beds",3,"2,240
+sq.ft.","4230 W BELMONT Avenue Chicago, IL 60641","$885,000"
+"3
+beds",3,"1,950
+sq.ft.","4232 W BELMONT Avenue 2 Chicago, IL 60641","$780,000"
 "2
 beds",2,"1,056
 sq.ft.","1000 W LELAND Avenue 12G Chicago, IL 60640","$399,000"
+"3
+beds",3,"1,950
+sq.ft.","4206 W BELMONT Avenue Chicago, IL 60641","$780,000"
 "4
 beds",2,"1,615
 sq.ft.","2412 N Lorel Avenue Chicago, IL 60639","$375,000"
@@ -284,6 +275,9 @@ sq.ft.","11010 S Union Avenue Chicago, IL 60628","$329,900"
 "3
 beds",2,"2,136
 sq.ft.","3604 W 64th Street Chicago, IL 60629","$375,000"
+"4
+beds",2,"2,230
+sq.ft.","3919 N Oriole Avenue Chicago, IL 60634","$510,000"
 "2
 beds",2,"1,000
 sq.ft.","600 N Dearborn Street 1804 Chicago, IL 60654","$359,500"
@@ -557,6 +551,12 @@ sq.ft.","3844 N Ashland Avenue 21 Chicago, IL 60613","$575,000"
 "4
 beds",3,"3,200
 sq.ft.","550 N Saint Clair Street 2302 Chicago, IL 60611","$1,390,000"
+"3
+beds",2,"1,300
+sq.ft.","1538 W 21st Street 3A Chicago, IL 60608","$448,750"
+"3
+beds",2,"1,300
+sq.ft.","1538 W 21st Street 1A Chicago, IL 60608","$359,900"
 "3
 beds",3,"2,050
 sq.ft.","1700 E 56th Street 3609-3610 Chicago, IL 60637","$460,000"
