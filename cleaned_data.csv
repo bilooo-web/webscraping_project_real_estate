@@ -11,12 +11,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,4,2815,"324 E 17th Street Chicago, IL 60616",879000.0
 2,2,1500,"2451 N Clybourn Avenue 16 Chicago, IL 60614",549000.0
 4,2,2016,"838 E 90th Street Chicago, IL 60619",305000.0
-3,3,1045,"4149 S Rockwell Street Chicago, IL 60632",428000.0
-2,2,1244,"1400 W Monroe Street 4A Chicago, IL 60607",750000.0
-5,2,2243,"64 E 102ND Place Chicago, IL 60628",269900.0
-2,1,1230,"2103 W Byron Street 2E Chicago, IL 60618",375000.0
 3,1,1250,"9258 S Albany Avenue Evergreen Park, IL 60805",320000.0
-2,2,1500,"2332 W HURON Street 2W Chicago, IL 60612",499900.0
 2,2,1498,"1111 S Wabash Avenue 3005 Chicago, IL 60605",450000.0
 1,1,780,"420 E Waterside Drive 3304 Chicago, IL 60601",399000.0
 2,2,1336,"130 N Garland Court 2706 Chicago, IL 60602",585000.0
@@ -94,6 +89,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,923,"1111 S Wabash Avenue 1305 Chicago, IL 60605",275000.0
 4,3,2914,"9556 S Winchester Avenue Chicago, IL 60643",859900.0
 3,2,1450,"1203 W Superior Street 3C Chicago, IL 60642",715000.0
+2,1,1230,"2103 W Byron Street 2E Chicago, IL 60618",375000.0
 3,3,2110,"6 S Laflin Street 910 Chicago, IL 60607",950000.0
 3,2,1815,"703 W Buena Avenue A Chicago, IL 60613",549999.0
 4,4,3400,"4956 S Champlain Avenue 1S Chicago, IL 60615",375000.0
@@ -113,6 +109,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,2100,"1512 S Halsted Street Chicago, IL 60607",599000.0
 2,1,1062,"5039 W Jackson Boulevard A Chicago, IL 60644",205000.0
 3,2,1813,"4243 S Princeton Avenue Chicago, IL 60609",445000.0
+3,3,1045,"4149 S Rockwell Street Chicago, IL 60632",428000.0
 2,2,1200,"749 S CLAREMONT Avenue 1 Chicago, IL 60612",270000.0
 4,3,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1049000.0
 1,1,1080,"2303 S Michigan Avenue 208 Chicago, IL 60616",335000.0
@@ -200,6 +197,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,800,"2346 W Augusta Boulevard 3F Chicago, IL 60622",289000.0
 1,1,850,"33 W Delaware Place 9D Chicago, IL 60610",287500.0
 3,2,1800,"6148 S Woodlawn Avenue 3A Chicago, IL 60637",275000.0
+5,2,2243,"64 E 102ND Place Chicago, IL 60628",269900.0
 3,1,1123,"10915 S Mackinaw Avenue Chicago, IL 60617",259900.0
 3,2,960,"Chicago, IL 60628",249900.0
 3,2,1919,"14508 S Lowe Avenue Riverdale, IL 60827",249900.0
@@ -264,6 +262,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1400,"1150 N Lake Shore Drive 19A Chicago, IL 60611",560000.0
 3,2,1430,"1224 W VAN BUREN Street 809 Chicago, IL 60607",535000.0
 2,2,1425,"1523 W Thomas Street 3 Chicago, IL 60642",510000.0
+2,2,1500,"2332 W HURON Street 2W Chicago, IL 60612",499900.0
 2,2,1725,"910 S Michigan Avenue 1805 Chicago, IL 60605",449999.0
 2,1,1795,"1846 N 77th Court Elmwood Park, IL 60707",419900.0
 3,2,1500,"3624 W 66th Place Chicago, IL 60629",384900.0
@@ -493,6 +492,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1655,"1929 N Maud Avenue Chicago, IL 60614",995000.0
 4,3,3200,"4110 S Vincennes Avenue Chicago, IL 60653",885000.0
 4,2,1540,"4415 N Ashland Avenue Chicago, IL 60640",799000.0
+2,2,1244,"1400 W Monroe Street 4A Chicago, IL 60607",750000.0
 3,3,2988,"3454 N Central Avenue Chicago, IL 60634",699000.0
 5,3,3108,"3638 N ODELL Avenue Chicago, IL 60634",699000.0
 2,2,1700,"3806 N Ashland Avenue 3N Chicago, IL 60613",675000.0
