@@ -10,15 +10,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1850,"401 E ONTARIO Street 4106 Chicago, IL 60611",589000.0
 3,2,1813,"4243 S Princeton Avenue Chicago, IL 60609",445000.0
 5,3,2571,"4517 N Austin Avenue Chicago, IL 60630",460000.0
-3,3,1045,"4149 S Rockwell Street Chicago, IL 60632",428000.0
-1,1,870,"4745 N Ravenswood Avenue 113 Chicago, IL 60640",289000.0
-2,2,1200,"749 S CLAREMONT Avenue 1 Chicago, IL 60612",270000.0
-2,2,1250,"2733 W Potomac Avenue 2 Chicago, IL 60622",425000.0
-4,3,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1049000.0
-1,1,1080,"2303 S Michigan Avenue 208 Chicago, IL 60616",335000.0
-3,1,1104,"6206 S Nashville Avenue Chicago, IL 60638",320000.0
-1,1,760,"1000 N Kingsbury Street 304 Chicago, IL 60610",325000.0
-3,4,2815,"324 E 17th Street Chicago, IL 60616",879000.0
 2,2,1470,"2307 N Greenview Avenue 3 Chicago, IL 60614",840000.0
 2,2,1566,"437 W Division Street 901 Chicago, IL 60610",499999.0
 2,2,1350,"2139 N Kedzie Boulevard 2 Chicago, IL 60647",399900.0
@@ -185,9 +176,11 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1210,"3416 W 124th Street Alsip, IL 60803",312000.0
 2,1,991,"7817 W Balmoral Avenue Chicago, IL 60656",299999.0
 3,1,1056,"3609 W 121st Street Alsip, IL 60803",293000.0
+1,1,870,"4745 N Ravenswood Avenue 113 Chicago, IL 60640",289000.0
 3,1,1000,"12832 S Manistee Avenue Chicago, IL 60633",280000.0
 2,1,925,"1919 S Michigan Avenue 301 Chicago, IL 60616",274900.0
 3,1,1176,"1318 S 61st Court Cicero, IL 60804",270000.0
+2,2,1200,"749 S CLAREMONT Avenue 1 Chicago, IL 60612",270000.0
 4,3,890,"12437 S Throop Street Calumet Park, IL 60827",269000.0
 1,1,770,"211 E Ohio Street 1607 Chicago, IL 60611",255000.0
 3,2,2000,"9314 S Perry Avenue Chicago, IL 60620",254900.0
@@ -227,6 +220,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1499,"3180 N Lake Shore Drive 13C Chicago, IL 60657",474000.0
 2,2,1725,"910 S Michigan Avenue 1805 Chicago, IL 60605",449999.0
 2,2,1175,"1305 S Michigan Avenue 907 Chicago, IL 60605",439000.0
+2,2,1250,"2733 W Potomac Avenue 2 Chicago, IL 60622",425000.0
 2,1,1795,"1846 N 77th Court Elmwood Park, IL 60707",419900.0
 3,2,1500,"3624 W 66th Place Chicago, IL 60629",384900.0
 3,2,1394,"2918 W 99th Place Evergreen Park, IL 60805",344900.0
@@ -282,6 +276,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1066,"12643 S Harvard Avenue Chicago, IL 60628",130000.0
 5,3,2428,"6700 S STEWART Avenue Chicago, IL 60621",129900.0
 2,1,850,"346 E 41st Street 2 Chicago, IL 60653",109900.0
+3,3,1045,"4149 S Rockwell Street Chicago, IL 60632",428000.0
 3,2,1750,"4520 S King Drive , 4B Chicago, IL 60653",339900.0
 3,1,1316,"7537 S Saint Lawrence Avenue Chicago, IL 60619",119000.0
 2,2,1384,"211 N Harbor Drive 1606 Chicago, IL 60601",1060000.0
@@ -617,6 +612,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1310,"9432 S Bishop Street Chicago, IL 60620",119900.0
 3,1,700,"12007 S Prairie Avenue Chicago, IL 60628",99000.0
 4,2,1353,"10910 S Edbrooke Avenue Chicago, IL 60628",75000.0
+4,3,2850,"1146 W Hubbard Street , 1E Chicago, IL 60642",1049000.0
 3,2,3055,"2864 N Riverwalk Drive Chicago, IL 60618",980000.0
 5,4,3000,"3123 W Chase Avenue Chicago, IL 60645",924500.0
 4,3,3600,"2342 N Hamlin Avenue Chicago, IL 60647",899000.0
@@ -788,6 +784,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,2,1040,"5810 S Austin Avenue Chicago, IL 60638",369000.0
 2,2,1036,"1151 W 14th Place 136 Chicago, IL 60608",365000.0
 4,3,2400,"7943 S Bennett Avenue Chicago, IL 60617",359000.0
+1,1,1080,"2303 S Michigan Avenue 208 Chicago, IL 60616",335000.0
 1,1,1450,"727 S DEARBORN Street 510 Chicago, IL 60605",324500.0
 3,1,920,"5322 W Addison Street Chicago, IL 60641",315000.0
 3,3,1800,"1755 E 55th Street 1201 Chicago, IL 60615",289500.0
@@ -840,6 +837,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2000,"1813 S Clark Street K41 Chicago, IL 60616",499900.0
 2,2,1664,"8747 W Bryn Mawr Avenue 209 Chicago, IL 60631",375000.0
 1,1,875,"60 E Monroe Street 2705 Chicago, IL 60603",364999.0
+3,1,1104,"6206 S Nashville Avenue Chicago, IL 60638",320000.0
 3,2,1600,"1151 E Hyde Park Boulevard 2D Chicago, IL 60615",305000.0
 3,2,1200,"2149 E 90th Street Chicago, IL 60617",299000.0
 4,2,3000,"2651 W Augusta Boulevard 1 Chicago, IL 60622",899949.0
@@ -915,3 +913,9 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"1340 N Dearborn Street 6D Chicago, IL 60610",249900.0
 3,2,1300,"10500 S Edbrooke Avenue Chicago, IL 60628",220000.0
 3,2,850,"1758 W 35th Street 3R Chicago, IL 60609",215000.0
+4,1,969,"11326 S Homewood Avenue Chicago, IL 60643",195000.0
+3,2,1416,"5043 S Artesian Avenue Chicago, IL 60632",160000.0
+4,3,2822,"10152 S Winston Avenue Chicago, IL 60643",130000.0
+2,2,920,"1412 E 75th Street Chicago, IL 60619",45000.0
+3,4,4000,"1639 S Blue Island Avenue Chicago, IL 60608",699999.0
+2,2,1500,"701 W Jackson Boulevard , 102 Chicago, IL 60661",450000.0
