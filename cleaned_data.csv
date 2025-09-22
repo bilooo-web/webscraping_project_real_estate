@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2,1350,"611 S Wells Street , 2406 Chicago, IL 60607",409000.0
-5,3,2571,"4517 N Austin Avenue Chicago, IL 60630",460000.0
 2,2,1200,"1322 S Prairie Avenue 406 Chicago, IL 60605",499900.0
 4,2,2450,"8053 S Kedzie Avenue Chicago, IL 60652",369000.0
 2,2,1300,"400 E RANDOLPH Street 913 Chicago, IL 60601",625000.0
@@ -914,3 +913,4 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,1800,"10838 S Wallace Street Chicago, IL 60628",189900.0
 3,2,2196,"8232 S Aberdeen Street Chicago, IL 60620",189900.0
 2,1,900,"3524 N Lawndale Avenue 1G Chicago, IL 60618",185000.0
+1,1,990,"1421 W Birchwood Avenue 3E Chicago, IL 60626",175000.0
