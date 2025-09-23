@@ -1,7 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"2
-beds",2,"926
-sq.ft.","5523 S Neenah Avenue Chicago, IL 60638","$369,900"
 "1
 beds",1,"728
 sq.ft.","6451 N California Avenue N , 2 Chicago, IL 60645","$167,000"
@@ -235,10 +232,10 @@ beds",2,"700
 sq.ft.","6342 N Artesian Avenue , GC Chicago, IL 60659","$118,333"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
 "2
 beds",1,"700
 sq.ft.","6342 N Artesian Avenue , 3B Chicago, IL 60659","$100,000"
@@ -748,7 +745,7 @@ beds",2,"1,100
 sq.ft.","6221 N Niagara Avenue , 105 Chicago, IL 60631","$199,900"
 "3
 beds",1,"1,316
-sq.ft.","7537 S Saint Lawrence Avenue Chicago, IL 60619","$99,000"
+sq.ft.","7537 S Saint Lawrence Avenue Chicago, IL 60619","$119,000"
 "3
 beds",2,"3,400
 sq.ft.","850 W Adams Street 7C Chicago, IL 60607","$2,100,000"
@@ -3023,3 +3020,6 @@ sq.ft.","7815 S Emerald Avenue Chicago, IL 60620","$235,000"
 "3
 beds",2,"1,500
 sq.ft.","5408 S Michigan Avenue 1S Chicago, IL 60615","$225,000"
+"2
+beds",1,"900
+sq.ft.","6738 N Bosworth Avenue 1W Chicago, IL 60626","$189,900"
