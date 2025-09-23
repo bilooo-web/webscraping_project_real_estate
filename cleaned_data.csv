@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+1,1,800,"6030 N Sheridan Road , 2108 Chicago, IL 60660",179000.0
 2,2,926,"5523 S Neenah Avenue Chicago, IL 60638",369900.0
 3,2,1400,"11413 S Normal Avenue Chicago, IL 60628",299000.0
 1,1,728,"6451 N California Avenue N , 2 Chicago, IL 60645",167000.0
@@ -917,4 +918,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1040,"12901 S Carondolet Avenue Chicago, IL 60633",214900.0
 3,2,2000,"1410 N STATE Parkway 5B Chicago, IL 60610",799000.0
 3,3,3500,"10649 S Sawyer Avenue Chicago, IL 60655",794900.0
-4,4,2163,"5622 S Oak Park Avenue Chicago, IL 60638",719900.0
