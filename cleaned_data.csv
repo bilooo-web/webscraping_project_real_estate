@@ -1,8 +1,8 @@
 bedrooms,bathrooms,square_footage,address,price
+3,1,1500,"3721 N Octavia Avenue Chicago, IL 60634",349900.0
 1,1,800,"6030 N Sheridan Road , 2108 Chicago, IL 60660",179000.0
 2,2,926,"5523 S Neenah Avenue Chicago, IL 60638",369900.0
 3,2,1400,"11413 S Normal Avenue Chicago, IL 60628",299000.0
-1,1,728,"6451 N California Avenue N , 2 Chicago, IL 60645",167000.0
 2,2,1200,"1122 W Catalpa Avenue 703 Chicago, IL 60640",349999.0
 4,2,2900,"7050 S Throop Street Chicago, IL 60636",259900.0
 1,1,1080,"2303 S Michigan Avenue 208 Chicago, IL 60616",329900.0
@@ -68,6 +68,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,1300,"1843 S RIDGEWAY Avenue Chicago, IL 60623",220000.0
 4,2,1332,"5752 S Paulina Street Chicago, IL 60636",125000.0
 3,1,819,"15 E 126th Street Chicago, IL 60628",120000.0
+1,1,728,"6451 N California Avenue N , 2 Chicago, IL 60645",167000.0
 3,2,2052,"2340 W Moffat Street Chicago, IL 60647",1099000.0
 2,2,1300,"400 E RANDOLPH Street 913 Chicago, IL 60601",625000.0
 4,4,2400,"5927 W Erie Street Chicago, IL 60644",469000.0
@@ -917,4 +918,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1412,"13912 S Manistee Avenue Burnham, IL 60633",269000.0
 3,1,1040,"12901 S Carondolet Avenue Chicago, IL 60633",214900.0
 3,2,2000,"1410 N STATE Parkway 5B Chicago, IL 60610",799000.0
-3,3,3500,"10649 S Sawyer Avenue Chicago, IL 60655",794900.0

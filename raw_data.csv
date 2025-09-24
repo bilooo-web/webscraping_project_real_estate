@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",1,"1,500
+sq.ft.","3721 N Octavia Avenue Chicago, IL 60634","$349,900"
 "1
 beds",1,"800
 sq.ft.","6030 N Sheridan Road , 2108 Chicago, IL 60660","$179,000"
@@ -8,9 +11,6 @@ sq.ft.","5523 S Neenah Avenue Chicago, IL 60638","$369,900"
 "3
 beds",2,"1,400
 sq.ft.","11413 S Normal Avenue Chicago, IL 60628","$299,000"
-"1
-beds",1,"728
-sq.ft.","6451 N California Avenue N , 2 Chicago, IL 60645","$167,000"
 "2
 beds",2,"1,200
 sq.ft.","1122 W Catalpa Avenue 703 Chicago, IL 60640","$349,999"
@@ -224,6 +224,9 @@ sq.ft.","5752 S Paulina Street Chicago, IL 60636","$125,000"
 "3
 beds",1,"819
 sq.ft.","15 E 126th Street Chicago, IL 60628","$120,000"
+"1
+beds",1,"728
+sq.ft.","6451 N California Avenue N , 2 Chicago, IL 60645","$167,000"
 "3
 beds",2,"2,052
 sq.ft.","2340 W Moffat Street Chicago, IL 60647","$1,099,000"
@@ -3020,6 +3023,3 @@ sq.ft.","1519 W Addison Street Chicago, IL 60613","$1,749,000"
 "3
 beds",2,"2,000
 sq.ft.","1410 N STATE Parkway 5B Chicago, IL 60610","$799,000"
-"3
-beds",3,"3,500
-sq.ft.","10649 S Sawyer Avenue Chicago, IL 60655","$794,900"
