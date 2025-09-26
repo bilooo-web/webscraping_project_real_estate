@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 2,1,963,"9813 S Calhoun Avenue Chicago, IL 60617",170000.0
-1,1,800,"6700 S South Shore Drive 2J Chicago, IL 60649",119999.0
 2,2,1200,"1122 W Catalpa Avenue 703 Chicago, IL 60640",349999.0
 4,2,2900,"7050 S Throop Street Chicago, IL 60636",259900.0
 3,3,2500,"4129 N Oketo Avenue Norridge, IL 60706",685000.0
@@ -70,6 +69,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,3,2571,"4517 N Austin Avenue Chicago, IL 60630",460000.0
 2,2,1226,"1110 W 15th Street 218 Chicago, IL 60608",367500.0
 4,2,2450,"8053 S Kedzie Avenue Chicago, IL 60652",369000.0
+1,1,800,"6700 S South Shore Drive 2J Chicago, IL 60649",119999.0
 4,3,3000,"1250 S Michigan Avenue 2900 Chicago, IL 60605",899999.0
 1,1,700,"10 E Ontario Street 1806 Chicago, IL 60611",265000.0
 3,2,1400,"1333 N Burling Street , B Chicago, IL 60610",495000.0

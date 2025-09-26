@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",1,"963
 sq.ft.","9813 S Calhoun Avenue Chicago, IL 60617","$170,000"
-"1
-beds",1,"800
-sq.ft.","6700 S South Shore Drive 2J Chicago, IL 60649","$119,999"
 "2
 beds",2,"1,200
 sq.ft.","1122 W Catalpa Avenue 703 Chicago, IL 60640","$349,999"
@@ -233,6 +230,9 @@ sq.ft.","1110 W 15th Street 218 Chicago, IL 60608","$367,500"
 "4
 beds",2,"2,450
 sq.ft.","8053 S Kedzie Avenue Chicago, IL 60652","$369,000"
+"1
+beds",1,"800
+sq.ft.","6700 S South Shore Drive 2J Chicago, IL 60649","$119,999"
 "4
 beds",3,"3,000
 sq.ft.","1250 S Michigan Avenue 2900 Chicago, IL 60605","$899,999"
