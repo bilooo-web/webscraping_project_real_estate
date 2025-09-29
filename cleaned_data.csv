@@ -2,10 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,2450,"8053 S Kedzie Avenue Chicago, IL 60652",369000.0
 1,1,965,"512 N McClurg Court 5306 Chicago, IL 60611",369900.0
 6,2,1365,"5128 W FLETCHER Street Chicago, IL 60641",399000.0
-1,1,800,"6700 S South Shore Drive 2J Chicago, IL 60649",119999.0
-4,3,3000,"1250 S Michigan Avenue 2900 Chicago, IL 60605",899999.0
-1,1,760,"1000 N Kingsbury Street 304 Chicago, IL 60610",325000.0
-1,1,700,"10 E Ontario Street 1806 Chicago, IL 60611",265000.0
 3,2,1400,"1333 N Burling Street , B Chicago, IL 60610",495000.0
 3,2,1400,"1145 W Newport Avenue U Chicago, IL 60657",550000.0
 3,3,2234,"420 W Elm Street 0 Chicago, IL 60610",799900.0
@@ -413,6 +409,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1206,"8328 S Paxton Avenue Chicago, IL 60617",159900.0
 2,1,800,"4107 W Iowa Street 6 Chicago, IL 60651",140000.0
 2,1,800,"6419 S Oak Park Avenue E-16 Chicago, IL 60638",134900.0
+1,1,800,"6700 S South Shore Drive 2J Chicago, IL 60649",119999.0
 3,1,1283,"13741 S Wallace Avenue 1 Riverdale, IL 60827",69900.0
 3,1,1012,"10310 S Hoxie Avenue Chicago, IL 60617",60000.0
 3,1,804,"8421 S Escanaba Avenue Chicago, IL 60617",38500.0
@@ -791,6 +788,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,897,"10133 S Aberdeen Street Chicago, IL 60643",249900.0
 4,2,1494,"8148 S Winchester Avenue Chicago, IL 60620",89900.0
 3,3,2160,"323 S Racine Avenue 6B Chicago, IL 60607",1100000.0
+4,3,3000,"1250 S Michigan Avenue 2900 Chicago, IL 60605",899999.0
 2,2,1400,"1301 W Madison Street 306 Chicago, IL 60607",595000.0
 3,2,1507,"1717 S Prairie Avenue 705 Chicago, IL 60616",565000.0
 4,3,2400,"3863 N Milwaukee Avenue Chicago, IL 60641",539500.0
@@ -922,3 +920,5 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1680,"7756 S Spaulding Avenue Chicago, IL 60652",349900.0
 3,1,1270,"2728 N Mango Avenue Chicago, IL 60639",345000.0
 5,4,2523,"7319 S Green Street Chicago, IL 60621",335000.0
+4,3,2138,"4808 S Dorchester Avenue 3N Chicago, IL 60615",329900.0
+5,2,2972,"1318 N Menard Avenue Chicago, IL 60651",324900.0
