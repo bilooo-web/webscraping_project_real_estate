@@ -3,9 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",2,"1,225
 sq.ft.","222 N Columbus Drive , 2808 Chicago, IL 60601","$439,900"
 "3
-beds",2,"2,900
-sq.ft.","680 N Lake Shore Drive 604 Chicago, IL 60611","$1,125,000"
-"3
 beds",3,"2,500
 sq.ft.","1523 E 85th Street Chicago, IL 60619","$325,000"
 "3
@@ -119,6 +116,9 @@ sq.ft.","2059 W Race Avenue Chicago, IL 60612","$1,559,000"
 "3
 beds",3,"2,800
 sq.ft.","66 W 15TH Street Chicago, IL 60605","$1,225,000"
+"3
+beds",2,"2,900
+sq.ft.","680 N Lake Shore Drive 604 Chicago, IL 60611","$1,125,000"
 "3
 beds",2,"4,800
 sq.ft.","711 N MILWAUKEE Avenue 2 Chicago, IL 60642","$1,124,500"
@@ -1264,10 +1264,10 @@ beds",2,"700
 sq.ft.","6342 N Artesian Avenue , GC Chicago, IL 60659","$118,333"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
 "2
 beds",1,"700
 sq.ft.","6342 N Artesian Avenue , 3B Chicago, IL 60659","$100,000"
@@ -2561,9 +2561,6 @@ sq.ft.","2321 W 81st Place Chicago, IL 60620","$239,900"
 "3
 beds",1,"1,470
 sq.ft.","6142 S Honore St Chicago, IL 60636","$225,000"
-"4
-beds",3,"916
-sq.ft.","7726 S Langley Ave Chicago, IL 60619","$99,000"
 "6
 beds",6,"9,740
 sq.ft.","1019 N WOLCOTT Avenue Chicago, IL 60622","$5,750,000"
@@ -3023,3 +3020,6 @@ sq.ft.","1452 N Leavitt Street 3 Chicago, IL 60622","$1,450,000"
 "3
 beds",2,"1,574
 sq.ft.","211 N Harbor Drive 2508 Chicago, IL 60601","$1,365,000"
+"3
+beds",2,"2,800
+sq.ft.","1532 W Ohio Avenue 2 Chicago, IL 60642","$1,249,000"

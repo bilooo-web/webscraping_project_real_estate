@@ -25,6 +25,8 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1881,"5114 S Kenwood Avenue 3B Chicago, IL 60615",900000.0
 3,2,1881,"5114 S Kenwood Avenue PHB Chicago, IL 60615",1000000.0
 3,2,2100,"5749 S Kenneth Avenue Chicago, IL 60629",436900.0
+3,2,2900,"680 N Lake Shore Drive 604 Chicago, IL 60611",1125000.0
+3,2,4800,"711 N MILWAUKEE Avenue 2 Chicago, IL 60642",1124500.0
 2,2,1505,"118 E Erie Street 18B Chicago, IL 60611",850000.0
 3,3,2450,"4906 N Winchester Avenue Chicago, IL 60640",849900.0
 2,2,1820,"161 E Chicago Avenue 38C Chicago, IL 60611",715000.0
@@ -383,8 +385,8 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"5415 N Sheridan Road , 502 Chicago, IL 60640",255000.0
 1,1,965,"777 N Michigan Avenue , 2108 Chicago, IL 60611",250000.0
 2,2,700,"6342 N Artesian Avenue , GC Chicago, IL 60659",118333.0
-1,1,700,"6342 N Artesian Avenue , 2B Chicago, IL 60659",100000.0
 1,1,700,"6342 N Artesian Avenue , 1B Chicago, IL 60659",100000.0
+1,1,700,"6342 N Artesian Avenue , 2B Chicago, IL 60659",100000.0
 2,1,700,"6342 N Artesian Avenue , 3B Chicago, IL 60659",100000.0
 2,2,1775,"180 E PEARSON Street 3703 Chicago, IL 60611",1099999.0
 4,3,2700,"6238 N Keating Avenue Chicago, IL 60646",999000.0
@@ -779,7 +781,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1325,"10243 S Lafayette Avenue Chicago, IL 60628",59000.0
 3,1,960,"2321 W 81st Place Chicago, IL 60620",239900.0
 3,1,1470,"6142 S Honore St Chicago, IL 60636",225000.0
-4,3,916,"7726 S Langley Ave Chicago, IL 60619",99000.0
 3,3,3238,"4203 N Drake Avenue Chicago, IL 60618",1099000.0
 2,2,1758,"130 N Garland Court 3803 Chicago, IL 60602",985000.0
 4,3,3944,"4347 N Richmond Avenue 1S Chicago, IL 60618",899000.0
