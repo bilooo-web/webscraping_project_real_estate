@@ -21,6 +21,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,900,"1000 W Adams Street 815 Chicago, IL 60607",325000.0
 7,3,3421,"7657 S Normal Avenue Chicago, IL 60620",439900.0
 4,3,2228,"4327 W 81st Street Chicago, IL 60652",340000.0
+3,3,1045,"4149 S Rockwell Street Chicago, IL 60632",428000.0
 3,3,1338,"8926 S Jeffery Boulevard Chicago, IL 60617",292000.0
 2,2,1700,"1000 W Washington Boulevard 334 Chicago, IL 60607",899000.0
 3,2,1914,"2923 N Southport Avenue 3 Chicago, IL 60657",999000.0
@@ -588,7 +589,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1066,"12643 S Harvard Avenue Chicago, IL 60628",130000.0
 5,3,2428,"6700 S STEWART Avenue Chicago, IL 60621",129900.0
 2,1,850,"346 E 41st Street 2 Chicago, IL 60653",109900.0
-3,3,1045,"4149 S Rockwell Street Chicago, IL 60632",428000.0
 2,2,1100,"6221 N Niagara Avenue , 105 Chicago, IL 60631",199900.0
 3,1,1316,"7537 S Saint Lawrence Avenue Chicago, IL 60619",99000.0
 2,2,1384,"211 N Harbor Drive 1606 Chicago, IL 60601",1060000.0
