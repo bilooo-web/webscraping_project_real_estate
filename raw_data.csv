@@ -18,9 +18,6 @@ sq.ft.","3459 N Narragansett Avenue Chicago, IL 60634","$374,900"
 beds",1,"1,287
 sq.ft.","3907 W Marquette Road Chicago, IL 60629","$285,000"
 "3
-beds",3,"2,500
-sq.ft.","1523 E 85th Street Chicago, IL 60619","$325,000"
-"3
 beds",1,"1,104
 sq.ft.","6206 S Nashville Avenue Chicago, IL 60638","$320,000"
 "3
@@ -170,6 +167,9 @@ sq.ft.","333 W Hubbard Street 1006 Chicago, IL 60654","$2,350,000"
 "3
 beds",2,"2,400
 sq.ft.","5107 N Sayre Avenue Chicago, IL 60656","$519,900"
+"3
+beds",3,"2,500
+sq.ft.","1523 E 85th Street Chicago, IL 60619","$325,000"
 "3
 beds",2,"1,881
 sq.ft.","5114 S Kenwood Avenue 4B Chicago, IL 60615","$925,000"
@@ -1468,10 +1468,10 @@ beds",2,"700
 sq.ft.","6342 N Artesian Avenue , GC Chicago, IL 60659","$118,333"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
 "2
 beds",1,"700
 sq.ft.","6342 N Artesian Avenue , 3B Chicago, IL 60659","$100,000"
