@@ -1,4 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2,1400,"910 N Lake Shore Drive , 1620 Chicago, IL 60611",649000.0
+2,2,1100,"1529 S State Street , 18B Chicago, IL 60605",349000.0
 3,1,1088,"12917 S Marquette Avenue Chicago, IL 60633",199900.0
 1,1,1100,"345 N Canal Street , 404 Chicago, IL 60606",365000.0
 3,1,1124,"6220 S Mcvicker Avenue Chicago, IL 60638",339900.0
@@ -829,7 +831,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1000,"6104 S Dorchester Avenue 3N Chicago, IL 60637",99000.0
 4,2,870,"1228 E 85th Street Chicago, IL 60619",79900.0
 4,3,2037,"6544 W Devon Avenue Chicago, IL 60631",689000.0
-2,2,1100,"1529 S State Street , 18B Chicago, IL 60605",349000.0
 3,2,1700,"1035 N Hermitage Avenue 3PH Chicago, IL 60622",1049000.0
 2,3,2400,"1832 N Wilmot Avenue Chicago, IL 60647",989900.0
 2,2,1408,"211 N Harbor Drive 2303 Chicago, IL 60601",925000.0
@@ -929,5 +930,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,2400,"1214 N ROCKWELL Street Chicago, IL 60622",825000.0
 4,2,1540,"4415 N Ashland Avenue Chicago, IL 60640",799000.0
 2,2,1244,"1400 W Monroe Street 4A Chicago, IL 60607",750000.0
-3,2,2700,"4534 N Saint Louis Avenue Chicago, IL 60625",719000.0
-5,3,3108,"3638 N ODELL Avenue Chicago, IL 60634",699000.0
