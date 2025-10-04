@@ -1,12 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
-2,2,1000,"5635 S California Ave Chicago, IL 60629",220000.0
 3,2,1400,"910 N Lake Shore Drive , 1620 Chicago, IL 60611",649000.0
 2,2,1100,"1529 S State Street , 18B Chicago, IL 60605",349000.0
-3,1,998,"4605 W 84th Place Chicago, IL 60652",285000.0
-1,1,800,"720 W Gordon Terrace , 12A Chicago, IL 60613",195000.0
 3,1,1088,"12917 S Marquette Avenue Chicago, IL 60633",199900.0
-5,4,2875,"7440 S Oglesby Avenue Chicago, IL 60649",635000.0
-3,3,3000,"1329 N Dearborn Street 1 Chicago, IL 60610",995000.0
 4,2,1800,"3343 N Narragansett Avenue Chicago, IL 60634",559900.0
 3,2,1980,"2703 N Halsted Street 2 Chicago, IL 60614",875000.0
 3,3,3336,"657 N PINE Avenue Chicago, IL 60644",610000.0
@@ -30,6 +25,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,2600,"12804 S Paulina Street Calumet Park, IL 60827",239900.0
 2,2,1000,"5635 S California Avenue Chicago, IL 60629",220000.0
 2,1,1078,"14322 S Wentworth Avenue Riverdale, IL 60827",158995.0
+3,3,3000,"1329 N Dearborn Street 1 Chicago, IL 60610",995000.0
 3,2,1800,"1260 W WASHINGTON Boulevard 404 Chicago, IL 60607",855000.0
 4,3,2539,"2019 N WHIPPLE Street 1 Chicago, IL 60647",700000.0
 2,2,1170,"1012 N Wood Street 2 Chicago, IL 60622",615000.0
@@ -69,6 +65,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1253,"1515 S Prairie Avenue 803 Chicago, IL 60605",375000.0
 4,3,2000,"2147 W Adams Street 1N Chicago, IL 60612",650000.0
 2,2,1700,"1000 W Washington Boulevard 334 Chicago, IL 60607",899000.0
+5,4,2875,"7440 S Oglesby Avenue Chicago, IL 60649",635000.0
 3,2,1914,"2923 N Southport Avenue 3 Chicago, IL 60657",999000.0
 1,1,809,"130 N Garland Court 2608 Chicago, IL 60602",344900.0
 3,3,1950,"4232 W BELMONT Avenue 5 Chicago, IL 60641",729000.0
@@ -296,6 +293,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,924,"2231 S Drake Avenue Chicago, IL 60623",75000.0
 2,2,1242,"3459 N Narragansett Avenue Chicago, IL 60634",374900.0
 3,1,1287,"3907 W Marquette Road Chicago, IL 60629",285000.0
+3,3,2800,"66 W 15TH Street Chicago, IL 60605",1225000.0
 3,2,2900,"680 N Lake Shore Drive 604 Chicago, IL 60611",1125000.0
 3,2,4800,"711 N MILWAUKEE Avenue 2 Chicago, IL 60642",1124500.0
 2,2,1505,"118 E Erie Street 18B Chicago, IL 60611",850000.0
@@ -929,3 +927,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1888,"155 N Harbor Drive 4101-4102 Chicago, IL 60601",1050000.0
 3,2,1655,"1929 N Maud Avenue Chicago, IL 60614",995000.0
 4,2,2400,"1214 N ROCKWELL Street Chicago, IL 60622",825000.0
+4,2,1540,"4415 N Ashland Avenue Chicago, IL 60640",799000.0
+2,2,1244,"1400 W Monroe Street 4A Chicago, IL 60607",750000.0
+3,2,2700,"4534 N Saint Louis Avenue Chicago, IL 60625",719000.0

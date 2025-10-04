@@ -1,7 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"2
-beds",2,"1,000
-sq.ft.","5635 S California Ave Chicago, IL 60629","$220,000"
 "3
 beds",2,"1,400
 sq.ft.","910 N Lake Shore Drive , 1620 Chicago, IL 60611","$649,000"
@@ -9,20 +6,8 @@ sq.ft.","910 N Lake Shore Drive , 1620 Chicago, IL 60611","$649,000"
 beds",2,"1,100
 sq.ft.","1529 S State Street , 18B Chicago, IL 60605","$349,000"
 "3
-beds",1,"998
-sq.ft.","4605 W 84th Place Chicago, IL 60652","$285,000"
-"1
-beds",1,"800
-sq.ft.","720 W Gordon Terrace , 12A Chicago, IL 60613","$195,000"
-"3
 beds",1,"1,088
 sq.ft.","12917 S Marquette Avenue Chicago, IL 60633","$199,900"
-"5
-beds",4,"2,875
-sq.ft.","7440 S Oglesby Avenue Chicago, IL 60649","$635,000"
-"3
-beds",3,"3,000
-sq.ft.","1329 N Dearborn Street 1 Chicago, IL 60610","$995,000"
 "4
 beds",2,"1,800
 sq.ft.","3343 N Narragansett Avenue Chicago, IL 60634","$559,900"
@@ -98,6 +83,9 @@ sq.ft.","5635 S California Avenue Chicago, IL 60629","$220,000"
 "2
 beds",1,"1,078
 sq.ft.","14322 S Wentworth Avenue Riverdale, IL 60827","$158,995"
+"3
+beds",3,"3,000
+sq.ft.","1329 N Dearborn Street 1 Chicago, IL 60610","$995,000"
 "3
 beds",2,"1,800
 sq.ft.","1260 W WASHINGTON Boulevard 404 Chicago, IL 60607","$855,000"
@@ -221,6 +209,9 @@ sq.ft.","2147 W Adams Street 1N Chicago, IL 60612","$650,000"
 "2
 beds",2,"1,700
 sq.ft.","1000 W Washington Boulevard 334 Chicago, IL 60607","$899,000"
+"5
+beds",4,"2,875
+sq.ft.","7440 S Oglesby Avenue Chicago, IL 60649","$635,000"
 "3
 beds",2,"1,914
 sq.ft.","2923 N Southport Avenue 3 Chicago, IL 60657","$999,000"
@@ -3023,3 +3014,12 @@ sq.ft.","1929 N Maud Avenue Chicago, IL 60614","$995,000"
 "4
 beds",2,"2,400
 sq.ft.","1214 N ROCKWELL Street Chicago, IL 60622","$825,000"
+"4
+beds",2,"1,540
+sq.ft.","4415 N Ashland Avenue Chicago, IL 60640","$799,000"
+"2
+beds",2,"1,244
+sq.ft.","1400 W Monroe Street 4A Chicago, IL 60607","$750,000"
+"3
+beds",2,"2,700
+sq.ft.","4534 N Saint Louis Avenue Chicago, IL 60625","$719,000"
