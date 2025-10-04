@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",2,"1,000
+sq.ft.","5635 S California Ave Chicago, IL 60629","$220,000"
 "3
 beds",2,"1,400
 sq.ft.","910 N Lake Shore Drive , 1620 Chicago, IL 60611","$649,000"
@@ -6,20 +9,14 @@ sq.ft.","910 N Lake Shore Drive , 1620 Chicago, IL 60611","$649,000"
 beds",2,"1,100
 sq.ft.","1529 S State Street , 18B Chicago, IL 60605","$349,000"
 "3
+beds",1,"998
+sq.ft.","4605 W 84th Place Chicago, IL 60652","$285,000"
+"1
+beds",1,"800
+sq.ft.","720 W Gordon Terrace , 12A Chicago, IL 60613","$195,000"
+"3
 beds",1,"1,088
 sq.ft.","12917 S Marquette Avenue Chicago, IL 60633","$199,900"
-"1
-beds",1,"1,100
-sq.ft.","345 N Canal Street , 404 Chicago, IL 60606","$365,000"
-"3
-beds",1,"1,124
-sq.ft.","6220 S Mcvicker Avenue Chicago, IL 60638","$339,900"
-"1
-beds",1,"1,200
-sq.ft.","7344 N Ridge Boulevard , 5C Chicago, IL 60645","$154,900"
-"3
-beds",3,"1,800
-sq.ft.","7825 S Ingleside Avenue Chicago, IL 60619","$265,000"
 "5
 beds",4,"2,875
 sq.ft.","7440 S Oglesby Avenue Chicago, IL 60649","$635,000"
@@ -845,6 +842,15 @@ sq.ft.","8421 S Escanaba Avenue Chicago, IL 60617","$35,000"
 "2
 beds",1,"1,000
 sq.ft.","7911 S ELLIS Avenue 2 Chicago, IL 60619","$24,500"
+"1
+beds",1,"1,100
+sq.ft.","345 N Canal Street , 404 Chicago, IL 60606","$365,000"
+"3
+beds",1,"1,124
+sq.ft.","6220 S Mcvicker Avenue Chicago, IL 60638","$339,900"
+"1
+beds",1,"1,200
+sq.ft.","7344 N Ridge Boulevard , 5C Chicago, IL 60645","$154,900"
 "4
 beds",5,"6,000
 sq.ft.","1530 S State Street 18A-B Chicago, IL 60605","$1,600,000"
@@ -2011,10 +2017,10 @@ beds",2,"700
 sq.ft.","6342 N Artesian Avenue , GC Chicago, IL 60659","$118,333"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
 "2
 beds",1,"700
 sq.ft.","6342 N Artesian Avenue , 3B Chicago, IL 60659","$100,000"
@@ -3017,9 +3023,3 @@ sq.ft.","1929 N Maud Avenue Chicago, IL 60614","$995,000"
 "4
 beds",2,"2,400
 sq.ft.","1214 N ROCKWELL Street Chicago, IL 60622","$825,000"
-"4
-beds",2,"1,540
-sq.ft.","4415 N Ashland Avenue Chicago, IL 60640","$799,000"
-"2
-beds",2,"1,244
-sq.ft.","1400 W Monroe Street 4A Chicago, IL 60607","$750,000"
