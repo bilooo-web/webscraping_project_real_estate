@@ -15,12 +15,6 @@ sq.ft.","720 W Gordon Terrace , 12A Chicago, IL 60613","$195,000"
 beds",1,"600
 sq.ft.","4240 N Clarendon Avenue , 200S Chicago, IL 60613","$189,000"
 "3
-beds",3,"3,200
-sq.ft.","3027 N Elbridge Avenue Chicago, IL 60618","$1,300,000"
-"1
-beds",1,"1,200
-sq.ft.","1530 S State Street 614 Chicago, IL 60605","$305,000"
-"3
 beds",3,"4,000
 sq.ft.","2422 W Ohio Street Chicago, IL 60612","$965,000"
 "1
@@ -2035,10 +2029,10 @@ beds",2,"700
 sq.ft.","6342 N Artesian Avenue , GC Chicago, IL 60659","$118,333"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
 "2
 beds",1,"700
 sq.ft.","6342 N Artesian Avenue , 3B Chicago, IL 60659","$100,000"
@@ -2324,6 +2318,9 @@ sq.ft.","2504 N 78th Avenue Elmwood Park, IL 60707","$319,900"
 "3
 beds",2,"1,700
 sq.ft.","7129 S Michigan Avenue Chicago, IL 60619","$312,900"
+"1
+beds",1,"1,200
+sq.ft.","1530 S State Street 614 Chicago, IL 60605","$305,000"
 "1
 beds",1,"850
 sq.ft.","41 E 8th Street 1805 Chicago, IL 60605","$295,000"
@@ -3023,3 +3020,6 @@ sq.ft.","7811 S Hoyne Avenue Chicago, IL 60620","$120,000"
 "2
 beds",2,"1,200
 sq.ft.","7000 S East End Avenue 303 Chicago, IL 60649","$112,500"
+"2
+beds",2,"1,516
+sq.ft.","426 N Harding Avenue Chicago, IL 60624","$99,000"
