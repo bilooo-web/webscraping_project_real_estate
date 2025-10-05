@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"900
+sq.ft.","2422 W Berwyn Avenue #309 Chicago, IL 60625","$163,900"
 "3
 beds",2,"1,400
 sq.ft.","910 N Lake Shore Drive , 1620 Chicago, IL 60611","$649,000"
@@ -3020,6 +3023,3 @@ sq.ft.","310 S Michigan Avenue 2111 Chicago, IL 60604","$275,000"
 "2
 beds",1,"1,100
 sq.ft.","2525 N 72nd Court 2AN Elmwood Park, IL 60707","$259,900"
-"1
-beds",1,"900
-sq.ft.","3600 N LAKE SHORE Drive 514 Chicago, IL 60613","$241,000"
