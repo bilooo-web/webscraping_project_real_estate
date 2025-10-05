@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",1,"960
+sq.ft.","2321 W 81st Place Chicago, IL 60620","$219,000"
 "1
 beds",1,"900
 sq.ft.","2422 W Berwyn Avenue #309 Chicago, IL 60625","$163,900"
@@ -2089,10 +2092,10 @@ beds",2,"700
 sq.ft.","6342 N Artesian Avenue , GC Chicago, IL 60659","$118,333"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
 "2
 beds",1,"700
 sq.ft.","6342 N Artesian Avenue , 3B Chicago, IL 60659","$100,000"
@@ -3020,6 +3023,3 @@ sq.ft.","7015 S Indiana Avenue Chicago, IL 60637","$298,900"
 "1
 beds",1,"825
 sq.ft.","310 S Michigan Avenue 2111 Chicago, IL 60604","$275,000"
-"2
-beds",1,"1,100
-sq.ft.","2525 N 72nd Court 2AN Elmwood Park, IL 60707","$259,900"
