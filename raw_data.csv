@@ -1,7 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",3,"3,600
+sq.ft.","4015 N Albany Avenue Chicago, IL 60618","$1,349,900"
+"3
 beds",1,"1,060
 sq.ft.","841 N Fairfield Avenue Chicago, IL 60622","$324,900"
+"2
+beds",1,"1,175
+sq.ft.","6220 N Ridge Avenue #S203 Chicago, IL 60660","$244,900"
 "3
 beds",1,"960
 sq.ft.","2321 W 81st Place Chicago, IL 60620","$219,000"
@@ -3017,9 +3023,3 @@ sq.ft.","9636 S Bishop Street Chicago, IL 60643","$157,700"
 "1
 beds",1,"800
 sq.ft.","4857 W ROSCOE Street 2 Chicago, IL 60641","$139,500"
-"1
-beds",1,"775
-sq.ft.","7234 W NORTH Avenue 1214 Elmwood Park, IL 60707","$129,900"
-"4
-beds",3,"1,300
-sq.ft.","6737 S Champlain Avenue Chicago, IL 60637","$125,000"
