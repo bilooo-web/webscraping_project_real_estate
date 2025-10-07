@@ -3,6 +3,9 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",3,"3,600
 sq.ft.","4015 N Albany Avenue Chicago, IL 60618","$1,349,900"
 "3
+beds",2,"2,080
+sq.ft.","3704 W 57th Street Chicago, IL 60629","$359,999"
+"3
 beds",1,"1,060
 sq.ft.","841 N Fairfield Avenue Chicago, IL 60622","$324,900"
 "2
@@ -14,6 +17,9 @@ sq.ft.","2321 W 81st Place Chicago, IL 60620","$219,000"
 "1
 beds",1,"900
 sq.ft.","2422 W Berwyn Avenue #309 Chicago, IL 60625","$163,900"
+"3
+beds",1,"1,230
+sq.ft.","7723 South Honore Street Chicago, IL 60620","$130,000"
 "3
 beds",3,"2,550
 sq.ft.","110 W Superior Street 2503 Chicago, IL 60654","$1,295,000"
@@ -158,9 +164,6 @@ sq.ft.","3529 S 54th Avenue Cicero, IL 60804","$424,500"
 "1
 beds",1,"821
 sq.ft.","600 N Fairbanks Court 1306 Chicago, IL 60611","$414,999"
-"3
-beds",2,"2,080
-sq.ft.","3704 W 57th Street Chicago, IL 60629","$359,999"
 "1
 beds",1,"800
 sq.ft.","123 S Green Street 409B Chicago, IL 60607","$349,000"
@@ -3020,6 +3023,3 @@ sq.ft.","2253 W Coulter Street 4 Chicago, IL 60608","$570,000"
 "3
 beds",3,"2,600
 sq.ft.","6104 N KIMBALL Avenue Chicago, IL 60659","$569,000"
-"4
-beds",4,"1,500
-sq.ft.","3105 N 77th Avenue Elmwood Park, IL 60707","$499,900"
