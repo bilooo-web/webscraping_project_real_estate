@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",1,"1,130
+sq.ft.","11712 S Troy Drive Merrionette Park, IL 60803","$239,900"
+"3
 beds",3,"3,600
 sq.ft.","4015 N Albany Avenue Chicago, IL 60618","$1,349,900"
 "3
@@ -11,18 +14,6 @@ sq.ft.","841 N Fairfield Avenue Chicago, IL 60622","$324,900"
 "2
 beds",1,"1,175
 sq.ft.","6220 N Ridge Avenue #S203 Chicago, IL 60660","$244,900"
-"3
-beds",1,"960
-sq.ft.","2321 W 81st Place Chicago, IL 60620","$219,000"
-"1
-beds",1,"900
-sq.ft.","2422 W Berwyn Avenue #309 Chicago, IL 60625","$163,900"
-"3
-beds",1,"1,230
-sq.ft.","7723 South Honore Street Chicago, IL 60620","$130,000"
-"3
-beds",3,"2,550
-sq.ft.","110 W Superior Street 2503 Chicago, IL 60654","$1,295,000"
 "6
 beds",3,"2,800
 sq.ft.","3306 W Le Moyne Street Chicago, IL 60651","$650,000"
@@ -242,6 +233,15 @@ sq.ft.","3223 W 98th Street Evergreen Park, IL 60805","$300,000"
 "3
 beds",1,"1,040
 sq.ft.","9647 S Lowe Avenue Chicago, IL 60628","$170,000"
+"3
+beds",1,"960
+sq.ft.","2321 W 81st Place Chicago, IL 60620","$219,000"
+"1
+beds",1,"900
+sq.ft.","2422 W Berwyn Avenue #309 Chicago, IL 60625","$163,900"
+"3
+beds",1,"1,230
+sq.ft.","7723 South Honore Street Chicago, IL 60620","$130,000"
 "3
 beds",2,"2,642
 sq.ft.","420 E Waterside Drive 4010 Chicago, IL 60601","$1,425,000"
