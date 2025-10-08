@@ -1,8 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",1,"1,130
-sq.ft.","11712 S Troy Drive Merrionette Park, IL 60803","$239,900"
-"3
 beds",3,"3,600
 sq.ft.","4015 N Albany Avenue Chicago, IL 60618","$1,349,900"
 "3
@@ -3023,3 +3020,6 @@ sq.ft.","2253 W Coulter Street 4 Chicago, IL 60608","$570,000"
 "3
 beds",3,"2,600
 sq.ft.","6104 N KIMBALL Avenue Chicago, IL 60659","$569,000"
+"4
+beds",4,"1,500
+sq.ft.","3105 N 77th Avenue Elmwood Park, IL 60707","$499,900"
