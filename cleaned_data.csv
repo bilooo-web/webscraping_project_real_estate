@@ -1,14 +1,12 @@
 bedrooms,bathrooms,square_footage,address,price
-3,1,1321,"1519 S 58th Avenue Cicero, IL 60804",319900.0
 3,1,1130,"11712 S Troy Drive Merrionette Park, IL 60803",239900.0
-6,3,2800,"3306 W Le Moyne Street Chicago, IL 60651",650000.0
-1,1,800,"6700 S South Shore Drive 2J Chicago, IL 60649",119999.0
 3,3,3006,"7810 S Bishop Street Chicago, IL 60620",377900.0
 2,2,1100,"1464 S Michigan Avenue 1404 Chicago, IL 60605",385000.0
 4,3,3624,"2123 N Austin Avenue Chicago, IL 60639",669900.0
 2,1,1200,"7348 N RIDGE Boulevard 16B Chicago, IL 60645",199900.0
 7,3,3421,"7657 S Normal Avenue Chicago, IL 60620",419900.0
 2,2,1250,"1325 W George Street 1 Chicago, IL 60657",515000.0
+1,1,800,"6700 S South Shore Drive 2J Chicago, IL 60649",119999.0
 2,2,1070,"1901 S CALUMET Avenue 2712 Chicago, IL 60616",405000.0
 3,2,1080,"7310 S Claremont Avenue Chicago, IL 60636",189900.0
 3,2,1700,"2448 N Clybourn Avenue 2 Chicago, IL 60614",699000.0
@@ -412,6 +410,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,3200,"4110 S Vincennes Avenue Chicago, IL 60653",860000.0
 3,3,2234,"420 W Elm Street 0 Chicago, IL 60610",799900.0
 3,4,3536,"6575 N Caldwell Avenue Chicago, IL 60646",674900.0
+6,3,2800,"3306 W Le Moyne Street Chicago, IL 60651",650000.0
 4,3,3300,"4718 W Addison Street Chicago, IL 60641",599995.0
 3,2,1750,"4710 N Beacon Street 2S Chicago, IL 60640",579000.0
 2,3,2200,"1240 N Lake shore Drive 14A Chicago, IL 60610",579000.0
@@ -696,8 +695,8 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"5415 N Sheridan Road , 502 Chicago, IL 60640",255000.0
 1,1,965,"777 N Michigan Avenue , 2108 Chicago, IL 60611",250000.0
 2,2,700,"6342 N Artesian Avenue , GC Chicago, IL 60659",118333.0
-1,1,700,"6342 N Artesian Avenue , 1B Chicago, IL 60659",100000.0
 1,1,700,"6342 N Artesian Avenue , 2B Chicago, IL 60659",100000.0
+1,1,700,"6342 N Artesian Avenue , 1B Chicago, IL 60659",100000.0
 2,1,700,"6342 N Artesian Avenue , 3B Chicago, IL 60659",100000.0
 2,2,1775,"180 E PEARSON Street 3703 Chicago, IL 60611",1099999.0
 4,3,2700,"6238 N Keating Avenue Chicago, IL 60646",999000.0
@@ -933,3 +932,4 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,840,"659 W Randolph Street 1407 Chicago, IL 60661",285000.0
 1,1,900,"900 N Kingsbury Street 861 Chicago, IL 60610",285000.0
 3,2,1500,"6818 N Ashland Boulevard 1A Chicago, IL 60626",279000.0
+3,1,1700,"5121 S Trumbull Avenue Chicago, IL 60632",274900.0
