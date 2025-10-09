@@ -1,19 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
+beds",1,"1,321
+sq.ft.","1519 S 58th Avenue Cicero, IL 60804","$319,900"
+"3
 beds",1,"1,130
 sq.ft.","11712 S Troy Drive Merrionette Park, IL 60803","$239,900"
-"3
-beds",3,"3,600
-sq.ft.","4015 N Albany Avenue Chicago, IL 60618","$1,349,900"
-"3
-beds",2,"2,080
-sq.ft.","3704 W 57th Street Chicago, IL 60629","$359,999"
-"3
-beds",1,"1,060
-sq.ft.","841 N Fairfield Avenue Chicago, IL 60622","$324,900"
-"2
-beds",1,"1,175
-sq.ft.","6220 N Ridge Avenue #S203 Chicago, IL 60660","$244,900"
 "6
 beds",3,"2,800
 sq.ft.","3306 W Le Moyne Street Chicago, IL 60651","$650,000"
@@ -383,6 +374,18 @@ sq.ft.","1810 S Kildare Avenue Chicago, IL 60623","$39,900"
 "4
 beds",2,"1,638
 sq.ft.","7228 S Hermitage Avenue Chicago, IL 60636",Price On Request
+"3
+beds",3,"3,600
+sq.ft.","4015 N Albany Avenue Chicago, IL 60618","$1,349,900"
+"3
+beds",2,"2,080
+sq.ft.","3704 W 57th Street Chicago, IL 60629","$359,999"
+"3
+beds",1,"1,060
+sq.ft.","841 N Fairfield Avenue Chicago, IL 60622","$324,900"
+"2
+beds",1,"1,175
+sq.ft.","6220 N Ridge Avenue #S203 Chicago, IL 60660","$244,900"
 "3
 beds",2,"2,585
 sq.ft.","1478 S PRAIRIE Avenue E Chicago, IL 60605","$859,000"
@@ -2239,10 +2242,10 @@ beds",2,"700
 sq.ft.","6342 N Artesian Avenue , GC Chicago, IL 60659","$118,333"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
 "2
 beds",1,"700
 sq.ft.","6342 N Artesian Avenue , 3B Chicago, IL 60659","$100,000"
@@ -3020,6 +3023,3 @@ sq.ft.","900 N Kingsbury Street 861 Chicago, IL 60610","$285,000"
 "3
 beds",2,"1,500
 sq.ft.","6818 N Ashland Boulevard 1A Chicago, IL 60626","$279,000"
-"3
-beds",1,"1,700
-sq.ft.","5121 S Trumbull Avenue Chicago, IL 60632","$274,900"
