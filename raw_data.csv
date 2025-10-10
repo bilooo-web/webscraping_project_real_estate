@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
 beds",1,"1,321
 sq.ft.","1519 S 58th Avenue Cicero, IL 60804","$319,900"
-"3
-beds",1,"1,130
-sq.ft.","11712 S Troy Drive Merrionette Park, IL 60803","$239,900"
 "2
 beds",2,"1,312
 sq.ft.","125 E 13th Street 1213 Chicago, IL 60605","$445,000"
@@ -560,6 +557,9 @@ sq.ft.","8641 S Jeffery Boulevard Chicago, IL 60617","$214,900"
 "4
 beds",3,"1,564
 sq.ft.","2469 E 74th Street Chicago, IL 60649","$90,000"
+"3
+beds",1,"1,130
+sq.ft.","11712 S Troy Drive Merrionette Park, IL 60803","$239,900"
 "3
 beds",2,"3,400
 sq.ft.","850 W Adams Street 7C Chicago, IL 60607","$2,000,000"

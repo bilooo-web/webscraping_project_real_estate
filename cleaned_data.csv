@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 3,1,1321,"1519 S 58th Avenue Cicero, IL 60804",319900.0
-3,1,1130,"11712 S Troy Drive Merrionette Park, IL 60803",239900.0
 2,2,1312,"125 E 13th Street 1213 Chicago, IL 60605",445000.0
 3,3,3006,"7810 S Bishop Street Chicago, IL 60620",377900.0
 5,2,2243,"64 E 102ND Place Chicago, IL 60628",269900.0
@@ -171,6 +170,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1250,"6517 N CALIFORNIA Avenue 303 Chicago, IL 60645",237000.0
 3,1,1274,"8641 S Jeffery Boulevard Chicago, IL 60617",214900.0
 4,3,1564,"2469 E 74th Street Chicago, IL 60649",90000.0
+3,1,1130,"11712 S Troy Drive Merrionette Park, IL 60803",239900.0
 1,1,1224,"340 E RANDOLPH Street 905 Chicago, IL 60601",750000.0
 3,2,3000,"4920 N WHIPPLE Street 1 Chicago, IL 60625",750000.0
 3,2,2694,"645 W Bittersweet Place 1 Chicago, IL 60613",645000.0
