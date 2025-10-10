@@ -2,12 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
 beds",1,"1,321
 sq.ft.","1519 S 58th Avenue Cicero, IL 60804","$319,900"
-"2
-beds",2,"1,312
-sq.ft.","125 E 13th Street 1213 Chicago, IL 60605","$445,000"
-"3
-beds",3,"3,006
-sq.ft.","7810 S Bishop Street Chicago, IL 60620","$377,900"
 "5
 beds",2,"2,243
 sq.ft.","64 E 102ND Place Chicago, IL 60628","$269,900"
@@ -515,6 +509,9 @@ sq.ft.","4828 N Newcastle Avenue Chicago, IL 60656","$499,000"
 "2
 beds",2,"1,271
 sq.ft.","400 N La Salle Drive 3002 Chicago, IL 60654","$450,000"
+"2
+beds",2,"1,312
+sq.ft.","125 E 13th Street 1213 Chicago, IL 60605","$445,000"
 "2
 beds",2,"1,200
 sq.ft.","401 E Ontario Street 809 Chicago, IL 60611","$425,000"
@@ -2470,10 +2467,10 @@ beds",2,"700
 sq.ft.","6342 N Artesian Avenue , GC Chicago, IL 60659","$118,333"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
 "2
 beds",1,"700
 sq.ft.","6342 N Artesian Avenue , 3B Chicago, IL 60659","$100,000"
@@ -2948,6 +2945,9 @@ sq.ft.","655 W Irving Park Road 5502 Chicago, IL 60613","$399,900"
 "1
 beds",1,"780
 sq.ft.","420 E Waterside Drive 3304 Chicago, IL 60601","$399,000"
+"3
+beds",3,"3,006
+sq.ft.","7810 S Bishop Street Chicago, IL 60620","$377,900"
 "4
 beds",4,"3,400
 sq.ft.","4956 S Champlain Avenue 1S Chicago, IL 60615","$375,000"
