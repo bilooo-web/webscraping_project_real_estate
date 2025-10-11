@@ -2,15 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "6
 beds",2,"2,310
 sq.ft.","12901 S Muskegon Avenue Chicago, IL 60633","$299,901"
-"2
-beds",2,"1,100
-sq.ft.","1464 S Michigan Avenue 1404 Chicago, IL 60605","$385,000"
-"3
-beds",3,"2,600
-sq.ft.","4355 S Lake Park Avenue 2N Chicago, IL 60653","$545,000"
-"2
-beds",1,"750
-sq.ft.","6416 W 64th Place 3A Chicago, IL 60638","$189,000"
 "4
 beds",3,"3,624
 sq.ft.","2123 N Austin Avenue Chicago, IL 60639","$669,900"
@@ -236,6 +227,9 @@ sq.ft.","3306 W Le Moyne Street Chicago, IL 60651","$650,000"
 "3
 beds",2,"1,563
 sq.ft.","5121 S Laramie Avenue Chicago, IL 60638","$325,000"
+"2
+beds",2,"1,100
+sq.ft.","1464 S Michigan Avenue 1404 Chicago, IL 60605","$385,000"
 "3
 beds",3,"2,500
 sq.ft.","1523 E 85th Street Chicago, IL 60619","$315,000"
@@ -374,9 +368,6 @@ sq.ft.","1070 W 15th Street 306 Chicago, IL 60608","$299,500"
 "2
 beds",2,"1,008
 sq.ft.","10741 S California Avenue Chicago, IL 60655","$349,900"
-"2
-beds",2,"1,000
-sq.ft.","5635 S California Ave Chicago, IL 60629","$200,000"
 "4
 beds",3,"2,228
 sq.ft.","4327 W 81st Street Chicago, IL 60652","$330,000"
@@ -1238,6 +1229,9 @@ sq.ft.","8852 S Wallace Street Chicago, IL 60620","$94,000"
 "5
 beds",2,"1,470
 sq.ft.","10918 S Wabash Avenue Chicago, IL 60628","$75,000"
+"2
+beds",2,"1,000
+sq.ft.","5635 S California Ave Chicago, IL 60629","$220,000"
 "3
 beds",1,"1,088
 sq.ft.","12917 S Marquette Avenue Chicago, IL 60633","$199,900"
@@ -2369,6 +2363,9 @@ sq.ft.","5757 N Sheridan Road 18J Chicago, IL 60660","$199,999"
 "1
 beds",1,"855
 sq.ft.","233 E Erie Street 1905 Chicago, IL 60611","$199,000"
+"2
+beds",1,"750
+sq.ft.","6416 W 64th Place 3A Chicago, IL 60638","$189,000"
 "5
 beds",2,"1,548
 sq.ft.","6732 S Peoria Street Chicago, IL 60621","$175,000"
@@ -2599,10 +2596,10 @@ beds",2,"700
 sq.ft.","6342 N Artesian Avenue , GC Chicago, IL 60659","$118,333"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
 "2
 beds",1,"700
 sq.ft.","6342 N Artesian Avenue , 3B Chicago, IL 60659","$100,000"
@@ -3023,3 +3020,6 @@ sq.ft.","346 E 41st Street 2 Chicago, IL 60653","$109,900"
 "3
 beds",3,"1,045
 sq.ft.","4149 S Rockwell Street Chicago, IL 60632","$428,000"
+"2
+beds",2,"1,100
+sq.ft.","6221 N Niagara Avenue , 105 Chicago, IL 60631","$199,900"
