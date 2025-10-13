@@ -2,12 +2,7 @@ bedrooms,bathrooms,square_footage,address,price
 6,2,2310,"12901 S Muskegon Avenue Chicago, IL 60633",299901.0
 4,3,2914,"9556 S Winchester Avenue Chicago, IL 60643",849900.0
 2,2,1250,"1301 W Washington Boulevard 509 Chicago, IL 60607",500000.0
-2,2,1494,"240 E Illinois Street 607 Chicago, IL 60611",525000.0
-3,2,1080,"7310 S Claremont Avenue Chicago, IL 60636",189900.0
-4,3,2228,"4327 W 81st Street Chicago, IL 60652",330000.0
-3,1,1192,"2879 S Throop Street Chicago, IL 60608",285000.0
 2,2,1000,"5635 S California Ave Chicago, IL 60629",200000.0
-3,3,3300,"1724 N Keeler Avenue Chicago, IL 60639",549900.0
 2,2,1200,"1708 W Cermak Road 3W Chicago, IL 60608",450000.0
 4,2,1452,"3217 W 64th Place Chicago, IL 60629",385000.0
 4,2,1200,"5817 W 64th Street Chicago, IL 60638",359900.0
@@ -99,6 +94,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2500,"4129 N Oketo Avenue Norridge, IL 60706",679000.0
 4,2,2100,"4119 N Leclaire Avenue Chicago, IL 60641",625000.0
 2,2,1600,"165 N Canal Street 514 Chicago, IL 60606",550000.0
+2,2,1494,"240 E Illinois Street 607 Chicago, IL 60611",525000.0
 2,2,1290,"233 E 13th Street 601 Chicago, IL 60605",448000.0
 2,1,1478,"10041 S Saint Louis Avenue Evergreen Park, IL 60805",399900.0
 3,2,1214,"8841 S Utica Street Evergreen Park, IL 60805",385900.0
@@ -223,6 +219,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1440,"7643 S Paxton Avenue Chicago, IL 60649",259000.0
 2,2,1250,"6517 N CALIFORNIA Avenue 303 Chicago, IL 60645",237000.0
 3,1,1274,"8641 S Jeffery Boulevard Chicago, IL 60617",214900.0
+3,2,1080,"7310 S Claremont Avenue Chicago, IL 60636",189900.0
 4,3,1564,"2469 E 74th Street Chicago, IL 60649",90000.0
 3,1,1130,"11712 S Troy Drive Merrionette Park, IL 60803",239900.0
 5,3,3600,"4932 S Martin Luther King Drive Chicago, IL 60615",914000.0
@@ -231,6 +228,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1700,"2448 N Clybourn Avenue 2 Chicago, IL 60614",699000.0
 3,2,2694,"645 W Bittersweet Place 1 Chicago, IL 60613",645000.0
 2,2,1550,"360 E RANDOLPH Street 1208 Chicago, IL 60601",599500.0
+3,3,3300,"1724 N Keeler Avenue Chicago, IL 60639",549900.0
 2,2,1500,"345 N Canal Street 608 Chicago, IL 60606",520000.0
 2,2,1300,"233 E 13TH Street 1209 Chicago, IL 60605",514000.0
 1,1,760,"234 W Polk Street 3107 Chicago, IL 60607",467500.0
@@ -804,6 +802,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1398,"1111 S State Street A505 Chicago, IL 60605",375000.0
 3,1,1200,"4036 W 57th Street Chicago, IL 60629",349900.0
 2,1,890,"1255 S STATE Street 1101 Chicago, IL 60605",340000.0
+4,3,2228,"4327 W 81st Street Chicago, IL 60652",330000.0
 5,2,1375,"10541 S Normal Avenue Chicago, IL 60628",295000.0
 2,1,800,"2346 W Augusta Boulevard 3F Chicago, IL 60622",289000.0
 1,1,850,"33 W Delaware Place 9D Chicago, IL 60610",287500.0
@@ -933,3 +932,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1550,"1143 S Plymouth Court 407 Chicago, IL 60605",389000.0
 2,1,925,"1250 S Indiana Avenue 1011 Chicago, IL 60605",339900.0
 1,1,1050,"550 N Kingsbury Street 312 Chicago, IL 60654",325000.0
+3,2,1168,"7725 S Wood Street Chicago, IL 60620",309000.0
