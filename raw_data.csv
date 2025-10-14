@@ -3,9 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",1,"755
 sq.ft.","535 N Michigan Avenue , 1906 Chicago, IL 60611","$229,000"
 "3
-beds",1,"1,000
-sq.ft.","3041 S Michigan Avenue 506 Chicago, IL 60616","$164,900"
-"3
 beds",2,"1,500
 sq.ft.","3180 N LAKE SHORE Drive 19D Chicago, IL 60657","$650,000"
 "1
@@ -2635,10 +2632,10 @@ beds",2,"700
 sq.ft.","6342 N Artesian Avenue , GC Chicago, IL 60659","$118,333"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
 "2
 beds",1,"700
 sq.ft.","6342 N Artesian Avenue , 3B Chicago, IL 60659","$100,000"
@@ -3023,3 +3020,6 @@ sq.ft.","1638 S Central Avenue Cicero, IL 60804","$294,900"
 "2
 beds",1,"1,500
 sq.ft.","4518 S Woodlawn Avenue 4518 Chicago, IL 60653","$280,000"
+"5
+beds",2,"1,200
+sq.ft.","742 W 129th Place Chicago, IL 60628","$249,000"
