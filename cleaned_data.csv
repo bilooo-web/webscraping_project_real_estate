@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-1,1,755,"535 N Michigan Avenue , 1906 Chicago, IL 60611",229000.0
 3,2,1500,"3180 N LAKE SHORE Drive 19D Chicago, IL 60657",650000.0
 1,1,700,"2 S Leavitt Street 206 Chicago, IL 60612",255000.0
 4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",525000.0
@@ -816,8 +815,8 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"5415 N Sheridan Road , 502 Chicago, IL 60640",255000.0
 1,1,965,"777 N Michigan Avenue , 2108 Chicago, IL 60611",250000.0
 2,2,700,"6342 N Artesian Avenue , GC Chicago, IL 60659",118333.0
-1,1,700,"6342 N Artesian Avenue , 1B Chicago, IL 60659",100000.0
 1,1,700,"6342 N Artesian Avenue , 2B Chicago, IL 60659",100000.0
+1,1,700,"6342 N Artesian Avenue , 1B Chicago, IL 60659",100000.0
 2,1,700,"6342 N Artesian Avenue , 3B Chicago, IL 60659",100000.0
 4,3,2700,"6238 N Keating Avenue Chicago, IL 60646",999000.0
 3,3,2157,"130 N Garland Court 3001 Chicago, IL 60602",995000.0
@@ -930,3 +929,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1700,"1638 S Central Avenue Cicero, IL 60804",294900.0
 2,1,1500,"4518 S Woodlawn Avenue 4518 Chicago, IL 60653",280000.0
 5,2,1200,"742 W 129th Place Chicago, IL 60628",249000.0
+2,1,1100,"5349 N Delphia Avenue 150 Chicago, IL 60656",223900.0
