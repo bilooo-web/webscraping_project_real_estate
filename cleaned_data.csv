@@ -1,8 +1,9 @@
 bedrooms,bathrooms,square_footage,address,price
-4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",525000.0
+1,1,755,"535 N Michigan Avenue , 1906 Chicago, IL 60611",229000.0
 3,1,1000,"3041 S Michigan Avenue 506 Chicago, IL 60616",164900.0
 3,2,1500,"3180 N LAKE SHORE Drive 19D Chicago, IL 60657",650000.0
 1,1,700,"2 S Leavitt Street 206 Chicago, IL 60612",255000.0
+4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",525000.0
 2,2,1200,"435 W Erie Street 1206 Chicago, IL 60654",550000.0
 5,2,1350,"Riverdale, IL 60827",245000.0
 1,1,850,"1550 S Blue Island Avenue 510 Chicago, IL 60608",220000.0
@@ -929,4 +930,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1000,"3555 W Lyndale Street 3B Chicago, IL 60647",299000.0
 3,1,1700,"1638 S Central Avenue Cicero, IL 60804",294900.0
 2,1,1500,"4518 S Woodlawn Avenue 4518 Chicago, IL 60653",280000.0
-5,2,1200,"742 W 129th Place Chicago, IL 60628",249000.0
