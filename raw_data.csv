@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"850
+sq.ft.","720 W Gordon Terrace , 3N Chicago, IL 60613","$185,000"
 "11
 beds",2,"2,712
 sq.ft.","1320 N Homan Ave Chicago, IL 60651","$249,900"
@@ -239,9 +242,6 @@ sq.ft.","608 W 95th Street Chicago, IL 60628","$200,000"
 "4
 beds",2,"1,229
 sq.ft.","10216 S Emerald Avenue Chicago, IL 60628","$189,999"
-"1
-beds",1,"850
-sq.ft.","720 W Gordon Terrace 3N Chicago, IL 60613","$185,000"
 "2
 beds",2,"1,200
 sq.ft.","4222 W 77th Street 202 Chicago, IL 60652","$177,500"
