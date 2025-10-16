@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",1,"998
+sq.ft.","4605 W 84th Place Chicago, IL 60652","$279,000"
 "1
 beds",1,"850
 sq.ft.","720 W Gordon Terrace , 3N Chicago, IL 60613","$185,000"
@@ -1864,7 +1867,7 @@ beds",1,"1,100
 sq.ft.","345 N Canal Street , 404 Chicago, IL 60606","$365,000"
 "3
 beds",1,"1,124
-sq.ft.","6220 S Mcvicker Avenue Chicago, IL 60638","$339,900"
+sq.ft.","6220 S Mcvicker Avenue Chicago, IL 60638","$324,900"
 "1
 beds",1,"1,200
 sq.ft.","7344 N Ridge Boulevard , 5C Chicago, IL 60645","$154,900"
@@ -3020,6 +3023,3 @@ sq.ft.","1336 E 73rd Street Chicago, IL 60619","$219,900"
 "2
 beds",2,"1,340
 sq.ft.","6101 S Kimbark Avenue 3 Chicago, IL 60637","$199,999"
-"4
-beds",2,"1,350
-sq.ft.","7444 S Merrill Avenue Chicago, IL 60649","$195,000"
