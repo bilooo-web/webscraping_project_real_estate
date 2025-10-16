@@ -1,7 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,850,"720 W Gordon Terrace , 3N Chicago, IL 60613",185000.0
-11,2,2712,"1320 N Homan Ave Chicago, IL 60651",249900.0
-1,1,755,"535 N Michigan Avenue , 1906 Chicago, IL 60611",229000.0
 2,2,1600,"165 N Canal Street 514 Chicago, IL 60606",525000.0
 3,2,2045,"1526 N Leavitt Street 1 Chicago, IL 60622",975000.0
 2,2,1297,"125 S Green Street 806A Chicago, IL 60607",550000.0
@@ -106,6 +104,8 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1300,"8607 S Morgan Street Chicago, IL 60620",110000.0
 1,1,944,"12026 S Kildare Avenue 16 Alsip, IL 60803",98500.0
 1,1,1000,"5337 S Ellis Avenue 1C Chicago, IL 60615",94500.0
+11,2,2712,"1320 N Homan Ave Chicago, IL 60651",249900.0
+1,1,755,"535 N Michigan Avenue , 1906 Chicago, IL 60611",229000.0
 3,3,2800,"804 E 41st Street NA Chicago, IL 60653",360000.0
 4,2,1112,"4132 S Mozart Street Chicago, IL 60632",350000.0
 2,1,1105,"3841 N Page Avenue Chicago, IL 60634",329900.0
@@ -882,8 +882,8 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"5415 N Sheridan Road , 502 Chicago, IL 60640",255000.0
 1,1,965,"777 N Michigan Avenue , 2108 Chicago, IL 60611",250000.0
 2,2,700,"6342 N Artesian Avenue , GC Chicago, IL 60659",118333.0
-1,1,700,"6342 N Artesian Avenue , 2B Chicago, IL 60659",100000.0
 1,1,700,"6342 N Artesian Avenue , 1B Chicago, IL 60659",100000.0
+1,1,700,"6342 N Artesian Avenue , 2B Chicago, IL 60659",100000.0
 2,1,700,"6342 N Artesian Avenue , 3B Chicago, IL 60659",100000.0
 3,3,2157,"130 N Garland Court 3001 Chicago, IL 60602",995000.0
 4,3,2386,"1401 N Cleaver Street Chicago, IL 60642",900000.0

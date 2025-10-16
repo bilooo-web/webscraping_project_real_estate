@@ -2,12 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "1
 beds",1,"850
 sq.ft.","720 W Gordon Terrace , 3N Chicago, IL 60613","$185,000"
-"11
-beds",2,"2,712
-sq.ft.","1320 N Homan Ave Chicago, IL 60651","$249,900"
-"1
-beds",1,"755
-sq.ft.","535 N Michigan Avenue , 1906 Chicago, IL 60611","$229,000"
 "2
 beds",2,"1,600
 sq.ft.","165 N Canal Street 514 Chicago, IL 60606","$525,000"
@@ -368,6 +362,12 @@ sq.ft.","12026 S Kildare Avenue 16 Alsip, IL 60803","$98,500"
 "1
 beds",1,"1,000
 sq.ft.","5337 S Ellis Avenue 1C Chicago, IL 60615","$94,500"
+"11
+beds",2,"2,712
+sq.ft.","1320 N Homan Ave Chicago, IL 60651","$249,900"
+"1
+beds",1,"755
+sq.ft.","535 N Michigan Avenue , 1906 Chicago, IL 60611","$229,000"
 "3
 beds",2,"2,900
 sq.ft.","680 N Lake Shore Drive 604 Chicago, IL 60611","$1,125,000"
@@ -2872,10 +2872,10 @@ beds",2,"700
 sq.ft.","6342 N Artesian Avenue , GC Chicago, IL 60659","$118,333"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
 "1
 beds",1,"700
-sq.ft.","6342 N Artesian Avenue , 1B Chicago, IL 60659","$100,000"
+sq.ft.","6342 N Artesian Avenue , 2B Chicago, IL 60659","$100,000"
 "2
 beds",1,"700
 sq.ft.","6342 N Artesian Avenue , 3B Chicago, IL 60659","$100,000"
