@@ -59,6 +59,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1500,"201 E Chestnut Street 23A Chicago, IL 60611",560000.0
 4,2,2900,"7050 S Throop Street Chicago, IL 60636",259900.0
 3,1,3720,"11814 S Parnell Avenue Chicago, IL 60628",220500.0
+2,1,1175,"6220 N Ridge Avenue #S203 Chicago, IL 60660",244900.0
 2,2,1519,"6033 N Sheridan Road 7C Chicago, IL 60660",374900.0
 2,1,1000,"5159 N East River Road 212 Chicago, IL 60656",215000.0
 3,2,1280,"5446 W Lunt Avenue Chicago, IL 60646",590000.0
@@ -386,7 +387,6 @@ bedrooms,bathrooms,square_footage,address,price
 5,3,1758,"1810 S Kildare Avenue Chicago, IL 60623",39900.0
 3,2,2080,"3704 W 57th Street Chicago, IL 60629",359999.0
 3,1,1060,"841 N Fairfield Avenue Chicago, IL 60622",324900.0
-2,1,1175,"6220 N Ridge Avenue #S203 Chicago, IL 60660",244900.0
 3,2,2585,"1478 S PRAIRIE Avenue E Chicago, IL 60605",859000.0
 4,3,3624,"2123 N Austin Avenue Chicago, IL 60639",669900.0
 2,2,1605,"1523 N Cleveland Avenue 2S Chicago, IL 60610",599999.0
