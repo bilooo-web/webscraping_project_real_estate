@@ -1,13 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"900
+sq.ft.","41 E 8th Street , 1404 Chicago, IL 60605","$285,900"
 "3
 beds",1,"998
 sq.ft.","4605 W 84th Place Chicago, IL 60652","$279,000"
-"1
-beds",1,"850
-sq.ft.","720 W Gordon Terrace , 3N Chicago, IL 60613","$185,000"
-"3
-beds",2,"1,630
-sq.ft.","14233 S Wentworth Avenue Riverdale, IL 60827","$245,000"
 "2
 beds",2,"1,600
 sq.ft.","165 N Canal Street 514 Chicago, IL 60606","$525,000"
@@ -545,6 +542,9 @@ sq.ft.","7711 S Champlain Avenue Chicago, IL 60619","$99,000"
 "3
 beds",1,"1,227
 sq.ft.","9039 S Phillips Avenue Chicago, IL 60617",Price On Request
+"1
+beds",1,"850
+sq.ft.","720 W Gordon Terrace , 3N Chicago, IL 60613","$185,000"
 "4
 beds",5,"5,600
 sq.ft.","2034 W Sunnyside Avenue Chicago, IL 60625","$3,499,000"
@@ -1814,6 +1814,9 @@ sq.ft.","12155 S Normal Avenue Chicago, IL 60628","$249,998"
 "4
 beds",2,"2,190
 sq.ft.","7140 S Peoria Street Chicago, IL 60621","$249,000"
+"3
+beds",2,"1,630
+sq.ft.","14233 S Wentworth Avenue Riverdale, IL 60827","$245,000"
 "1
 beds",1,"813
 sq.ft.","3600 N LAKE SHORE Drive 1518 Chicago, IL 60613","$220,000"
@@ -3020,6 +3023,3 @@ sq.ft.","2233 N 73rd Court Elmwood Park, IL 60707","$219,900"
 "3
 beds",2,"1,355
 sq.ft.","1336 E 73rd Street Chicago, IL 60619","$219,900"
-"2
-beds",2,"1,340
-sq.ft.","6101 S Kimbark Avenue 3 Chicago, IL 60637","$199,999"

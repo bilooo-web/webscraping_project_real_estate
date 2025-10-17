@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
+1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",285900.0
 3,1,998,"4605 W 84th Place Chicago, IL 60652",279000.0
-1,1,850,"720 W Gordon Terrace , 3N Chicago, IL 60613",185000.0
-3,2,1630,"14233 S Wentworth Avenue Riverdale, IL 60827",245000.0
 2,2,1600,"165 N Canal Street 514 Chicago, IL 60606",525000.0
 3,2,2045,"1526 N Leavitt Street 1 Chicago, IL 60622",975000.0
 2,2,1297,"125 S Green Street 806A Chicago, IL 60607",550000.0
@@ -158,6 +157,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1406,"2213 E 68TH Street 1E Chicago, IL 60649",144900.0
 3,1,1105,"7206 S Lafayette Avenue Chicago, IL 60621",124700.0
 4,2,1797,"7711 S Champlain Avenue Chicago, IL 60619",99000.0
+1,1,850,"720 W Gordon Terrace , 3N Chicago, IL 60613",185000.0
 3,2,2000,"600 N KINGSBURY Street 309 Chicago, IL 60654",895000.0
 3,2,2100,"1355 W WASHINGTON Boulevard 4D Chicago, IL 60607",705000.0
 2,2,1650,"1425 W BELMONT Avenue 3 Chicago, IL 60657",674500.0
@@ -551,6 +551,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,750,"3215 N Francisco Avenue 3S Chicago, IL 60618",250000.0
 6,2,2200,"12155 S Normal Avenue Chicago, IL 60628",249998.0
 4,2,2190,"7140 S Peoria Street Chicago, IL 60621",249000.0
+3,2,1630,"14233 S Wentworth Avenue Riverdale, IL 60827",245000.0
 1,1,813,"3600 N LAKE SHORE Drive 1518 Chicago, IL 60613",220000.0
 1,1,900,"40 E 9th Street 1103 Chicago, IL 60605",215000.0
 1,1,700,"40 E 9th Street 911 Chicago, IL 60605",209900.0
@@ -927,4 +928,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1919,"14508 S Lowe Avenue Riverdale, IL 60827",249900.0
 2,1,610,"2233 N 73rd Court Elmwood Park, IL 60707",219900.0
 3,2,1355,"1336 E 73rd Street Chicago, IL 60619",219900.0
-2,2,1340,"6101 S Kimbark Avenue 3 Chicago, IL 60637",199999.0
