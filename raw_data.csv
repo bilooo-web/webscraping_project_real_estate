@@ -1,13 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"1
-beds",1,"900
-sq.ft.","41 E 8th Street , 1404 Chicago, IL 60605","$285,900"
 "3
 beds",1,"998
 sq.ft.","4605 W 84th Place Chicago, IL 60652","$279,000"
-"2
-beds",2,"1,600
-sq.ft.","165 N Canal Street 514 Chicago, IL 60606","$525,000"
 "3
 beds",2,"2,045
 sq.ft.","1526 N Leavitt Street 1 Chicago, IL 60622","$975,000"
@@ -53,6 +47,9 @@ sq.ft.","4158 W 58th Place 4158 Chicago, IL 60629","$374,900"
 "1
 beds",1,"800
 sq.ft.","625 W Jackson Boulevard 206 Chicago, IL 60661","$275,000"
+"2
+beds",2,"1,600
+sq.ft.","165 N Canal Street 514 Chicago, IL 60606","$525,000"
 "1
 beds",1,"723
 sq.ft.","437 W North Avenue 404 Chicago, IL 60610","$365,000"
@@ -3023,3 +3020,6 @@ sq.ft.","2233 N 73rd Court Elmwood Park, IL 60707","$219,900"
 "3
 beds",2,"1,355
 sq.ft.","1336 E 73rd Street Chicago, IL 60619","$219,900"
+"2
+beds",2,"1,340
+sq.ft.","6101 S Kimbark Avenue 3 Chicago, IL 60637","$199,999"

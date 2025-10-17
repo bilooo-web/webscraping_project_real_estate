@@ -1,7 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
-1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",285900.0
 3,1,998,"4605 W 84th Place Chicago, IL 60652",279000.0
-2,2,1600,"165 N Canal Street 514 Chicago, IL 60606",525000.0
 3,2,2045,"1526 N Leavitt Street 1 Chicago, IL 60622",975000.0
 2,2,1297,"125 S Green Street 806A Chicago, IL 60607",550000.0
 2,2,1981,"1530 S State Street 1004 Chicago, IL 60605",675000.0
@@ -16,6 +14,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2586,"2501 N Wayne Avenue 18 Chicago, IL 60614",975000.0
 3,2,1108,"4158 W 58th Place 4158 Chicago, IL 60629",374900.0
 1,1,800,"625 W Jackson Boulevard 206 Chicago, IL 60661",275000.0
+2,2,1600,"165 N Canal Street 514 Chicago, IL 60606",525000.0
 1,1,723,"437 W North Avenue 404 Chicago, IL 60610",365000.0
 3,1,1231,"3820 W 117th Street Alsip, IL 60803",257000.0
 1,1,800,"123 S Green Street 409B Chicago, IL 60607",349000.0
@@ -928,3 +927,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1919,"14508 S Lowe Avenue Riverdale, IL 60827",249900.0
 2,1,610,"2233 N 73rd Court Elmwood Park, IL 60707",219900.0
 3,2,1355,"1336 E 73rd Street Chicago, IL 60619",219900.0
+2,2,1340,"6101 S Kimbark Avenue 3 Chicago, IL 60637",199999.0
