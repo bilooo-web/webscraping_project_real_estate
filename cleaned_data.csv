@@ -2,7 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",285900.0
 4,2,1456,"8633 S Hermitage Avenue Chicago, IL 60620",279800.0
 3,1,998,"4605 W 84th Place Chicago, IL 60652",279000.0
-3,2,917,"7871 W Oakleaf Avenue Elmwood Park, IL 60707",325000.0
 2,2,1331,"2622 N Racine Avenue 3 Chicago, IL 60614",949000.0
 3,2,2045,"1526 N Leavitt Street 1 Chicago, IL 60622",975000.0
 4,3,2000,"2147 W Adams Street 1N Chicago, IL 60612",625000.0
@@ -177,6 +176,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1388,"3410 N Lake Shore Drive 3AB Chicago, IL 60657",384999.0
 2,2,2160,"3813 W 78th Street Chicago, IL 60652",384900.0
 2,2,1200,"600 S Dearborn Street 1901 Chicago, IL 60605",349900.0
+3,2,917,"7871 W Oakleaf Avenue Elmwood Park, IL 60707",325000.0
 3,2,1097,"9356 S Union Avenue Chicago, IL 60628",289000.0
 3,1,1615,"2930 N New England Avenue Chicago, IL 60634",280000.0
 2,1,1000,"5100 N Marine Drive 6B Chicago, IL 60640",260000.0
