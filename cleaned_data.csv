@@ -2,8 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",285900.0
 4,2,1456,"8633 S Hermitage Avenue Chicago, IL 60620",279800.0
 3,1,998,"4605 W 84th Place Chicago, IL 60652",279000.0
-2,2,1331,"2622 N Racine Avenue 3 Chicago, IL 60614",949000.0
-3,2,2045,"1526 N Leavitt Street 1 Chicago, IL 60622",975000.0
 4,3,2000,"2147 W Adams Street 1N Chicago, IL 60612",625000.0
 2,2,1485,"125 E 13th Street 808 Chicago, IL 60605",575000.0
 2,2,1300,"830 N HERMITAGE Avenue 2 Chicago, IL 60622",489900.0
@@ -17,6 +15,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1500,"3180 N LAKE SHORE Drive 19D Chicago, IL 60657",624900.0
 3,2,1500,"3180 N LAKE SHORE Drive 19D Chicago, IL 60657",650000.0
 5,3,3336,"657 N PINE Avenue Chicago, IL 60644",559999.0
+2,2,1331,"2622 N Racine Avenue 3 Chicago, IL 60614",949000.0
 4,3,2350,"1329 N Mohawk Street 1 Chicago, IL 60610",825000.0
 3,2,2400,"1431 W Walton Street 1 Chicago, IL 60642",590000.0
 2,2,1256,"900 N Kingsbury Street 1025 Chicago, IL 60610",449900.0
@@ -94,6 +93,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1519,"6033 N Sheridan Road 7C Chicago, IL 60660",374900.0
 2,1,1000,"5159 N East River Road 212 Chicago, IL 60656",215000.0
 3,2,1280,"5446 W Lunt Avenue Chicago, IL 60646",590000.0
+3,2,2045,"1526 N Leavitt Street 1 Chicago, IL 60622",975000.0
 1,1,820,"5415 N Sheridan Road 4805 Chicago, IL 60640",284900.0
 1,1,680,"5415 N Sheridan Road 4815 Chicago, IL 60640",169900.0
 2,2,1200,"1000 N Lake Shore Drive 1808 Chicago, IL 60611",550000.0
