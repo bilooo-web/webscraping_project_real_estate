@@ -2,7 +2,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",285900.0
 4,2,1456,"8633 S Hermitage Avenue Chicago, IL 60620",279800.0
 3,1,998,"4605 W 84th Place Chicago, IL 60652",279000.0
-3,2,1177,"13910 S Dearborn Street Riverdale, IL 60827",128997.0
 3,2,917,"7871 W Oakleaf Avenue Elmwood Park, IL 60707",325000.0
 2,2,1331,"2622 N Racine Avenue 3 Chicago, IL 60614",949000.0
 3,2,2045,"1526 N Leavitt Street 1 Chicago, IL 60622",975000.0
@@ -614,7 +613,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,950,"2300 N Southport Avenue 3C Chicago, IL 60614",330000.0
 2,1,1000,"3039 N Troy Street 2E Chicago, IL 60618",315000.0
 2,2,1150,"1524 S Sangamon Street 512-S Chicago, IL 60608",299900.0
-2,1,1011,"1405 S Central Avenue Cicero, IL 60804",294900.0
 1,1,850,"260 E CHESTNUT Street 2107 Chicago, IL 60611",275000.0
 3,1,1157,"3644 W 82nd Street Chicago, IL 60652",260000.0
 5,3,2400,"8307 S Morgan Street Chicago, IL 60620",259900.0
@@ -923,3 +921,5 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1300,"1631 S MICHIGAN Avenue 312 Chicago, IL 60616",360000.0
 5,2,2070,"1810 S Ridgeway Avenue Chicago, IL 60623",358000.0
 2,1,1200,"1307 S WABASH Avenue 312 Chicago, IL 60605",349500.0
+1,1,900,"1000 W Adams Street 815 Chicago, IL 60607",325000.0
+3,1,1746,"5614 S Kolmar Avenue Chicago, IL 60629",287654.0
