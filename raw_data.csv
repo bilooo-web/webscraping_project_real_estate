@@ -11,39 +11,15 @@ sq.ft.","4605 W 84th Place Chicago, IL 60652","$279,000"
 "4
 beds",3,"2,000
 sq.ft.","2147 W Adams Street 1N Chicago, IL 60612","$625,000"
-"2
-beds",2,"1,485
-sq.ft.","125 E 13th Street 808 Chicago, IL 60605","$575,000"
-"2
-beds",2,"1,300
-sq.ft.","830 N HERMITAGE Avenue 2 Chicago, IL 60622","$489,900"
-"2
-beds",2,"1,297
-sq.ft.","125 S Green Street 806A Chicago, IL 60607","$550,000"
-"2
-beds",2,"1,981
-sq.ft.","1530 S State Street 1004 Chicago, IL 60605","$675,000"
 "3
 beds",2,"2,700
 sq.ft.","4534 N Saint Louis Avenue Chicago, IL 60625","$699,000"
-"7
-beds",3,"3,421
-sq.ft.","7657 S Normal Avenue Chicago, IL 60620","$419,900"
-"4
-beds",4,"3,659
-sq.ft.","1340 W Chestnut Street 301 Chicago, IL 60642","$1,975,000"
-"3
-beds",2,"2,000
-sq.ft.","324 N Jefferson Street 307 Chicago, IL 60661","$620,000"
 "5
 beds",4,"4,000
 sq.ft.","4621 N Anthon Avenue Chicago, IL 60656","$775,000"
 "3
 beds",2,"1,500
 sq.ft.","3180 N LAKE SHORE Drive 19D Chicago, IL 60657","$624,900"
-"5
-beds",3,"3,336
-sq.ft.","657 N PINE Avenue Chicago, IL 60644","$559,999"
 "2
 beds",2,"1,416
 sq.ft.","1530 S State Street 14O Chicago, IL 60605","$389,900"
@@ -98,9 +74,6 @@ sq.ft.","4158 W 58th Place 4158 Chicago, IL 60629","$374,900"
 "1
 beds",1,"800
 sq.ft.","625 W Jackson Boulevard 206 Chicago, IL 60661","$275,000"
-"3
-beds",1,"1,300
-sq.ft.","8607 S Morgan Street Chicago, IL 60620","$110,000"
 "2
 beds",2,"1,600
 sq.ft.","165 N Canal Street 514 Chicago, IL 60606","$525,000"
@@ -476,6 +449,9 @@ sq.ft.","1522 W Wolfram Street Chicago, IL 60657","$1,900,000"
 "3
 beds",2,"2,204
 sq.ft.","4546 N Merrimac Avenue Chicago, IL 60630","$539,000"
+"2
+beds",2,"1,300
+sq.ft.","830 N HERMITAGE Avenue 2 Chicago, IL 60622","$489,900"
 "3
 beds",2,"1,529
 sq.ft.","847 W Ainslie Street 3E Chicago, IL 60640","$649,900"
@@ -545,6 +521,9 @@ sq.ft.","5114 S Kenwood Avenue 3B Chicago, IL 60615","$900,000"
 "3
 beds",2,"2,340
 sq.ft.","1243 N Cleaver Street 1 Chicago, IL 60642","$874,900"
+"5
+beds",3,"3,336
+sq.ft.","657 N PINE Avenue Chicago, IL 60644","$559,999"
 "2
 beds",2,"1,312
 sq.ft.","125 E 13th Street 1213 Chicago, IL 60605","$445,000"
@@ -713,6 +692,9 @@ sq.ft.","4515 N Karlov Avenue Chicago, IL 60630","$624,900"
 "2
 beds",2,"1,300
 sq.ft.","400 E RANDOLPH Street 913 Chicago, IL 60601","$615,000"
+"2
+beds",2,"1,485
+sq.ft.","125 E 13th Street 808 Chicago, IL 60605","$575,000"
 "5
 beds",3,"2,100
 sq.ft.","2950 N Lowell Avenue Chicago, IL 60641","$539,000"
@@ -912,6 +894,9 @@ sq.ft.","2226 N Lincoln Avenue 3A Chicago, IL 60614","$695,000"
 beds",1,"1,244
 sq.ft.","340 E Randolph Street 1506 Chicago, IL 60601","$585,000"
 "2
+beds",2,"1,297
+sq.ft.","125 S Green Street 806A Chicago, IL 60607","$550,000"
+"2
 beds",2,"1,324
 sq.ft.","1000 W Adams Street 203 Chicago, IL 60607","$550,000"
 "2
@@ -1082,6 +1067,9 @@ sq.ft.","13041 S Eberhart Avenue Chicago, IL 60827","$135,000"
 "2
 beds",1,"1,300
 sq.ft.","6953 S Loomis Boulevard Chicago, IL 60636","$129,900"
+"3
+beds",1,"1,300
+sq.ft.","8607 S Morgan Street Chicago, IL 60620","$110,000"
 "1
 beds",1,"944
 sq.ft.","12026 S Kildare Avenue 16 Alsip, IL 60803","$98,500"
@@ -1241,6 +1229,9 @@ sq.ft.","9556 S Winchester Avenue Chicago, IL 60643","$849,900"
 "3
 beds",2,"2,200
 sq.ft.","2922 W Lyndale Street 1 Chicago, IL 60647","$735,000"
+"2
+beds",2,"1,981
+sq.ft.","1530 S State Street 1004 Chicago, IL 60605","$675,000"
 "3
 beds",2,"2,054
 sq.ft.","7314 N ODELL Avenue Chicago, IL 60631","$675,000"
@@ -1928,6 +1919,9 @@ sq.ft.","3016 N Troy Street Chicago, IL 60618","$450,000"
 "2
 beds",2,"1,300
 sq.ft.","1530 S State Street 17R Chicago, IL 60605","$420,000"
+"7
+beds",3,"3,421
+sq.ft.","7657 S Normal Avenue Chicago, IL 60620","$419,900"
 "3
 beds",2,"2,000
 sq.ft.","6809 N LAKEWOOD Avenue 2N Chicago, IL 60626","$400,000"
@@ -3023,3 +3017,9 @@ sq.ft.","4345 W 63rd Street 2D Chicago, IL 60629","$114,900"
 "2
 beds",1,"945
 sq.ft.","5748 S Laflin Street Chicago, IL 60636","$112,000"
+"3
+beds",1,"1,458
+sq.ft.","10235 S Rhodes Avenue Chicago, IL 60628","$109,900"
+"3
+beds",3,"2,348
+sq.ft.","7225 S Woodlawn Avenue Chicago, IL 60619","$99,900"
