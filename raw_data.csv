@@ -1,7 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"3
-beds",2,"1,460
-sq.ft.","9558 S Sacramento Avenue Evergreen Park, IL 60805","$344,500"
 "4
 beds",2,"1,633
 sq.ft.","3822 W 71st Street Chicago, IL 60629","$389,900"
@@ -122,6 +119,9 @@ sq.ft.","6005 S Menard Avenue Chicago, IL 60638","$370,000"
 "2
 beds",1,"1,800
 sq.ft.","2006 W Farwell Avenue Chicago, IL 60645","$359,900"
+"3
+beds",2,"1,460
+sq.ft.","9558 S Sacramento Avenue Evergreen Park, IL 60805","$344,500"
 "4
 beds",4,"2,800
 sq.ft.","7425 S Vernon Avenue Chicago, IL 60619","$339,900"

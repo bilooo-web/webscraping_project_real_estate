@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-3,2,1460,"9558 S Sacramento Avenue Evergreen Park, IL 60805",344500.0
 4,2,1633,"3822 W 71st Street Chicago, IL 60629",389900.0
 5,3,1926,"642 E 90th Street Chicago, IL 60619",340000.0
 1,1,850,"41 E 8th Street 1805 Chicago, IL 60605",295000.0
@@ -35,6 +34,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2560,"8032 S Carpenter Street Chicago, IL 60620",375000.0
 3,2,1024,"6005 S Menard Avenue Chicago, IL 60638",370000.0
 2,1,1800,"2006 W Farwell Avenue Chicago, IL 60645",359900.0
+3,2,1460,"9558 S Sacramento Avenue Evergreen Park, IL 60805",344500.0
 4,4,2800,"7425 S Vernon Avenue Chicago, IL 60619",339900.0
 2,2,1050,"4343 N CLARENDON Avenue 2717 Chicago, IL 60613",311000.0
 5,4,1848,"6922 S Campbell Avenue Chicago, IL 60629",310000.0
