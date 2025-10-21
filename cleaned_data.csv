@@ -15,7 +15,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1565,"1629 S Prairie Avenue 2405 Chicago, IL 60616",650000.0
 5,3,2700,"9322 S Trumbull Avenue Evergreen Park, IL 60805",645000.0
 2,3,1493,"1255 N STATE Parkway 2E-3E Chicago, IL 60610",624000.0
-4,2,1709,"2058 W Washington Boulevard Chicago, IL 60612",599000.0
 2,1,1417,"5955 N Keating Avenue Chicago, IL 60646",495000.0
 3,2,1120,"4824 S Tripp Avenue Chicago, IL 60632",269000.0
 2,2,1200,"4702 N Austin Avenue 302 Chicago, IL 60630",259000.0
@@ -24,6 +23,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1150,"7604 W Lawrence Avenue 1B Harwood Heights, IL 60706",245000.0
 2,1,950,"4342 N Kedvale Avenue 2A Chicago, IL 60641",196900.0
 1,1,700,"7337 S South Shore Drive 708 Chicago, IL 60649",71000.0
+4,2,1709,"2058 W Washington Boulevard Chicago, IL 60612",599000.0
 4,4,2870,"3019 N Kenneth Avenue Chicago, IL 60641",819900.0
 2,2,1750,"940 W Glenlake Avenue 19C Chicago, IL 60660",750000.0
 3,3,1860,"1747 W Pierce Avenue 2 Chicago, IL 60622",699000.0
