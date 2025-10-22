@@ -242,6 +242,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,775,"7234 W NORTH Avenue 1214 Elmwood Park, IL 60707",129900.0
 3,2,2044,"8012 S Essex Avenue 3S Chicago, IL 60617",110000.0
 3,1,1499,"241 W 104th Place Chicago, IL 60628",32000.0
+5,3,1401,"8214 S Paxton Ave Chicago, IL 60617",359900.0
 1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",285900.0
 4,2,1456,"8633 S Hermitage Avenue Chicago, IL 60620",279800.0
 3,1,998,"4605 W 84th Place Chicago, IL 60652",279000.0
@@ -924,4 +925,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1600,"5061 N Lincoln Avenue 201 Chicago, IL 60625",649000.0
 2,2,1085,"234 W Polk Street 3210 Chicago, IL 60607",645000.0
 2,2,1338,"845 W Altgeld Street 3A Chicago, IL 60614",600000.0
-2,2,1500,"2516 W Bloomingdale Avenue C Chicago, IL 60647",550000.0
