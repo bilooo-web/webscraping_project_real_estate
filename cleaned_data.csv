@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-3,1,1137,"5223 S Drexel Avenue , 2N Chicago, IL 60615",225000.0
 4,2,1633,"3822 W 71st Street Chicago, IL 60629",389900.0
 6,3,2800,"3306 W Le Moyne Street Chicago, IL 60651",650000.0
 5,3,1926,"642 E 90th Street Chicago, IL 60619",340000.0
@@ -929,3 +928,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,969,"8558 S Sangamon Street Chicago, IL 60620",169999.0
 1,1,900,"4523.5 S Drexel Boulevard 2W Chicago, IL 60653",127000.0
 1,1,600,"4345 W 63rd Street 2D Chicago, IL 60629",114900.0
+2,1,945,"5748 S Laflin Street Chicago, IL 60636",112000.0
