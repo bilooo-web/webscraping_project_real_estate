@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",1,"1,137
+sq.ft.","5223 S Drexel Avenue , 2N Chicago, IL 60615","$225,000"
 "4
 beds",2,"1,633
 sq.ft.","3822 W 71st Street Chicago, IL 60629","$389,900"
@@ -3020,6 +3023,3 @@ sq.ft.","4523.5 S Drexel Boulevard 2W Chicago, IL 60653","$127,000"
 "1
 beds",1,"600
 sq.ft.","4345 W 63rd Street 2D Chicago, IL 60629","$114,900"
-"2
-beds",1,"945
-sq.ft.","5748 S Laflin Street Chicago, IL 60636","$112,000"
