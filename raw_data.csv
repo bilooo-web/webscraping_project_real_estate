@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"4
+beds",3,"1,640
+sq.ft.","8040 S Luella Ave Chicago, IL 60617","$299,900"
 "3
 beds",1,"1,137
 sq.ft.","5223 S Drexel Avenue , 2N Chicago, IL 60615","$225,000"
@@ -2054,6 +2057,9 @@ sq.ft.","910 N Lake Shore Drive , 1620 Chicago, IL 60611","$649,000"
 "2
 beds",2,"1,100
 sq.ft.","1529 S State Street , 18B Chicago, IL 60605","$349,000"
+"4
+beds",3,"1,233
+sq.ft.","11326 S Parnell Ave Chicago, IL 60628","$330,000"
 "3
 beds",1,"998
 sq.ft.","4605 W 84th Place Chicago, IL 60652","$285,000"
@@ -3017,9 +3023,3 @@ sq.ft.","5061 N Lincoln Avenue 201 Chicago, IL 60625","$649,000"
 "2
 beds",2,"1,085
 sq.ft.","234 W Polk Street 3210 Chicago, IL 60607","$645,000"
-"2
-beds",2,"1,338
-sq.ft.","845 W Altgeld Street 3A Chicago, IL 60614","$600,000"
-"2
-beds",2,"1,500
-sq.ft.","2516 W Bloomingdale Avenue C Chicago, IL 60647","$550,000"
