@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"5
+beds",3,"1,998
+sq.ft.","7627 S Cornell Ave Chicago, IL 60649","$400,000"
 "4
 beds",3,"1,640
 sq.ft.","8040 S Luella Ave Chicago, IL 60617","$299,900"
@@ -482,6 +485,9 @@ sq.ft.","1755 E 55th Street 503 Chicago, IL 60615","$114,000"
 "2
 beds",2,"1,220
 sq.ft.","5900 S King Drive C2 Chicago, IL 60637",Price On Request
+"5
+beds",2,"2,284
+sq.ft.","3907 W Van Buren St Chicago, IL 60624","$330,000"
 "3
 beds",2,"2,900
 sq.ft.","680 N Lake Shore Drive 604 Chicago, IL 60611","$1,100,000"
@@ -3017,9 +3023,3 @@ sq.ft.","2209 W Belmont Avenue 3 Chicago, IL 60618","$975,000"
 "2
 beds",2,"1,400
 sq.ft.","1224 W Ohio Street 3W Chicago, IL 60642","$725,000"
-"3
-beds",2,"1,600
-sq.ft.","5061 N Lincoln Avenue 201 Chicago, IL 60625","$649,000"
-"2
-beds",2,"1,085
-sq.ft.","234 W Polk Street 3210 Chicago, IL 60607","$645,000"
