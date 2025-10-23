@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
 beds",1,"1,137
 sq.ft.","5223 S Drexel Avenue , 2N Chicago, IL 60615","$225,000"
-"4
-beds",2,"1,588
-sq.ft.","2101 W Greenleaf Avenue Chicago, IL 60645","$680,888"
 "6
 beds",3,"2,800
 sq.ft.","3306 W Le Moyne Street Chicago, IL 60651","$650,000"
@@ -14,6 +11,9 @@ sq.ft.","3306 W Le Moyne Street Chicago, IL 60651","$650,000"
 "4
 beds",3,"1,600
 sq.ft.","5026 S Lavergne Avenue Chicago, IL 60638","$498,000"
+"4
+beds",2,"1,588
+sq.ft.","2101 W Greenleaf Avenue Chicago, IL 60645","$680,888"
 "4
 beds",2,"1,542
 sq.ft.","3936 W 116 Street Alsip, IL 60803","$295,000"
