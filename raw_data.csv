@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "5
+beds",3,"4,864
+sq.ft.","1424 W Barry Avenue Chicago, IL 60657","$1,799,000"
+"5
 beds",2,"1,966
 sq.ft.","6020 S Nashville Avenue Chicago, IL 60638","$399,900"
 "4
@@ -3020,6 +3023,3 @@ sq.ft.","7641 N EASTLAKE Terrace 1B Chicago, IL 60626","$273,000"
 "1
 beds",1,"1,200
 sq.ft.","3520 N Lake Shore Drive 9E Chicago, IL 60657","$248,000"
-"2
-beds",1,"1,400
-sq.ft.","2060 W Fargo Avenue 3 Chicago, IL 60645","$239,900"
