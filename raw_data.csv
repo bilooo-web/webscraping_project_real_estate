@@ -1,13 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"5
-beds",3,"1,998
-sq.ft.","7627 S Cornell Ave Chicago, IL 60649","$400,000"
-"4
-beds",3,"1,640
-sq.ft.","8040 S Luella Ave Chicago, IL 60617","$299,900"
-"3
-beds",1,"1,137
-sq.ft.","5223 S Drexel Avenue , 2N Chicago, IL 60615","$225,000"
 "4
 beds",3,"1,600
 sq.ft.","5026 S Lavergne Avenue Chicago, IL 60638","$498,000"
@@ -341,6 +332,15 @@ sq.ft.","1241 W 72nd Place Chicago, IL 60636","$80,000"
 "3
 beds",1,"1,400
 sq.ft.","4850 S LAKE PARK Avenue 702B Chicago, IL 60615","$59,900"
+"5
+beds",3,"1,998
+sq.ft.","7627 S Cornell Ave Chicago, IL 60649","$400,000"
+"4
+beds",3,"1,640
+sq.ft.","8040 S Luella Ave Chicago, IL 60617","$299,900"
+"3
+beds",1,"1,137
+sq.ft.","5223 S Drexel Avenue , 2N Chicago, IL 60615","$225,000"
 "5
 beds",4,"8,400
 sq.ft.","800 N Michigan Avenue 63PH Chicago, IL 60611","$6,950,000"

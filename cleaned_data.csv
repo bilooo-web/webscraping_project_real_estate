@@ -1,7 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-5,3,1998,"7627 S Cornell Ave Chicago, IL 60649",400000.0
-4,3,1640,"8040 S Luella Ave Chicago, IL 60617",299900.0
-3,1,1137,"5223 S Drexel Avenue , 2N Chicago, IL 60615",225000.0
 4,3,1600,"5026 S Lavergne Avenue Chicago, IL 60638",498000.0
 4,2,1588,"2101 W Greenleaf Avenue Chicago, IL 60645",680888.0
 4,2,1542,"3936 W 116 Street Alsip, IL 60803",295000.0
@@ -102,6 +99,9 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1115,"9919 S Peoria Street Chicago, IL 60643",105000.0
 5,2,960,"1241 W 72nd Place Chicago, IL 60636",80000.0
 3,1,1400,"4850 S LAKE PARK Avenue 702B Chicago, IL 60615",59900.0
+5,3,1998,"7627 S Cornell Ave Chicago, IL 60649",400000.0
+4,3,1640,"8040 S Luella Ave Chicago, IL 60617",299900.0
+3,1,1137,"5223 S Drexel Avenue , 2N Chicago, IL 60615",225000.0
 1,2,2230,"1040 N Lake Shore Drive 26B Chicago, IL 60611",998000.0
 2,2,1700,"1430 N La Salle Drive F1 Chicago, IL 60610",779000.0
 2,2,1630,"65 E Monroe Street 4521 Chicago, IL 60603",719000.0
