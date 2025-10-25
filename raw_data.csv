@@ -2,15 +2,12 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "5
 beds",3,"4,864
 sq.ft.","1424 W Barry Avenue Chicago, IL 60657","$1,799,000"
+"3
+beds",1,"1,200
+sq.ft.","5050 S Lavergne Avenue Chicago, IL 60638","$259,900"
 "5
 beds",2,"1,966
 sq.ft.","6020 S Nashville Avenue Chicago, IL 60638","$399,900"
-"4
-beds",3,"1,600
-sq.ft.","5026 S Lavergne Avenue Chicago, IL 60638","$498,000"
-"3
-beds",1,"936
-sq.ft.","4858 W Strong Street Chicago, IL 60630","$419,900"
 "5
 beds",4,"3,000
 sq.ft.","7440 S Oglesby Avenue Chicago, IL 60649","$635,000"
@@ -20,6 +17,9 @@ sq.ft.","7650 S Cregier Avenue Chicago, IL 60649","$525,000"
 "4
 beds",2,"1,588
 sq.ft.","2101 W Greenleaf Avenue Chicago, IL 60645","$680,888"
+"4
+beds",3,"1,600
+sq.ft.","5026 S Lavergne Avenue Chicago, IL 60638","$498,000"
 "4
 beds",2,"1,542
 sq.ft.","3936 W 116 Street Alsip, IL 60803","$295,000"
@@ -227,6 +227,9 @@ sq.ft.","2471 N Clybourn Avenue 3 Chicago, IL 60638","$969,000"
 "3
 beds",2,"1,625
 sq.ft.","2471 N Clybourn Avenue 2 Chicago, IL 60638","$825,000"
+"3
+beds",2,"2,080
+sq.ft.","3704 W 57th Street Chicago, IL 60629","$339,999"
 "2
 beds",2,"1,200
 sq.ft.","300 W Grand Avenue 208 Chicago, IL 60654","$499,000"
@@ -2243,9 +2246,6 @@ sq.ft.","7228 S Hermitage Avenue Chicago, IL 60636",Price On Request
 "3
 beds",3,"3,600
 sq.ft.","4015 N Albany Avenue Chicago, IL 60618","$1,349,900"
-"3
-beds",2,"2,080
-sq.ft.","3704 W 57th Street Chicago, IL 60629","$339,999"
 "3
 beds",1,"1,060
 sq.ft.","841 N Fairfield Avenue Chicago, IL 60622","$324,900"

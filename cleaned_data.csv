@@ -1,10 +1,10 @@
 bedrooms,bathrooms,square_footage,address,price
+3,1,1200,"5050 S Lavergne Avenue Chicago, IL 60638",259900.0
 5,2,1966,"6020 S Nashville Avenue Chicago, IL 60638",399900.0
-4,3,1600,"5026 S Lavergne Avenue Chicago, IL 60638",498000.0
-3,1,936,"4858 W Strong Street Chicago, IL 60630",419900.0
 5,4,3000,"7440 S Oglesby Avenue Chicago, IL 60649",635000.0
 4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",525000.0
 4,2,1588,"2101 W Greenleaf Avenue Chicago, IL 60645",680888.0
+4,3,1600,"5026 S Lavergne Avenue Chicago, IL 60638",498000.0
 4,2,1542,"3936 W 116 Street Alsip, IL 60803",295000.0
 1,1,725,"405 N Wabash Avenue 1608 Chicago, IL 60611",235000.0
 1,1,1080,"2303 S Michigan Avenue 208 Chicago, IL 60616",322400.0
@@ -67,6 +67,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1300,"830 N HERMITAGE Avenue 2 Chicago, IL 60622",489900.0
 3,2,1725,"2471 N Clybourn Avenue 3 Chicago, IL 60638",969000.0
 3,2,1625,"2471 N Clybourn Avenue 2 Chicago, IL 60638",825000.0
+3,2,2080,"3704 W 57th Street Chicago, IL 60629",339999.0
 2,2,1200,"300 W Grand Avenue 208 Chicago, IL 60654",499000.0
 2,1,900,"2025 S Indiana Avenue 407 Chicago, IL 60616",349999.0
 1,1,966,"1235 S Prairie Avenue 807 Chicago, IL 60605",319900.0
@@ -673,7 +674,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1040,"1146 E 90th Street Chicago, IL 60619",140000.0
 4,1,1000,"433 W 103rd Street Chicago, IL 60628",59900.0
 5,3,1758,"1810 S Kildare Avenue Chicago, IL 60623",39900.0
-3,2,2080,"3704 W 57th Street Chicago, IL 60629",339999.0
 3,1,1060,"841 N Fairfield Avenue Chicago, IL 60622",324900.0
 3,2,2585,"1478 S PRAIRIE Avenue E Chicago, IL 60605",859000.0
 4,3,3624,"2123 N Austin Avenue Chicago, IL 60639",669900.0
