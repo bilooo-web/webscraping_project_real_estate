@@ -2,18 +2,9 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "5
 beds",3,"4,864
 sq.ft.","1424 W Barry Avenue Chicago, IL 60657","$1,799,000"
-"3
-beds",1,"1,200
-sq.ft.","5050 S Lavergne Avenue Chicago, IL 60638","$259,900"
 "5
 beds",2,"1,966
 sq.ft.","6020 S Nashville Avenue Chicago, IL 60638","$399,900"
-"5
-beds",4,"3,000
-sq.ft.","7440 S Oglesby Avenue Chicago, IL 60649","$635,000"
-"4
-beds",4,"3,200
-sq.ft.","7650 S Cregier Avenue Chicago, IL 60649","$525,000"
 "4
 beds",2,"1,588
 sq.ft.","2101 W Greenleaf Avenue Chicago, IL 60645","$680,888"
@@ -227,9 +218,6 @@ sq.ft.","2471 N Clybourn Avenue 3 Chicago, IL 60638","$969,000"
 "3
 beds",2,"1,625
 sq.ft.","2471 N Clybourn Avenue 2 Chicago, IL 60638","$825,000"
-"3
-beds",2,"2,080
-sq.ft.","3704 W 57th Street Chicago, IL 60629","$339,999"
 "2
 beds",2,"1,200
 sq.ft.","300 W Grand Avenue 208 Chicago, IL 60654","$499,000"
@@ -416,6 +404,9 @@ sq.ft.","5415 N Sheridan Road 2904 Chicago, IL 60640","$259,500"
 "6
 beds",3,"3,701
 sq.ft.","12557 S Mason Avenue Alsip, IL 60803","$515,000"
+"4
+beds",4,"3,200
+sq.ft.","7650 S Cregier Avenue Chicago, IL 60649","$525,000"
 "1
 beds",1,"850
 sq.ft.","41 E 8th Street 1805 Chicago, IL 60605","$295,000"
@@ -1367,6 +1358,9 @@ sq.ft.","3120 N Christiana Avenue Chicago, IL 60618","$750,000"
 "2
 beds",2,"1,085
 sq.ft.","234 W Polk Street 3610 Chicago, IL 60607","$665,000"
+"5
+beds",4,"3,000
+sq.ft.","7440 S Oglesby Avenue Chicago, IL 60649","$635,000"
 "3
 beds",1,"1,800
 sq.ft.","2134 N WINCHESTER Avenue A Chicago, IL 60614","$599,000"
@@ -2247,6 +2241,9 @@ sq.ft.","7228 S Hermitage Avenue Chicago, IL 60636",Price On Request
 beds",3,"3,600
 sq.ft.","4015 N Albany Avenue Chicago, IL 60618","$1,349,900"
 "3
+beds",2,"2,080
+sq.ft.","3704 W 57th Street Chicago, IL 60629","$339,999"
+"3
 beds",1,"1,060
 sq.ft.","841 N Fairfield Avenue Chicago, IL 60622","$324,900"
 "3
@@ -3023,3 +3020,6 @@ sq.ft.","7641 N EASTLAKE Terrace 1B Chicago, IL 60626","$273,000"
 "1
 beds",1,"1,200
 sq.ft.","3520 N Lake Shore Drive 9E Chicago, IL 60657","$248,000"
+"2
+beds",1,"1,400
+sq.ft.","2060 W Fargo Avenue 3 Chicago, IL 60645","$239,900"
