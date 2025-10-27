@@ -5,6 +5,9 @@ sq.ft.","642 E 90th Street Chicago, IL 60619","$340,000"
 "3
 beds",2,"1,500
 sq.ft.","4706 S Saint Lawrence Avenue 2E Chicago, IL 60615","$440,000"
+"3
+beds",2,"1,500
+sq.ft.","3180 N LAKE SHORE Drive 19D Chicago, IL 60657","$624,900"
 "4
 beds",2,"2,405
 sq.ft.","8630 S Bishop Street Chicago, IL 60620","$339,900"
@@ -14,6 +17,21 @@ sq.ft.","40 E 9th Street 1103 Chicago, IL 60605","$215,000"
 "2
 beds",2,"1,257
 sq.ft.","474 N Lake Shore Drive 2408 Chicago, IL 60611","$450,000"
+"2
+beds",2,"1,234
+sq.ft.","1033 W 14th Place 241 Chicago, IL 60608","$395,000"
+"3
+beds",2,"1,214
+sq.ft.","8841 S Utica Street Evergreen Park, IL 60805","$379,900"
+"1
+beds",1,"995
+sq.ft.","10 E ONTARIO Street 1205 Chicago, IL 60611","$299,500"
+"5
+beds",2,"1,564
+sq.ft.","13115 S Escanaba Avenue Chicago, IL 60633","$265,000"
+"5
+beds",2,"2,243
+sq.ft.","64 E 102ND Place Chicago, IL 60628","$259,900"
 "3
 beds",2,"1,500
 sq.ft.","1918 W 108th Place Chicago, IL 60643","$419,900"
@@ -579,9 +597,6 @@ sq.ft.","9225 S Emerald Avenue Chicago, IL 60620","$245,000"
 beds",3,"2,711
 sq.ft.","7450 S Colfax Avenue Chicago, IL 60649","$239,900"
 "3
-beds",1,"1,000
-sq.ft.","5754 W Lawrence Avenue 1A Chicago, IL 60630","$237,000"
-"3
 beds",1,"1,024
 sq.ft.","8319 S Crandon Avenue Chicago, IL 60617","$234,900"
 "3
@@ -1004,9 +1019,6 @@ sq.ft.","4621 N Anthon Avenue Chicago, IL 60656","$775,000"
 "3
 beds",2,"1,450
 sq.ft.","1203 W Superior Street 3C Chicago, IL 60642","$699,900"
-"3
-beds",2,"1,500
-sq.ft.","3180 N LAKE SHORE Drive 19D Chicago, IL 60657","$624,900"
 "3
 beds",3,"1,603
 sq.ft.","4515 N Karlov Avenue Chicago, IL 60630","$624,900"
@@ -1619,9 +1631,6 @@ sq.ft.","2617 W Leland Avenue 1 Chicago, IL 60625","$440,000"
 "2
 beds",1,"1,478
 sq.ft.","10041 S Saint Louis Avenue Evergreen Park, IL 60805","$399,900"
-"3
-beds",2,"1,214
-sq.ft.","8841 S Utica Street Evergreen Park, IL 60805","$385,900"
 "4
 beds",2,"1,452
 sq.ft.","3217 W 64th Place Chicago, IL 60629","$385,000"
@@ -2029,7 +2038,7 @@ beds",2,"1,300
 sq.ft.","343 E 25TH Place 18C Chicago, IL 60616","$319,000"
 "2
 beds",1,"1,057
-sq.ft.","1255 S STATE Street 917 Chicago, IL 60605","$309,000"
+sq.ft.","1255 S STATE Street 917 Chicago, IL 60605","$299,000"
 "2
 beds",1,"1,156
 sq.ft.","5360 N Lowell Avenue 206 Chicago, IL 60630","$299,000"
@@ -2441,9 +2450,6 @@ sq.ft.","5049 N Ashland Avenue Chicago, IL 60640","$399,900"
 "3
 beds",2,"1,700
 sq.ft.","11756 S Leamington Avenue Alsip, IL 60803","$399,000"
-"2
-beds",2,"1,234
-sq.ft.","1033 W 14th Place 241 Chicago, IL 60608","$395,000"
 "1
 beds",1,"1,026
 sq.ft.","1301 W Washington Boulevard 604 Chicago, IL 60607","$385,000"
@@ -2554,7 +2560,7 @@ beds",1,"1,088
 sq.ft.","12917 S Marquette Avenue Chicago, IL 60633","$199,900"
 "4
 beds",5,"4,000
-sq.ft.","505 W Menomonee Street Chicago, IL 60614","$2,599,000"
+sq.ft.","505 W Menomonee Street Chicago, IL 60614","$2,450,000"
 "4
 beds",3,"3,800
 sq.ft.","1534 N Maplewood Avenue Chicago, IL 60622","$1,475,000"
@@ -2838,9 +2844,6 @@ sq.ft.","5519 S Nashville Avenue Chicago, IL 60638","$299,900"
 beds",2,"1,700
 sq.ft.","7535 S Aberdeen Street Chicago, IL 60620","$299,900"
 "3
-beds",2,"1,698
-sq.ft.","5815 W Fulton Street Chicago, IL 60644","$299,000"
-"3
 beds",1,"1,971
 sq.ft.","9241 S Richmond Avenue Evergreen Park, IL 60805","$299,000"
 "3
@@ -2986,7 +2989,7 @@ beds",1,"1,128
 sq.ft.","8228 S Saint Lawrence Avenue Chicago, IL 60619","$83,200"
 "3
 beds",1,"1,305
-sq.ft.","1205 E 93rd Street Chicago, IL 60619","$65,000"
+sq.ft.","1205 E 93rd Street Chicago, IL 60619","$60,000"
 "4
 beds",2,"3,055
 sq.ft.","2832 N Riverwalk Drive Chicago, IL 60618","$995,000"
@@ -3020,6 +3023,3 @@ sq.ft.","221 W 108TH Place Chicago, IL 60628","$59,900"
 "3
 beds",4,"3,670
 sq.ft.","2468 W Berteau Avenue Chicago, IL 60618","$1,599,000"
-"4
-beds",2,"2,538
-sq.ft.","3837 N Alta Vista Terrace Chicago, IL 60613","$1,049,000"
