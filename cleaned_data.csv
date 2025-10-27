@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-4,2,2450,"8053 S Kedzie Avenue Chicago, IL 60652",369000.0
 5,3,1926,"642 E 90th Street Chicago, IL 60619",340000.0
 3,2,1500,"4706 S Saint Lawrence Avenue 2E Chicago, IL 60615",440000.0
 4,2,2405,"8630 S Bishop Street Chicago, IL 60620",339900.0
@@ -241,6 +240,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,4,3500,"6740 S Oglesby Avenue 2 Chicago, IL 60649",119000.0
 2,2,1750,"1755 E 55th Street 503 Chicago, IL 60615",114000.0
 5,2,2284,"3907 W Van Buren St Chicago, IL 60624",330000.0
+3,2,2900,"680 N Lake Shore Drive 604 Chicago, IL 60611",1100000.0
 2,2,1385,"1111 S State Street A602 Chicago, IL 60605",349000.0
 2,1,1038,"811 W 15th Place 709 Chicago, IL 60608",321000.0
 4,3,1600,"11353 S Stewart Avenue Chicago, IL 60628",274999.0
@@ -922,3 +922,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,1800,"1715 W 91st Place Chicago, IL 60620",344900.0
 4,1,1912,"5338 W Kinzie Street Chicago, IL 60644",147700.0
 4,1,1300,"221 W 108TH Place Chicago, IL 60628",59900.0
+4,2,2538,"3837 N Alta Vista Terrace Chicago, IL 60613",1049000.0
