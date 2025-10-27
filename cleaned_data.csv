@@ -1,8 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 3,1,1200,"5050 S Lavergne Avenue Chicago, IL 60638",259900.0
-3,2,2200,"5916 N Avondale Avenue Chicago, IL 60631",449900.0
-4,4,2870,"3019 N Kenneth Avenue Chicago, IL 60641",819900.0
-3,2,1582,"7805 W Farragut Avenue Chicago, IL 60656",469500.0
 2,2,1446,"5320 N Kenmore Avenue N Chicago, IL 60640",490000.0
 3,2,1600,"2415 W 32nd Place Chicago, IL 60608",398000.0
 2,1,1150,"345 N Canal Street 1301 Chicago, IL 60606",325000.0
@@ -21,7 +18,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2741,"3315 S Lowe Avenue Chicago, IL 60616",695000.0
 4,2,3000,"2651 W Augusta Boulevard 1 Chicago, IL 60622",899500.0
 4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",525000.0
-1,1,850,"41 E 8th Street 1805 Chicago, IL 60605",295000.0
 3,1,1569,"9527 S Damen Avenue Chicago, IL 60643",414000.0
 4,3,1136,"5339 S Kildare Avenue Chicago, IL 60632",399999.0
 2,3,1493,"1255 N STATE Parkway 2E-3E Chicago, IL 60610",624000.0
@@ -59,7 +55,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1881,"5114 S Kenwood Avenue 3B Chicago, IL 60615",900000.0
 1,1,934,"1235 S PRAIRIE Avenue 3206 Chicago, IL 60605",340000.0
 4,2,1643,"5015 W CORNELIA Avenue Chicago, IL 60641",310000.0
-2,1,1175,"6220 N Ridge Avenue #S203 Chicago, IL 60660",244900.0
+2,1,1175,"6220 N Ridge Avenue #S203 Chicago, IL 60660",239900.0
 2,1,1316,"333 N Canal Street 1403 Chicago, IL 60606",495000.0
 2,1,900,"6416 W 64th Place 3A Chicago, IL 60638",185000.0
 2,2,1500,"1332 W Hubbard Street 2E Chicago, IL 60642",599000.0
@@ -179,6 +175,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,1596,"3431 N Kostner Avenue Chicago, IL 60641",589000.0
 3,2,1600,"474 N LAKE SHORE Drive 5008 Chicago, IL 60611",575000.0
 2,2,1600,"5733 N Sheridan Road 27C Chicago, IL 60660",454900.0
+3,2,2200,"5916 N Avondale Avenue Chicago, IL 60631",449900.0
 2,2,1325,"101 W SUPERIOR Street 1101 Chicago, IL 60654",449500.0
 3,2,1560,"7249 N CAMPBELL Avenue B Chicago, IL 60645",445000.0
 3,3,2000,"4811 N Olcott Avenue 307 Harwood Heights, IL 60706",435000.0
@@ -316,6 +313,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,950,"4342 N Kedvale Avenue 2A Chicago, IL 60641",196900.0
 1,1,700,"7337 S South Shore Drive 708 Chicago, IL 60649",71000.0
 4,2,1709,"2058 W Washington Boulevard Chicago, IL 60612",599000.0
+4,4,2870,"3019 N Kenneth Avenue Chicago, IL 60641",819900.0
 2,2,1750,"940 W Glenlake Avenue 19C Chicago, IL 60660",750000.0
 3,3,1860,"1747 W Pierce Avenue 2 Chicago, IL 60622",699000.0
 3,3,2586,"7422 N Olcott Avenue Chicago, IL 60631",599900.0
@@ -592,6 +590,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1250,"2451 W Cortland Street 3 Chicago, IL 60647",558000.0
 3,2,1800,"912 W Margate Terrace 2 Chicago, IL 60640",525000.0
 2,1,1400,"523 W Belmont Avenue 2E Chicago, IL 60657",484900.0
+3,2,1582,"7805 W Farragut Avenue Chicago, IL 60656",469500.0
 3,2,1800,"3815 N Kedzie Avenue 3S Chicago, IL 60618",449900.0
 2,2,1200,"1901 S Calumet Avenue 1803 Chicago, IL 60616",415000.0
 2,2,1170,"222 N Columbus Drive 1502 Chicago, IL 60601",399000.0
@@ -920,3 +919,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1141,"7249 S Albany Avenue Chicago, IL 60629",275000.0
 2,1,900,"7641 N EASTLAKE Terrace 1B Chicago, IL 60626",273000.0
 1,1,1200,"3520 N Lake Shore Drive 9E Chicago, IL 60657",248000.0
+2,1,1400,"2060 W Fargo Avenue 3 Chicago, IL 60645",239900.0
