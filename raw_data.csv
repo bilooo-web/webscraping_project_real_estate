@@ -1,5 +1,8 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
+beds",2,"1,250
+sq.ft.","660 W Wayman Street , 701 Chicago, IL 60661","$465,000"
+"2
 beds",2,"1,300
 sq.ft.","817 W Washington Boulevard 503 Chicago, IL 60607","$650,000"
 "4
@@ -3020,6 +3023,3 @@ sq.ft.","3750 S Rockwell Street Chicago, IL 60632","$330,000"
 "2
 beds",1,"991
 sq.ft.","7817 W Balmoral Avenue Chicago, IL 60656","$299,999"
-"4
-beds",1,"1,278
-sq.ft.","5519 S Nashville Avenue Chicago, IL 60638","$299,900"
