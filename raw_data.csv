@@ -3,9 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",2,"1,250
 sq.ft.","660 W Wayman Street , 701 Chicago, IL 60661","$465,000"
 "2
-beds",2,"1,187
-sq.ft.","6707 N Whipple Street Chicago, IL 60645","$455,000"
-"2
 beds",2,"1,300
 sq.ft.","817 W Washington Boulevard 503 Chicago, IL 60607","$650,000"
 "4
@@ -3023,3 +3020,6 @@ sq.ft.","2675 W Grand Avenue 302 Chicago, IL 60612","$339,900"
 "4
 beds",2,"840
 sq.ft.","3750 S Rockwell Street Chicago, IL 60632","$330,000"
+"2
+beds",1,"991
+sq.ft.","7817 W Balmoral Avenue Chicago, IL 60656","$299,999"

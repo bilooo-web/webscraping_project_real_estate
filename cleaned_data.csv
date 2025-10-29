@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 2,2,1250,"660 W Wayman Street , 701 Chicago, IL 60661",465000.0
-2,2,1187,"6707 N Whipple Street Chicago, IL 60645",455000.0
 2,2,1300,"817 W Washington Boulevard 503 Chicago, IL 60607",650000.0
 4,2,1200,"5817 W 64th Street Chicago, IL 60638",354900.0
 5,3,1926,"642 E 90th Street Chicago, IL 60619",340000.0
@@ -921,3 +920,4 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1009,"4548 S Laporte Avenue Chicago, IL 60638",369900.0
 2,1,1200,"2675 W Grand Avenue 302 Chicago, IL 60612",339900.0
 4,2,840,"3750 S Rockwell Street Chicago, IL 60632",330000.0
+2,1,991,"7817 W Balmoral Avenue Chicago, IL 60656",299999.0
