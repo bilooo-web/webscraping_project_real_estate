@@ -1,4 +1,7 @@
 bedrooms,bathrooms,square_footage,address,price
+3,1,1600,"2651 W Pope John Paul Ii Drive Chicago, IL 60632",300000.0
+3,1,990,"1218 W 96th Street Chicago, IL 60643",220000.0
+2,1,1094,"1320 S Heath Avenue Chicago, IL 60608",349999.0
 2,2,1250,"660 W Wayman Street , 701 Chicago, IL 60661",465000.0
 2,2,1187,"6707 N Whipple Street Chicago, IL 60645",455000.0
 2,2,880,"3450 West Walnut Street Chicago, IL 60624",240000.0
@@ -909,6 +912,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,2539,"2019 N WHIPPLE Street 1 Chicago, IL 60647",700000.0
 2,2,1600,"3539 N Southport Avenue 2N Chicago, IL 60657",675000.0
 2,2,1550,"1500 N LASALLE Drive 2A Chicago, IL 60610",650000.0
-2,2,1810,"8025 W Giddings Street Norridge, IL 60706",619000.0
-2,2,1375,"632 W Buckingham Place 2E Chicago, IL 60657",539900.0
-2,2,1250,"343 W OLD TOWN Court 604 Chicago, IL 60610",525000.0
