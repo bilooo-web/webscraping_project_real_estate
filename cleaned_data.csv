@@ -1,6 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-2,1,1000,"6161 N Hoyne Avenue , 414 Chicago, IL 60659",105900.0
-6,4,3900,"5529 W CORNELIA Avenue Chicago, IL 60641",674900.0
 2,2,1008,"10741 S California Avenue Chicago, IL 60655",324900.0
 3,2,1215,"10106 S VERNON Avenue Chicago, IL 60628",290000.0
 4,2,3100,"6637 W 64th Place Chicago, IL 60638",485000.0
@@ -752,7 +750,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1104,"1434 W 123rd Street Chicago, IL 60643",139900.0
 1,1,800,"5148 S King Drive B3 Chicago, IL 60615",83000.0
 4,2,1386,"7244 S Sangamon Street Chicago, IL 60621",71900.0
-6,2,2310,"12901 S Muskegon Avenue Chicago, IL 60633",284901.0
+6,2,2310,"12901 S Muskegon Avenue Chicago, IL 60633",299901.0
 3,2,2045,"1526 N Leavitt Street 1 Chicago, IL 60622",975000.0
 4,3,2914,"9556 S Winchester Avenue Chicago, IL 60643",849900.0
 3,3,3000,"1630 W WARREN Boulevard 1 Chicago, IL 60607",799000.0
@@ -913,3 +911,5 @@ bedrooms,bathrooms,square_footage,address,price
 5,2,2746,"5525 S Throop Street Chicago, IL 60636",237900.0
 3,1,1347,"9041 S East End Avenue Chicago, IL 60617",224873.0
 1,1,968,"780 S Federal Street 310 Chicago, IL 60605",189000.0
+3,2,1438,"7532 S Saint Lawrence Avenue Chicago, IL 60619",175500.0
+4,1,969,"9311 S Burnside Avenue Chicago, IL 60619",133000.0
