@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",1,"1,000
+sq.ft.","6161 N Hoyne Avenue , 414 Chicago, IL 60659","$105,900"
 "6
 beds",4,"3,900
 sq.ft.","5529 W CORNELIA Avenue Chicago, IL 60641","$674,900"
@@ -2491,7 +2494,7 @@ beds",2,"1,386
 sq.ft.","7244 S Sangamon Street Chicago, IL 60621","$71,900"
 "6
 beds",2,"2,310
-sq.ft.","12901 S Muskegon Avenue Chicago, IL 60633","$299,901"
+sq.ft.","12901 S Muskegon Avenue Chicago, IL 60633","$284,901"
 "7
 beds",5,"6,300
 sq.ft.","531 W Grant Place Chicago, IL 60614","$4,200,000"
@@ -3020,6 +3023,3 @@ sq.ft.","9041 S East End Avenue Chicago, IL 60617","$224,873"
 "1
 beds",1,"968
 sq.ft.","780 S Federal Street 310 Chicago, IL 60605","$189,000"
-"3
-beds",2,"1,438
-sq.ft.","7532 S Saint Lawrence Avenue Chicago, IL 60619","$175,500"
