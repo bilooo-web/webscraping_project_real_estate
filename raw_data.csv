@@ -3,9 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",1,"1,000
 sq.ft.","6161 N Hoyne Avenue , 414 Chicago, IL 60659","$105,900"
 "2
-beds",2,"1,008
-sq.ft.","10741 S California Avenue Chicago, IL 60655","$324,900"
-"2
 beds",1,"1,200
 sq.ft.","539 W Addison Street 2N Chicago, IL 60613","$340,000"
 "3
@@ -1319,6 +1316,9 @@ sq.ft.","7141 S Artesian Avenue Chicago, IL 60629","$340,000"
 "3
 beds",2,"1,900
 sq.ft.","3522 S King Drive 3S Chicago, IL 60653","$334,000"
+"2
+beds",2,"1,008
+sq.ft.","10741 S California Avenue Chicago, IL 60655","$324,900"
 "1
 beds",1,"966
 sq.ft.","1235 S Prairie Avenue 807 Chicago, IL 60605","$319,900"
