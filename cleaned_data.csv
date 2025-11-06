@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",289900.0
 2,1,1000,"6161 N Hoyne Avenue , 414 Chicago, IL 60659",105900.0
 3,2,2000,"1108 E Marquette Road 207 Chicago, IL 60637",480000.0
 2,1,1200,"539 W Addison Street 2N Chicago, IL 60613",340000.0
@@ -99,7 +100,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1150,"208 W Washington Street 1913 Chicago, IL 60606",335000.0
 2,2,1000,"1000 W 15th Street 234 Chicago, IL 60608",324900.0
 3,2,1200,"5205 S Linder Avenue Chicago, IL 60638",320000.0
-3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",289900.0
 4,2,1000,"11604 S Kenneth Avenue Alsip, IL 60803",286000.0
 3,2,1919,"607 E 103rd Place Chicago, IL 60628",285000.0
 2,1,661,"1704 W Catalpa Avenue 2W Chicago, IL 60640",275000.0

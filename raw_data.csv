@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"1,152
+sq.ft.","11935 S Stewart Avenue Chicago, IL 60628","$289,900"
 "2
 beds",1,"1,000
 sq.ft.","6161 N Hoyne Avenue , 414 Chicago, IL 60659","$105,900"
@@ -353,9 +356,6 @@ sq.ft.","1000 W 15th Street 234 Chicago, IL 60608","$324,900"
 "3
 beds",2,"1,200
 sq.ft.","5205 S Linder Avenue Chicago, IL 60638","$320,000"
-"3
-beds",2,"1,152
-sq.ft.","11935 S Stewart Avenue Chicago, IL 60628","$289,900"
 "4
 beds",2,"1,000
 sq.ft.","11604 S Kenneth Avenue Alsip, IL 60803","$286,000"
