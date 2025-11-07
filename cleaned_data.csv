@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2,1650,"9847 Millard Ave Evergreen Park, IL 60805",399999.0
 2,1,1144,"4833 W Strong Street Chicago, IL 60630",359000.0
 3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",289900.0
 5,4,3000,"7440 S Oglesby Avenue Chicago, IL 60649",635000.0
@@ -914,4 +915,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1100,"6421 N Damen Avenue 1W Chicago, IL 60645",245000.0
 3,2,2000,"7321 S South Shore Drive 8D Chicago, IL 60649",245000.0
 3,2,2000,"6833 N Kedzie Avenue 1516 Chicago, IL 60645",224900.0
-4,2,1400,"1329 E 89th Place Chicago, IL 60619",219900.0

@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"3
+beds",2,"1,650
+sq.ft.","9847 Millard Ave Evergreen Park, IL 60805","$399,999"
 "2
 beds",1,"1,144
 sq.ft.","4833 W Strong Street Chicago, IL 60630","$359,000"
@@ -3020,6 +3023,3 @@ sq.ft.","7321 S South Shore Drive 8D Chicago, IL 60649","$245,000"
 "3
 beds",2,"2,000
 sq.ft.","6833 N Kedzie Avenue 1516 Chicago, IL 60645","$224,900"
-"4
-beds",2,"1,400
-sq.ft.","1329 E 89th Place Chicago, IL 60619","$219,900"
