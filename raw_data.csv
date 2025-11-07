@@ -1,10 +1,10 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",1,"1,144
+sq.ft.","4833 W Strong Street Chicago, IL 60630","$359,000"
 "3
 beds",2,"1,152
 sq.ft.","11935 S Stewart Avenue Chicago, IL 60628","$289,900"
-"2
-beds",1,"1,000
-sq.ft.","6161 N Hoyne Avenue , 414 Chicago, IL 60659","$105,900"
 "3
 beds",2,"2,000
 sq.ft.","1108 E Marquette Road 207 Chicago, IL 60637","$480,000"
@@ -503,6 +503,9 @@ sq.ft.","12014 S Normal Avenue Chicago, IL 60628","$105,000"
 "5
 beds",2,"1,408
 sq.ft.","10562 S Wabash Avenue Chicago, IL 60628","$89,000"
+"2
+beds",1,"1,000
+sq.ft.","6161 N Hoyne Avenue , 414 Chicago, IL 60659","$105,900"
 "3
 beds",2,"3,200
 sq.ft.","1942 N Sedgwick Street PH Chicago, IL 60614","$2,799,000"
@@ -3020,6 +3023,3 @@ sq.ft.","2241 S Archer Avenue 4 Chicago, IL 60616","$568,000"
 "2
 beds",2,"1,400
 sq.ft.","2401 N Janssen Avenue 203 Chicago, IL 60614","$549,000"
-"2
-beds",2,"1,200
-sq.ft.","1529 W Montana Street 2 Chicago, IL 60614","$525,000"
