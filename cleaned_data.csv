@@ -6,6 +6,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1914,"5522 S Everett Avenue 3S Chicago, IL 60637",359000.0
 3,2,960,"6105 S Moody Street Chicago, IL 60638",300000.0
 3,1,1128,"3412 W 115th Street Chicago, IL 60655",449000.0
+2,2,1000,"5635 S California Ave Chicago, IL 60629",200000.0
 4,3,2350,"1329 N Mohawk Street 1 Chicago, IL 60610",799000.0
 2,1,1350,"2205 W Shakespeare Avenue 1W Chicago, IL 60647",489000.0
 2,2,966,"5733 S New England Avenue Chicago, IL 60638",350000.0
@@ -914,4 +915,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,960,"7327 S Mozart Street Chicago, IL 60629",249000.0
 2,2,1100,"6421 N Damen Avenue 1W Chicago, IL 60645",245000.0
 3,2,2000,"7321 S South Shore Drive 8D Chicago, IL 60649",245000.0
-3,2,2000,"6833 N Kedzie Avenue 1516 Chicago, IL 60645",224900.0
