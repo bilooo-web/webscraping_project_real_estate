@@ -1,9 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2,1650,"9847 Millard Ave Evergreen Park, IL 60805",399999.0
 2,1,1144,"4833 W Strong Street Chicago, IL 60630",359000.0
-5,4,3000,"7440 S Oglesby Avenue Chicago, IL 60649",635000.0
-3,2,1914,"5522 S Everett Avenue 3S Chicago, IL 60637",359000.0
-3,2,960,"6105 S Moody Street Chicago, IL 60638",300000.0
 3,1,1128,"3412 W 115th Street Chicago, IL 60655",449000.0
 2,2,1000,"5635 S California Ave Chicago, IL 60629",200000.0
 4,3,2350,"1329 N Mohawk Street 1 Chicago, IL 60610",799000.0
@@ -32,6 +29,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,2429,"3636 N Olcott Avenue Chicago, IL 60634",400000.0
 3,2,1355,"Chicago, IL 60619",229900.0
 3,2,1500,"2018 S Loomis Street 3 Chicago, IL 60608",711000.0
+3,2,960,"6105 S Moody Street Chicago, IL 60638",300000.0
 2,1,1400,"9308 Utica Avenue S Evergreen Park, IL 60805",244900.0
 5,3,2200,"5144 N Kolmar Avenue Chicago, IL 60630",675000.0
 2,2,1500,"817 W Superior Street 2 Chicago, IL 60642",599000.0
@@ -98,6 +96,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,2502,"10151 S Avenue M Chicago, IL 60617",260000.0
 3,2,2900,"680 N Lake Shore Drive 604 Chicago, IL 60611",1085000.0
 2,2,1336,"2700 N Wayne Avenue 3N Chicago, IL 60614",875000.0
+3,2,1914,"5522 S Everett Avenue 3S Chicago, IL 60637",359000.0
 3,2,1600,"1111 W 14TH Place 328 Chicago, IL 60608",500000.0
 2,1,954,"4501 N Ashland Avenue 1S Chicago, IL 60640",275000.0
 3,3,4136,"1529 N Harding Avenue Chicago, IL 60651",999000.0
@@ -760,6 +759,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2500,"3120 N Christiana Avenue Chicago, IL 60618",750000.0
 2,2,1085,"234 W Polk Street 3610 Chicago, IL 60607",665000.0
 3,2,1649,"847 W Ainslie Street 3W Chicago, IL 60640",644900.0
+5,4,3000,"7440 S Oglesby Avenue Chicago, IL 60649",635000.0
 3,2,1635,"847 W Ainslie Street 1E Chicago, IL 60640",600000.0
 3,1,1800,"2134 N WINCHESTER Avenue A Chicago, IL 60614",579900.0
 1,1,1172,"25 E Superior Street 904 Chicago, IL 60611",450000.0
