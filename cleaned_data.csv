@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2,1650,"9847 Millard Ave Evergreen Park, IL 60805",399999.0
 2,1,1144,"4833 W Strong Street Chicago, IL 60630",359000.0
-3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",289900.0
 5,4,3000,"7440 S Oglesby Avenue Chicago, IL 60649",635000.0
 3,2,1914,"5522 S Everett Avenue 3S Chicago, IL 60637",359000.0
 3,2,960,"6105 S Moody Street Chicago, IL 60638",300000.0
@@ -199,6 +198,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,924,"2231 S Drake Avenue Chicago, IL 60623",75000.0
 1,1,800,"7363 S South Shore Drive 209 Chicago, IL 60649",69999.0
 3,1,1308,"6627 S Saint Lawrence Avenue Chicago, IL 60637",54900.0
+3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",289900.0
 3,3,3320,"3721 W Wabansia Avenue Chicago, IL 60647",999900.0
 2,2,1324,"1000 W Adams Street 203 Chicago, IL 60607",550000.0
 2,2,1300,"233 E 13TH Street 1209 Chicago, IL 60605",509000.0
