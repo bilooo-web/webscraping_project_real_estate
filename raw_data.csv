@@ -9,71 +9,14 @@ sq.ft.","4833 W Strong Street Chicago, IL 60630","$359,000"
 beds",1,"1,128
 sq.ft.","3412 W 115th Street Chicago, IL 60655","$449,000"
 "2
-beds",2,"1,000
-sq.ft.","5635 S California Ave Chicago, IL 60629","$200,000"
-"4
-beds",3,"2,350
-sq.ft.","1329 N Mohawk Street 1 Chicago, IL 60610","$799,000"
-"2
-beds",1,"1,350
-sq.ft.","2205 W Shakespeare Avenue 1W Chicago, IL 60647","$489,000"
-"2
 beds",2,"966
 sq.ft.","5733 S New England Avenue Chicago, IL 60638","$350,000"
-"1
-beds",1,"850
-sq.ft.","2116 N Seminary Avenue 28 Chicago, IL 60614","$325,000"
-"3
-beds",3,"2,300
-sq.ft.","4446 S Drexel Boulevard B Chicago, IL 60653","$710,000"
-"4
-beds",3,"2,240
-sq.ft.","4232 W BELMONT Avenue 6 Chicago, IL 60641","$815,000"
-"4
-beds",3,"2,240
-sq.ft.","4230 W BELMONT Avenue Chicago, IL 60641","$815,000"
-"3
-beds",3,"1,950
-sq.ft.","4206 W BELMONT Avenue Chicago, IL 60641","$715,000"
-"3
-beds",3,"1,950
-sq.ft.","4232 W BELMONT Avenue 2 Chicago, IL 60641","$715,000"
-"3
-beds",3,"1,950
-sq.ft.","4232 W BELMONT Avenue 5 Chicago, IL 60641","$715,000"
-"3
-beds",2,"2,000
-sq.ft.","3052 N Oakley Avenue 1 Chicago, IL 60618","$665,000"
-"2
-beds",2,"1,400
-sq.ft.","520 N Halsted Street 613 Chicago, IL 60642","$445,000"
-"2
-beds",2,"1,981
-sq.ft.","1530 S State Street 1004 Chicago, IL 60605","$675,000"
-"4
-beds",3,"3,810
-sq.ft.","932 N Monticello Avenue Chicago, IL 60651","$599,900"
 "4
 beds",2,"3,100
 sq.ft.","6637 W 64th Place Chicago, IL 60638","$485,000"
 "1
-beds",1,"826
-sq.ft.","659 W Randolph Street 1007 Chicago, IL 60661","$264,000"
-"2
-beds",1,"925
-sq.ft.","1250 S Indiana Avenue 1011 Chicago, IL 60605","$339,900"
-"2
-beds",2,"1,500
-sq.ft.","2558 W Haddon Avenue 1 Chicago, IL 60622","$449,000"
-"1
 beds",1,"1,042
 sq.ft.","950 W Huron Street 302 Chicago, IL 60642","$385,000"
-"4
-beds",3,"2,800
-sq.ft.","2448 N Clybourn Avenue 1 Chicago, IL 60614","$950,000"
-"3
-beds",2,"1,700
-sq.ft.","2448 N Clybourn Avenue 2 Chicago, IL 60614","$699,000"
 "4
 beds",3,"2,781
 sq.ft.","400 S Green Street 305 Chicago, IL 60607","$849,900"
@@ -461,6 +404,9 @@ sq.ft.","1707 S Jefferson Street 1 Chicago, IL 60616","$579,900"
 "3
 beds",2,"1,808
 sq.ft.","8613 S Colfax Avenue Chicago, IL 60617","$297,900"
+"2
+beds",1,"1,350
+sq.ft.","2205 W Shakespeare Avenue 1W Chicago, IL 60647","$489,000"
 "3
 beds",3,"3,100
 sq.ft.","401 N Aberdeen Street 4S Chicago, IL 60642","$2,300,000"
@@ -479,6 +425,9 @@ sq.ft.","Chicago, IL 60636","$64,900"
 "4
 beds",2,"1,619
 sq.ft.","5213 W Warner Avenue Chicago, IL 60641","$524,900"
+"2
+beds",2,"1,500
+sq.ft.","2558 W Haddon Avenue 1 Chicago, IL 60622","$449,000"
 "2
 beds",2,"1,400
 sq.ft.","6121 N Northwest Highway 406 Chicago, IL 60631","$275,000"
@@ -579,6 +528,9 @@ sq.ft.","6615 S Woodlawn Avenue 3N Chicago, IL 60637","$289,900"
 beds",2,"2,800
 sq.ft.","501 N Kingsbury Street G Chicago, IL 60654","$1,100,000"
 "4
+beds",3,"2,800
+sq.ft.","2448 N Clybourn Avenue 1 Chicago, IL 60614","$950,000"
+"4
 beds",2,"3,000
 sq.ft.","2651 W Augusta Boulevard 1 Chicago, IL 60622","$899,500"
 "2
@@ -590,6 +542,9 @@ sq.ft.","2416 W MORSE Avenue Chicago, IL 60645","$819,900"
 "2
 beds",1,"1,400
 sq.ft.","523 W Belmont Avenue 2E Chicago, IL 60657","$474,900"
+"3
+beds",2,"1,700
+sq.ft.","2448 N Clybourn Avenue 2 Chicago, IL 60614","$699,000"
 "2
 beds",2,"2,329
 sq.ft.","4260 W Thorndale Avenue Chicago, IL 60646","$510,000"
@@ -599,6 +554,9 @@ sq.ft.","1920 W Dickens Avenue 1R Chicago, IL 60614","$375,000"
 "4
 beds",2,"2,200
 sq.ft.","7545 S Merrill Avenue Chicago, IL 60649","$339,900"
+"1
+beds",1,"850
+sq.ft.","2116 N Seminary Avenue 28 Chicago, IL 60614","$325,000"
 "5
 beds",2,"1,900
 sq.ft.","1826 S 49th Court Cicero, IL 60804","$500,000"
@@ -653,6 +611,9 @@ sq.ft.","2417 N 75TH Avenue C Elmwood Park, IL 60707","$399,900"
 "2
 beds",2,"1,200
 sq.ft.","4231 N Kedzie Avenue 4C Chicago, IL 60618","$349,900"
+"2
+beds",1,"925
+sq.ft.","1250 S Indiana Avenue 1011 Chicago, IL 60605","$339,900"
 "3
 beds",1,"1,051
 sq.ft.","5819 S Mason Avenue Chicago, IL 60638","$329,900"
@@ -1112,6 +1073,9 @@ sq.ft.","1212 N Lake Shore Drive 12CN Chicago, IL 60610","$859,900"
 "3
 beds",3,"3,000
 sq.ft.","823 S Oakley Boulevard Chicago, IL 60612","$789,999"
+"3
+beds",3,"2,300
+sq.ft.","4446 S Drexel Boulevard B Chicago, IL 60653","$710,000"
 "1
 beds",3,"2,600
 sq.ft.","4240 N Mcvicker Avenue Chicago, IL 60634","$625,000"
@@ -1565,9 +1529,24 @@ sq.ft.","130 N Garland Court 3001 Chicago, IL 60602","$990,000"
 "2
 beds",2,"1,900
 sq.ft.","203 S Sangamon Street 310 Chicago, IL 60607","$849,000"
+"4
+beds",3,"2,240
+sq.ft.","4232 W BELMONT Avenue 6 Chicago, IL 60641","$815,000"
+"4
+beds",3,"2,240
+sq.ft.","4230 W BELMONT Avenue Chicago, IL 60641","$815,000"
 "3
 beds",2,"1,800
 sq.ft.","2448 N Clybourn Avenue 4 Chicago, IL 60614","$799,000"
+"3
+beds",3,"1,950
+sq.ft.","4206 W BELMONT Avenue Chicago, IL 60641","$715,000"
+"3
+beds",3,"1,950
+sq.ft.","4232 W BELMONT Avenue 2 Chicago, IL 60641","$715,000"
+"3
+beds",3,"1,950
+sq.ft.","4232 W BELMONT Avenue 5 Chicago, IL 60641","$715,000"
 "3
 beds",3,"2,100
 sq.ft.","2636 W EVERGREEN Avenue 1 Chicago, IL 60622","$699,500"
@@ -1797,6 +1776,9 @@ sq.ft.","1532 W Ohio Street 1 Chicago, IL 60642","$1,250,000"
 beds",2,"1,647
 sq.ft.","3118 N Lincoln Avenue 4A Chicago, IL 60657","$725,000"
 "3
+beds",2,"2,000
+sq.ft.","3052 N Oakley Avenue 1 Chicago, IL 60618","$665,000"
+"3
 beds",2,"1,650
 sq.ft.","1014 N Larrabee Street 4N Chicago, IL 60610","$650,000"
 "3
@@ -1829,6 +1811,9 @@ sq.ft.","451 W Huron Street 1407 Chicago, IL 60654","$449,500"
 "2
 beds",2,"1,200
 sq.ft.","300 W Grand Avenue 208 Chicago, IL 60654","$449,000"
+"2
+beds",2,"1,400
+sq.ft.","520 N Halsted Street 613 Chicago, IL 60642","$445,000"
 "6
 beds",4,"1,073
 sq.ft.","5631 W Cornelia Avenue Chicago, IL 60634","$424,900"
@@ -2477,6 +2462,9 @@ sq.ft.","1243 N Cleaver Street 1 Chicago, IL 60642","$874,900"
 "3
 beds",3,"4,200
 sq.ft.","5254 W Newport Avenue Chicago, IL 60641","$849,900"
+"4
+beds",3,"2,350
+sq.ft.","1329 N Mohawk Street 1 Chicago, IL 60610","$799,000"
 "5
 beds",4,"4,000
 sq.ft.","4621 N Anthon Avenue Chicago, IL 60656","$775,000"
@@ -3023,3 +3011,15 @@ sq.ft.","10447-10449 S Avenue N Chicago, IL 60617","$219,900"
 "3
 beds",1,"1,100
 sq.ft.","9214 S Woodlawn Avenue Chicago, IL 60619","$180,000"
+"3
+beds",1,"1,104
+sq.ft.","1434 W 123rd Street Chicago, IL 60643","$139,900"
+"1
+beds",1,"800
+sq.ft.","5148 S King Drive B3 Chicago, IL 60615","$83,000"
+"4
+beds",2,"1,386
+sq.ft.","7244 S Sangamon Street Chicago, IL 60621","$71,900"
+"6
+beds",2,"2,310
+sq.ft.","12901 S Muskegon Avenue Chicago, IL 60633","$284,901"
