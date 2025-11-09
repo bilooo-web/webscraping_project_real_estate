@@ -155,7 +155,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,3750,"10436 S Calumet Avenue Chicago, IL 60628",139999.0
 1,1,716,"128 W 115th Street Chicago, IL 60628",106999.0
 2,1,1144,"4833 W Strong Street Chicago, IL 60630",359000.0
-3,2,2900,"680 N Lake Shore Drive 604 Chicago, IL 60611",1085000.0
 2,2,1336,"2700 N Wayne Avenue 3N Chicago, IL 60614",875000.0
 3,2,1500,"2018 S Loomis Street 3 Chicago, IL 60608",711000.0
 2,2,1250,"3033 N Racine Avenue 2 Chicago, IL 60657",600000.0
@@ -555,7 +554,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1200,"7514 S Rhodes Avenue Chicago, IL 60619",89900.0
 2,1,900,"8154 S Drexel Avenue 1E Chicago, IL 60619",65000.0
 5,2,1966,"6020 S Nashville Avenue Chicago, IL 60638",399900.0
-2,2,1384,"211 N Harbor Drive 1706 Chicago, IL 60601",1065000.0
 3,3,3000,"1329 N Dearborn Street 1 Chicago, IL 60610",995000.0
 3,3,3000,"1622 N Spaulding Avenue Chicago, IL 60647",924500.0
 3,2,3000,"2201 N 74th Court Elmwood Park, IL 60707",885000.0
@@ -769,26 +767,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2044,"8012 S Essex Avenue 3S Chicago, IL 60617",110000.0
 5,3,1401,"8214 S Paxton Ave Chicago, IL 60617",359900.0
 1,1,900,"41 E 8th Street , 1404 Chicago, IL 60605",285900.0
-4,2,1456,"8633 S Hermitage Avenue Chicago, IL 60620",279800.0
-3,1,998,"4605 W 84th Place Chicago, IL 60652",279000.0
-3,2,1725,"2471 N Clybourn Avenue 3 Chicago, IL 60638",969000.0
-3,2,2421,"926 W Barry Avenue 3 Chicago, IL 60657",949900.0
-3,3,2550,"2139 N BINGHAM Street Chicago, IL 60647",850000.0
-4,3,3600,"2342 N Hamlin Avenue Chicago, IL 60647",849999.0
-3,3,3500,"10649 S Sawyer Avenue Chicago, IL 60655",779900.0
-2,2,1786,"55 E Erie Avenue 1504 Chicago, IL 60611",775000.0
-3,2,2500,"3120 N Christiana Avenue Chicago, IL 60618",750000.0
-2,2,1085,"234 W Polk Street 3610 Chicago, IL 60607",665000.0
-5,4,3000,"7440 S Oglesby Avenue Chicago, IL 60649",635000.0
-3,1,1800,"2134 N WINCHESTER Avenue A Chicago, IL 60614",579900.0
-1,1,1172,"25 E Superior Street 904 Chicago, IL 60611",450000.0
-2,2,1263,"4841 N Rutherford Avenue Chicago, IL 60656",439900.0
-3,2,1820,"4743 S Keeler Avenue Chicago, IL 60632",398000.0
-2,1,976,"1906 W Byron Street 2W Chicago, IL 60613",379900.0
-3,3,1100,"8419 S Morgan Street Chicago, IL 60620",359900.0
-2,1,1090,"1907 W MONTROSE Avenue 2 Chicago, IL 60613",349999.0
-5,2,2096,"2735 N MANGO Avenue Chicago, IL 60639",340000.0
-3,2,1900,"7523 N Seeley Avenue 1 Chicago, IL 60645",325000.0
 3,2,1310,"11010 S Union Avenue Chicago, IL 60628",309900.0
 3,2,1650,"8051 S Paxton Avenue Chicago, IL 60617",309900.0
 1,1,750,"421 W Huron Street 808 Chicago, IL 60654",299900.0
