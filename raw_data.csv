@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
 beds",2,"1,650
 sq.ft.","9847 Millard Ave Evergreen Park, IL 60805","$399,999"
-"5
-beds",4,"2,835
-sq.ft.","10132 S Turner Avenue Evergreen Park, IL 60805","$599,900"
 "3
 beds",2,"1,459
 sq.ft.","847 W Ainslie Street GE Chicago, IL 60640","$475,000"
@@ -275,6 +272,9 @@ sq.ft.","539 W Addison Street 2N Chicago, IL 60613","$340,000"
 "2
 beds",2,"1,234
 sq.ft.","1033 W 14th Place 241 Chicago, IL 60608","$395,000"
+"5
+beds",4,"2,835
+sq.ft.","10132 S Turner Avenue Evergreen Park, IL 60805","$599,900"
 "3
 beds",3,"2,500
 sq.ft.","1523 E 85th Street Chicago, IL 60619","$309,000"

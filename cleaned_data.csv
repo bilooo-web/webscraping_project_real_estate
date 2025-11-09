@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2,1650,"9847 Millard Ave Evergreen Park, IL 60805",399999.0
-5,4,2835,"10132 S Turner Avenue Evergreen Park, IL 60805",599900.0
 3,2,1459,"847 W Ainslie Street GE Chicago, IL 60640",475000.0
 2,2,1930,"13827 S Tracy Avenue Riverdale, IL 60827",249900.0
 3,1,1128,"3412 W 115th Street Chicago, IL 60655",449000.0
@@ -80,6 +79,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,4,4082,"7801 S Eberhart Avenue Chicago, IL 60619",449900.0
 2,1,1200,"539 W Addison Street 2N Chicago, IL 60613",340000.0
 2,2,1234,"1033 W 14th Place 241 Chicago, IL 60608",395000.0
+5,4,2835,"10132 S Turner Avenue Evergreen Park, IL 60805",599900.0
 3,3,2500,"1523 E 85th Street Chicago, IL 60619",309000.0
 3,2,1500,"4706 S Saint Lawrence Avenue 2E Chicago, IL 60615",440000.0
 5,3,2700,"9322 S Trumbull Avenue Evergreen Park, IL 60805",629500.0
