@@ -11,24 +11,6 @@ sq.ft.","13827 S Tracy Avenue Riverdale, IL 60827","$249,900"
 "3
 beds",1,"1,128
 sq.ft.","3412 W 115th Street Chicago, IL 60655","$449,000"
-"2
-beds",2,"1,657
-sq.ft.","6168 N Ravenswood Avenue A Chicago, IL 60660","$475,000"
-"5
-beds",2,"2,243
-sq.ft.","64 E 102ND Place Chicago, IL 60628","$259,900"
-"6
-beds",4,"4,100
-sq.ft.","2203 W Huron Avenue Chicago, IL 60622","$1,929,000"
-"3
-beds",2,"2,000
-sq.ft.","1707 S Jefferson Street 1 Chicago, IL 60616","$579,900"
-"3
-beds",2,"1,808
-sq.ft.","8613 S Colfax Avenue Chicago, IL 60617","$297,900"
-"2
-beds",1,"1,350
-sq.ft.","2205 W Shakespeare Avenue 1W Chicago, IL 60647","$489,000"
 "3
 beds",3,"3,100
 sq.ft.","401 N Aberdeen Street 4S Chicago, IL 60642","$2,300,000"
@@ -42,9 +24,6 @@ sq.ft.","401 N Aberdeen Street 2N Chicago, IL 60642","$1,750,000"
 beds",1,"784
 sq.ft.","421 W HURON Street 1407 Chicago, IL 60654","$299,900"
 "4
-beds",1,"912
-sq.ft.","Chicago, IL 60636","$64,900"
-"4
 beds",2,"1,619
 sq.ft.","5213 W Warner Avenue Chicago, IL 60641","$524,900"
 "2
@@ -53,9 +32,6 @@ sq.ft.","2558 W Haddon Avenue 1 Chicago, IL 60622","$449,000"
 "4
 beds",2,"2,429
 sq.ft.","3636 N Olcott Avenue Chicago, IL 60634","$400,000"
-"2
-beds",2,"1,400
-sq.ft.","6121 N Northwest Highway 406 Chicago, IL 60631","$275,000"
 "3
 beds",2,"1,532
 sq.ft.","811 W 15th Place 708 Chicago, IL 60608","$475,000"
@@ -395,6 +371,9 @@ sq.ft.","6614 S Wabash Avenue Chicago, IL 60637","$179,900"
 "1
 beds",1,"950
 sq.ft.","129 N Mason Avenue 105 Chicago, IL 60644","$89,900"
+"4
+beds",1,"912
+sq.ft.","Chicago, IL 60636","$64,900"
 "2
 beds",1,"910
 sq.ft.","8142 S Drexel Avenue -G Chicago, IL 60619","$50,000"
@@ -441,11 +420,17 @@ sq.ft.","Chicago, IL 60641","$625,000"
 beds",2,"1,200
 sq.ft.","300 W Grand Avenue 210 Chicago, IL 60654","$499,900"
 "2
+beds",1,"1,350
+sq.ft.","2205 W Shakespeare Avenue 1W Chicago, IL 60647","$489,000"
+"2
 beds",2,"1,250
 sq.ft.","33 W ONTARIO Street 34EN Chicago, IL 60654","$485,000"
 "2
 beds",2,"1,450
 sq.ft.","4118 N Lincoln Avenue 202 Chicago, IL 60618","$484,900"
+"2
+beds",2,"1,657
+sq.ft.","6168 N Ravenswood Avenue A Chicago, IL 60660","$475,000"
 "2
 beds",1,"1,500
 sq.ft.","Chicago, IL 60612","$465,000"
@@ -485,6 +470,9 @@ sq.ft.","2322 S CANAL Street 503 Chicago, IL 60616","$315,000"
 "2
 beds",2,"1,421
 sq.ft.","2455 W Arthington Street 3 Chicago, IL 60612","$299,900"
+"2
+beds",2,"1,400
+sq.ft.","6121 N Northwest Highway 406 Chicago, IL 60631","$275,000"
 "2
 beds",2,"891
 sq.ft.","9728 S Greenwood Avenue Chicago, IL 60628","$271,000"
@@ -1551,6 +1539,9 @@ sq.ft.","4321 W Augusta Boulevard Chicago, IL 60651","$329,000"
 beds",1,"995
 sq.ft.","10 E ONTARIO Street 1205 Chicago, IL 60611","$299,500"
 "5
+beds",2,"2,243
+sq.ft.","64 E 102ND Place Chicago, IL 60628","$259,900"
+"5
 beds",4,"4,100
 sq.ft.","2127 W Huron Street Chicago, IL 60612","$2,000,000"
 "3
@@ -1655,6 +1646,9 @@ sq.ft.","5050 S Lavergne Avenue Chicago, IL 60638","$259,900"
 "5
 beds",5,"5,000
 sq.ft.","5747 N Sheridan Road GH Chicago, IL 60660","$2,000,000"
+"6
+beds",4,"4,100
+sq.ft.","2203 W Huron Avenue Chicago, IL 60622","$1,929,000"
 "4
 beds",3,"3,800
 sq.ft.","1532 W Ohio Street 1 Chicago, IL 60642","$1,250,000"
@@ -2519,6 +2513,78 @@ sq.ft.","8214 S Paxton Ave Chicago, IL 60617","$359,900"
 "1
 beds",1,"900
 sq.ft.","41 E 8th Street , 1404 Chicago, IL 60605","$285,900"
+"4
+beds",2,"1,456
+sq.ft.","8633 S Hermitage Avenue Chicago, IL 60620","$279,800"
+"3
+beds",1,"998
+sq.ft.","4605 W 84th Place Chicago, IL 60652","$279,000"
+"3
+beds",4,"3,500
+sq.ft.","401 N WABASH Street 33A Chicago, IL 60611","$2,399,000"
+"3
+beds",3,"2,200
+sq.ft.","219 E Lake Shore Drive 8C Chicago, IL 60611","$1,475,000"
+"4
+beds",4,"3,213
+sq.ft.","1210 N ASTOR Street 1A Chicago, IL 60610","$1,240,000"
+"4
+beds",3,"3,269
+sq.ft.","2235 W Oakdale Avenue 8-D Chicago, IL 60618","$1,160,000"
+"3
+beds",2,"1,725
+sq.ft.","2471 N Clybourn Avenue 3 Chicago, IL 60638","$969,000"
+"3
+beds",2,"2,421
+sq.ft.","926 W Barry Avenue 3 Chicago, IL 60657","$949,900"
+"3
+beds",3,"2,550
+sq.ft.","2139 N BINGHAM Street Chicago, IL 60647","$850,000"
+"4
+beds",3,"3,600
+sq.ft.","2342 N Hamlin Avenue Chicago, IL 60647","$849,999"
+"3
+beds",3,"3,500
+sq.ft.","10649 S Sawyer Avenue Chicago, IL 60655","$779,900"
+"2
+beds",2,"1,786
+sq.ft.","55 E Erie Avenue 1504 Chicago, IL 60611","$775,000"
+"3
+beds",2,"2,500
+sq.ft.","3120 N Christiana Avenue Chicago, IL 60618","$750,000"
+"2
+beds",2,"1,085
+sq.ft.","234 W Polk Street 3610 Chicago, IL 60607","$665,000"
+"5
+beds",4,"3,000
+sq.ft.","7440 S Oglesby Avenue Chicago, IL 60649","$635,000"
+"3
+beds",1,"1,800
+sq.ft.","2134 N WINCHESTER Avenue A Chicago, IL 60614","$579,900"
+"1
+beds",1,"1,172
+sq.ft.","25 E Superior Street 904 Chicago, IL 60611","$450,000"
+"2
+beds",2,"1,263
+sq.ft.","4841 N Rutherford Avenue Chicago, IL 60656","$439,900"
+"3
+beds",2,"1,820
+sq.ft.","4743 S Keeler Avenue Chicago, IL 60632","$398,000"
+"2
+beds",1,"976
+sq.ft.","1906 W Byron Street 2W Chicago, IL 60613","$379,900"
+"3
+beds",3,"1,100
+sq.ft.","8419 S Morgan Street Chicago, IL 60620","$359,900"
+"2
+beds",1,"1,090
+sq.ft.","1907 W MONTROSE Avenue 2 Chicago, IL 60613","$349,999"
+"5
+beds",2,"2,096
+sq.ft.","2735 N MANGO Avenue Chicago, IL 60639","$340,000"
+"3
+beds",2,"1,900
+sq.ft.","7523 N Seeley Avenue 1 Chicago, IL 60645","$325,000"
 "3
 beds",2,"1,310
 sq.ft.","11010 S Union Avenue Chicago, IL 60628","$309,900"
@@ -2588,6 +2654,9 @@ sq.ft.","1224 W WINONA Street 3E Chicago, IL 60640","$595,000"
 "1
 beds",1,"1,244
 sq.ft.","340 E Randolph Street 1506 Chicago, IL 60601","$585,000"
+"3
+beds",2,"2,000
+sq.ft.","1707 S Jefferson Street 1 Chicago, IL 60616","$579,900"
 "2
 beds",2,"1,297
 sq.ft.","125 S Green Street 806A Chicago, IL 60607","$550,000"
@@ -2612,6 +2681,9 @@ sq.ft.","2036 W MORSE Avenue D Chicago, IL 60645","$364,900"
 "4
 beds",3,"3,268
 sq.ft.","7554 S Perry Avenue Chicago, IL 60620","$345,000"
+"3
+beds",2,"1,808
+sq.ft.","8613 S Colfax Avenue Chicago, IL 60617","$297,900"
 "3
 beds",2,"1,484
 sq.ft.","7117 S UNIVERSITY Avenue Chicago, IL 60619","$280,000"
