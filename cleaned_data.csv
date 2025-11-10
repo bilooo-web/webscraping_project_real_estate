@@ -55,6 +55,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,912,"Chicago, IL 60636",64900.0
 2,1,910,"8142 S Drexel Avenue -G Chicago, IL 60619",50000.0
 3,2,1650,"9847 Millard Ave Evergreen Park, IL 60805",399999.0
+3,2,1823,"1313 W 109th St Chicago, IL 60643",169900.0
 3,3,2850,"4959 N Merrimac Avenue Chicago, IL 60630",969700.0
 5,3,3300,"Chicago, IL 60641",949500.0
 4,3,3000,"1636 W Warren Boulevard 1 Chicago, IL 60612",860000.0
@@ -189,6 +190,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1221,"7726 S Maryland Avenue Chicago, IL 60619",105000.0
 4,1,1292,"12014 S Normal Avenue Chicago, IL 60628",105000.0
 5,2,1408,"10562 S Wabash Avenue Chicago, IL 60628",89000.0
+4,3,2100,"4343 S Ellis Ave Chicago, IL 60653",725000.0
 2,1,1000,"6161 N Hoyne Avenue , 414 Chicago, IL 60659",105900.0
 2,2,1775,"180 E PEARSON Street 4002 Chicago, IL 60611",1024500.0
 3,3,4136,"1529 N Harding Avenue Chicago, IL 60651",999000.0
@@ -283,6 +285,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,900,"5621 N Spaulding Avenue 3S Chicago, IL 60659",169000.0
 3,1,1224,"8610 S Ingleside Avenue Chicago, IL 60619",119000.0
 3,1,948,"9755 S Maryland Avenue Chicago, IL 60628",108108.0
+4,2,1228,"12500 S Lowe Ave Chicago, IL 60628",254900.0
 4,2,2633,"3408 S Carpenter Street Chicago, IL 60608",800000.0
 4,4,3168,"7515 W Roscoe Street Chicago, IL 60634",779900.0
 4,2,2400,"1214 N ROCKWELL Street Chicago, IL 60622",779000.0
@@ -920,6 +923,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1400,"1329 E 89th Place Chicago, IL 60619",219900.0
 3,1,1700,"12837 S Green Street Chicago, IL 60643",205000.0
 2,1,1200,"14204 S Eggleston Avenue Riverdale, IL 60827",199900.0
-3,1,1131,"10035 S Merrill Avenue Chicago, IL 60617",190000.0
-4,1,1700,"8150 S Oglesby Avenue Chicago, IL 60617",185000.0
-2,1,980,"6308 N Kedzie Avenue 2W Chicago, IL 60659",179900.0
