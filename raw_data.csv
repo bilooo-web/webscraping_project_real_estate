@@ -3,12 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",1,"990
 sq.ft.","3829 W 109th Street Chicago, IL 60655","$222,500"
 "4
-beds",4,"3,200
-sq.ft.","7650 S Cregier Avenue Chicago, IL 60649","$499,000"
-"4
-beds",3,"1,800
-sq.ft.","9708 S Ellis Avenue Chicago, IL 60628","$359,000"
-"4
 beds",3,"2,854
 sq.ft.","3108 N 78th Avenue Elmwood Park, IL 60707","$499,900"
 "3
@@ -23,9 +17,6 @@ sq.ft.","1523 E 85th Street Chicago, IL 60619","$309,000"
 "6
 beds",2,"2,200
 sq.ft.","2164 N Melvina Avenue Chicago, IL 60639","$449,900"
-"3
-beds",2,"1,152
-sq.ft.","11935 S Stewart Avenue Chicago, IL 60628","$289,900"
 "3
 beds",2,"2,000
 sq.ft.","3052 N Oakley Avenue 1 Chicago, IL 60618","$665,000"
@@ -809,6 +800,9 @@ sq.ft.","53 W 108th Street Chicago, IL 60628","$69,900"
 "3
 beds",1,"1,308
 sq.ft.","6627 S Saint Lawrence Avenue Chicago, IL 60637","$54,900"
+"3
+beds",2,"1,152
+sq.ft.","11935 S Stewart Avenue Chicago, IL 60628","$289,900"
 "6
 beds",4,"4,900
 sq.ft.","3846 N Bell Avenue Chicago, IL 60618","$2,599,000"
@@ -1430,6 +1424,9 @@ sq.ft.","949 N Lockwood Avenue Chicago, IL 60651","$449,000"
 "4
 beds",1,"1,440
 sq.ft.","4460 N Tripp Avenue Chicago, IL 60630","$449,000"
+"4
+beds",3,"1,800
+sq.ft.","9708 S Ellis Avenue Chicago, IL 60628","$359,000"
 "3
 beds",1,"1,432
 sq.ft.","3047 N 79th Avenue Elmwood Park, IL 60707","$340,000"
@@ -3023,3 +3020,6 @@ sq.ft.","219 E 136th Street Chicago, IL 60827","$165,000"
 "1
 beds",1,"850
 sq.ft.","4623 N CHESTER Avenue 105 Chicago, IL 60656","$162,700"
+"3
+beds",1,"1,186
+sq.ft.","Chicago, IL 60620","$155,000"
