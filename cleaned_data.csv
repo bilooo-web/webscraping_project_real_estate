@@ -30,6 +30,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2800,"1325 N Artesian Avenue 1 Chicago, IL 60622",875000.0
 3,2,1500,"4706 S Saint Lawrence Avenue 2E Chicago, IL 60615",440000.0
 4,4,3800,"1716 W Beverly Glen Parkway Chicago, IL 60643",575000.0
+3,3,1045,"4149 S Rockwell Street Chicago, IL 60632",428000.0
 2,2,1336,"130 N Garland Court 2706 Chicago, IL 60602",585000.0
 2,2,1758,"130 N Garland Court 3803 Chicago, IL 60602",985000.0
 4,3,3000,"1250 S Michigan Avenue 2900 Chicago, IL 60605",899999.0
@@ -918,4 +919,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1319,"2632 S Drake Avenue Chicago, IL 60623",159000.0
 1,1,700,"835 E 49th Street 3 Chicago, IL 60615",97000.0
 2,1,965,"2516 E 99TH Street Chicago, IL 60617",85000.0
-3,2,1625,"2471 N Clybourn Avenue 2 Chicago, IL 60638",825000.0
