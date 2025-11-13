@@ -7,6 +7,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,3,1493,"1255 N STATE Parkway 2E-3E Chicago, IL 60610",624000.0
 3,3,2500,"1523 E 85th Street Chicago, IL 60619",309000.0
 6,2,2200,"2164 N Melvina Avenue Chicago, IL 60639",449900.0
+3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",289900.0
 3,2,2000,"3052 N Oakley Avenue 1 Chicago, IL 60618",665000.0
 2,2,1733,"1872 N Clybourn Avenue 603 Chicago, IL 60614",762000.0
 4,2,2700,"5400 S Hyde Park Boulevard 2C Chicago, IL 60615",540000.0
@@ -239,7 +240,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"7363 S South Shore Drive 209 Chicago, IL 60649",69999.0
 4,1,1200,"53 W 108th Street Chicago, IL 60628",69900.0
 3,1,1308,"6627 S Saint Lawrence Avenue Chicago, IL 60637",54900.0
-3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",289900.0
 3,2,1898,"5114 S Kenwood Avenue PHA Chicago, IL 60615",1000000.0
 3,3,3320,"3721 W Wabansia Avenue Chicago, IL 60647",999900.0
 4,3,3159,"5748 N Hermitage Avenue 102 Chicago, IL 60660",899900.0
