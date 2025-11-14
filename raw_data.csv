@@ -1,7 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"750
+sq.ft.","2605 S Indiana Avenue , 708 Chicago, IL 60616","$144,000"
 "2
 beds",1,"990
 sq.ft.","3829 W 109th Street Chicago, IL 60655","$222,500"
+"5
+beds",2,"896
+sq.ft.","2854 South Central Park Avenue Chicago, IL 60623","$387,546"
 "4
 beds",3,"2,854
 sq.ft.","3108 N 78th Avenue Elmwood Park, IL 60707","$499,900"
@@ -3017,9 +3023,3 @@ sq.ft.","835 E 49th Street 3 Chicago, IL 60615","$97,000"
 "2
 beds",1,"965
 sq.ft.","2516 E 99TH Street Chicago, IL 60617","$85,000"
-"3
-beds",2,"3,110
-sq.ft.","55 W Delaware Place 1011 Chicago, IL 60610","$1,685,000"
-"5
-beds",3,"3,200
-sq.ft.","3430 W Lyndale Street Chicago, IL 60647","$1,199,999"
