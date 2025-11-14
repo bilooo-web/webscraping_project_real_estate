@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,750,"2605 S Indiana Avenue , 708 Chicago, IL 60616",144000.0
 2,1,990,"3829 W 109th Street Chicago, IL 60655",222500.0
-5,2,896,"2854 South Central Park Avenue Chicago, IL 60623",387546.0
 4,3,2854,"3108 N 78th Avenue Elmwood Park, IL 60707",499900.0
 3,1,1192,"5730 S Tripp Avenue Chicago, IL 60629",319000.0
 2,3,1493,"1255 N STATE Parkway 2E-3E Chicago, IL 60610",624000.0
@@ -142,6 +141,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1105,"7206 S Lafayette Avenue Chicago, IL 60621",124700.0
 6,2,1714,"12220 S Normal Avenue Chicago, IL 60628",115000.0
 3,1,1509,"6733 S Throop Street Chicago, IL 60636",90000.0
+5,2,896,"2854 South Central Park Avenue Chicago, IL 60623",387546.0
 2,2,2261,"1000 W WASHINGTON Boulevard 434-435 Chicago, IL 60607",1050000.0
 3,3,3000,"535 N WOOD Street 535 Chicago, IL 60622",990000.0
 2,2,1680,"530 N LAKE SHORE Drive 1909 Chicago, IL 60611",725000.0
