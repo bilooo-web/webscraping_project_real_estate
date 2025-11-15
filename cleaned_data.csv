@@ -1,8 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 3,1,1385,"10021 S Oakley Avenue Chicago, IL 60643",319900.0
 1,1,750,"2605 S Indiana Avenue , 708 Chicago, IL 60616",144000.0
-2,1,990,"3829 W 109th Street Chicago, IL 60655",222500.0
-4,3,1600,"5026 S Lavergne Avenue Chicago, IL 60638",498000.0
 4,3,2854,"3108 N 78th Avenue Elmwood Park, IL 60707",499900.0
 3,1,1192,"5730 S Tripp Avenue Chicago, IL 60629",319000.0
 2,3,1493,"1255 N STATE Parkway 2E-3E Chicago, IL 60610",624000.0
@@ -10,6 +8,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,2500,"1523 E 85th Street Chicago, IL 60619",309000.0
 6,2,2200,"2164 N Melvina Avenue Chicago, IL 60639",449900.0
 3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",289900.0
+4,3,1600,"5026 S Lavergne Avenue Chicago, IL 60638",498000.0
 3,2,2350,"1448 W Chestnut Street 3 Chicago, IL 60642",825000.0
 2,2,1250,"911 N Wood Street 2 Chicago, IL 60622",535000.0
 3,1,1170,"9011 S Morgan Street Chicago, IL 60620",145000.0
@@ -202,6 +201,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,895,"310 W 108th Place Chicago, IL 60628",75000.0
 2,2,651,"6431 S Racine Avenue Chicago, IL 60636",68000.0
 4,2,1858,"11940 S YALE Avenue Chicago, IL 60628",59900.0
+2,1,990,"3829 W 109th Street Chicago, IL 60655",222500.0
 4,3,2650,"5415 S Oak Park Avenue Chicago, IL 60638",444900.0
 2,2,1150,"111 W Maple Street 2601 Chicago, IL 60610",444000.0
 2,2,1600,"5733 N Sheridan Road 28B Chicago, IL 60660",399000.0
