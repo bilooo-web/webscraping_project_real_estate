@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,1,1385,"10021 S Oakley Avenue Chicago, IL 60643",319900.0
 1,1,750,"2605 S Indiana Avenue , 708 Chicago, IL 60616",144000.0
 2,1,990,"3829 W 109th Street Chicago, IL 60655",222500.0
 4,3,1600,"5026 S Lavergne Avenue Chicago, IL 60638",498000.0
@@ -919,4 +920,3 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,1138,"400 S Green Street 406 Chicago, IL 60607",359900.0
 2,2,1200,"600 S Dearborn Street 1901 Chicago, IL 60605",349900.0
 2,1,800,"6755 N Hermitage Avenue 2 Chicago, IL 60626",319000.0
-3,1,1615,"2930 N New England Avenue Chicago, IL 60634",280000.0
