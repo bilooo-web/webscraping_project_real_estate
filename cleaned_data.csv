@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 3,1,1385,"10021 S Oakley Avenue Chicago, IL 60643",319900.0
 1,1,750,"2605 S Indiana Avenue , 708 Chicago, IL 60616",144000.0
-4,3,2854,"3108 N 78th Avenue Elmwood Park, IL 60707",499900.0
 3,1,1192,"5730 S Tripp Avenue Chicago, IL 60629",319000.0
 2,3,1493,"1255 N STATE Parkway 2E-3E Chicago, IL 60610",624000.0
 2,1,1057,"1255 S STATE Street 917 Chicago, IL 60605",299000.0
@@ -25,6 +24,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,2,3300,"7832 S Paxton Avenue Chicago, IL 60649",399999.0
 2,2,1733,"1872 N Clybourn Avenue 603 Chicago, IL 60614",762000.0
 4,2,2700,"5400 S Hyde Park Boulevard 2C Chicago, IL 60615",540000.0
+4,3,2854,"3108 N 78th Avenue Elmwood Park, IL 60707",499900.0
 3,1,1000,"Chicago, IL 60609",425000.0
 2,2,1258,"3320 N Narragansett Avenue 2 Chicago, IL 60634",325000.0
 2,1,1100,"6232 N Broadway Street 2 Chicago, IL 60660",324900.0
