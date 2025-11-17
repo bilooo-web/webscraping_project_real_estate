@@ -4,11 +4,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1725,"2471 N Clybourn Avenue 3 Chicago, IL 60638",969000.0
 3,2,1625,"2471 N Clybourn Avenue 2 Chicago, IL 60638",825000.0
 3,3,3200,"6901 S Oglesby Avenue 6C Chicago, IL 60649",149999.0
-2,1,1000,"4343 N Sacramento Avenue 2B Chicago, IL 60618",269900.0
-2,2,1250,"911 N Wood Street 2 Chicago, IL 60622",535000.0
-4,3,2854,"3108 N 78th Avenue Elmwood Park, IL 60707",499900.0
-5,2,2243,"64 E 102ND Place Chicago, IL 60628",259900.0
-2,2,1040,"6525 N Nashville Avenue 404D Chicago, IL 60631",254999.0
 3,2,2350,"1448 W Chestnut Street 3 Chicago, IL 60642",825000.0
 4,3,1907,"9423 S Sangamon Street Chicago, IL 60620",369900.0
 3,1,1432,"3047 N 79th Avenue Elmwood Park, IL 60707",332500.0
@@ -146,6 +141,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,976,"2518 N Willetts Court GS Chicago, IL 60647",335000.0
 3,3,2600,"1000 N Lake Shore Drive 1008 Chicago, IL 60611",300000.0
 3,1,1400,"5621 N CHRISTIANA Avenue 2 Chicago, IL 60659",299000.0
+2,1,1000,"4343 N Sacramento Avenue 2B Chicago, IL 60618",269900.0
 3,1,1405,"3434 W 71st Place Chicago, IL 60629",269900.0
 1,1,600,"2343 N Greenview Avenue 111 Chicago, IL 60614",265000.0
 2,2,1250,"5415 N SHERIDAN Road 711 Chicago, IL 60640",264900.0
@@ -248,8 +244,10 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,2200,"444 E 48th Street 2W Chicago, IL 60615",565000.0
 3,3,1872,"4007 N Odell Avenue Norridge, IL 60706",549000.0
 4,2,2700,"5400 S Hyde Park Boulevard 2C Chicago, IL 60615",540000.0
+2,2,1250,"911 N Wood Street 2 Chicago, IL 60622",535000.0
 4,3,1873,"442 E 48th Street 1E Chicago, IL 60615",500000.0
 1,1,935,"234 W Polk Street 2608 Chicago, IL 60607",499900.0
+4,3,2854,"3108 N 78th Avenue Elmwood Park, IL 60707",499900.0
 3,2,1900,"444 E 48th Street 1W Chicago, IL 60615",475000.0
 1,1,760,"234 W Polk Street 3107 Chicago, IL 60607",450000.0
 3,3,1300,"7004 W School Street Chicago, IL 60634",449900.0
@@ -681,6 +679,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,789,"5919 W Foster Avenue Chicago, IL 60630",349000.0
 3,1,1070,"4321 W Augusta Boulevard Chicago, IL 60651",329000.0
 1,1,995,"10 E ONTARIO Street 1205 Chicago, IL 60611",299500.0
+5,2,2243,"64 E 102ND Place Chicago, IL 60628",259900.0
 3,2,1500,"1918 W 108th Place Chicago, IL 60643",419900.0
 3,2,1450,"4507 S Lake Park Avenue 3S Chicago, IL 60653",344900.0
 3,2,1968,"5815 W Fulton Street Chicago, IL 60644",279900.0
@@ -701,6 +700,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1300,"4168 N Clarendon Avenue 2N Chicago, IL 60613",265000.0
 3,2,1440,"1652 N Latrobe Avenue Chicago, IL 60639",259999.0
 3,2,1613,"10906 S Wallace Street Chicago, IL 60628",255000.0
+2,2,1040,"6525 N Nashville Avenue 404D Chicago, IL 60631",254999.0
 2,2,897,"10133 S Aberdeen Street Chicago, IL 60643",249900.0
 2,1,900,"3143 W Carmen Avenue 3 Chicago, IL 60625",210000.0
 2,1,900,"6416 W 64th Place 3A Chicago, IL 60638",185000.0
