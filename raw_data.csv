@@ -1,7 +1,4 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"1
-beds",1,"700
-sq.ft.","3804 N Harlem Avenue , 4 Chicago, IL 60634","$184,900"
 "2
 beds",2,"1,400
 sq.ft.","2040 N Sedgwick Street H Chicago, IL 60614","$849,000"
@@ -47,6 +44,9 @@ sq.ft.","Chicago, IL 60636","$235,000"
 "1
 beds",1,"750
 sq.ft.","720 W Gordon Terrace 3B Chicago, IL 60613","$149,999"
+"1
+beds",1,"700
+sq.ft.","3804 N Harlem Avenue , 4 Chicago, IL 60634","$184,900"
 "5
 beds",2,"3,000
 sq.ft.","2471 N Clybourn Avenue 1 Chicago, IL 60638","$1,345,000"

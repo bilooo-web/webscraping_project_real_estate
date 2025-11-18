@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-1,1,700,"3804 N Harlem Avenue , 4 Chicago, IL 60634",184900.0
 2,2,1400,"2040 N Sedgwick Street H Chicago, IL 60614",849000.0
 2,2,1200,"8728 S Merrill Avenue Chicago, IL 60617",290000.0
 2,3,1493,"1255 N STATE Parkway 2E-3E Chicago, IL 60610",624000.0
@@ -15,6 +14,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,930,"3419 S 59th Avenue Cicero, IL 60804",249999.0
 3,1,1020,"Chicago, IL 60636",235000.0
 1,1,750,"720 W Gordon Terrace 3B Chicago, IL 60613",149999.0
+1,1,700,"3804 N Harlem Avenue , 4 Chicago, IL 60634",184900.0
 3,2,2028,"55 E ERIE Street 1903 Chicago, IL 60611",980000.0
 2,3,1884,"4721 W Warwick Avenue Chicago, IL 60641",549000.0
 3,2,2600,"5119 N Tripp Avenue Chicago, IL 60630",499888.0
