@@ -1,13 +1,13 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"700
+sq.ft.","3950 N Lake Shore Drive , 904 Chicago, IL 60613","$225,000"
 "2
 beds",2,"1,350
 sq.ft.","400 W Ontario Street , 907 Chicago, IL 60654","$500,000"
 "2
 beds",1,"1,030
 sq.ft.","550 N Kingsbury Street , 316 Chicago, IL 60654","$417,900"
-"1
-beds",1,"700
-sq.ft.","3950 N Lake Shore Drive , 904 Chicago, IL 60613","$225,000"
 "5
 beds",4,"4,450
 sq.ft.","2912 N Commonwealth Avenue 11CD Chicago, IL 60657","$1,275,000"
@@ -2327,9 +2327,6 @@ sq.ft.","3950 N Lake Shore Drive 523D Chicago, IL 60613","$170,000"
 "4
 beds",3,"2,200
 sq.ft.","11136 S Eggleston Avenue Chicago, IL 60628","$99,000"
-"5
-beds",3,"4,864
-sq.ft.","1424 W Barry Avenue Chicago, IL 60657","$1,799,000"
 "3
 beds",1,"1,200
 sq.ft.","5050 S Lavergne Avenue Chicago, IL 60638","$259,900"
@@ -3023,3 +3020,6 @@ sq.ft.","2622 N Racine Avenue 3 Chicago, IL 60614","$949,000"
 "3
 beds",2,"2,340
 sq.ft.","1243 N Cleaver Street 1 Chicago, IL 60642","$874,900"
+"3
+beds",3,"4,200
+sq.ft.","5254 W Newport Avenue Chicago, IL 60641","$849,900"
