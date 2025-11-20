@@ -1,7 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 1,1,700,"3950 N Lake Shore Drive , 904 Chicago, IL 60613",225000.0
-2,2,1350,"400 W Ontario Street , 907 Chicago, IL 60654",500000.0
-2,1,1030,"550 N Kingsbury Street , 316 Chicago, IL 60654",417900.0
 2,3,1493,"1255 N STATE Parkway 2E-3E Chicago, IL 60610",624000.0
 3,2,1500,"4706 S Saint Lawrence Avenue 2E Chicago, IL 60615",440000.0
 2,2,1180,"212 W Washington Street 1708 Chicago, IL 60606",299000.0
@@ -75,6 +73,8 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1750,"1755 E 55th Street 503 Chicago, IL 60615",114000.0
 4,2,1386,"7244 S Sangamon Street Chicago, IL 60621",54900.0
 7,3,1200,"147 W 111th Place Chicago, IL 60628",41000.0
+2,2,1350,"400 W Ontario Street , 907 Chicago, IL 60654",500000.0
+2,1,1030,"550 N Kingsbury Street , 316 Chicago, IL 60654",417900.0
 3,1,3050,"6437 S Eberhart Avenue Chicago, IL 60637",115000.0
 3,1,714,"6415 S Eberhart Avenue Chicago, IL 60637",110000.0
 4,3,2874,"8047 S Mozart Street Chicago, IL 60652",399900.0
