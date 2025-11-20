@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+2,1,1300,"5501 N California Avenue #1N Chicago, IL 60625",240000.0
 1,1,700,"3950 N Lake Shore Drive , 904 Chicago, IL 60613",225000.0
 2,3,1493,"1255 N STATE Parkway 2E-3E Chicago, IL 60610",624000.0
 3,2,1500,"4706 S Saint Lawrence Avenue 2E Chicago, IL 60615",440000.0
@@ -921,4 +922,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1750,"940 W Glenlake Avenue 19C Chicago, IL 60660",750000.0
 3,3,2586,"7422 N Olcott Avenue Chicago, IL 60631",599900.0
 2,2,1180,"565 W Quincy Street 1206 Chicago, IL 60661",459900.0
-4,3,2400,"11173 S Hermosa Avenue Chicago, IL 60643",447500.0

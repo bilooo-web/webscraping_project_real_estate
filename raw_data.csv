@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",1,"1,300
+sq.ft.","5501 N California Avenue #1N Chicago, IL 60625","$240,000"
 "1
 beds",1,"700
 sq.ft.","3950 N Lake Shore Drive , 904 Chicago, IL 60613","$225,000"
@@ -3020,6 +3023,3 @@ sq.ft.","7422 N Olcott Avenue Chicago, IL 60631","$599,900"
 "2
 beds",2,"1,180
 sq.ft.","565 W Quincy Street 1206 Chicago, IL 60661","$459,900"
-"4
-beds",3,"2,400
-sq.ft.","11173 S Hermosa Avenue Chicago, IL 60643","$447,500"
