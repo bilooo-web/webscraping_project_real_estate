@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "2
 beds",1,"1,300
 sq.ft.","5501 N California Avenue #1N Chicago, IL 60625","$240,000"
-"1
-beds",1,"700
-sq.ft.","3950 N Lake Shore Drive , 904 Chicago, IL 60613","$225,000"
 "2
 beds",3,"1,493
 sq.ft.","1255 N STATE Parkway 2E-3E Chicago, IL 60610","$624,000"
@@ -173,6 +170,9 @@ sq.ft.","500 W 103rd Place Chicago, IL 60628","$43,900"
 "4
 beds",2,"920
 sq.ft.","5242 S Sangamon Street Chicago, IL 60609",Price On Request
+"1
+beds",1,"700
+sq.ft.","3950 N Lake Shore Drive , 904 Chicago, IL 60613","$225,000"
 "2
 beds",2,"1,384
 sq.ft.","211 N Harbor Drive 1706 Chicago, IL 60601","$1,065,000"
