@@ -3,9 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",1,"1,300
 sq.ft.","5501 N California Avenue #1N Chicago, IL 60625","$240,000"
 "4
-beds",3,"2,400
-sq.ft.","Chicago, IL 60657","$925,000"
-"4
 beds",3,"3,000
 sq.ft.","2307 W Foster Avenue 3 Chicago, IL 60625","$1,197,000"
 "4
@@ -23,6 +20,9 @@ sq.ft.","2307 W Foster Avenue 2 Chicago, IL 60625","$649,000"
 "3
 beds",2,"1,500
 sq.ft.","4706 S Saint Lawrence Avenue 2E Chicago, IL 60615","$440,000"
+"4
+beds",3,"2,400
+sq.ft.","Chicago, IL 60657","$925,000"
 "5
 beds",4,"4,450
 sq.ft.","2912 N Commonwealth Avenue 11CD Chicago, IL 60657","$1,275,000"
@@ -2254,7 +2254,7 @@ beds",1,"1,094
 sq.ft.","1320 S Heath Avenue Chicago, IL 60608","$339,999"
 "3
 beds",1,"1,600
-sq.ft.","2651 W Pope John Paul Ii Drive Chicago, IL 60632","$300,000"
+sq.ft.","2651 W Pope John Paul Ii Drive Chicago, IL 60632","$289,900"
 "3
 beds",1,"990
 sq.ft.","1218 W 96th Street Chicago, IL 60643","$220,000"

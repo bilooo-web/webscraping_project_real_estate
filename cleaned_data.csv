@@ -1,11 +1,11 @@
 bedrooms,bathrooms,square_footage,address,price
 2,1,1300,"5501 N California Avenue #1N Chicago, IL 60625",240000.0
-4,3,2400,"Chicago, IL 60657",925000.0
 4,3,3000,"2307 W Foster Avenue 1 Chicago, IL 60625",997000.0
 5,3,2700,"9322 S Trumbull Avenue Evergreen Park, IL 60805",629500.0
 2,3,1493,"1255 N STATE Parkway 2E-3E Chicago, IL 60610",624000.0
 3,2,1500,"2307 W Foster Avenue 2 Chicago, IL 60625",649000.0
 3,2,1500,"4706 S Saint Lawrence Avenue 2E Chicago, IL 60615",440000.0
+4,3,2400,"Chicago, IL 60657",925000.0
 2,2,1981,"1530 S State Street 1004 Chicago, IL 60605",659900.0
 1,1,750,"2728 N Hampden Court 605 Chicago, IL 60614",250000.0
 4,3,2781,"400 S Green Street 305 Chicago, IL 60607",849900.0
@@ -693,7 +693,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1200,"106 N HAMLIN Avenue A1 Chicago, IL 60624",105000.0
 3,1,1728,"9915 S Yates Avenue Chicago, IL 60617",99900.0
 2,1,1094,"1320 S Heath Avenue Chicago, IL 60608",339999.0
-3,1,1600,"2651 W Pope John Paul Ii Drive Chicago, IL 60632",300000.0
+3,1,1600,"2651 W Pope John Paul Ii Drive Chicago, IL 60632",289900.0
 3,1,990,"1218 W 96th Street Chicago, IL 60643",220000.0
 3,2,1980,"2703 N Halsted Street 2 Chicago, IL 60614",869900.0
 3,2,2150,"4438 N Spaulding Avenue Chicago, IL 60625",859000.0
