@@ -1,8 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "4
-beds",3,"1,600
-sq.ft.","5026 S Lavergne Avenue Chicago, IL 60638","$498,000"
-"4
 beds",3,"3,000
 sq.ft.","2307 W Foster Avenue 3 Chicago, IL 60625","$1,197,000"
 "4
@@ -239,6 +236,9 @@ sq.ft.","7225 S Princeton Avenue Chicago, IL 60621","$259,900"
 "2
 beds",2,"1,320
 sq.ft.","1645 W Ogden Avenue 702 Chicago, IL 60612","$399,995"
+"4
+beds",3,"1,600
+sq.ft.","5026 S Lavergne Avenue Chicago, IL 60638","$498,000"
 "3
 beds",2,"1,500
 sq.ft.","1918 W 108th Place Chicago, IL 60643","$417,900"

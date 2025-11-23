@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-4,3,1600,"5026 S Lavergne Avenue Chicago, IL 60638",498000.0
 4,3,3000,"2307 W Foster Avenue 1 Chicago, IL 60625",997000.0
 3,2,1500,"2307 W Foster Avenue 2 Chicago, IL 60625",649000.0
 3,3,2819,"Chicago, IL 60646",575000.0
@@ -68,6 +67,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1180,"212 W Washington Street 1708 Chicago, IL 60606",299000.0
 5,3,6200,"7225 S Princeton Avenue Chicago, IL 60621",259900.0
 2,2,1320,"1645 W Ogden Avenue 702 Chicago, IL 60612",399995.0
+4,3,1600,"5026 S Lavergne Avenue Chicago, IL 60638",498000.0
 3,2,1500,"1918 W 108th Place Chicago, IL 60643",417900.0
 6,4,3900,"5529 W CORNELIA Avenue Chicago, IL 60641",674900.0
 2,2,1085,"2323 W Pershing Road 140 Chicago, IL 60609",230000.0
