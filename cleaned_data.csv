@@ -5,9 +5,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,3,1493,"1255 N STATE Parkway 2E-3E Chicago, IL 60610",624000.0
 3,2,1500,"2307 W Foster Avenue 2 Chicago, IL 60625",649000.0
 3,2,1500,"4706 S Saint Lawrence Avenue 2E Chicago, IL 60615",440000.0
-4,3,2400,"Chicago, IL 60657",925000.0
-1,1,800,"625 W Jackson Boulevard 206 Chicago, IL 60661",275000.0
-2,2,1981,"1530 S State Street 1004 Chicago, IL 60605",659900.0
 4,3,2781,"400 S Green Street 305 Chicago, IL 60607",849900.0
 3,3,3212,"4246 N Kimball Avenue Chicago, IL 60618",949000.0
 2,2,1350,"1922 W Belmont Avenue 3 Chicago, IL 60657",775000.0
@@ -113,12 +110,10 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1649,"847 W Ainslie Street 2W Chicago, IL 60640",599000.0
 3,2,1635,"847 W Ainslie Street 1E Chicago, IL 60640",575000.0
 3,2,1459,"847 W Ainslie Street GE Chicago, IL 60640",475000.0
-3,2,1898,"5114 S Kenwood Avenue PHA Chicago, IL 60615",1000000.0
 3,2,1881,"5114 S Kenwood Avenue 3B Chicago, IL 60615",850000.0
 3,3,4136,"1529 N Harding Avenue Chicago, IL 60651",999000.0
 3,3,2500,"4129 N Oketo Avenue Norridge, IL 60706",659000.0
 4,4,2816,"847 W Ainslie Street 1W Chicago, IL 60640",799000.0
-3,2,1881,"5114 S Kenwood Avenue PHB Chicago, IL 60615",1000000.0
 3,2,1881,"5114 S Kenwood Avenue 4B Chicago, IL 60615",925000.0
 2,2,1328,"7130 S Richmond Street Chicago, IL 60629",236000.0
 3,2,1920,"7756 N Sheridan Road 16 Chicago, IL 60626",400000.0
@@ -178,6 +173,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1358,"1034 W 104th Place Chicago, IL 60643",180000.0
 3,2,1700,"5352 S Paulina Street Chicago, IL 60609",159900.0
 2,2,1722,"1201 S Prairie Avenue 3602 Chicago, IL 60605",925000.0
+4,3,2400,"Chicago, IL 60657",925000.0
 1,1,923,"401 N Wabash Avenue 52B Chicago, IL 60611",549000.0
 3,3,1450,"3307 N Nottingham Avenue Chicago, IL 60634",499000.0
 3,2,2400,"2601 W 98th Place Evergreen Park, IL 60805",449999.0
@@ -572,7 +568,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,1200,"53 W 108th Street Chicago, IL 60628",69900.0
 3,1,1308,"6627 S Saint Lawrence Avenue Chicago, IL 60637",54900.0
 3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",289900.0
-3,3,3320,"3721 W Wabansia Avenue Chicago, IL 60647",999900.0
 4,3,3159,"5748 N Hermitage Avenue 102 Chicago, IL 60660",899900.0
 3,2,1515,"1711 N Crilly Court 4 Chicago, IL 60614",680000.0
 5,3,2200,"5144 N Kolmar Avenue Chicago, IL 60630",675000.0
@@ -931,3 +926,5 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1003,"703 W 129th Place Chicago, IL 60628",349900.0
 3,2,1744,"6152 S Austin Avenue Chicago, IL 60638",349900.0
 4,3,2080,"3406 W 74th Street Chicago, IL 60629",339900.0
+3,2,1200,"10010 S Campbell Avenue Chicago, IL 60655",333300.0
+3,3,900,"3916 W Grand Avenue Chicago, IL 60651",320000.0
