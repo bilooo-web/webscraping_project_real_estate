@@ -1,5 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",499000.0
 6,4,3900,"5529 W CORNELIA Avenue Chicago, IL 60641",674900.0
 2,2,1085,"2323 W Pershing Road 140 Chicago, IL 60609",230000.0
 2,2,1405,"2323 W Pershing Road 230 Chicago, IL 60609",239900.0
@@ -922,3 +921,4 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,773,"4800 S Chicago Beach Drive 503N Chicago, IL 60615",189500.0
 3,1,1074,"14216 S Michigan Avenue Riverdale, IL 60827",164900.0
 4,2,1313,"13934 S Edbrooke Avenue Riverdale, IL 60827",139900.0
+2,1,500,"8153 S Calumet Avenue Chicago, IL 60619",130000.0
