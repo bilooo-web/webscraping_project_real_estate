@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",280000.0
 6,4,3900,"5529 W CORNELIA Avenue Chicago, IL 60641",674900.0
 3,2,1120,"11607 S Loomis Street Chicago, IL 60643",293000.0
 5,2,2197,"8420 S Carpenter Street Chicago, IL 60620",313000.0
@@ -530,7 +531,6 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,800,"7363 S South Shore Drive 209 Chicago, IL 60649",69999.0
 4,1,1200,"53 W 108th Street Chicago, IL 60628",69900.0
 3,1,1308,"6627 S Saint Lawrence Avenue Chicago, IL 60637",54900.0
-3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",289900.0
 4,3,3159,"5748 N Hermitage Avenue 102 Chicago, IL 60660",899900.0
 3,2,1881,"5114 S Kenwood Avenue 3B Chicago, IL 60615",850000.0
 3,2,1515,"1711 N Crilly Court 4 Chicago, IL 60614",680000.0
