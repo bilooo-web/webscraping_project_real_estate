@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"4
+beds",2,"2,200
+sq.ft.","3621 S Wallace Street Chicago, IL 60609","$619,900"
 "3
 beds",2,"1,152
 sq.ft.","11935 S Stewart Avenue Chicago, IL 60628","$280,000"
@@ -3020,6 +3023,3 @@ sq.ft.","211 N Harbor Drive 1604 Chicago, IL 60601","$1,005,000"
 "3
 beds",2,"2,586
 sq.ft.","2501 N Wayne Avenue 18 Chicago, IL 60614","$950,000"
-"3
-beds",3,"2,100
-sq.ft.","11 N Green Street 2D Chicago, IL 60607","$899,000"
