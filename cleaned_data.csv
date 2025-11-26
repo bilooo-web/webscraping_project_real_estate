@@ -1,7 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
-4,2,2200,"3621 S Wallace Street Chicago, IL 60609",619900.0
 3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",280000.0
-6,4,3900,"5529 W CORNELIA Avenue Chicago, IL 60641",674900.0
 3,2,1120,"11607 S Loomis Street Chicago, IL 60643",293000.0
 5,2,2197,"8420 S Carpenter Street Chicago, IL 60620",313000.0
 4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",499000.0
@@ -920,3 +918,5 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,750,"2411 W Balmoral Avenue 1F Chicago, IL 60625",144900.0
 4,2,1257,"8505 S Vernon Avenue Chicago, IL 60619",140000.0
 3,2,2586,"2501 N Wayne Avenue 18 Chicago, IL 60614",950000.0
+3,3,2100,"11 N Green Street 2D Chicago, IL 60607",899000.0
+3,4,2815,"324 E 17th Street Chicago, IL 60616",869000.0
