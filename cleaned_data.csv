@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 4,2,2200,"3621 S Wallace Street Chicago, IL 60609",619900.0
 3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",280000.0
-3,2,1120,"11607 S Loomis Street Chicago, IL 60643",293000.0
 5,2,2197,"8420 S Carpenter Street Chicago, IL 60620",313000.0
 4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",499000.0
 4,2,1240,"2935 S Emerald Avenue Chicago, IL 60616",365000.0
@@ -135,6 +134,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,2,1388,"11056 S State Line Road Chicago, IL 60617",339900.0
 4,2,1200,"4601 W 82nd Street Chicago, IL 60652",319000.0
 3,2,3241,"1613 S 51st Court Cicero, IL 60804",300000.0
+3,2,1120,"11607 S Loomis Street Chicago, IL 60643",293000.0
 3,1,1040,"5220 S Central Avenue Chicago, IL 60638",290000.0
 4,2,2500,"420 W 95th Place Chicago, IL 60628",289900.0
 3,1,1086,"3755 N Cumberland Avenue Chicago, IL 60634",285000.0
