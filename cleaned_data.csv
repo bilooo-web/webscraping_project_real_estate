@@ -1,7 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 4,2,2200,"3621 S Wallace Street Chicago, IL 60609",619900.0
 3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",280000.0
-5,2,2197,"8420 S Carpenter Street Chicago, IL 60620",313000.0
 4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",499000.0
 4,2,1240,"2935 S Emerald Avenue Chicago, IL 60616",365000.0
 3,2,4040,"Chicago, IL 60617",269900.0
@@ -104,6 +103,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1465,"1671 W Farwell Avenue 2N Chicago, IL 60626",350000.0
 3,1,1568,"11428 S CAMPBELL Avenue Chicago, IL 60655",349900.0
 2,2,1700,"9221 S Avers Avenue Evergreen Park, IL 60805",349900.0
+5,2,2197,"8420 S Carpenter Street Chicago, IL 60620",313000.0
 2,1,1700,"5555 S Everett Avenue C14 Chicago, IL 60637",294900.0
 3,3,1500,"8837 S THROOP Street Chicago, IL 60620",270000.0
 2,1,1100,"5815 N SPAULDING Avenue 2B Chicago, IL 60659",230000.0
@@ -921,4 +921,3 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,1600,"1533 W Fargo Avenue 1W Chicago, IL 60626",299000.0
 3,2,1291,"1011 W 103rd Place Chicago, IL 60643",229000.0
 1,1,620,"100 E Walton Place 10C Chicago, IL 60611",225000.0
-4,1,1566,"5626 S Maplewood Avenue Chicago, IL 60629",199000.0
