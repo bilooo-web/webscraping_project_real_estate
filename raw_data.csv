@@ -1,11 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "4
-beds",2,"2,200
-sq.ft.","3621 S Wallace Street Chicago, IL 60609","$619,900"
-"3
-beds",2,"1,152
-sq.ft.","11935 S Stewart Avenue Chicago, IL 60628","$280,000"
-"4
 beds",4,"3,200
 sq.ft.","7650 S Cregier Avenue Chicago, IL 60649","$499,000"
 "2
@@ -221,6 +215,12 @@ sq.ft.","251 W 105th Place Chicago, IL 60628","$65,000"
 "3
 beds",1,"1,116
 sq.ft.","7732 S Hoyne Avenue Chicago, IL 60620",Price On Request
+"4
+beds",2,"2,200
+sq.ft.","3621 S Wallace Street Chicago, IL 60609","$619,900"
+"3
+beds",2,"1,152
+sq.ft.","11935 S Stewart Avenue Chicago, IL 60628","$280,000"
 "4
 beds",2,"3,000
 sq.ft.","2651 W Augusta Boulevard 1 Chicago, IL 60622","$899,500"
