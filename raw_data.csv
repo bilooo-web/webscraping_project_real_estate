@@ -2,54 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
 beds",1,"1,385
 sq.ft.","10021 S Oakley Avenue Chicago, IL 60643","$319,900"
-"4
-beds",4,"3,500
-sq.ft.","Chicago, IL 60625","$1,599,000"
-"4
-beds",2,"1,240
-sq.ft.","2935 S Emerald Avenue Chicago, IL 60616","$365,000"
-"4
-beds",4,"4,000
-sq.ft.","529 N Hartland Court Chicago, IL 60622","$1,599,900"
-"2
-beds",2,"1,256
-sq.ft.","900 N Kingsbury Street 1025 Chicago, IL 60610","$449,900"
-"3
-beds",3,"3,600
-sq.ft.","4015 N Albany Avenue Chicago, IL 60618","$1,349,900"
-"1
-beds",1,"800
-sq.ft.","5415 N Sheridan Road 4805 Chicago, IL 60640","$279,900"
-"3
-beds",2,"4,040
-sq.ft.","9000 S Cornell Avenue Chicago, IL 60617","$269,900"
-"2
-beds",2,"1,085
-sq.ft.","2323 W Pershing Road 140 Chicago, IL 60609","$230,000"
-"1
-beds",1,"680
-sq.ft.","5415 N SHERIDAN Road 1608 Chicago, IL 60640","$164,900"
-"2
-beds",2,"1,405
-sq.ft.","2323 W Pershing Road 230 Chicago, IL 60609","$239,900"
-"2
-beds",2,"1,320
-sq.ft.","1645 W Ogden Avenue 702 Chicago, IL 60612","$399,995"
-"1
-beds",1,"680
-sq.ft.","5415 N Sheridan Road 4815 Chicago, IL 60640","$169,900"
-"6
-beds",3,"2,800
-sq.ft.","3306 W Le Moyne Street Chicago, IL 60651","$650,000"
-"2
-beds",1,"1,000
-sq.ft.","4022 N Monticello Avenue 3N Chicago, IL 60618","$265,000"
-"4
-beds",3,"2,000
-sq.ft.","2147 W Adams Street 1S Chicago, IL 60612","$625,000"
-"4
-beds",3,"3,000
-sq.ft.","1250 S Michigan Avenue 2900 Chicago, IL 60605","$899,999"
 "3
 beds",2,"2,200
 sq.ft.","5916 N Avondale Avenue Chicago, IL 60631","$425,000"
@@ -65,12 +17,21 @@ sq.ft.","7650 S Cregier Avenue Chicago, IL 60649","$499,000"
 "2
 beds",1,"905
 sq.ft.","2 E Erie Street 2806 Chicago, IL 60611","$375,000"
+"4
+beds",4,"3,500
+sq.ft.","Chicago, IL 60625","$1,599,000"
 "2
 beds",1,"1,800
 sq.ft.","2006 W Farwell Avenue Chicago, IL 60645","$369,800"
+"4
+beds",4,"4,000
+sq.ft.","529 N Hartland Court Chicago, IL 60622","$1,599,900"
 "3
 beds",4,"2,300
 sq.ft.","501 W Elm Street 3 Chicago, IL 60610","$1,100,000"
+"4
+beds",3,"2,000
+sq.ft.","2147 W Adams Street 1S Chicago, IL 60612","$625,000"
 "4
 beds",2,"1,400
 sq.ft.","7438 S Champlain Avenue Chicago, IL 60619","$230,000"
@@ -92,12 +53,18 @@ sq.ft.","2448 N Clybourn Avenue 1 Chicago, IL 60614","$950,000"
 "2
 beds",2,"1,722
 sq.ft.","1201 S Prairie Avenue 3602 Chicago, IL 60605","$925,000"
+"6
+beds",3,"2,800
+sq.ft.","3306 W Le Moyne Street Chicago, IL 60651","$650,000"
 "2
 beds",2,"1,200
 sq.ft.","500 W Superior Street 2002 Chicago, IL 60654","$425,000"
 "4
 beds",3,"1,950
 sq.ft.","Chicago, IL 60651","$479,900"
+"2
+beds",2,"1,256
+sq.ft.","900 N Kingsbury Street 1025 Chicago, IL 60610","$449,900"
 "4
 beds",3,"3,000
 sq.ft.","2307 W Foster Avenue 3 Chicago, IL 60625","$1,197,000"
@@ -164,6 +131,9 @@ sq.ft.","9100 S Wallace Street Chicago, IL 60620","$299,000"
 "4
 beds",2,"1,504
 sq.ft.","4309 W Monroe Street Chicago, IL 60624","$278,000"
+"2
+beds",1,"1,000
+sq.ft.","4022 N Monticello Avenue 3N Chicago, IL 60618","$265,000"
 "3
 beds",2,"1,500
 sq.ft.","1413 N Long Avenue Chicago, IL 60651","$249,000"
@@ -228,11 +198,17 @@ sq.ft.","7801 S Ada Street Chicago, IL 60620","$399,999"
 beds",1,"3,100
 sq.ft.","2235 N Tripp Avenue Chicago, IL 60639","$399,900"
 "4
+beds",2,"1,240
+sq.ft.","2935 S Emerald Avenue Chicago, IL 60616","$365,000"
+"4
 beds",3,"3,000
 sq.ft.","8914 S Chappel Avenue Chicago, IL 60617","$339,000"
 "3
 beds",1,"1,355
 sq.ft.","5320 S Oak Park Avenue Chicago, IL 60638","$300,000"
+"1
+beds",1,"800
+sq.ft.","5415 N Sheridan Road 4805 Chicago, IL 60640","$279,900"
 "2
 beds",1,"950
 sq.ft.","5815 N Spaulding Avenue 2C Chicago, IL 60659","$230,000"
@@ -290,6 +266,9 @@ sq.ft.","5556 S Tripp Avenue Chicago, IL 60629","$350,000"
 "3
 beds",2,"1,400
 sq.ft.","2142 W Rosemont Avenue 1A Chicago, IL 60659","$300,000"
+"3
+beds",2,"4,040
+sq.ft.","9000 S Cornell Avenue Chicago, IL 60617","$269,900"
 "3
 beds",2,"2,200
 sq.ft.","12356 S Green Street Calumet Park, IL 60827","$259,900"
@@ -404,6 +383,9 @@ sq.ft.","4445 N Kimball Avenue 2 Chicago, IL 60625","$260,000"
 "4
 beds",2,"1,904
 sq.ft.","8359 S Marshfield Avenue Chicago, IL 60620","$260,000"
+"2
+beds",2,"1,085
+sq.ft.","2323 W Pershing Road 140 Chicago, IL 60609","$230,000"
 "4
 beds",2,"1,969
 sq.ft.","7535 S Vernon Avenue Chicago, IL 60619","$209,999"
@@ -413,6 +395,9 @@ sq.ft.","6135 S Drexel Avenue 4B Chicago, IL 60637","$200,000"
 "2
 beds",1,"1,100
 sq.ft.","2139 N Harlem Avenue 224 Chicago, IL 60707","$180,000"
+"1
+beds",1,"680
+sq.ft.","5415 N SHERIDAN Road 1608 Chicago, IL 60640","$164,900"
 "2
 beds",1,"900
 sq.ft.","3821 W 123rd Street 301 Alsip, IL 60803","$140,000"
@@ -1595,6 +1580,9 @@ sq.ft.","11339 S Avenue M Avenue Chicago, IL 60617","$280,000"
 "1
 beds",1,"800
 sq.ft.","30 E Huron Street 3005 Chicago, IL 60611","$279,000"
+"2
+beds",2,"1,405
+sq.ft.","2323 W Pershing Road 230 Chicago, IL 60609","$239,900"
 "4
 beds",2,"2,164
 sq.ft.","7127 S Saint Lawrence Avenue Chicago, IL 60619","$239,900"
@@ -2922,6 +2910,9 @@ sq.ft.","1550 N Lake Shore Drive 2A Chicago, IL 60610","$439,900"
 beds",4,"1,073
 sq.ft.","5631 W Cornelia Avenue Chicago, IL 60634","$409,900"
 "2
+beds",2,"1,320
+sq.ft.","1645 W Ogden Avenue 702 Chicago, IL 60612","$399,995"
+"2
 beds",2,"1,800
 sq.ft.","5455 N Sheridan Road 2612-2615 Chicago, IL 60640","$399,900"
 "2
@@ -3023,3 +3014,12 @@ sq.ft.","2323 N Monticello Avenue Chicago, IL 60647","$550,000"
 "2
 beds",2,"1,500
 sq.ft.","1430 N Astor Street 15B Chicago, IL 60610","$475,000"
+"2
+beds",2,"1,600
+sq.ft.","5733 N Sheridan Road 27C Chicago, IL 60660","$450,000"
+"3
+beds",2,"2,200
+sq.ft.","5916 N Avondale Avenue Chicago, IL 60631","$449,900"
+"3
+beds",3,"2,000
+sq.ft.","4811 N Olcott Avenue 307 Harwood Heights, IL 60706","$435,000"
