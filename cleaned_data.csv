@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
-4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",499000.0
-2,2,1200,"565 W Quincy Street 1306 Chicago, IL 60661",449000.0
+3,1,1385,"10021 S Oakley Avenue Chicago, IL 60643",319900.0
 4,2,1240,"2935 S Emerald Avenue Chicago, IL 60616",365000.0
 2,2,1256,"900 N Kingsbury Street 1025 Chicago, IL 60610",449900.0
 1,1,800,"5415 N Sheridan Road 4805 Chicago, IL 60640",279900.0
@@ -17,6 +16,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2200,"5916 N Avondale Avenue Chicago, IL 60631",425000.0
 1,1,800,"514 N Armour Street 2F Chicago, IL 60642",305000.0
 2,2,1200,"1631 S Michigan Avenue 604 Chicago, IL 60616",439900.0
+4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",499000.0
 2,1,905,"2 E Erie Street 2806 Chicago, IL 60611",375000.0
 2,1,1800,"2006 W Farwell Avenue Chicago, IL 60645",369800.0
 4,2,1400,"7438 S Champlain Avenue Chicago, IL 60619",230000.0
@@ -338,7 +338,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,708,"2625 S Karlov Avenue Chicago, IL 60623",119900.0
 3,1,1353,"6331 S Winchester Avenue Chicago, IL 60636",95000.0
 3,1,1232,"7634 S Marshfield Avenue Chicago, IL 60620",83200.0
-3,1,1385,"10021 S Oakley Avenue Chicago, IL 60643",319900.0
 1,1,750,"2605 S Indiana Avenue , 708 Chicago, IL 60616",144000.0
 3,3,2760,"849 W Ohio Street 8 Chicago, IL 60642",875000.0
 2,2,1621,"130 N Garland Court 1405 Chicago, IL 60602",750000.0
@@ -350,6 +349,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,4,2032,"2719 N 74th Court Elmwood Park, IL 60707",545000.0
 3,3,2600,"4328 N Kenneth Avenue Chicago, IL 60641",479800.0
 2,2,1020,"4150 N Kenmore Avenue 402 Chicago, IL 60613",465000.0
+2,2,1200,"565 W Quincy Street 1306 Chicago, IL 60661",449000.0
 2,2,1500,"221 E CULLERTON Street 317 Chicago, IL 60616",445888.0
 2,2,1200,"4609 N Beacon Street 3F Chicago, IL 60640",389000.0
 2,2,1100,"Chicago, IL 60610",385000.0
@@ -920,4 +920,3 @@ bedrooms,bathrooms,square_footage,address,price
 3,3,1596,"3431 N Kostner Avenue Chicago, IL 60641",565000.0
 3,1,1320,"2323 N Monticello Avenue Chicago, IL 60647",550000.0
 2,2,1500,"1430 N Astor Street 15B Chicago, IL 60610",475000.0
-2,2,1600,"5733 N Sheridan Road 27C Chicago, IL 60660",450000.0

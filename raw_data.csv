@@ -1,10 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
-"4
-beds",4,"3,200
-sq.ft.","7650 S Cregier Avenue Chicago, IL 60649","$499,000"
-"2
-beds",2,"1,200
-sq.ft.","565 W Quincy Street 1306 Chicago, IL 60661","$449,000"
+"3
+beds",1,"1,385
+sq.ft.","10021 S Oakley Avenue Chicago, IL 60643","$319,900"
 "4
 beds",4,"3,500
 sq.ft.","Chicago, IL 60625","$1,599,000"
@@ -62,6 +59,9 @@ sq.ft.","514 N Armour Street 2F Chicago, IL 60642","$305,000"
 "2
 beds",2,"1,200
 sq.ft.","1631 S Michigan Avenue 604 Chicago, IL 60616","$439,900"
+"4
+beds",4,"3,200
+sq.ft.","7650 S Cregier Avenue Chicago, IL 60649","$499,000"
 "2
 beds",1,"905
 sq.ft.","2 E Erie Street 2806 Chicago, IL 60611","$375,000"
@@ -1163,6 +1163,9 @@ sq.ft.","4328 N Kenneth Avenue Chicago, IL 60641","$479,800"
 "2
 beds",2,"1,020
 sq.ft.","4150 N Kenmore Avenue 402 Chicago, IL 60613","$465,000"
+"2
+beds",2,"1,200
+sq.ft.","565 W Quincy Street 1306 Chicago, IL 60661","$449,000"
 "2
 beds",2,"1,500
 sq.ft.","221 E CULLERTON Street 317 Chicago, IL 60616","$445,888"
@@ -3020,6 +3023,3 @@ sq.ft.","2323 N Monticello Avenue Chicago, IL 60647","$550,000"
 "2
 beds",2,"1,500
 sq.ft.","1430 N Astor Street 15B Chicago, IL 60610","$475,000"
-"2
-beds",2,"1,600
-sq.ft.","5733 N Sheridan Road 27C Chicago, IL 60660","$450,000"
