@@ -1,10 +1,6 @@
 bedrooms,bathrooms,square_footage,address,price
 3,1,1385,"10021 S Oakley Avenue Chicago, IL 60643",319900.0
 3,2,2200,"5916 N Avondale Avenue Chicago, IL 60631",425000.0
-1,1,800,"514 N Armour Street 2F Chicago, IL 60642",305000.0
-2,2,1200,"1631 S Michigan Avenue 604 Chicago, IL 60616",439900.0
-4,4,3200,"7650 S Cregier Avenue Chicago, IL 60649",499000.0
-2,1,905,"2 E Erie Street 2806 Chicago, IL 60611",375000.0
 2,1,1800,"2006 W Farwell Avenue Chicago, IL 60645",369800.0
 4,3,2000,"2147 W Adams Street 1S Chicago, IL 60612",625000.0
 4,2,1400,"7438 S Champlain Avenue Chicago, IL 60619",230000.0
@@ -162,6 +158,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1400,"3550 W Montrose Avenue 107 Chicago, IL 60618",405000.0
 2,1,1092,"5265 W Devon Avenue Chicago, IL 60646",399900.0
 2,2,1150,"655 W Irving Park Road 5502 Chicago, IL 60613",379900.0
+2,1,905,"2 E Erie Street 2806 Chicago, IL 60611",375000.0
 1,1,815,"1040 W Adams Street 226 Chicago, IL 60607",370000.0
 5,2,1388,"11056 S State Line Road Chicago, IL 60617",339900.0
 4,2,1200,"4601 W 82nd Street Chicago, IL 60652",319000.0
@@ -590,6 +587,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,900,"1000 W Adams Street 815 Chicago, IL 60607",350000.0
 1,1,762,"2020 N Lincoln Park W 6E Chicago, IL 60614",349000.0
 2,1,1000,"2237 N Saint Louis Avenue 2 Chicago, IL 60647",315000.0
+1,1,800,"514 N Armour Street 2F Chicago, IL 60642",305000.0
 2,1,825,"1070 W 15th Street 306 Chicago, IL 60608",299500.0
 1,1,650,"2400 N Lakeview Avenue 606 Chicago, IL 60614",285000.0
 3,2,1378,"8053 S Kenton Avenue Chicago, IL 60652",284900.0
@@ -709,6 +707,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1200,"3233 N Panama Avenue Chicago, IL 60634",479900.0
 2,2,1250,"1555 N Sandburg Terrace 607K Chicago, IL 60610",479000.0
 5,4,4082,"7801 S Eberhart Avenue Chicago, IL 60619",445900.0
+2,2,1200,"1631 S Michigan Avenue 604 Chicago, IL 60616",439900.0
 2,2,950,"3926 N Plainfield Avenue Chicago, IL 60634",399900.0
 4,3,1907,"9423 S Sangamon Street Chicago, IL 60620",369900.0
 2,1,1200,"539 W Addison Street 2N Chicago, IL 60613",340000.0
@@ -920,3 +919,4 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1600,"5733 N Sheridan Road 27C Chicago, IL 60660",450000.0
 3,2,2200,"5916 N Avondale Avenue Chicago, IL 60631",449900.0
 3,3,2000,"4811 N Olcott Avenue 307 Harwood Heights, IL 60706",435000.0
+4,3,3400,"3329 N Osage Avenue Chicago, IL 60634",399500.0
