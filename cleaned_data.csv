@@ -368,7 +368,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,920,"8545 S Manistee Avenue Chicago, IL 60617",99900.0
 4,1,895,"310 W 108th Place Chicago, IL 60628",75000.0
 4,2,1858,"11940 S YALE Avenue Chicago, IL 60628",59900.0
-2,1,990,"3829 W 109th Street Chicago, IL 60655",222500.0
 4,3,2650,"5415 S Oak Park Avenue Chicago, IL 60638",444900.0
 2,2,1150,"111 W Maple Street 2601 Chicago, IL 60610",444000.0
 2,2,1175,"1305 S Michigan Avenue 907 Chicago, IL 60605",415000.0
@@ -481,6 +480,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,912,"Chicago, IL 60636",64900.0
 3,2,1650,"9847 Millard Ave Evergreen Park, IL 60805",399999.0
 3,2,1823,"1313 W 109th St Chicago, IL 60643",169900.0
+3,3,2850,"4959 N Merrimac Avenue Chicago, IL 60630",969700.0
 5,3,3300,"Chicago, IL 60641",949500.0
 4,3,3000,"1636 W Warren Boulevard 1 Chicago, IL 60612",860000.0
 3,3,1800,"1221 W Cottage Place Chicago, IL 60607",750000.0
