@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+1,1,725,"3100 N Lake Shore Drive , 711 Chicago, IL 60657",274000.0
 3,1,1385,"10021 S Oakley Avenue Chicago, IL 60643",319900.0
 4,2,2450,"8053 S Kedzie Avenue Chicago, IL 60652",366000.0
 3,2,2200,"5916 N Avondale Avenue Chicago, IL 60631",425000.0
@@ -918,4 +919,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,3400,"3329 N Osage Avenue Chicago, IL 60634",399500.0
 5,3,2400,"2728 W 39th Place Chicago, IL 60632",399000.0
 3,2,1350,"40 E 9th Street 609 Chicago, IL 60605",395000.0
-2,1,900,"1500 W Monroe Street 220 Chicago, IL 60607",389000.0

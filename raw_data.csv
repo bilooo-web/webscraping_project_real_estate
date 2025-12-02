@@ -1,4 +1,7 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"1
+beds",1,"725
+sq.ft.","3100 N Lake Shore Drive , 711 Chicago, IL 60657","$274,000"
 "3
 beds",1,"1,385
 sq.ft.","10021 S Oakley Avenue Chicago, IL 60643","$319,900"
@@ -3020,6 +3023,3 @@ sq.ft.","2728 W 39th Place Chicago, IL 60632","$399,000"
 "3
 beds",2,"1,350
 sq.ft.","40 E 9th Street 609 Chicago, IL 60605","$395,000"
-"2
-beds",1,"900
-sq.ft.","1500 W Monroe Street 220 Chicago, IL 60607","$389,000"
