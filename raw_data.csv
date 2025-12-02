@@ -1,16 +1,19 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
+"2
+beds",2,"2,366
+sq.ft.","118 E Erie Street , 15A Chicago, IL 60611","$1,290,000"
 "1
 beds",1,"725
 sq.ft.","3100 N Lake Shore Drive , 711 Chicago, IL 60657","$274,000"
-"3
-beds",1,"1,385
-sq.ft.","10021 S Oakley Avenue Chicago, IL 60643","$319,900"
 "4
 beds",2,"2,450
 sq.ft.","8053 S Kedzie Avenue Chicago, IL 60652","$366,000"
 "4
 beds",3,"2,422
 sq.ft.","1227 W Jackson Boulevard 1 Chicago, IL 60607","$1,389,000"
+"3
+beds",1,"1,385
+sq.ft.","10021 S Oakley Avenue Chicago, IL 60643","$319,900"
 "3
 beds",2,"2,200
 sq.ft.","5916 N Avondale Avenue Chicago, IL 60631","$425,000"
@@ -3020,6 +3023,3 @@ sq.ft.","3329 N Osage Avenue Chicago, IL 60634","$399,500"
 "5
 beds",3,"2,400
 sq.ft.","2728 W 39th Place Chicago, IL 60632","$399,000"
-"3
-beds",2,"1,350
-sq.ft.","40 E 9th Street 609 Chicago, IL 60605","$395,000"
