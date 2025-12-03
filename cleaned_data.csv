@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+4,3,3000,"6547 S Langley Avenue Chicago, IL 60637",550000.0
 1,1,725,"3100 N Lake Shore Drive , 711 Chicago, IL 60657",274000.0
 3,3,1508,"9549 S Calumet Avenue Chicago, IL 60628",294000.0
 5,2,2197,"8420 S Carpenter Street Chicago, IL 60620",313000.0
@@ -198,6 +199,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,1,4413,"10221 S Hoxie Avenue Chicago, IL 60617",125000.0
 3,1,1224,"8613 S Ingleside Avenue Chicago, IL 60619",100000.0
 3,1,1400,"221 W 112TH Place Chicago, IL 60628",64900.0
+3,3,3650,"4602 N Springfield Avenue Chicago, IL 60625",995000.0
 3,3,3212,"4246 N Kimball Avenue Chicago, IL 60618",949000.0
 4,4,2400,"5148 N Ashland Avenue 1 Chicago, IL 60640",775000.0
 2,2,1350,"1922 W Belmont Avenue 3 Chicago, IL 60657",749000.0
@@ -906,4 +908,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,2200,"8636 S Aberdeen Street Chicago, IL 60620",289900.0
 2,1,1300,"4168 N Clarendon Avenue 2N Chicago, IL 60613",265000.0
 2,2,1040,"6525 N Nashville Avenue 404D Chicago, IL 60631",254999.0
-2,2,897,"10133 S Aberdeen Street Chicago, IL 60643",249900.0
