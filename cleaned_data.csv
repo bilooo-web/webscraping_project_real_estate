@@ -131,6 +131,8 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,773,"4800 S Chicago Beach Drive 503N Chicago, IL 60615",175000.0
 3,1,1280,"1406 W 109th Place Chicago, IL 60643",135000.0
 4,1,952,"6716 S Bell Avenue Chicago, IL 60636",129900.0
+7,4,2451,"7621 South Normal Avenue Chicago, IL 60620",464999.0
+4,3,1080,"4447 South Leamington Avenue Chicago, IL 60638",399000.0
 1,1,725,"3100 N Lake Shore Drive , 711 Chicago, IL 60657",274000.0
 4,3,3500,"5662 N Neva Avenue Chicago, IL 60631",550000.0
 4,2,1200,"140 W 110th Street Chicago, IL 60628",259999.0
@@ -913,5 +915,3 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,1000,"6929 S Loomis Boulevard Chicago, IL 60636",255900.0
 3,1,1100,"2838 E 94th Street Chicago, IL 60617",244444.0
 1,1,900,"4250 N Marine Drive 2606 Chicago, IL 60613",239900.0
-2,1,1344,"2050 W 52nd Street Chicago, IL 60609",199900.0
-2,2,1100,"4553 W 56th Street 204 Chicago, IL 60629",199000.0
