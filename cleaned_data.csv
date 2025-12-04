@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 4,3,3000,"6547 S Langley Avenue Chicago, IL 60637",550000.0
-1,1,725,"3100 N Lake Shore Drive , 711 Chicago, IL 60657",274000.0
 3,3,1508,"9549 S Calumet Avenue Chicago, IL 60628",294000.0
 5,2,2197,"8420 S Carpenter Street Chicago, IL 60620",313000.0
 3,2,1120,"11607 S Loomis Street Chicago, IL 60643",293000.0
@@ -80,6 +79,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,773,"4800 S Chicago Beach Drive 503N Chicago, IL 60615",175000.0
 3,1,1280,"1406 W 109th Place Chicago, IL 60643",135000.0
 4,1,952,"6716 S Bell Avenue Chicago, IL 60636",129900.0
+1,1,725,"3100 N Lake Shore Drive , 711 Chicago, IL 60657",274000.0
 4,3,3500,"5662 N Neva Avenue Chicago, IL 60631",550000.0
 4,2,1200,"140 W 110th Street Chicago, IL 60628",259999.0
 2,2,1200,"6800 N California Avenue 4H Chicago, IL 60645",215000.0

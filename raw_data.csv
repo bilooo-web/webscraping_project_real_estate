@@ -2,12 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "4
 beds",3,"3,000
 sq.ft.","6547 S Langley Avenue Chicago, IL 60637","$550,000"
-"2
-beds",2,"2,366
-sq.ft.","118 E Erie Street , 15A Chicago, IL 60611","$1,290,000"
-"1
-beds",1,"725
-sq.ft.","3100 N Lake Shore Drive , 711 Chicago, IL 60657","$274,000"
 "3
 beds",3,"1,508
 sq.ft.","9549 S Calumet Avenue Chicago, IL 60628","$294,000"
@@ -287,6 +281,12 @@ sq.ft.","1406 W 109th Place Chicago, IL 60643","$135,000"
 "4
 beds",1,"952
 sq.ft.","6716 S Bell Avenue Chicago, IL 60636","$129,900"
+"2
+beds",2,"2,366
+sq.ft.","118 E Erie Street , 15A Chicago, IL 60611","$1,290,000"
+"1
+beds",1,"725
+sq.ft.","3100 N Lake Shore Drive , 711 Chicago, IL 60657","$274,000"
 "4
 beds",3,"3,500
 sq.ft.","5662 N Neva Avenue Chicago, IL 60631","$550,000"
