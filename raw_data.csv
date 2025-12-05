@@ -2,9 +2,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 "4
 beds",3,"3,000
 sq.ft.","6547 S Langley Avenue Chicago, IL 60637","$550,000"
-"3
-beds",2,"1,120
-sq.ft.","11607 S Loomis Street Chicago, IL 60643","$293,000"
 "4
 beds",2,"2,450
 sq.ft.","8053 S Kedzie Avenue Chicago, IL 60652","$366,000"
@@ -992,6 +989,9 @@ sq.ft.","4601 W 82nd Street Chicago, IL 60652","$319,000"
 "3
 beds",2,"3,241
 sq.ft.","1613 S 51st Court Cicero, IL 60804","$300,000"
+"3
+beds",2,"1,120
+sq.ft.","11607 S Loomis Street Chicago, IL 60643","$293,000"
 "3
 beds",1,"1,040
 sq.ft.","5220 S Central Avenue Chicago, IL 60638","$290,000"

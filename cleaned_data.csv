@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 4,3,3000,"6547 S Langley Avenue Chicago, IL 60637",550000.0
-3,2,1120,"11607 S Loomis Street Chicago, IL 60643",293000.0
 4,2,2450,"8053 S Kedzie Avenue Chicago, IL 60652",366000.0
 5,2,2702,"10813 S Eggleston Avenue Chicago, IL 60628",225000.0
 2,2,1336,"130 N Garland Court 2706 Chicago, IL 60602",585000.0
@@ -286,6 +285,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,815,"1040 W Adams Street 226 Chicago, IL 60607",370000.0
 4,2,1200,"4601 W 82nd Street Chicago, IL 60652",319000.0
 3,2,3241,"1613 S 51st Court Cicero, IL 60804",300000.0
+3,2,1120,"11607 S Loomis Street Chicago, IL 60643",293000.0
 3,1,1040,"5220 S Central Avenue Chicago, IL 60638",290000.0
 4,2,2500,"420 W 95th Place Chicago, IL 60628",289900.0
 3,1,1086,"3755 N Cumberland Avenue Chicago, IL 60634",285000.0
