@@ -1,7 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 4,3,3000,"6547 S Langley Avenue Chicago, IL 60637",550000.0
-3,3,1508,"9549 S Calumet Avenue Chicago, IL 60628",294000.0
-5,2,2197,"8420 S Carpenter Street Chicago, IL 60620",313000.0
 3,2,1120,"11607 S Loomis Street Chicago, IL 60643",293000.0
 4,2,2450,"8053 S Kedzie Avenue Chicago, IL 60652",366000.0
 5,2,2702,"10813 S Eggleston Avenue Chicago, IL 60628",225000.0
@@ -265,6 +263,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,1465,"1671 W Farwell Avenue 2N Chicago, IL 60626",350000.0
 3,1,1568,"11428 S CAMPBELL Avenue Chicago, IL 60655",349900.0
 2,2,1700,"9221 S Avers Avenue Evergreen Park, IL 60805",349900.0
+5,2,2197,"8420 S Carpenter Street Chicago, IL 60620",313000.0
 2,1,1700,"5555 S Everett Avenue C14 Chicago, IL 60637",294900.0
 3,3,1500,"8837 S THROOP Street Chicago, IL 60620",270000.0
 2,1,816,"4411 W Wilson Avenue 1 Chicago, IL 60630",225900.0
@@ -915,3 +914,4 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,1000,"6929 S Loomis Boulevard Chicago, IL 60636",255900.0
 3,1,1100,"2838 E 94th Street Chicago, IL 60617",244444.0
 1,1,900,"4250 N Marine Drive 2606 Chicago, IL 60613",239900.0
+2,1,1344,"2050 W 52nd Street Chicago, IL 60609",199900.0

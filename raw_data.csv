@@ -3,12 +3,6 @@ Bedrooms,Bathrooms,Square Footage,Address,Price
 beds",3,"3,000
 sq.ft.","6547 S Langley Avenue Chicago, IL 60637","$550,000"
 "3
-beds",3,"1,508
-sq.ft.","9549 S Calumet Avenue Chicago, IL 60628","$294,000"
-"5
-beds",2,"2,197
-sq.ft.","8420 S Carpenter Street Chicago, IL 60620","$313,000"
-"3
 beds",2,"1,120
 sq.ft.","11607 S Loomis Street Chicago, IL 60643","$293,000"
 "4
@@ -929,6 +923,9 @@ sq.ft.","11428 S CAMPBELL Avenue Chicago, IL 60655","$349,900"
 "2
 beds",2,"1,700
 sq.ft.","9221 S Avers Avenue Evergreen Park, IL 60805","$349,900"
+"5
+beds",2,"2,197
+sq.ft.","8420 S Carpenter Street Chicago, IL 60620","$313,000"
 "2
 beds",1,"1,700
 sq.ft.","5555 S Everett Avenue C14 Chicago, IL 60637","$294,900"
@@ -3023,3 +3020,6 @@ sq.ft.","2838 E 94th Street Chicago, IL 60617","$244,444"
 "1
 beds",1,"900
 sq.ft.","4250 N Marine Drive 2606 Chicago, IL 60613","$239,900"
+"2
+beds",1,"1,344
+sq.ft.","2050 W 52nd Street Chicago, IL 60609","$199,900"
