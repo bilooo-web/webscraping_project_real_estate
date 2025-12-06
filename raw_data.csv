@@ -1,11 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "4
-beds",3,"3,000
-sq.ft.","6547 S Langley Avenue Chicago, IL 60637","$550,000"
-"3
-beds",3,"1,800
-sq.ft.","7825 S Ingleside Avenue Chicago, IL 60619","$259,000"
-"4
 beds",2,"2,450
 sq.ft.","8053 S Kedzie Avenue Chicago, IL 60652","$366,000"
 "5
@@ -548,6 +542,9 @@ sq.ft.","7206 S Lafayette Avenue Chicago, IL 60621","$124,700"
 "3
 beds",1,"1,376
 sq.ft.","8007 S Paulina Street Chicago, IL 60620","$109,900"
+"4
+beds",3,"3,000
+sq.ft.","6547 S Langley Avenue Chicago, IL 60637","$550,000"
 "3
 beds",3,"3,240
 sq.ft.","14 W Superior Street 6502 Chicago, IL 60654","$3,800,000"
@@ -897,9 +894,6 @@ sq.ft.","8914 S Chappel Avenue Chicago, IL 60617","$339,000"
 beds",1,"1,355
 sq.ft.","5320 S Oak Park Avenue Chicago, IL 60638","$300,000"
 "2
-beds",1,"950
-sq.ft.","5815 N Spaulding Avenue 2C Chicago, IL 60659","$230,000"
-"2
 beds",1,"912
 sq.ft.","4804 S Lamon Avenue Chicago, IL 60638","$215,000"
 "2
@@ -923,6 +917,9 @@ sq.ft.","3621 S Wallace Street Chicago, IL 60609","$619,900"
 "3
 beds",2,"1,152
 sq.ft.","11935 S Stewart Avenue Chicago, IL 60628","$280,000"
+"2
+beds",1,"950
+sq.ft.","5815 N Spaulding Avenue , 2C Chicago, IL 60659","$230,000"
 "2
 beds",2,"2,100
 sq.ft.","680 N Lake Shore Drive 1322 Chicago, IL 60611","$749,000"
@@ -3023,3 +3020,6 @@ sq.ft.","463 N GREEN Street 2S Chicago, IL 60642","$519,900"
 "2
 beds",2,"1,200
 sq.ft.","4606 N Malden Street GS Chicago, IL 60640","$399,900"
+"2
+beds",2,"1,044
+sq.ft.","520 N Halsted Street 214 Chicago, IL 60642","$399,000"

@@ -1,6 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-4,3,3000,"6547 S Langley Avenue Chicago, IL 60637",550000.0
-3,3,1800,"7825 S Ingleside Avenue Chicago, IL 60619",259000.0
 4,2,2450,"8053 S Kedzie Avenue Chicago, IL 60652",366000.0
 5,2,2702,"10813 S Eggleston Avenue Chicago, IL 60628",225000.0
 3,2,1700,"2450 N Clybourn Avenue 5S Chicago, IL 60614",799000.0
@@ -153,6 +151,7 @@ bedrooms,bathrooms,square_footage,address,price
 5,2,1832,"8626 S Kingston Avenue Chicago, IL 60617",147000.0
 3,1,1105,"7206 S Lafayette Avenue Chicago, IL 60621",124700.0
 3,1,1376,"8007 S Paulina Street Chicago, IL 60620",109900.0
+4,3,3000,"6547 S Langley Avenue Chicago, IL 60637",550000.0
 3,2,2000,"600 N KINGSBURY Street 309 Chicago, IL 60654",885000.0
 2,2,1336,"2700 N Wayne Avenue 3N Chicago, IL 60614",875000.0
 3,3,2342,"1413 N Bosworth Avenue 1 Chicago, IL 60642",675000.0
@@ -252,7 +251,6 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1240,"2935 S Emerald Avenue Chicago, IL 60616",365000.0
 4,3,3000,"8914 S Chappel Avenue Chicago, IL 60617",339000.0
 3,1,1355,"5320 S Oak Park Avenue Chicago, IL 60638",300000.0
-2,1,950,"5815 N Spaulding Avenue 2C Chicago, IL 60659",230000.0
 2,1,912,"4804 S Lamon Avenue Chicago, IL 60638",215000.0
 2,1,950,"4342 N Kedvale Avenue 2A Chicago, IL 60641",189900.0
 3,2,1040,"Chicago, IL 60620",140000.0
@@ -260,6 +258,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,880,"251 W 105th Place Chicago, IL 60628",65000.0
 4,2,2200,"3621 S Wallace Street Chicago, IL 60609",619900.0
 3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",280000.0
+2,1,950,"5815 N Spaulding Avenue , 2C Chicago, IL 60659",230000.0
 2,2,2100,"680 N Lake Shore Drive 1322 Chicago, IL 60611",749000.0
 2,2,1223,"234 W Polk Street 2809 Chicago, IL 60607",670000.0
 2,2,1400,"1150 N Lake Shore Drive 19A Chicago, IL 60611",544900.0
@@ -910,3 +909,4 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,1238,"1201 S Prairie Avenue 2404 Chicago, IL 60605",575000.0
 2,2,1450,"463 N GREEN Street 2S Chicago, IL 60642",519900.0
 2,2,1200,"4606 N Malden Street GS Chicago, IL 60640",399900.0
+2,2,1044,"520 N Halsted Street 214 Chicago, IL 60642",399000.0
