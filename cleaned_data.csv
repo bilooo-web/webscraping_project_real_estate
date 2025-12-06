@@ -251,6 +251,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,2,1240,"2935 S Emerald Avenue Chicago, IL 60616",365000.0
 4,3,3000,"8914 S Chappel Avenue Chicago, IL 60617",339000.0
 3,1,1355,"5320 S Oak Park Avenue Chicago, IL 60638",300000.0
+2,1,950,"5815 N Spaulding Avenue 2C Chicago, IL 60659",230000.0
 2,1,912,"4804 S Lamon Avenue Chicago, IL 60638",215000.0
 2,1,950,"4342 N Kedvale Avenue 2A Chicago, IL 60641",189900.0
 3,2,1040,"Chicago, IL 60620",140000.0
@@ -258,7 +259,6 @@ bedrooms,bathrooms,square_footage,address,price
 2,1,880,"251 W 105th Place Chicago, IL 60628",65000.0
 4,2,2200,"3621 S Wallace Street Chicago, IL 60609",619900.0
 3,2,1152,"11935 S Stewart Avenue Chicago, IL 60628",280000.0
-2,1,950,"5815 N Spaulding Avenue , 2C Chicago, IL 60659",230000.0
 2,2,2100,"680 N Lake Shore Drive 1322 Chicago, IL 60611",749000.0
 2,2,1223,"234 W Polk Street 2809 Chicago, IL 60607",670000.0
 2,2,1400,"1150 N Lake Shore Drive 19A Chicago, IL 60611",544900.0
