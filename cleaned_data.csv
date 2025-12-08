@@ -1,8 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-2,2,1200,"1631 S Michigan Avenue 604 Chicago, IL 60616",439900.0
-3,3,3000,"535 N WOOD Street Chicago, IL 60622",950000.0
-2,2,1200,"565 W Quincy Street 1306 Chicago, IL 60661",449000.0
-4,2,2700,"5400 S Hyde Park Boulevard 2C Chicago, IL 60615",540000.0
 2,2,1300,"830 N HERMITAGE Avenue 2 Chicago, IL 60622",489900.0
 2,2,1850,"401 E Ontario Street 4206 Chicago, IL 60611",675000.0
 2,2,1258,"3320 N Narragansett Avenue 2 Chicago, IL 60634",325000.0
@@ -231,6 +227,7 @@ bedrooms,bathrooms,square_footage,address,price
 2,2,912,"14220 S Eggleston Avenue Riverdale, IL 60827",144873.0
 3,1,1100,"7935 S East End Avenue Chicago, IL 60617",123000.0
 3,1,1200,"7514 S Rhodes Avenue Chicago, IL 60619",79900.0
+3,3,3000,"535 N WOOD Street Chicago, IL 60622",950000.0
 3,2,2000,"4135 N Kenmore Avenue 2S Chicago, IL 60613",869000.0
 3,2,1700,"4135 N Kenmore Avenue 1E Chicago, IL 60613",709000.0
 2,2,1800,"130 S Canal Street 9F Chicago, IL 60606",610000.0
@@ -510,6 +507,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,4,2032,"2719 N 74th Court Elmwood Park, IL 60707",545000.0
 3,3,2600,"4328 N Kenneth Avenue Chicago, IL 60641",479800.0
 2,2,1020,"4150 N Kenmore Avenue 402 Chicago, IL 60613",459900.0
+2,2,1200,"565 W Quincy Street 1306 Chicago, IL 60661",449000.0
 2,2,1500,"221 E CULLERTON Street 317 Chicago, IL 60616",445888.0
 2,2,1100,"Chicago, IL 60610",385000.0
 2,1,1034,"700 N Larrabee Street 1406 Chicago, IL 60654",370000.0
@@ -572,6 +570,7 @@ bedrooms,bathrooms,square_footage,address,price
 4,3,2100,"442 E 48th Street 2E Chicago, IL 60615",565000.0
 4,2,2200,"444 E 48th Street 2W Chicago, IL 60615",565000.0
 3,3,1872,"4007 N Odell Avenue Norridge, IL 60706",549000.0
+4,2,2700,"5400 S Hyde Park Boulevard 2C Chicago, IL 60615",540000.0
 2,2,1250,"911 N Wood Street 2 Chicago, IL 60622",535000.0
 4,3,1873,"442 E 48th Street 1E Chicago, IL 60615",500000.0
 1,1,935,"234 W Polk Street 2608 Chicago, IL 60607",499900.0
@@ -833,6 +832,7 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,825,"400 E Randolph Street 3715 Chicago, IL 60601",499900.0
 3,2,1200,"3233 N Panama Avenue Chicago, IL 60634",479900.0
 2,2,1250,"1555 N Sandburg Terrace 607K Chicago, IL 60610",479000.0
+2,2,1200,"1631 S Michigan Avenue 604 Chicago, IL 60616",439900.0
 2,2,950,"3926 N Plainfield Avenue Chicago, IL 60634",399900.0
 4,3,1907,"9423 S Sangamon Street Chicago, IL 60620",369900.0
 2,1,1200,"539 W Addison Street 2N Chicago, IL 60613",340000.0
