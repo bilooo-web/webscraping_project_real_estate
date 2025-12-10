@@ -1,6 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
 3,2,1954,"5910 N Kimball Avenue Chicago, IL 60659",495000.0
-4,3,1800,"9708 S Ellis Avenue Chicago, IL 60628",354000.0
 4,1,1680,"2959 N Neenah Avenue Chicago, IL 60634",429000.0
 1,1,850,"1101 S State Street 801 Chicago, IL 60605",259900.0
 4,2,1726,"4932 N Kenmore Avenue 1W Chicago, IL 60640",799900.0
@@ -879,6 +878,7 @@ bedrooms,bathrooms,square_footage,address,price
 3,1,1820,"4106 N Avers Avenue Chicago, IL 60618",500000.0
 2,1,1485,"1447 W Warner Avenue 3W Chicago, IL 60613",475000.0
 4,1,1440,"4460 N Tripp Avenue Chicago, IL 60630",449000.0
+4,3,1800,"9708 S Ellis Avenue Chicago, IL 60628",354000.0
 2,2,1250,"5607 N CLARK Street 2 Chicago, IL 60660",349000.0
 6,3,2200,"732 E 104th Place Chicago, IL 60628",339900.0
 3,1,1100,"4555 S Washtenaw Avenue Chicago, IL 60632",324999.0
