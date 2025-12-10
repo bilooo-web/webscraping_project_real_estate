@@ -1,4 +1,5 @@
 bedrooms,bathrooms,square_footage,address,price
+3,2,1954,"5910 N Kimball Avenue Chicago, IL 60659",495000.0
 4,3,1800,"9708 S Ellis Avenue Chicago, IL 60628",354000.0
 4,1,1680,"2959 N Neenah Avenue Chicago, IL 60634",429000.0
 1,1,850,"1101 S State Street 801 Chicago, IL 60605",259900.0
@@ -910,4 +911,3 @@ bedrooms,bathrooms,square_footage,address,price
 1,1,780,"30 E ELM Street 14E Chicago, IL 60611",255000.0
 2,2,891,"38 W 125th Place Chicago, IL 60628",230000.0
 1,2,1408,"9427 S Utica Avenue Evergreen Park, IL 60805",210000.0
-3,1,1216,"2142 W 77th Place Chicago, IL 60620",171500.0
