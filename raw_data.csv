@@ -1,11 +1,5 @@
 Bedrooms,Bathrooms,Square Footage,Address,Price
 "3
-beds",2,"1,900
-sq.ft.","119 S Western Avenue , 3 Chicago, IL 60612","$399,000"
-"1
-beds",1,"950
-sq.ft.","801 S Wells Street , 608 Chicago, IL 60607","$265,000"
-"3
 beds",2,"1,954
 sq.ft.","5910 N Kimball Avenue Chicago, IL 60659","$495,000"
 "3
@@ -29,9 +23,6 @@ sq.ft.","4932 N Kenmore Avenue 1W Chicago, IL 60640","$799,900"
 "4
 beds",2,"2,800
 sq.ft.","2922 N Sheffield Avenue 3 Chicago, IL 60657","$1,495,000"
-"3
-beds",3,"3,600
-sq.ft.","4015 N Albany Avenue Chicago, IL 60618","$1,349,900"
 "4
 beds",4,"4,200
 sq.ft.","1340 W Chestnut Street 301 Chicago, IL 60642","$1,899,000"
@@ -3023,3 +3014,12 @@ sq.ft.","6144 N Maplewood Avenue Chicago, IL 60659","$698,100"
 "1
 beds",1,"923
 sq.ft.","401 N Wabash Avenue 56B Chicago, IL 60611","$660,000"
+"3
+beds",3,"2,880
+sq.ft.","6540 S Ingleside Avenue Chicago, IL 60637","$624,900"
+"2
+beds",2,"1,238
+sq.ft.","1201 S Prairie Avenue 2404 Chicago, IL 60605","$575,000"
+"2
+beds",2,"1,450
+sq.ft.","463 N GREEN Street 2S Chicago, IL 60642","$519,900"

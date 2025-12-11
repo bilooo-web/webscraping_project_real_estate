@@ -1,6 +1,4 @@
 bedrooms,bathrooms,square_footage,address,price
-3,2,1900,"119 S Western Avenue , 3 Chicago, IL 60612",399000.0
-1,1,950,"801 S Wells Street , 608 Chicago, IL 60607",265000.0
 3,2,1954,"5910 N Kimball Avenue Chicago, IL 60659",495000.0
 4,1,1680,"2959 N Neenah Avenue Chicago, IL 60634",429000.0
 1,1,850,"1101 S State Street 801 Chicago, IL 60605",259900.0
@@ -905,3 +903,6 @@ bedrooms,bathrooms,square_footage,address,price
 3,2,2050,"1457 W Wrightwood Avenue Chicago, IL 60614",889000.0
 3,3,2750,"6144 N Maplewood Avenue Chicago, IL 60659",698100.0
 1,1,923,"401 N Wabash Avenue 56B Chicago, IL 60611",660000.0
+3,3,2880,"6540 S Ingleside Avenue Chicago, IL 60637",624900.0
+2,2,1238,"1201 S Prairie Avenue 2404 Chicago, IL 60605",575000.0
+2,2,1450,"463 N GREEN Street 2S Chicago, IL 60642",519900.0
